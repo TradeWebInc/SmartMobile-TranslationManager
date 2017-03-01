@@ -17,6 +17,8 @@ class SettingsViewController: UIViewController {
     // IBOutlets
     @IBOutlet weak var translationsButtonLinked: UIBarButtonItem!;
     @IBOutlet weak var uploadButtonLinked: UIBarButtonItem!;
+    @IBOutlet weak var languageTextFieldLinked: UITextField!;
+    @IBOutlet weak var languageButtonLinked: UIButton!;
     @IBOutlet weak var clientTableLinked: UITableView!;
     @IBOutlet weak var environmentTableLinked: UITableView!;
     
@@ -28,6 +30,9 @@ class SettingsViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad();
         // Do any additional setup after loading the view.
+        
+        self.addLabelWithString("Language", textField: self.languageTextFieldLinked);
+        self.refreshView();
     }
 
     override func didReceiveMemoryWarning() {
@@ -40,6 +45,37 @@ class SettingsViewController: UIViewController {
     // MARK: - IBActions
     // ============================================================================
 
+    @IBAction func languageButtonPressed(_ sender: UIButton) {
+        let controller:UIAlertController = UIAlertController(
+            title: "Select Language",
+            message: nil,
+            preferredStyle: .actionSheet
+        );
+        
+        for language in AppManager.sharedInstance.languages {
+            controller.addAction(
+                UIAlertAction(
+                    title: "\(language.name) (\(language.cultureName))",
+                    style: .default,
+                    handler: { (action:UIAlertAction) in
+                        AppManager.sharedInstance.loadTranslations(cultureName: language.cultureName);
+                        self.refreshView();
+                    }
+                )
+            );
+        }
+        
+        controller.addAction(
+            UIAlertAction(
+                title: "Cancel",
+                style: .cancel,
+                handler: nil
+            )
+        );
+        
+        self.present(controller, animated: true, completion: nil);
+    }
+    
     @IBAction func clientSwitchToggled(_ sender:UISwitch) {
         let client:ClientModel = AppManager.sharedInstance.clients[sender.tag];
         client.isActive = sender.isOn;
@@ -48,6 +84,33 @@ class SettingsViewController: UIViewController {
     @IBAction func environmentSwitchToggled(_ sender:UISwitch) {
         let environment:EnvironmentModel = AppManager.sharedInstance.environments[sender.tag];
         environment.isActive = sender.isOn;
+    }
+    
+    
+    // ============================================================================
+    // MARK: - Action Methods
+    // ============================================================================
+    
+    func refreshView() {
+        self.languageTextFieldLinked.text = AppManager.sharedInstance.currentCultureName;
+    }
+    
+    // ============================================================================
+    // MARK: - Helper Methods
+    // ============================================================================
+    
+    func addLabelWithString(_ string:String, textField:UITextField) {
+        let label:UILabel = UILabel(frame: CGRect(x: 8, y: 0, width: 135, height: textField.frame.size.height));
+        label.text = string + ":";
+        label.textColor = UIColor.orange;
+        label.textAlignment = .left
+        
+        let view:UIView = UIView(frame: CGRect(x: 0, y: 0, width: 135, height: label.frame.size.height));
+        view.addSubview(label);
+        
+        textField.placeholder = string;
+        textField.leftView = view;
+        textField.leftViewMode = UITextFieldViewMode.always;
     }
     
 }

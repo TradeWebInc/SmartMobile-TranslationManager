@@ -21,6 +21,13 @@ class AppManager : NSObject {
     // Singleton Property
     static let sharedInstance = AppManager();
 
+    var currentCultureName:String = "en";
+    var languages:[LanguageModel] = [
+        LanguageModel(name: "English", cultureName: "en"),
+        LanguageModel(name: "Spanish", cultureName: "es"),
+        LanguageModel(name: "French", cultureName: "fr")
+    ];
+    
     var clients:[ClientModel] = [
         ClientModel(name: "SmartMobile", tag: "SM", isActive: true),
         ClientModel(name: "JMobile", tag: "JM", isActive: true),
@@ -65,8 +72,18 @@ class AppManager : NSObject {
     
     override init() {
         
+        
+        
+        super.init();
+    }
+    
+    func loadTranslations(cultureName:String) {
+        
+        self.translations = [];
+        self.organizedTranslations = [];
+        self.currentCultureName = cultureName;
+        
         // Get .strings filepath
-        let cultureName:String = "en"
         if let path:String = Bundle.main.path(forResource: "Localizable", ofType: "strings", inDirectory: nil, forLocalization: cultureName) {
             
             // Get contents of .strings file
@@ -74,8 +91,7 @@ class AppManager : NSObject {
                 
                 // Parse to swift dictionary
                 if let swiftDict:[String: String] = dict as? [String: String] {
-                    print("Localizable Strings: \nCount: \(dict.count)\n\(dict) ");
-
+                    print("Localizable Strings: \nCount: \(dict.count)\n\(dict) ")
                     
                     // Loop through and insert new translations
                     for (key, value) in swiftDict {
@@ -109,7 +125,6 @@ class AppManager : NSObject {
             }
         }
         
-        super.init();
     }
     
     

@@ -24,6 +24,7 @@
 		0B707CE31E65C59100D55FF8 /* TranslationListModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B707CE21E65C59100D55FF8 /* TranslationListModel.swift */; };
 		0B707CE51E65D70500D55FF8 /* JLHttpSession.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B707CE41E65D70500D55FF8 /* JLHttpSession.swift */; };
 		0B707CE71E65E12D00D55FF8 /* WebAPIResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B707CE61E65E12D00D55FF8 /* WebAPIResponse.swift */; };
+		0BF11D681E6723C2001E6D34 /* LanguageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BF11D671E6723C2001E6D34 /* LanguageModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,9 @@
 		0B707CE21E65C59100D55FF8 /* TranslationListModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TranslationListModel.swift; sourceTree = "<group>"; };
 		0B707CE41E65D70500D55FF8 /* JLHttpSession.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JLHttpSession.swift; sourceTree = "<group>"; };
 		0B707CE61E65E12D00D55FF8 /* WebAPIResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebAPIResponse.swift; sourceTree = "<group>"; };
+		0BF11D671E6723C2001E6D34 /* LanguageModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LanguageModel.swift; sourceTree = "<group>"; };
+		0BF11D691E673AE4001E6D34 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
+		0BF11D6A1E673AEA001E6D34 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,6 +139,7 @@
 				0B5E2DDB1E64C74C006629C2 /* EnvironmentModel.swift */,
 				0B5E2DEC1E64D987006629C2 /* TranslationModel.swift */,
 				0B707CE21E65C59100D55FF8 /* TranslationListModel.swift */,
+				0BF11D671E6723C2001E6D34 /* LanguageModel.swift */,
 			);
 			name = Models;
 			sourceTree = "<group>";
@@ -199,6 +204,8 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				es,
+				fr,
 			);
 			mainGroup = 0B5E2DB01E64B11B006629C2;
 			productRefGroup = 0B5E2DBA1E64B11B006629C2 /* Products */;
@@ -238,6 +245,7 @@
 				0B5E2DEF1E64DAE4006629C2 /* TranslationTableViewCell.swift in Sources */,
 				0B5E2DED1E64D987006629C2 /* TranslationModel.swift in Sources */,
 				0B707CE31E65C59100D55FF8 /* TranslationListModel.swift in Sources */,
+				0BF11D681E6723C2001E6D34 /* LanguageModel.swift in Sources */,
 				0B707CE71E65E12D00D55FF8 /* WebAPIResponse.swift in Sources */,
 				0B5E2DD91E64C736006629C2 /* ClientModel.swift in Sources */,
 				0B5E2DD31E64C2F5006629C2 /* SettingsViewController.swift in Sources */,
@@ -252,6 +260,8 @@
 			isa = PBXVariantGroup;
 			children = (
 				0B5E2DE61E64D49B006629C2 /* en */,
+				0BF11D691E673AE4001E6D34 /* es */,
+				0BF11D6A1E673AEA001E6D34 /* fr */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -263,6 +273,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
@@ -313,6 +324,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
