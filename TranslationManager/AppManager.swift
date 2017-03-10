@@ -25,7 +25,18 @@ class AppManager : NSObject {
     var languages:[LanguageModel] = [
         LanguageModel(name: "English", cultureName: "en"),
         LanguageModel(name: "Spanish", cultureName: "es"),
-        LanguageModel(name: "French", cultureName: "fr")
+        LanguageModel(name: "French", cultureName: "fr"),
+        LanguageModel(name: "Danish", cultureName: "da"),
+        LanguageModel(name: "Indonesian", cultureName: "id"),
+        LanguageModel(name: "Italian", cultureName: "it"),
+        LanguageModel(name: "Japanese", cultureName: "ja"),
+        LanguageModel(name: "Korean", cultureName: "ko"),
+        LanguageModel(name: "Malay", cultureName: "ms"),
+        LanguageModel(name: "Portuguese", cultureName: "pt"),
+        LanguageModel(name: "Russian", cultureName: "ru"),
+        LanguageModel(name: "Thai", cultureName: "th"),
+        LanguageModel(name: "Chinese (Simplified)", cultureName: "zh-Hans"),
+        LanguageModel(name: "Chinese (Traditional)", cultureName: "zh-Hant")
     ];
     
     var clients:[ClientModel] = [
@@ -71,10 +82,9 @@ class AppManager : NSObject {
     var organizedTranslations:[TranslationListModel] = [];
     
     override init() {
-        
-        
-        
         super.init();
+        
+        self.loadTranslations(cultureName: self.currentCultureName);
     }
     
     func loadTranslations(cultureName:String) {
@@ -102,7 +112,7 @@ class AppManager : NSObject {
                         escapedValue = escapedValue.replacingOccurrences(of: "\t", with: "\\t");
                         escapedValue = escapedValue.replacingOccurrences(of: "\r", with: "\\r");
                         
-                        self.translations.append(TranslationModel(key:key, text:value));
+                        self.translations.append(TranslationModel(key:key, text:escapedValue));
                     }
                     self.translations.sort(by: {$0.key < $1.key});
                     

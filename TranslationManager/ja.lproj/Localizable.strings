@@ -1,0 +1,1486 @@
+// ============================================================================
+// * Android
+// ============================================================================
+
+"android_exitconfirm"				=	"本当に終了しますか？";
+"android_appnotfound"				=	"マーケット内にアプリがありません。";
+"android_nogoogleplus"				=	"Google+がインストールされている必要があります。";
+"android_notificatonssetting"		=	"通知を受ける";
+
+
+// ============================================================================
+// * General
+// ============================================================================
+
+"general_yes"               = 	"はい";
+"general_no"                =   "いいえ";
+"general_on"				= 	"オン";
+"general_off"				=	"オフ";
+"general_accept"            =   "同意する";
+"general_decline"           =   "同意しない";
+"general_success"           =   "完了";
+"general_error"             = 	"エラー";
+"general_notice"            = 	"通知";
+"general_ok"                =   "OK";
+"general_cancel"            = 	"キャンセル";
+"general_loading"           = 	"ロード中";
+"general_none"              = 	"なし";
+"general_next"              = 	"次へ";
+"general_done"              = 	"完了";
+"general_save"              = 	"保存";
+"general_delete"            = 	"削除";
+"general_addnew"            =   "新規追加（+）";
+"general_add"				=	"追加";
+"general_create"            =   "作成";
+"general_edit"              =   "編集";
+"general_seemore"           =   "詳細を確認";
+"general_more"              =   "その他";
+"general_reset"             = 	"リセット";
+"general_post"              = 	"投稿";
+"general_submit"            =   "送信";
+"general_share"             =   "シェア";
+"general_exit"              =   "終了";
+"general_settings"          =   "設定";
+"general_info"              =   "情報";
+"general_unknownerror"      =   "不明のエラーが発生しました。もう一度お試しください。";
+"general_nointernet"		=	"インターネットに接続できませんでした。インターネットの設定を確認し、もう一度お試しください。";
+"general_cantmakecalls"     =   "このデバイスでは通話ができません。";
+"general_cantsendsms"     	=   "このデバイスではSMSメッセージを送信できません。";
+"general_cantsendemail"     =   "このデバイスではメールを送信することができません。メールの設定を確認し、もう一度お試しください。";
+
+"general_back"              =   "戻る";
+"general_forward"           =   "進む";
+"general_webpageerror"      =   "ウェブページを開くことができませんでした。";
+
+"general_unknownname"       =   "未知の名前";
+"general_username"          = 	"ユーザー名";
+"general_firstname"         = 	"名（ファーストネーム）";
+"general_lastname"          = 	"姓（ラストネーム）";
+"general_name"              =   "名前";
+"general_language"          =   "言語";
+"general_address"           =   "住所";
+"general_city"              =   "市町村";
+"general_state"             =   "都道府県";
+"general_zip"               =   "郵便番号";
+"general_province"          =   "州";
+"general_postalcode"        =   "郵便番号";
+"general_country"           =   "国/地域";
+"general_phonenumber"       = 	"電話番号";
+"general_phone"             = 	"電話番号";
+"general_secondphone"       =   "電話番号 2";
+"general_cell"              = 	"携帯電話";
+"general_work"              = 	"勤務先";
+"general_email"             = 	"メールアドレス";
+"general_status"            = 	"ステータス";
+"general_displayname"       = 	"名前を表示";
+"general_title"             = 	"タイトル";
+"general_contact"           =   "連絡先";
+"general_lead"              =   "見込顧客";
+"general_facebookurl"       = 	"FacebookのURL";
+"general_twitterhandle"     = 	"Twitterのハンドルネーム";
+"general_skypeusername"     = 	"Skypeのユーザー名";
+"general_devicemodel"       =   "デバイスのモデル";
+"general_devicelanguage"    =   "デバイスの言語";
+"general_deviceos"          =   "デバイスのOS";
+"general_appversion"        =   "アプリのバージョン";
+
+"general_sunday"            = 	"日曜日";
+"general_monday"            =   "月曜日";
+"general_tuesday"           = 	"火曜日";
+"general_wednesday"         = 	"水曜日";
+"general_thursday"          = 	"木曜日";
+"general_friday"            = 	"金曜日";
+"general_saturday"          = 	"土曜日";
+
+"general_days"              =   "日";
+"general_hours"             =   "時間";
+
+"general_facebook"          = 	"Facebook";
+"general_twitter"           = 	"Twitter";
+"general_googleplus"        = 	"Google+";
+
+
+// ============================================================================
+// * Language Select
+// ============================================================================
+
+"language_select"           =   "言語を選択";
+
+
+// ============================================================================
+// * App Rating
+// ============================================================================
+
+
+// The title of the prompt for app rating.
+"rateappprompt_title"   = 	"アプリを評価してください！";
+
+// The message in the prompt for app rating.
+"rateappprompt_message" = 	"アプリを楽しんでいますか？ぜひ最新バージョンを評価してください。";
+
+// The cancel text of the prompt for app rating.
+"rateappprompt_cancel"  = 	"今はしない";
+
+
+// ============================================================================
+// * Login
+// ============================================================================
+
+// The title in the navigation bar of the login screen.
+"login_title"                   =	"ようこそ";
+
+// The Help Text used by the login screen.
+"login_help"                    =   "ログインするにはユーザー名とパスワードを入力してください。\n\n「ログイン状態を保つ」をタップすると、ユーザー名とパスワードが記憶され、今後アプリを開く際に自動的にログインできるようになります。";
+
+// The placeholder text for the password text field.
+"login_password"                = 	"パスワード";
+
+// The title of the Login Button, and any alert message box.
+"login_login"                   = 	"ログイン";
+
+// The label for the Keep Me Connected Switch.
+"login_keepmeconnected"         =   "ログイン状態を保つ";
+
+// The Version label on indicating the app version.
+"login_version"                 = 	"バージョン";
+
+// The text used in the loading indicator for the login screen.
+"login_loading"                 = 	"ログイン中";
+
+// The login error/failure message.
+"login_loginerror"              = 	"ログイン中にエラーが発生しました。ユーザー名とパスワードを確認し、もう一度お試しください。";
+
+
+// The title text of the login method prompt.
+"login_loginmethodprompt"       =   "ログイン方法を選択してください。";
+
+// The title of the Use Touch ID button.
+"login_methodtouchid"           =   "Touch ID を使用";
+
+// The title of the Remember Username & Password button.
+"login_methoduserandpass"       =   "ユーザー名とパスワードを記憶";
+
+// The title of the Remember Username only button.
+"login_methoduser"              =   "ユーサー名のみを記憶";
+
+
+// ============================================================================
+// * Terms of Service
+// ============================================================================
+
+// The title in the navigation bar of the Terms of Service screen.
+"tos_title"             =   "サービス規約";
+
+// The Help Text used by the login screen.
+"tos_help"              =   "アプリを使用する際は当サービス規約をご一読のうえ、契約に「同意する」か「同意しない」を選択してください。当契約に「同意しない」場合、以降アプリの機能はご利用いただけなくなります。";
+
+
+// ============================================================================
+// * Menu
+// ============================================================================
+
+// The title of the Home menu option.
+"menu_home"             =   "ホーム";
+
+// The title of the Optimism menu option.
+"menu_optimism"         =   "ちょっといい一言";
+
+// The title of the My Leads menu option.
+"menu_myleads"          = 	"見込顧客";
+
+// The title of the Manage Groups menu option.
+"menu_managegroups"     = 	"グループ管理";
+
+// The title of the Training Videos menu option.
+"menu_trainingvideos"   =   "トレーニングビデオ";
+
+// The title of the Video Campaign menu option.
+"menu_videocampaign"    = 	"ビデオキャンペーン";
+
+// The title of the Group SMS menu option.
+"menu_groupsms"         =   "グループSMS";
+
+// The title of the Custom Campaign menu option.
+"menu_customcampaign"   =   "カスタムキャンペーン";
+
+// The title of the Campaign Stats menu option.
+"menu_campaignstats"    = 	"キャンペーンデータ";
+
+// The title of the My Badges menu option.
+"menu_mybadges"         =   "マイバッジ";
+
+// The title of the Alerts menu option.
+"menu_alerts"           =   "アラート";
+
+// The title of the Profile menu option.
+"menu_profile"          =   "プロフィール";
+
+// The title of the Back Office menu option.
+"menu_backoffice"       =   "バックオフィスウェブ";
+
+// The title of the Success On Demand menu option.
+"menu_sod"              =   "Success On Demand";
+
+// The title of the Help Center menu option.
+"menu_helpcenter"       = 	"ヘルプセンター";
+
+// The title of the Logout menu option.
+"menu_logout"           =   "ログアウト";
+
+
+// The title of the menu section header for Home.
+"menu_homeheader"           =   "ホーム";
+
+// The title of the menu section header for Lead Management.
+"menu_leadmanagementheader" = 	"見込顧客";
+
+// The title of the menu section header for Promotions.
+"menu_promotions"           = 	"プロモーション";
+
+// The title of the menu section header for Other.
+"menu_otherheader"          = 	"その他";
+
+// The title of the menu section header for More.
+"menu_moreheader"           = 	"その他";
+
+
+
+// ============================================================================
+// * Daily Optimism
+// ============================================================================
+
+// The title in the navigation bar of the daily optimism screen.
+"dailyoptimism_title"       = 	"今日のちょっといい一言";
+
+// The Help Text used by the daily optimism screen.
+"dailyoptimism_help"        = 	"「今日のちょっといい一言」をチェック＆シェアしましょう！\n\n過去のちょっといい一言をシェアするには「ライブラリ」をタップしてください。";
+
+// The title of the Share Button.
+"dailyoptimism_share"       = 	"「今日のちょっといい一言」をシェア";
+
+// The title of the Optimism Library Button.
+"dailyoptimism_library"     = 	"ライブラリ";
+
+// The title of the Auto-Drip Settings Button.
+"dailyoptimism_autodrip"    = 	"定期投稿設定";
+
+
+
+// ============================================================================
+// * Optimism Library
+// ============================================================================
+
+// The title in the navigation bar of the optimism library screen.
+"optimismlibrary_title"     = 	"ライブラリ";
+
+// The Help Text used by the optimism library screen.
+"optimismlibrary_help"      = 	"ライブラリからちょっといい一言を選んでシェアしましょう。";
+
+// The title of the Filter Button.
+"optimismlibrary_filter"    = 	"フィルター";
+
+// The title of Optimism Filter action sheet.
+"optimismlibrary_filterby"  =   "フィルター：";
+
+
+// ============================================================================
+// * Optimism Library
+// ============================================================================
+
+// The title in the navigation bar of the share optimism screen.
+"shareoptimism_title"   = 	"ちょっといい一言";
+
+// The Help Text used by the share optimism screen.
+"shareoptimism_help"    = 	"ライブラリから選んだ「ちょっといい一言」をチェック＆シェアしましょう！\n\nライブラリに戻るには「戻る」ボタンを押してください。";
+
+// The title of the Share This Optimism Button.
+"shareoptimism_share"   = 	"この「ちょっといい一言」をシェア";
+
+
+// ============================================================================
+// * My Leads
+// ============================================================================
+
+// The title in the navigation bar of the my leads screen.
+"myleads_title"             =   "見込顧客";
+
+// The Help Text used by the my leads screen.
+"myleads_help"              =   "見込顧客のリストを確認または編集できます。\n\n 「追加（+）」ボタンをタップすると、連絡リストから連絡先を追加したり、手動で入力することができます。\n\n顧客をタップすると詳細を編集できます。また、左方向にスワイプするとその他のオプションが表示されます。\n\n見込顧客リストを並べ替えるには「ソート」ボタンをタップします。並べ替えは昇順、降順の2つから選択できます。\n\nまた、「フィルター」ボタンや検索ウィンドウを使用して、顧客をフィルターすることも可能です。";
+
+// The title of the Sort Button.
+"myleads_sort"              =   "ソート";
+
+// The title of the Sort Action Sheet Menu.
+"myleads_sortby"            =   "ソート方法：";
+
+// The title of the Ascending Segment Control Button.
+"myleads_ascending"         =   "昇順";
+
+// The title of the Descending Segment Control Button.
+"myleads_descending"        =   "降順";
+
+// The title of the Filter Button.
+"myleads_filter"            =   "フィルター";
+
+// The title of the Filter Action Sheet Menu.
+"myleads_filterby"          = 	"フィルター：";
+
+// The title of the Change Status Action Menu.
+"myleads_changestatusto"    =   "ステータスを変更：";
+
+// The warning message shown when changing a lead to the cold status.
+"myleads_coldconfirm"       =   "見込みステータスで見込顧客をフィルタリングするまで、この見込顧客は表示されません。この見込顧客を「見込： 低」としてマークしてもよろしいですか？";
+
+// The title of the Hot option during Filtering.
+"myleads_statushot"         = 	"見込： 高";
+
+// The title of the Warm option during Filtering.
+"myleads_statuswarm"        = 	"見込： 中";
+
+// The title of the Cold option during Filtering.
+"myleads_statuscold"        = 	"見込： 低";
+
+// The title of the New option during Filtering.
+"myleads_statusnew"         = 	"新規";
+
+// The title of the Add Lead Action Sheet Menu.
+"myleads_addlead"           = 	"見込顧客を追加";
+
+// The title for the Add from Contacts option during Add Lead.
+"myleads_addcontact"        = 	"連絡先から追加";
+
+// The title for the Add New Lead option during Add Lead.
+"myleads_addnewlead"        = 	"新しい見込顧客を追加";
+
+// The title of the alert message boxes for any Add Contact action.
+"myleads_contacts"          = 	"連絡先";
+
+// The message displayed when a contact is added successfully.
+"myleads_addcontactsuccess" =   "連絡先が追加されました！";
+
+// The Add Contact error/failure message.
+"myleads_addcontacterror"   =   "連絡先の追加中にエラーが発生しました。";
+
+// Displayed in a My Leads table cell when no contact info is available. (phone and/or email).
+"myleads_nocontactinfo"     = 	"連絡先情報がありません。";
+
+// The title of the Send Opt In/Out Link option during Leads More Options.
+"myleads_sendoptinout"      =   "オプトイン／アウトのリンクを送信";
+
+// The title of the Send Signup Link option during Leads More Options.
+"myleads_signuplink"        = 	"サインアップ用リンクを送信";
+
+// The title of the Send Free Sample Link option during Leads More Options.
+"myleads_freesample"        = 	"無料サンプルのリンクを送信";
+
+// The title of the Send My Video Player option during Leads More Options.
+"myleads_videoplayer"       = 	"マイビデオプレーヤーを送信";
+
+// The title of the Local Device View option during Leads More Options.
+"myleads_deviceview"        = 	"ローカルデバイスビュー";
+
+// Error message when a lead has no phone number.
+"myleads_noleadphone"       =   "選択済みの見込顧客は電話番号が設定されていません。";
+
+// Error message when a lead has no email address.
+"myleads_noleademail"       =   "選択済みの見込顧客はメールアドレスが設定されていません。";
+
+
+// Message for sending SMS displayed in the Local Device View Screen under My Leads
+"localdevice_sendmessage"			=	"メッセージ送信";
+
+// Message for create new device contact displayed in the Local Device View Screen under My Leads
+"localdevice_createnewcontact"		=	"連絡先を新規作成";
+
+// Message for adding to existing contact displayed in the Local Device View Screen under My Leads
+"localdevice_addexistingcontact"	=	"既存の連絡先に追加";
+
+
+// ============================================================================
+// * Add Lead
+// ============================================================================
+
+// The title in the navigation bar of the add lead screen.
+"addlead_title"             =   "見込顧客を追加";
+
+// The Help Text used by the add lead screen.
+"addlead_help"              =   "追加したい新しい見込顧客の情報を入力します。\n\n名（ファーストネーム）は必ず入力してください。\n\nまた、連絡方法を少なくとも1つ（電話番号またはメールアドレス）入力する必要があります。";
+
+// The title of the Add Lead Button.
+"addlead_addlead"           =   "見込顧客を追加";
+
+// The message of the success alert.
+"addlead_addsuccessful"     =   "見込顧客を追加しました！";
+
+// The message of the failure alert.
+"addlead_addfailure"        =   "見込顧客を追加中にエラーが発生しました。";
+
+// The validation message for requiring a first name.
+"addlead_namevalidation"    =   "名（ファーストネーム）を入力してください。";
+
+// The validation message for requiring at least one contact method.
+"addlead_contactvalidation" = 	"連絡方法を最低でも1つ（電話番号またはメールアドレス）入力してください。";
+
+
+// ============================================================================
+// * Lead Details
+// ============================================================================
+
+// The title in the navigation bar of the lead details screen.
+"leaddetails_title"                             = 	"見込顧客の詳細";
+
+// The Help Text used by the lead details screen.
+"leaddetails_help"                              = 	"1 名の見込顧客を表示して編集し、ログ、データ、メモなどを追跡記録します。［アクション］ボタンをタップすると、メールキャンペーンやリマインダーのスケジュールを組み込めます。［見込顧客を削除］ボタンをタップすると、選択した見込顧客を削除できます。";
+
+// The title of the change image alert.
+"leaddetails_changeimagetitle"                  =   "画像を変更";
+
+// The title of the Photo Library button.
+"leaddetails_photolibrary"                      =   "フォトライブラリ";
+
+// The title of the Take Picture button.
+"leaddetails_takepicture"                       =   "写真を撮影";
+
+// The title of the Remove Current Image button.
+"leaddetails_removeimage"                       =   "現在の画像を削除";
+
+// The title of the Actions tab.
+"leaddetails_actionstab"                        =   "アクション";
+
+// The title of the Log tab.
+"leaddetails_logtab"                            =   "ログ";
+
+// The title of the Stats tab.
+"leaddetails_statstab"                          =   "データ";
+
+// The title of the Notes tab.
+"leaddetails_notestab"                          =   "メモ";
+
+// The title of the Photo Library Unavailable alert.
+"leaddetails_nophotolibrarytitle"               =   "フォトライブラリは使用できません";
+
+// The message of the Photo Library Unavailable alert.
+"leaddetails_nophotolibrarymessage"             =   "アプリがフォトライブラリにアクセスできません。";
+
+// The title of the Camera Unavailable alert.
+"leaddetails_nocameratitle"                     =   "カメラを使用できません";
+
+// The message of the Camera Unavailable alert.
+"leaddetails_nocameramessage"                   =   "アプリが当デバイス搭載のカメラにアクセスできません。";
+
+// The message displayed when a lead is opted in to receive emails.
+"leaddetails_emailoptedin"                      =   "オプトインしてメールを受信しました。";
+
+// The message displayed when a lead is opted out to receive emails.
+"leaddetails_emailoptedout"                     =   "オプトインしてメールを受信しませんでした。";
+
+// The message displayed when a lead is opted in to receive SMS messages.
+"leaddetails_smsoptedin"                        =   "オプトインして SMS メッセージを受信しました。";
+
+// The message displayed when a lead is opted out to receive SMS messages.
+"leaddetails_smsoptedout"                       =   "オプトインして SMS メッセージを受信していません。";
+
+// The title of the Delete Lead button.
+"leaddetails_deletelead"                        =   "見込顧客を削除";
+
+// The title of the delete lead confirmation alert.
+"leaddetails_deleteleadtitle"                   =   "現在の見込顧客を削除";
+
+// The message of the delete lead confirmation alert.
+"leaddetails_deleteleadmessage"                 =   "この見込顧客を削除してもよろしいですか？";
+
+
+// ============================================================================
+// * Edit Lead
+// ============================================================================
+
+// The title in the navigation bar of the Edit Lead screen.
+"editlead_title"                =   "見込顧客を編集";
+
+// The title in the navigation bar of the See More version fo the Edit Lead screen.
+"editlead_titleseemore"         =   "見込顧客の詳細を表示";
+
+// The Help Text used by the Edit Lead screen.
+"editlead_help"                 =   "表示中に［編集］ボタンをタップすれば、見込顧客の情報を編集できます。変更した情報を保存するには、該当する見込顧客のデータを開き［保存］をタップしてください。";
+
+// The title of the Basic Info section.
+"editlead_basicinfo"            =   "基本情報";
+
+// The title of the Contact Info section.
+"editlead_contactinfo"          =   "連絡先情報";
+
+// The title of the Address Info section.
+"editlead_addressinfo"          =   "住所情報";
+
+// The message of the success alert.
+"editlead_savesuccessful"       =   "正常に見込顧客を保存しました！";
+
+
+// ============================================================================
+// * Lead Actions
+// ============================================================================
+
+// The title in the navigation bar of the lead actions screen.
+"leadactions_title"                     =   "見込顧客のアクション";
+
+// The Help Text used by the lead actions screen.
+"leadactions_help"                      =   "お勧めや予定されているアクションを表示、開始、キャンセルします。［実行］ボタンをタップすると、見込顧客向けのお勧めアクションを実行します。新しく予定に組み込んだアクションを追加するには［新規追加］ボタンを押してください。［キャンセル］ボタンをタップすれば、予定されているアクションでもキャンセル可能です。";
+
+// The title of the recommended actions section.
+"leadactions_recommendedactions"        =   "お勧めのアクション";
+
+// The message shown when no recommended actions exist.
+"leadactions_norecommendedactions"      =   "お勧めのアクションはみつかりませんでした。";
+
+// The title of the scheduled actions section.
+"leadactions_scheduledactions"          =   "予定されているアクション";
+
+// The message shown when no scheduled actions exist.
+"leadactions_noscheduledactions"        =   "予定されているアクションはみつかりませんでした。";
+
+// The message of the cancel scheduled action alert.
+"leadactions_cancelscheduledaction"     =   "このアクションをキャンセルしてもよろしいですか？";
+
+// The title of the Do It button.
+"leadactions_doit"                      =   "実行";
+
+// The title of the add new alert for email campaign.
+"leadactions_emailcampaign"             =   "メールキャンペーン";
+
+// The title of the add new alert for single email.
+"leadactions_singleemail"               =   "シングルメール";
+
+// The title of the add new alert for reminder.
+"leadactions_reminder"                  =   "リマインダー";
+
+
+
+// The title in the navigation bar of the reminder creation screen.
+"reminder_title"                        =   "リマインダーを作成";
+
+// The Help Text used by the reminder creation screen.
+"reminder_help"                         =   "タイトルと簡易メッセージからなるリマインダーを作成します。日付の選択機能を使用し、リマインダーの送信予定日を選択してください。";
+
+// The label used in the title text field.
+"reminder_titlelabel"                   =   "称号";
+
+// The label used in the message text field.
+"reminder_messagelabel"                 =   "メッセージ";
+
+// The error message shown when a user doesn't enter a title.
+"reminder_titleneeded"                  =   "リマインダー用タイトルを入力してください。";
+
+// The error message shown when a user doesn't enter a message.
+"reminder_messageneeded"                =   "リマインダー用メッセージを入力してください。";
+
+
+
+// The title in the navigation bar of the email campaign picker screen.
+"emailcampaign_title"                   =   "メールキャンペーン";
+
+// The Help Text used by the email campaign picker screen.
+"emailcampaign_help"                    =   "選択した見込顧客用に、適用可能な全メールキャンペーンの中から 1 つのキャンペーンを選択しスケジュールに組み込みます。「キャンペーン」をタップすると、見込顧客用のキャンペーンは即座に開始されます。";
+
+
+// The title in the navigation bar of the email messages picker screen.
+"emailmessages_title"                   =   "メールメッセージ";
+
+// The Help Text used by the email messages picker screen.
+"emailmessages_help"                    =   "個別のメールメッセージを 1 つ選択し、選択した見込顧客へ送信します。［情報（i）］ボタンをタップすると、送信前にメッセージをプレビュー可能です。";
+
+
+// ============================================================================
+// * Lead Log
+// ============================================================================
+
+// The title in the navigation bar of the lead log screen.
+"leadlog_title"             =   "見込顧客ログ";
+
+// The Help Text used by the lead log screen.
+"leadlog_help"              =   "選択した見込顧客との間でこれまでに行なったアクションやイベントをすべて表示します。";
+
+
+// ============================================================================
+// * Lead Stats
+// ============================================================================
+
+// The title in the navigation bar of the lead stats screen.
+"leadstats_title"               =   "見込顧客データ";
+
+// The Help Text used by the lead stats screen.
+"leadstats_help"                =   "選択した見込顧客のメールならびにビデオデータをすべて表示します。";
+
+// The title shown for the email stats section.
+"leadstats_emailstats"          =   "メールデータ";
+
+// The title shown for the video stats section.
+"leadstats_videostats"          =   "ビデオデータ";
+
+// The key label for emails read.
+"leadstats_emailsread"          =   "既読メール";
+
+// The key label for emails not read.
+"leadstats_emailsnotread"       =   "未読メール";
+
+// The label for how many times a video was watched.
+"leadstats_watched"             =   "鑑賞済み";
+
+// The label for how long a video was watched.
+"leadstats_duration"            =   "経過時間";
+
+// The unit label for the number of times a video was watched.
+"leadstats_times"               =   "回";
+
+// The unit label for the duration time in seconds.
+"leadstats_secs"                =   "秒";
+
+
+// ============================================================================
+// * Lead Notes
+// ============================================================================
+
+// The title in the navigation bar of the lead notes screen.
+"leadnotes_title"               =   "見込顧客メモ";
+
+// The Help Text used by the lead notes screen.
+"leadnotes_help"                =   "選択した見込顧客のメモを追加し表示します。［プラス（＋）］ボタンをタップし、新しいメモを追加します。";
+
+// The title of the new note alert.
+"leadnotes_newnote"             =   "新規メモ";
+
+
+// ============================================================================
+// * Manage Groups
+// ============================================================================
+
+// The title in the navigation bar of the manage groups screen.
+"managegroups_title"            = 	"グループ";
+
+// The Help Text used by the manage groups screen.
+"managegroups_help"             = 	"キャンペーンを簡単に一括送信するための見込顧客グループを確認＆編集できます。\n\nグループを削除するには「編集」ボタン（鉛筆マーク）をタップします。\n\n新しいグループを追加するには、「新規追加（+）」ボタンをタップします。";
+
+// Label to indicate the number of contacts in a group.
+"managegroups_contacts"         = 	"連絡先";
+
+// The title used in the new group alert.
+"managegroups_newgroup"         = 	"新規グループ";
+
+// The message used in the new group alert.
+"managegroups_newgroupname"     = 	"新規グループ名：";
+
+// The placeholder text in the group name text field.
+"managegroups_groupname"        = 	"グループ名";
+
+// The validation message for requiring a group name.
+"managegroups_namevalidation"   =   "グループに名前をつけてください。";
+
+
+// ============================================================================
+// * Group Details
+// ============================================================================
+
+// The title in the navigation bar of the group details screen. (Overwritten by group name).
+"groupdetails_title"    = 	"グループ詳細";
+
+// The Help Text used by the lead details screen.
+"groupdetails_help"     = 	"現在のグループに含まれる顧客を表示します。\n\n顧客を削除するには編集ボタン（鉛筆マーク）をタップします。\n\n現在のグループに顧客を追加するには「新規追加+」をタップします。";
+
+
+// ============================================================================
+// * Multi-use Promotions
+// ============================================================================
+
+// Select Groups
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the Select Groups screen.
+"selectgroups_title"                =   "グループを選択";
+
+// The Help Text used by the Select Groups screen.
+"selectgroups_help"                 =   "キャンペーンを送信するグループを選択してください。";
+
+// The instruction text above groups table.
+"selectgroups_instructions"         =   "このキャンペーンを送信するグループを選択：";
+
+// The title of the New Group option in the Action Sheet menu.
+"selectgroups_newgroup"             =   "新規グループ";
+
+// The title of the Select from Phonebook option in the Action Sheet menu.
+"selectgroups_selectcontacts"       = 	"電話帳から選択";
+
+// The validation message for requiring at least one contact.
+"selectgroups_contactvalidation"    = 	"メッセージを送信するには、電話番号が最低でも1つ含まれたグループを選択する必要があります。";
+
+
+// Select Contacts
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the Select Contacts screen.
+"selectcontacts_title"              = 	"連絡先を選択";
+
+// The Help Text used by the Select Contacts screen.
+"selectcontacts_help"               = 	"使用したい連絡先を選択します。\n\n電話マークがついた連絡先はモバイル端末のものです。バックオフィスの見込顧客にはアドレス帳のマークがつきます。\n\n連絡先をフィルターするには検索バーを使います。検索後にキーボードを非表示にするには「キーボードを隠す」をタップします。\n\nモバイル端末から選んだ連絡先は自動的にバックオフィスの見込顧客として追加されます。";
+
+// The primary phone label. (Other labels are handled by OS.)
+"selectcontacts_primary"            =   "ディフォルト";
+
+// The message of the alert displayed when a contact fails to be added as a lead or to a group.
+"selectcontacts_uploadcontacterror" =   "連絡先のアップロード中にエラー発生。";
+
+// The message of the alert displayed when a lead fails to be added to a group.
+"selectcontacts_addgroupleaderror"  =   "見込顧客のグループ追加中にエラー発生。";
+
+
+// Edit Message
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the Edit Message screen.
+"editmessage_title"         =   "メッセージを編集";
+
+// The Help Text used by the Edit Message screen.
+"editmessage_help"          =   "グループに送信するメッセージを入力できます。\n\nタイプしたメッセージを削除するにはXボタンをタップします。\n\nメッセージに見込顧客の名前を入れるには「ユーザー」ボタンをタップします。\n\n先に進むには「次へ」ボタンをタップします。";
+
+// The instruction text above the message text field.
+"editmessage_instructions"  =   "グループに送りたいSMSメッセージを入力してください。";
+
+
+// Send Message
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the Send Message screen.
+"sendmessage_title"         =   "メッセージ送信";
+
+// The Help Text used by the Send Message screen.
+"sendmessage_help"          =   "キャンペーンを送る場合は、送信相手の見込顧客を選択し、「メッセージ送信」ボタンをタップします。\n\n選択し直す場合は「キャンセル」ボタンをタップします。";
+
+// The instruction text above the contacts table.
+"sendmessage_instructions"  = 	"プレビューを確認して送信。";
+
+// The title of the Send Messages button.
+"sendmessage_sendmessages"  =   "メッセージ送信";
+
+// The message that is displayed upon successfully sending an SMS message.
+"sendmessage_sendsuccess"   = 	"メッセージを送信しました";
+
+// Toasted when an SMS message is sent. (Android Only)
+"sendmessage_messagesent"   =	"メッセージを送信しました";
+
+
+// ============================================================================
+// * Training Videos Select
+// ============================================================================
+
+// The title in the navigation bar of the training videos screen.
+"trainingvideos_title"  =   "トレーニングビデオ";
+
+// The Help Text used by the training videos screen.
+"trainingvideos_help"   =   "トレーニングビデオを鑑賞できます。\n\n観たいビデオの行をタップしてください。";
+
+
+// ============================================================================
+// * Video Campaign Select
+// ============================================================================
+
+// The title in the navigation bar of the video campaign screen.
+"videocampaign_title"                   =   "ビデオキャンペーン";
+
+// The Help Text used by the video campaign screen.
+"videocampaign_help"                    =   "ビデオキャンペーンを選択、表示、または送信できます。\n\nキャンペーンのプレビューを表示するには、情報ボタン（iマーク）をタップします。\n\n先に進むには、キャンペーンを選択し「次へ」をタップします。 \n\nキャンペーンをシェアするには、キャンペーン選択後に画面下部の「オプション」ボタンをタップします。";
+
+// The title in the navigation bar of the video campaign preview webview screen.
+"videocampaign_previewtitle"            = 	"ビデオキャンペーンのプレビュー";
+
+// The text for the no videos found label.
+"videocampaign_novideosfound"           = 	"ビデオはみつかりませんでした";
+
+// The text for the no categories found label.
+"videocampaign_nocategoriesfound"       =   "カテゴリーはみつかりませんでした";
+
+// The title of the filter button.
+"videocampaign_filter"                  =   "フィルター";
+
+
+// ============================================================================
+// * Custom Campaign Select
+// ============================================================================
+
+// The title in the navigation bar of the Custom Campaign screen.
+"customcampaign_title"              = 	"カスタムキャンペーン";
+
+// The Help Text used by the Custom Campaign screen.
+"customcampaign_help"               = 	"様々なカスタムキャンペーンを見込顧客グループに送ります。\n\n携帯電話のカメラロールにある画像を送るには、「カメラロール」を選択します。\n\n画像キャンペーンを「ちょっといい一言」ライブラリーから送信するには、ライブラリオプションを選択します。\n\nカスタマイズされたYouTubeキャンペーンを送信するにはYouTubeオプションを選択します。";
+
+// The Help Text used by the Custom Campaign screen. (Android Only)
+"customcampaign_help_android"       = 	"様々なカスタムキャンペーンを見込顧客グループに送ります。\n\n携帯電話のギャラリーにある画像を送るには、「ギャラリー」を選択します。\n\n画像キャンペーンを「ちょっといい一言」ライブラリーから送信するには、ライブラリオプションを選択します。\n\nカスタマイズされたYouTubeキャンペーンを送信するにはYouTubeオプションを選択します。";
+
+// The title of the Camera Roll Campaign option.
+"customcampaign_camerarolltitle"    = 	"カメラロール";
+
+// The description of the Camera Roll Campaign option.
+"customcampaign_camerarolldesc"     = 	"モバイル端末のカメラロールの画像をキャンペーンに使用します。";
+
+// The title of the Gallery Campaign option. (Android Only)
+"customcampaign_gallerytitle"       = 	"ギャラリー";
+
+// The description of the Gallery Campaign option. (Android Only)
+"customcampaign_gallerydesc"        = 	"モバイル端末のギャラリーの画像をキャンペーンに使用します。";
+
+// The title of the Optimism Library Campaign option.
+"customcampaign_optimismtitle"      = 	"「ちょっといい一言」ライブラリ";
+
+// The description of the Optimism Library Campaign option.
+"customcampaign_optimismdesc"       = 	"「ちょっといい一言」ライブラリの画像をキャンペーンに使用します。";
+
+// The title of the YouTube Campaign option.
+"customcampaign_youtubetitle"       = 	"YouTube";
+
+// The description of the YouTube Campaign option.
+"customcampaign_youtubedesc"        =   "カスタマイズされたYouTubeビデオをキャンペーンに使用します。";
+
+// The title of the Virtual Landing Page Campaign option.
+"customcampaign_virtualpagetitle"   =   "バーチャルランディングページ";
+
+// The description of the Virtual Landing PageCampaign option.
+"customcampaign_virtualpagedesc"    = 	"カスタマイズされた企業用バーチャルランディングページをキャンペーンで使用します。";
+
+// The alert message displayed when an image couldn't be found to continue.
+"customcampaign_noimageerror"       =   "画像の選択中にエラーが発生しました。もう一度お試しください。";
+
+
+// YouTube Select
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the YouTube Campaigns screen.
+"youtubecampaign_title"             =   "YouTubeキャンペーン";
+
+// The Help Text used by the YouTube Campaigns screen.
+"youtubecampaign_help"              =   "見込顧客グループに送るための、カスタムYouTubeキャンペーンを作成または選択します。\n\n新規のYouTubeキャンペーンを作成するには「新規追加（+）」をタップします。\n\nキャンペーンを編集または削除するには、そのキャンペーンを左方向にスワイプします。\n\nキャンペーンを編集するには情報ボタン（iマーク）をタップします。\n\n次に進むにはキャンペーンをタップし、「次へ」ボタンを選択します。";
+
+// The message displayed when campaign downloads fail.
+"youtubecampaign_getfailure"        =   "YouTubeキャンペーンをダウンロードできませんでした。もう一度お試しください。";
+
+// The message displayed when campaign deletion fails.
+"youtubecampaign_deletefailure"     =	"キャンペーンを削除できませんでした。";
+
+
+// YouTube Add/Update
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the YouTube Campaign Editor screen.
+"youtubeeditor_title"               =   "キャンペーンを追加/編集";
+
+// The Help Text used by the YouTube Campaign Editor screen.
+"youtubeeditor_help"                =   "カスタムYouTubeキャンペーンに関する情報を入力します。 \n\nキャンペーンを作成するにはすべてのフィールドを入力する必要があります。\n\n- URLアドレス（100文字）： 見込顧客に表示されるURLアドレスです。\n- ページタイトル（50文字）：ビデオページの上部に表示されるタイトルです。\n- ビデオ名（25文字）： ビデオプレーヤーの下に表示される名前です。\n- ビデオ紹介（150文字）：ビデオの簡単な説明文で、ビデオ名の下に表示されます。\n- ビデオリンク（100文字）：ビデオにアクセスするためのリンクです。\n\nビデオリンクにアクセスすると、カスタマイズしたビデオページに組み込まれるビデオプレーヤーのプレビューが確認できます。\n\nカスタマイズしたYouTubeキャンペーンを保存するには「保存」ボタンをタップします。";
+
+// The text used to indicate where the embed preview will appear.
+"youtubeeditor_embedpreview"        = 	"YouTubeのプレビューはここにロードされます。プレビューを見るにはビデオリンクを設定してください。";
+
+// The title and placeholder text used in the URL Page Name text field.
+"youtubeeditor_pagename"            =   "URLアドレス";
+
+// The title and placeholder text used in the Page Title text field.
+"youtubeeditor_pagetitle"           = 	"ページタイトル";
+
+// The title and placeholder text used in the Video Name text field.
+"youtubeeditor_videoname"           = 	"ビデオ名";
+
+// The title and placeholder text used in the Video Description text field.
+"youtubeeditor_videodescription"    = 	"ビデオ紹介";
+
+// The title and placeholder text used in the Video Link text field.
+"youtubeeditor_videolink"           =   "ビデオリンク";
+
+// The message displayed when a campaign is saved successfully.
+"youtubeeditor_savesuccess"         =   "キャンペーンが保存されました。";
+
+// The message displayed when a campaign fails to save.
+"youtubeeditor_savefailure"         =   "キャンペーンを保存できませんでした。";
+
+// The too many characters validation message.
+/*
+ "{0} - {1}: {2}/{3}"
+ Where:
+ {0} = Field Name
+ {1} = The Translated Text
+ {2} = Current Number of Letters
+ {3} = Max Limit of Letters
+ */
+"youtubeeditor_manyvalidation"     = 	"文字数が上限に達しています。現在の文字数：";
+
+// The too few characters validation message.
+/*
+ "{0} - {1}"
+ Where:
+ {0} = Field Name
+ {1} = The Translated Text
+ */
+"youtubeeditor_fewvalidation"       =   "数字を入力してください。";
+
+
+// Virtual Landing Page Campaign Select
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the Virtual Landing Page Campaigns screen.
+"virtualpagecampaign_title"         =   "ランディングページキャンペーン";
+
+// The Help Text used by the Virtual Landing Page Campaigns screen.
+"virtualpagecampaign_help"          =   "キャンペーンに使用したい企業用のバーチャルランディングページを選択します。\n\nキャンペーンのプレビューを確認するには情報ボタン（iマーク）をタップします。\n\nSMS以外の方法でキャンペーンをシェアするには、画面下部にあるツールバーのアクションボタンをタップします。";
+
+// The message displayed when campaign downloads fail.
+"virtualpagecampaign_getfailure"    =   "バーチャルページをダウンロードできませんでした。もう一度お試しください。";
+
+// The title in the navigation bar of the Virtual Landing Pages Campaign preview webview screen.
+"virtualpagecampaign_previewtitle"  = 	"バーチャルページのプレビュー";
+
+
+// ============================================================================
+// * Campaign Stats
+// ============================================================================
+
+// The title in the navigation bar of the Campaign Stats screen.
+"campaignstats_title"   =   "キャンペーンデータ";
+
+// The Help Text used by the Campaign Stats screen.
+"campaignstats_help"    =   "すべてのモバイルキャンペーンのデータが確認できます。";
+
+
+// ============================================================================
+// * My Badges
+// ============================================================================
+
+// The title in the navigation bar of the My Badges screen.
+"mybadges_title"            =   "マイバッジ";
+
+// The Help Text used by the My Badges screen.
+"mybadges_help"             =   "イベントへの参加やキャンペーン送信などで獲得したバッジがここに表示されます。バッジをタップすると詳細が確認できます。";
+
+// The points label text.
+"mybadges_points"           =   "ポイント";
+
+// The message displayed in the alert shown when a badge is not earned but is selected.
+"mybadges_notearned"        =   "このバッジはまだ獲得していません。";
+
+// The message displayed when badge downloads fail.
+"mybadges_getfailure"       =   "バッジをダウンロードできませんでした。もう一度お試しください。";
+
+// The message displayed when sharing a badge. (Android Only)
+"mybadges_sharebadge"       =	"バッジをシェア";
+
+// The message displayed when a single badge is earned.
+/*
+ "{0}: {1}"
+ Where:
+ {0} = The Translated Text
+ {1} = Badge Name
+ */
+"mybadges_singleearned"     =   "バッジを獲得しました。";
+
+// The message displayed when multiple badges are earned.
+"mybadges_multipleearned"   =   "新しいバッジを獲得しました！";
+
+
+// ============================================================================
+// * Badge Details
+// ============================================================================
+
+// The title in the navigation bar of the Badge Detail screen. (Overridden by Badge name).
+"badgedetails_title"    =   "バッジの詳細";
+
+// The Help Text used by the Badge Detail screen.
+"badgedetails_help"     =   "素晴らしいバッジを獲得！自分を褒めてあげましょう！";
+
+// The message to share when sharing a badge.
+/*
+ "{0}: {1}"
+ Where:
+ {0} = The Translated Text
+ {1} = Badge Name
+ */
+"badgedetails_share"    =   "バッジを獲得";
+
+
+// ============================================================================
+// * Alerts
+// ============================================================================
+
+// The title in the navigation bar of the Alerts screen.
+"alerts_title"              =   "アラート";
+
+// The Help Text used by the Alerts screen.
+"alerts_help"               =   "アカウントが受けたアラートがすべて表示されます。\n\nすべてのアラートを削除するには「ごみ箱」ボタンをタップします。";
+
+// The message displayed when deleting all alerts.
+"alerts_deletealerts"       =   "すべてのアラートを削除しますか？";
+
+// The title in the navigation bar of the Alerts Preview screen.
+"alerts_previewdetailtitle" = 	"アラートの詳細";
+
+// The Help Text used by the Alerts Preview screen.
+"alerts_previewdetailhelp"  = 	"特定のアラートに関する詳細を確認できます。";
+
+
+// ============================================================================
+// * Profile
+// ============================================================================
+
+// The title in the navigation bar of the Profile screen.
+"profile_title"     =   "ユーザープロフィール";
+
+// The Help Text used by the Profile screen.
+"profile_help"      =   "ユーザープロフィールを確認できます。\n\nプロフィール内の情報を編集するには「プロフィール編集」を選択します。\n\nソーシャルメディアのアカウントにログインするには「ソーシャルメディアにログイン」を選択します。\n\n「ちょっといい一言」の投稿スケジュールを編集するには、「定期投稿設定」を選択します。";
+
+// Used to link to a user's profile website. (Android Only)
+"profile_mywebsite"         =   "マイウェブサイト";
+
+
+// The title of the Edit Profile option.
+"profile_editprofiletitle"  = 	"プロフィール編集";
+
+// The description of the Edit Profile option.
+"profile_editprofiledesc"   = 	"名前、連絡先、プロフィール写真などのユーザープロフィール設定を変更できます。";
+
+// The title of the Login to Social Media option.
+"profile_socialmediatitle"  = 	"ソーシャルメディアにログイン";
+
+// The description of the Login to Social Media option.
+"profile_socialmediadesc"   = 	"定期投稿キャンペーンのような機能を利用するには、ソーシャルメディアにログインする必要があります。";
+
+// The title of the Auto-Drip Settings option.
+"profile_autodriptitle"     = 	"定期投稿設定";
+
+// The description of the Auto-Drip Settings option.
+"profile_autodripdesc"      = 	"すべてのソーシャルメディアアカウントに定期投稿するメッセージを作成したり、投稿スケジュールを作成します。";
+
+
+// ============================================================================
+// * Edit Profile
+// ============================================================================
+
+// The title in the navigation bar of the Edit Profile screen.
+"editprofile_title"                 =   "プロフィール編集";
+
+// The Help Text used by the Edit Profile screen.
+"editprofile_help"                  =   "プロフィール情報を編集し、新しいプロフィール写真をアップロードします。\n\nプロフィール写真は、デバイスのカメラロールやソーシャルメディアのアカウントからアップロードできます（まずログインする必要があります）。\n\n変更を保存するには「保存」ボタンをタップします。";
+
+// The Help Text used by the Edit Profile screen. (Android Only)
+"editprofile_help_android"          =   " プロフィール情報を編集し、新しいプロフィール写真をアップロードします。\n\nプロフィール写真は、デバイスのギャラリーやソーシャルメディアのアカウントからアップロードできます（まずログインする必要があります）。\n\n変更を保存するには「保存」ボタンをタップします。 ";
+
+// The title of the Edit Profile Picture Button.
+"editprofile_editprofilepic"        =   "プロフィール写真を編集";
+
+// The title of the Edit Profile Picture Action Sheet menu.
+"editprofile_editprofilepictitle"   =   "プロフィール写真の選択元：";
+
+// The title of the Camera Roll option in the edit profile Action Sheet menu.
+"editprofile_cameraroll"            =   "カメラロール";
+
+// The title of the Gallery option in the edit profile Action Sheet menu. (Android Only)
+"editprofile_gallery"               =   "ギャラリー";
+
+// The title of the Save Settings Button.
+"editprofile_savesettings"          =   "設定を保存";
+
+// The validation message for requiring a first name to be entered.
+"editprofile_firstnamevalidation"   =   "名（ファーストネーム）を入力してください。";
+
+// The validation message for requiring a display name to be entered.
+"editprofile_displaynamevalidation" =   "表示名を入力してください。";
+
+// The message displayed when saving a profile successfully.
+"editprofile_savesuccess"           =   "ユーザープロフィールを保存しました。";
+
+// The message displayed when saving a profile fails.
+"editprofile_savefailure"           = 	"ユーザープロフィールが保存できませんでした。もう一度お試しください。";
+
+
+// ============================================================================
+// * Social Media Login
+// ============================================================================
+
+// The title in the navigation bar of the Social Media screen.
+"socialmedia_title"         =   "ソーシャルメディア";
+
+// The Help Text used by the Social Media screen.
+"socialmedia_help"          =   "ソーシャルネットワークにサインインします。サインインすると、ソーシャルメディアのプロフィール写真をユーザープロフィール用にアップロードしたり、「ちょっといい一言」の定期投稿を行うことができるようになります。";
+
+// The text for the How we use your Social Media Accounts label.
+"socialmedia_howeusetitle"  = 	"ユーザーのソーシャルメディアアカウントの使用目的：";
+
+// The text description for How we user Social Media.
+"socialmedia_howweusedesc"  = 	"- 名前やハンドルネームなどの基本情報を取得します。\n- アプリ内で表示するためのプロフィール写真を取得します。\n- 投稿の許可をリクエストします。";
+
+
+// ============================================================================
+// * Auto-Drip Schedule
+// ============================================================================
+
+// The title in the navigation bar of the Auto-Drip Schedules screen.
+"autodrip_title"        =   "定期投稿スケジュール";
+
+// The Help Text used by the Auto-Drip Schedules screen.
+"autodrip_help"         =   "定期投稿のスケジュールを設定します。投稿のリマインダーを受け取る時間と曜日を設定できます。 \n\nスケジュールを保存するには「保存」ボタンをタップします。\n\n今すぐ投稿するには「今すぐ投稿」をタップします。\n\n投稿の際には、カスタム画像の選択やカスタムメッセージの作成、さらに投稿したいソーシャルネットワークの選択が可能です。";
+
+// The title of the Make Post Now Button.
+"autodrip_makepostnow"  =   "今すぐ投稿";
+
+// The text of the schedule label.
+"autodrip_schedule"     =   "スケジュール";
+
+// The message displayed in the alert when a schedule is saved successfully.
+"autodrip_savesuccess"  =   "スケジュールを保存しました。";
+
+// The message displayed in the alert when a schedule fails to save.
+"autodrip_savefailure"  =   "スケジュールを保存できませんでした。もう一度お試しください。";
+
+
+// The title to the Refresh Button.
+"autodrip_refreshoption"    = 	"リフレッシュ";
+
+// The title to the Library Button.
+"autodrip_library"          = 	"ライブラリ";
+
+// The title to the Camera Roll Button.
+"autodrip_cameraroll"       = 	"カメラロール";
+
+// The title to the Gallery Button. (Android Only)
+"autodrip_gallery"          = 	"ギャラリー";
+
+// The text of the instructions label.
+"autodrip_instructions"     = 	"投稿用メッセージを上に入力してください。";
+
+// The text of the Social Networks label.
+"autodrip_socialnetworks"   = 	"ソーシャルネットワーク";
+
+// The validation message displayed to require at least one social network selected.
+"autodrip_socialvalidation" = 	"投稿先のソーシャルネットワークを少なくとも1つ選択してください。";
+
+// The validation message to require login.
+/*
+ "{0} - {1}"
+ Where:
+ {0} = Social Network Name
+ {1} = The Translated Text
+ */
+"autodrip_loginvalidation"  = 	"投稿するにはまずログインしてください。";
+
+// The title used in Auto-Drip push notifications. (Android Only)
+"autodrip_autodrip"         =   "定期投稿";
+
+// Message added to local notification for auto-dripping.
+"autodrip_timetopost"       =	"定期投稿の時間です！";
+
+
+
+// ============================================================================
+// * Success On Demand
+// ============================================================================
+
+// The title in the navigation bar of the Success On Demand screen.
+"sod_title"     =   "Success On Demand";
+
+// The Help Text used by the Success On Demand screen.
+"sod_help"      =   "「Success On Demand」のすべてのコンテントにアクセスできます！";
+
+
+// ============================================================================
+// * Help Center
+// ============================================================================
+
+// Help Center
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the Help Center screen.
+"helpcenter_title"          =   "ヘルプセンター";
+
+// The Help Text used by the Help Center screen.
+"helpcenter_help"           =   "どこの画面からでも、ナビゲーションバーをタップするだけで気軽にヘルプにアクセスできます。\n\nヘルプ情報が存在する場合は、このような新しいウィンドウに表示されます。\n\n他の画面でタイトルをタップしてみましょう。";
+
+// The text used to instruct users to tap the title to view help tips.
+"helpcenter_instructions"   = 	"ヘルプが必要ですか？上のナビゲーションバーに表示されている「ヘルプセンター」 をタップしてみましょう。\nさあ、タップしてください！";
+
+// The title of the Request Support option.
+"helpcenter_supporttitle"   = 	"サポートをリクエスト";
+
+// The description of the Request Support option.
+"helpcenter_supportdesc"    =   "ヘルプをリクエストまたはアプリに関する問題を報告できます。";
+
+// The title of the Training Videos option.
+"helpcenter_trainingtitle"  = 	"トレーニングビデオ";
+
+// The description of the Training Videos option.
+"helpcenter_trainingdesc"   = 	"このアプリを最大限に利用するためのトレーニングを受けることができます。";
+
+// The title of the Rate the App option.
+"helpcenter_rateapptitle"   = 	"アプリを評価";
+
+// The description of the Rate the App option.
+"helpcenter_rateappdesc"    =   "アプリを気に入っていただけましたか？ぜひApp Storeで5つ星の評価をお願いします！";
+
+
+// Support Request
+// ----------------------------------------------------------------------------
+
+// The title in the Navigation bar of the Support Requests screen.
+"supportrequests_title"                 =   "サポートリクエスト";
+
+// The Help Text used by the Support Requests screen.
+"supportrequests_help"                  =   "これまでに作成したサポートリクエストにアクセスできます。回答を見たいリクエストをタップしてください。\n\n新しいサポートリクエストを作成するには、追加（+）ボタンをタップします。";
+
+
+// The title in the Navigation bar of the Add Support Request screen.
+"addsupportrequest_title"               =   "サポートリクエスト";
+
+// The Help Text used by the Add Support Request screen.
+"addsupportrequest_help"                =   "サポートリクエストを開発者に直接送信します。テキストボックスに内容を記入の上、送信ボタンをタップしてください。";
+
+// The text used to instruct users to create a support request.
+"addsupportrequest_instructions"        =   "サポートリクエストのメッセージを下に入力してください。";
+
+// The message used when sending a support request is successful.
+"addsupportrequest_success"             =   "サポートリクエストを受信しました。";
+
+// The validation message for requiring a message.
+"addsupportrequest_textvalidation"      =   "メッセージを入力してください。";
+
+
+// The title in the Navigation bar of the Support Responses screen.
+"supportresponses_title"                =   "サポートの回答";
+
+// The Help Text used by the Support Responses screen.
+"supportresponses_help"                 =   "サポートリクエストの情報やサポートチームからの回答が確認できます。\n\n返信するには画面下部のメッセージバーを使用します。";
+
+// The title text of the Send button.
+"supportresponses_send"                 =   "送信";
+
+// The placeholder text in the message bar text view.
+"supportresponses_placeholdertext"      =   "メッセージ";
+
+
+// ============================================================================
+// * Jeunesse Only
+// ============================================================================
+
+// The title of the Dashboard menu option.
+"menu_dashboard"                =   "ダッシュボード";
+
+// The title of the My Events menu option.
+"menu_myevents"                 =   "マイイベント";
+
+// The title of the Admin Events menu option.
+"menu_adminevents"              =   "管理者イベント";
+
+// The title of the People I Sponsor menu option.
+"menu_peoplesponsored"          =   "相手 | スポンサー";
+
+// The title of the Genealogy menu option.
+"menu_genealogy"                =   "家系図";
+
+// The title of the Add New Signup menu option.
+"menu_newsignup"                =   "新規サインアップを追加";
+
+// The title of the Messages menu option.
+"menu_messages"                 =   "メッセージ";
+
+// The title of the Reports menu option.
+"menu_reports"                  =   "レポート";
+
+// The title of the JCloud menu option.
+"menu_jcloud"                   =   "JCloud";
+
+
+// The title of the menu section header for JOffice.
+"menu_jofficeheader"            =   "JOFFICE™";
+
+
+// ============================================================================
+// * Jeunesse Dashboard
+// ============================================================================
+
+// The title in the navigation bar of the Dashboard screen.
+"dashboard_title"                   =   "ダッシュボード";
+
+// The Help Text used by the Dashboard screen.
+"dashboard_help"                    =   "ダッシュボードから、ビジネス関連の最新情報をすべて確認できます。\n\n［タブ］ボタンを押してタブを切り替えてください。";
+
+// The title of the Business Snapshot tab.
+"dashboard_businesssnapshot"        =   "ビジネス用スナップショット";
+
+// The title of the Home tab.
+"dashboard_home"                    =   "ホーム";
+
+// The title of the News Feed tab.
+"dashboard_newsfeed"                =   "ニュースフィード";
+
+// The title of the JNews tab.
+"dashboard_jnews"                   =   "JNews";
+
+// The title of the Prospector tab.
+"dashboard_prospector"              =   "Prospector";
+
+
+// ============================================================================
+// * People I Sponsor
+// ============================================================================
+
+// The title in the navigation bar of the People I Sponsor screen.
+"peopleisponsor_title"                  =   "相手 | スポンサー";
+
+// The Help Text used by the People I Sponsor screen.
+"peopleisponsor_help"                   =   "あなたがスポンサーをしている人物を確認したり連絡を取ることができます。詳細を見るには該当のスポンサーをタップします。";
+
+
+// The title in the navigation bar of the People I Sponsor Detail screen. (Replaced by sponsor displayname)
+"peopleisponsordetail_title"            =   "相手 | スポンサー";
+
+// The Help Text used by the People I Sponsor Detail screen.
+"peopleisponsordetail_help"             =   "選択済みのスポンサーの連絡情報を確認できます。連絡を取るにはメールアドレスまたは電話番号をタップします。";
+
+
+// ============================================================================
+// * Genealogy
+// ============================================================================
+
+// The title in the navigation bar of the Genealogy screen.
+"genealogy_title"                  =   "家系図";
+
+// The Help Text used by the Genealogy screen.
+"genealogy_help"                   =   "あなたの家系図をすべて見ることができます。";
+
+
+// ============================================================================
+// * Add New Signup
+// ============================================================================
+
+// The title in the navigation bar of the New Signup screen.
+"newsignup_title"                   =   "新規サインアップ";
+
+// The Help Text used by the New Signup screen.
+"newsignup_help"                    =   "新しいサインアップを追加するには、ユーザー名とウェブサイトURLを入力してから「サインアップ」ボタンをタップします。その上で必要情報を記入してください。";
+
+// The label text for the sponsor text field.
+"newsignup_sponsor"                 =   "スポンサーのウェブサイトURL";
+
+// The title text for the Signup button.
+"newsignup_signup"                  =   "サインアップ";
+
+// The warning message that appears when an invalid value is entered.
+"newsignup_invalidmessage"          =   "有効なユーザー名/ウェブサイトURLを入力してください。";
+
+
+// ============================================================================
+// * Messages
+// ============================================================================
+
+// The title in the navigation bar of the Messages screen.
+"messages_title"            =   "メッセージ";
+
+// The Help Text used by the Messages screen.
+"messages_help"             =   "パーソナルメッセージを確認できます。\n\nメッセージを削除するには、該当メッセージを左方向にスワイプします。\n\n受信箱とごみ箱を切り替えるには、画面下部の「フォルダ」ボタンをタップします。\n\nメッセージをタップすると内容を確認することができます。";
+
+
+// The title of the Inbox Message Folder.
+"messages_inbox"            =   "受信箱";
+
+// The title of the Trash Message Folder.
+"messages_trash"            =   "ごみ箱";
+
+
+// ============================================================================
+// * Reports
+// ============================================================================
+
+// The title in the navigation bar of the Reports List screen.
+"reportslist_title"            =   "レポート";
+
+// The Help Text used by the Reports List screen.
+"reportslist_help"             =   "モバイル端末ですべてのビジネスレポートが確認できます。レポートを表示するにはタップします。";
+
+
+// The title in the navigation bar of the Report Parameters screen.
+"reportparams_title"            =   "レポート必要条件";
+
+// The Help Text used by the Report Parameters screen.
+"reportparams_help"             =   "選択済みのレポートを表示するための必要条件を入力または選択します。";
+
+// The title used by the View Reports button.
+"reportparams_viewreports"      =   "レポートを見る";
+
+
+// The title in the navigation bar of the Report Viewer screen.
+"reportviewer_title"            =   "レポートビューアー";
+
+// The Help Text used by the Report Viewer screen.
+"reportviewer_help"             =   "以前に選択した必要条件を元に表示されたレポートを確認します。";
+
+
+// ============================================================================
+// * JCloud
+// ============================================================================
+
+// The title in the navigation bar of the JCloud screen.
+"jcloud_title"                          =   "JCloud";
+
+// The Help Text used by the JCloud screen.
+"jcloud_help"                           =   "クラウド内のすべてのファイルとディレクトリを表示します。\n\nファイルをダウンロードするには「ダウンロード」ボタンをタップします。\n\nファイルがすでにローカル上にダウンロードされている場合は、「ダウンロード」ボタンは表示されません。ファイルをタップするだけで表示できます。\n\nローカル上にダウンロードされたファイルを削除するには、ファイルを右から左にスワイプして削除ボタンを表示させます。";
+
+// The title used in the Remove Local button.
+"jcloud_removelocal"                    =   "ローカルファイルを削除";
+
+// The title in the navigation bar of the JCloud screen when downloading a file.
+"jcloud_downloading"                    =   "ダウンロード中";
+
+
+// ============================================================================
+// * My Events
+// ============================================================================
+
+// The title in the navigation bar of the My Events List screen.
+"myeventslist_title"                        =   "マイイベント";
+
+// The Help Text used by the My Events List screen.
+"myeventslist_help"                         =   "参加登録をしているイベントのリストを表示します。\n\nイベントをタップすると、そのイベントのアクセスコードが表示されます。";
+
+// The notice for not being registered for any events.
+"myeventslist_notregistered"                =   "現在、どのイベントにも登録していません。";
+
+
+// The title in the navigation bar of the My Events Detail screen. (Replaced by event name)
+"myeventsdetail_title"                      =   "マイQRコード";
+
+// The Help Text used by the My Events Detail screen.
+"myeventsdetail_help"                       =   "選択済みのイベント用のQRコードです。イベントの管理者にこれを見せるとアクセス可能となります。\n\nイベント会場ではインターネットの接続状態が悪かったり接続がまったくできない場合があります。そのため、QRコードは必ず「カメラロールに保存」ボタンをタップしてダウンロードしておいてください。";
+
+// The Help Text used by the My Events Detail screen. (Android Only)
+"myeventsdetail_help_android"                       =   "選択済みのイベント用のQRコードです。イベントの管理者にこれを見せるとアクセス可能となります。\n\nイベント会場ではインターネットの接続状態が悪かったり接続がまったくできない場合があります。そのため、QRコードは必ず「ギャラリーに保存」ボタンをタップしてダウンロードしておいてください。";
+
+// The title in the Save to Camera Roll button.
+"myeventsdetail_savetocameraroll"           =   "カメラロールに保存";
+
+// The title in the Save to Gallery button. (Android Only)
+"myeventsdetail_savetogallery"              =   "ギャラリーに保存";
+
+// The alert text for reminding users to download an event QR Code.
+"myeventsdetail_downloadreminder"           =   "イベント会場ではインターネットの接続状態が悪かったり接続がまったくできない場合があります。そのため、QRコードは必ず「カメラロールに保存」ボタンをタップしてダウンロードしておいてください。";
+
+// The alert text for reminding users to download an event QR Code. (Android Only)
+"myeventsdetail_downloadreminder_android"   =   "イベント会場ではインターネットの接続状態が悪かったり接続がまったくできない場合があります。そのため、QRコードは必ず「ギャラリーに保存」ボタンをタップしてダウンロードしておいてください。";
+
+// The alert text verifying a QR code was saved successfully.
+"myeventsdetail_qrcodesavesuccess"          =   "QRコードを保存しました。";
+
+// The alert text notifying the user that a QR code failed to save.
+"myeventsdetail_qrcodesavefailure"          =   "QRコードが保存できませんでした。";
+
+
+// ============================================================================
+// * Admin Events
+// ============================================================================
+
+// The title in the navigation bar of the Admin Events List screen.
+"admineventslist_title"         =   "管理者イベント";
+
+// The Help Text used by the Admin Events List screen.
+"admineventslist_help"          =   "もうすぐ開催されるすべてのイベントと、それらに参加する登録者数やサインアップ数を表示します。";
+
+// The text used to indicate the number of signups for an event.
+"admineventslist_signups"       =   "サインアップ数";

@@ -1,0 +1,1486 @@
+// ============================================================================
+// * Android
+// ============================================================================
+
+"android_exitconfirm"				=	"종료하시겠습니까?";
+"android_appnotfound"				=	"마켓에서 앱을 찾을 수 없습니다.";
+"android_nogoogleplus"				=	"Google+를 설치해야 합니다.";
+"android_notificatonssetting"		=	"알림 수신";
+
+
+// ============================================================================
+// * General
+// ============================================================================
+
+"general_yes"               = 	"예";
+"general_no"                =   "아니오";
+"general_on"				= 	"켜짐";
+"general_off"				=	"꺼짐";
+"general_accept"            =   "수락";
+"general_decline"           =   "거절";
+"general_success"           =   "성공";
+"general_error"             = 	"오류";
+"general_notice"            = 	"알림";
+"general_ok"                =   "확인";
+"general_cancel"            = 	"취소";
+"general_loading"           = 	"불러오는 중";
+"general_none"              = 	"없음";
+"general_next"              = 	"다음";
+"general_done"              = 	"완료";
+"general_save"              = 	"저장";
+"general_delete"            = 	"삭제";
+"general_addnew"            =   "새로 추가";
+"general_add"				=	"추가";
+"general_create"            =   "만들기";
+"general_edit"              =   "편집";
+"general_seemore"           =   "더 보기";
+"general_more"              =   "더 보기";
+"general_reset"             = 	"초기화";
+"general_post"              = 	"등록";
+"general_submit"            =   "제출";
+"general_share"             =   "공유";
+"general_exit"              =   "종료";
+"general_settings"          =   "설정";
+"general_info"              =   "정보";
+"general_unknownerror"      =   "알 수 없는 오류가 발생했습니다. 다시 시도하세요.";
+"general_nointernet"		=	"인터넷에 연결할 수 없습니다. 인터넷 설정 확인 후 다시 시도하세요.";
+"general_cantmakecalls"     =   "이 기기에서는 통화할 수 없습니다.";
+"general_cantsendsms"     	=   "이 기기에서는 SMS 메시지를 보낼 수 없습니다.";
+"general_cantsendemail"     =   "이 기기에서는 이메일을 보낼 수 없습니다. 이메일 설정 확인 후 다시 시도하세요.";
+
+"general_back"              =   "뒤로";
+"general_forward"           =   "앞으로";
+"general_webpageerror"      =   "웹 페이지를 불러올 수 없습니다.";
+
+"general_unknownname"       =   "알 수 없는 이름";
+"general_username"          = 	"아이디";
+"general_firstname"         = 	"이름";
+"general_lastname"          = 	"성";
+"general_name"              =   "이름";
+"general_language"          =   "언어";
+"general_address"           =   "주소";
+"general_city"              =   "도시";
+"general_state"             =   "주";
+"general_zip"               =   "우편번호";
+"general_province"          =   "도";
+"general_postalcode"        =   "우편번호";
+"general_country"           =   "국가";
+"general_phonenumber"       = 	"전화번호";
+"general_phone"             = 	"전화";
+"general_secondphone"       =   "전화번호 2";
+"general_cell"              = 	"휴대전화";
+"general_work"              = 	"직장";
+"general_email"             = 	"이메일";
+"general_status"            = 	"상태";
+"general_displayname"       = 	"화면 표시명";
+"general_title"             = 	"직책";
+"general_contact"           =   "연락처";
+"general_lead"              =   "리드";
+"general_facebookurl"       = 	"Facebook 주소";
+"general_twitterhandle"     = 	"Twitter 핸들";
+"general_skypeusername"     = 	"Skype 아이디";
+"general_devicemodel"       =   "기기명";
+"general_devicelanguage"    =   "기기 언어";
+"general_deviceos"          =   "기기 OS";
+"general_appversion"        =   "앱 버전";
+
+"general_sunday"            = 	"일요일";
+"general_monday"            =   "월요일";
+"general_tuesday"           = 	"화요일";
+"general_wednesday"         = 	"수요일";
+"general_thursday"          = 	"목요일";
+"general_friday"            = 	"금요일";
+"general_saturday"          = 	"토요일";
+
+"general_days"              =   "일";
+"general_hours"             =   "시간";
+
+"general_facebook"          = 	"Facebook";
+"general_twitter"           = 	"Twitter";
+"general_googleplus"        = 	"Google+";
+
+
+// ============================================================================
+// * Language Select
+// ============================================================================
+
+"language_select"           =   "언어 선택";
+
+
+// ============================================================================
+// * App Rating
+// ============================================================================
+
+
+// The title of the prompt for app rating.
+"rateappprompt_title"   = 	"앱 평점 등록";
+
+// The message in the prompt for app rating.
+"rateappprompt_message" = 	"앱이 마음에 드셨나요? 현재 버전의 평점을 등록하시겠어요?";
+
+// The cancel text of the prompt for app rating.
+"rateappprompt_cancel"  = 	"나중에 보기";
+
+
+// ============================================================================
+// * Login
+// ============================================================================
+
+// The title in the navigation bar of the login screen.
+"login_title"                   =	"환영합니다";
+
+// The Help Text used by the login screen.
+"login_help"                    =   "로그인하려면 아이디와 비밀번호를 입력하세요. \n\n\"로그인 상태 유지\" 스위치를 누르면 아이디와 비밀번호를 저장해둘 수 있습니다. 그런 다음 앱을 실행하면 자동으로 로그인할 수 있습니다!";
+
+// The placeholder text for the password text field.
+"login_password"                = 	"비밀번호";
+
+// The title of the Login Button, and any alert message box.
+"login_login"                   = 	"로그인";
+
+// The label for the Keep Me Connected Switch.
+"login_keepmeconnected"         =   "로그인 상태 유지";
+
+// The Version label on indicating the app version.
+"login_version"                 = 	"버전";
+
+// The text used in the loading indicator for the login screen.
+"login_loading"                 = 	"로그인 중";
+
+// The login error/failure message.
+"login_loginerror"              = 	"로그인 중 오류가 발생했습니다. 아이디와 비밀번호 확인 후 다시 시도하세요.";
+
+
+// The title text of the login method prompt.
+"login_loginmethodprompt"       =   "계정 로그인 방식을 선택하세요.";
+
+// The title of the Use Touch ID button.
+"login_methodtouchid"           =   "Touch ID 사용";
+
+// The title of the Remember Username & Password button.
+"login_methoduserandpass"       =   "아이디 및 비밀번호 저장";
+
+// The title of the Remember Username only button.
+"login_methoduser"              =   "아이디만 저장";
+
+
+// ============================================================================
+// * Terms of Service
+// ============================================================================
+
+// The title in the navigation bar of the Terms of Service screen.
+"tos_title"             =   "이용약관";
+
+// The Help Text used by the login screen.
+"tos_help"              =   "본 어플리케이션의 사용에 적용되는 이용약관을 자세히 읽어주십시오. 이용약관은 수락 또는 거절할 수 있습니다. 이용약관을 거절하면 어플리케이션의 기능을 정상적으로 이용할 수 없게 됩니다.";
+
+
+// ============================================================================
+// * Menu
+// ============================================================================
+
+// The title of the Home menu option.
+"menu_home"             =   "홈";
+
+// The title of the Optimism menu option.
+"menu_optimism"         =   "옵티미즘";
+
+// The title of the My Leads menu option.
+"menu_myleads"          = 	"내 리드";
+
+// The title of the Manage Groups menu option.
+"menu_managegroups"     = 	"그룹 관리";
+
+// The title of the Training Videos menu option.
+"menu_trainingvideos"   =   "트레이닝 동영상";
+
+// The title of the Video Campaign menu option.
+"menu_videocampaign"    = 	"동영상 캠페인";
+
+// The title of the Group SMS menu option.
+"menu_groupsms"         =   "단체 SMS";
+
+// The title of the Custom Campaign menu option.
+"menu_customcampaign"   =   "커스텀 캠페인";
+
+// The title of the Campaign Stats menu option.
+"menu_campaignstats"    = 	"캠페인 통계";
+
+// The title of the My Badges menu option.
+"menu_mybadges"         =   "내 뱃지";
+
+// The title of the Alerts menu option.
+"menu_alerts"           =   "알람";
+
+// The title of the Profile menu option.
+"menu_profile"          =   "프로필";
+
+// The title of the Back Office menu option.
+"menu_backoffice"       =   "Backoffice Web";
+
+// The title of the Success On Demand menu option.
+"menu_sod"              =   "Success On Demand";
+
+// The title of the Help Center menu option.
+"menu_helpcenter"       = 	"도움말 센터";
+
+// The title of the Logout menu option.
+"menu_logout"           =   "로그아웃";
+
+
+// The title of the menu section header for Home.
+"menu_homeheader"           =   "홈";
+
+// The title of the menu section header for Lead Management.
+"menu_leadmanagementheader" = 	"내 리드";
+
+// The title of the menu section header for Promotions.
+"menu_promotions"           = 	"프로모션";
+
+// The title of the menu section header for Other.
+"menu_otherheader"          = 	"기타";
+
+// The title of the menu section header for More.
+"menu_moreheader"           = 	"더 보기";
+
+
+
+// ============================================================================
+// * Daily Optimism
+// ============================================================================
+
+// The title in the navigation bar of the daily optimism screen.
+"dailyoptimism_title"       = 	"데일리 옵티미즘";
+
+// The Help Text used by the daily optimism screen.
+"dailyoptimism_help"        = 	"데일리 옵티미즘을 보고 공유하세요!\n\n'라이브러리'를 누르고 지난 옵티미즘을 선택해 공유할 수 있습니다.";
+
+// The title of the Share Button.
+"dailyoptimism_share"       = 	"오늘의 옵티미즘 공유하기";
+
+// The title of the Optimism Library Button.
+"dailyoptimism_library"     = 	"라이브러리";
+
+// The title of the Auto-Drip Settings Button.
+"dailyoptimism_autodrip"    = 	"오토 드립 설정";
+
+
+
+// ============================================================================
+// * Optimism Library
+// ============================================================================
+
+// The title in the navigation bar of the optimism library screen.
+"optimismlibrary_title"     = 	"라이브러리";
+
+// The Help Text used by the optimism library screen.
+"optimismlibrary_help"      = 	"공유를 계속하려면 라이브러리에서 옵티미즘을 선택하세요.";
+
+// The title of the Filter Button.
+"optimismlibrary_filter"    = 	"필터";
+
+// The title of Optimism Filter action sheet.
+"optimismlibrary_filterby"  =   "필터 기준";
+
+
+// ============================================================================
+// * Optimism Library
+// ============================================================================
+
+// The title in the navigation bar of the share optimism screen.
+"shareoptimism_title"   = 	"옵티미즘";
+
+// The Help Text used by the share optimism screen.
+"shareoptimism_help"    = 	"라이브러리에서 선택한 데일리 옵티미즘을 보고 공유하세요!\n\n라이브러리로 돌아가려면 뒤로 가기를 누르세요.";
+
+// The title of the Share This Optimism Button.
+"shareoptimism_share"   = 	"이 옵티미즘 공유하기";
+
+
+// ============================================================================
+// * My Leads
+// ============================================================================
+
+// The title in the navigation bar of the my leads screen.
+"myleads_title"             =   "내 리드";
+
+// The Help Text used by the my leads screen.
+"myleads_help"              =   "내 현재 리드를 보고 편집합니다.\n\n'새로 추가(+)' 버튼을 누르면 연락처에서 리드를 추가하거나 직접 입력할 수 있습니다.\n\n리드를 누르면 정보를 변경할 수 있습니다. 리드를 왼쪽으로 밀면 추가 옵션을 확인할 수 있습니다.\n\n'정렬' 버튼을 누르면 리드 목록을 정렬할 수 있습니다. 리드는 오름차순이나 내림차순으로 정렬 가능합니다.\n\n또한 '필터' 버튼을 누르거나 검색 막대를 이용해 필터를 적용할 수 있습니다.";
+
+// The title of the Sort Button.
+"myleads_sort"              =   "정렬";
+
+// The title of the Sort Action Sheet Menu.
+"myleads_sortby"            =   "정렬 기준";
+
+// The title of the Ascending Segment Control Button.
+"myleads_ascending"         =   "오름차순";
+
+// The title of the Descending Segment Control Button.
+"myleads_descending"        =   "내림차순";
+
+// The title of the Filter Button.
+"myleads_filter"            =   "필터";
+
+// The title of the Filter Action Sheet Menu.
+"myleads_filterby"          = 	"필터 기준";
+
+// The title of the Change Status Action Menu.
+"myleads_changestatusto"    =   "상태 정보 변경";
+
+// The warning message shown when changing a lead to the cold status.
+"myleads_coldconfirm"       =   "관심도 상태에 따라 리드를 정렬하지 않으면 이 리드는 표시되지 않습니다. 이 리드를 관심도 하 상태로 표시할까요?";
+
+// The title of the Hot option during Filtering.
+"myleads_statushot"         = 	"관심도 상";
+
+// The title of the Warm option during Filtering.
+"myleads_statuswarm"        = 	"관심도 중";
+
+// The title of the Cold option during Filtering.
+"myleads_statuscold"        = 	"관심도 하";
+
+// The title of the New option during Filtering.
+"myleads_statusnew"         = 	"신규";
+
+// The title of the Add Lead Action Sheet Menu.
+"myleads_addlead"           = 	"리드 추가";
+
+// The title for the Add from Contacts option during Add Lead.
+"myleads_addcontact"        = 	"연락처에서 추가";
+
+// The title for the Add New Lead option during Add Lead.
+"myleads_addnewlead"        = 	"새 리드 추가";
+
+// The title of the alert message boxes for any Add Contact action.
+"myleads_contacts"          = 	"연락처";
+
+// The message displayed when a contact is added successfully.
+"myleads_addcontactsuccess" =   "연락처가 추가되었습니다!";
+
+// The Add Contact error/failure message.
+"myleads_addcontacterror"   =   "연락처 추가 중 오류가 발생했습니다.";
+
+// Displayed in a My Leads table cell when no contact info is available. (phone and/or email).
+"myleads_nocontactinfo"     = 	"사용 가능한 연락처 정보가 없습니다.";
+
+// The title of the Send Opt In/Out Link option during Leads More Options.
+"myleads_sendoptinout"      =   "수신/거부 링크 보내기";
+
+// The title of the Send Signup Link option during Leads More Options.
+"myleads_signuplink"        = 	"회원 가입 링크 보내기";
+
+// The title of the Send Free Sample Link option during Leads More Options.
+"myleads_freesample"        = 	"무료 샘플 링크 보내기";
+
+// The title of the Send My Video Player option during Leads More Options.
+"myleads_videoplayer"       = 	"내 동영상 플레이어 보내기";
+
+// The title of the Local Device View option during Leads More Options.
+"myleads_deviceview"        = 	"로컬 기기 뷰";
+
+// Error message when a lead has no phone number.
+"myleads_noleadphone"       =   "선택한 리드에 지정한 전화번호가 없습니다.";
+
+// Error message when a lead has no email address.
+"myleads_noleademail"       =   "선택한 리드에 지정한 이메일이 없습니다.";
+
+
+// Message for sending SMS displayed in the Local Device View Screen under My Leads
+"localdevice_sendmessage"			=	"메시지 보내기";
+
+// Message for create new device contact displayed in the Local Device View Screen under My Leads
+"localdevice_createnewcontact"		=	"새 연락처 만들기";
+
+// Message for adding to existing contact displayed in the Local Device View Screen under My Leads
+"localdevice_addexistingcontact"	=	"기존 연락처에 추가";
+
+
+// ============================================================================
+// * Add Lead
+// ============================================================================
+
+// The title in the navigation bar of the add lead screen.
+"addlead_title"             =   "리드 추가";
+
+// The Help Text used by the add lead screen.
+"addlead_help"              =   "새 리드에 대해 추가하고 싶은 정보를 입력합니다.\n\n새 리드에는 반드시 이름을 입력해야 합니다.\n\n새 리드에는 또한 반드시 최소 하나의 연락처 정보(전화번호 또는 이메일)을 입력해야 합니다.";
+
+// The title of the Add Lead Button.
+"addlead_addlead"           =   "리드 추가";
+
+// The message of the success alert.
+"addlead_addsuccessful"     =   "리드가 추가되었습니다!";
+
+// The message of the failure alert.
+"addlead_addfailure"        =   "리드 추가 중 오류가 발생했습니다.";
+
+// The validation message for requiring a first name.
+"addlead_namevalidation"    =   "이름을 반드시 입력하세요.";
+
+// The validation message for requiring at least one contact method.
+"addlead_contactvalidation" = 	"연락처 정보(전화번호나 이메일)를 반드시 입력하세요.";
+
+
+// ============================================================================
+// * Lead Details
+// ============================================================================
+
+// The title in the navigation bar of the lead details screen.
+"leaddetails_title"                             = 	"리드 정보";
+
+// The Help Text used by the lead details screen.
+"leaddetails_help"                              = 	"각 리드를 조회하거나 편집합니다. 로그, 통계, 노트 등을 확인할 수 있습니다. '액션' 버튼을 누르면 이메일 캠페인을 예약하고 알림을 설정할 수 있습니다. '리드 삭제' 버튼을 누르면 선택한 리드를 삭제합니다.";
+
+// The title of the change image alert.
+"leaddetails_changeimagetitle"                  =   "이미지 변경";
+
+// The title of the Photo Library button.
+"leaddetails_photolibrary"                      =   "사진 라이브러리";
+
+// The title of the Take Picture button.
+"leaddetails_takepicture"                       =   "사진 촬영";
+
+// The title of the Remove Current Image button.
+"leaddetails_removeimage"                       =   "현재 이미지 삭제";
+
+// The title of the Actions tab.
+"leaddetails_actionstab"                        =   "액션";
+
+// The title of the Log tab.
+"leaddetails_logtab"                            =   "로그";
+
+// The title of the Stats tab.
+"leaddetails_statstab"                          =   "통계";
+
+// The title of the Notes tab.
+"leaddetails_notestab"                          =   "노트";
+
+// The title of the Photo Library Unavailable alert.
+"leaddetails_nophotolibrarytitle"               =   "사진 라이브러리 사용 불가";
+
+// The message of the Photo Library Unavailable alert.
+"leaddetails_nophotolibrarymessage"             =   "앱이 사진 라이브러리에 접근할 수 없습니다.";
+
+// The title of the Camera Unavailable alert.
+"leaddetails_nocameratitle"                     =   "카메라 사용 불가";
+
+// The message of the Camera Unavailable alert.
+"leaddetails_nocameramessage"                   =   "앱이 이 기기의 카메라에 접근할 수 없습니다.";
+
+// The message displayed when a lead is opted in to receive emails.
+"leaddetails_emailoptedin"                      =   "이메일 수신을 선택했습니다.";
+
+// The message displayed when a lead is opted out to receive emails.
+"leaddetails_emailoptedout"                     =   "이메일 거부를 선택했습니다.";
+
+// The message displayed when a lead is opted in to receive SMS messages.
+"leaddetails_smsoptedin"                        =   "SMS 메시지 수신을 선택했습니다.";
+
+// The message displayed when a lead is opted out to receive SMS messages.
+"leaddetails_smsoptedout"                       =   "SMS 메시지 거부를 선택했습니다.";
+
+// The title of the Delete Lead button.
+"leaddetails_deletelead"                        =   "리드 삭제";
+
+// The title of the delete lead confirmation alert.
+"leaddetails_deleteleadtitle"                   =   "현재 리드 삭제";
+
+// The message of the delete lead confirmation alert.
+"leaddetails_deleteleadmessage"                 =   "이 리드를 정말 삭제하시겠습니까?";
+
+
+// ============================================================================
+// * Edit Lead
+// ============================================================================
+
+// The title in the navigation bar of the Edit Lead screen.
+"editlead_title"                =   "리드 편집";
+
+// The title in the navigation bar of the See More version fo the Edit Lead screen.
+"editlead_titleseemore"         =   "리드 정보 보기";
+
+// The Help Text used by the Edit Lead screen.
+"editlead_help"                 =   "화면에서 '편집' 버튼을 누르면 리드 정보를 편집할 수 있습니다. 리드 관련 데이터를 입력하고 '저장'을 누르면 변경한 내용을 저장합니다.";
+
+// The title of the Basic Info section.
+"editlead_basicinfo"            =   "기본 정보";
+
+// The title of the Contact Info section.
+"editlead_contactinfo"          =   "연락처 정보";
+
+// The title of the Address Info section.
+"editlead_addressinfo"          =   "주소 정보";
+
+// The message of the success alert.
+"editlead_savesuccessful"       =   "리드 저장 완료!";
+
+
+// ============================================================================
+// * Lead Actions
+// ============================================================================
+
+// The title in the navigation bar of the lead actions screen.
+"leadactions_title"                     =   "리드 액션";
+
+// The Help Text used by the lead actions screen.
+"leadactions_help"                      =   "권장 및 예약 액션을 확인, 시작, 취소합니다. '실행' 버튼을 누르면 해당 리드에 대한 권장 액션을 실행합니다. 새 예약 액션을 추가하려면 '새로 추가' 버튼을 누릅니다. 새 예약 액션을 취소하려면 '취소' 버튼을 누릅니다.";
+
+// The title of the recommended actions section.
+"leadactions_recommendedactions"        =   "권장 액션";
+
+// The message shown when no recommended actions exist.
+"leadactions_norecommendedactions"      =   "검색된 권장 액션이 없습니다.";
+
+// The title of the scheduled actions section.
+"leadactions_scheduledactions"          =   "예약 액션";
+
+// The message shown when no scheduled actions exist.
+"leadactions_noscheduledactions"        =   "검색된 예약 액션이 없습니다.";
+
+// The message of the cancel scheduled action alert.
+"leadactions_cancelscheduledaction"     =   "이 액션을 정말 취소하시겠습니까?";
+
+// The title of the Do It button.
+"leadactions_doit"                      =   "실행";
+
+// The title of the add new alert for email campaign.
+"leadactions_emailcampaign"             =   "이메일 캠페인";
+
+// The title of the add new alert for single email.
+"leadactions_singleemail"               =   "단일 이메일";
+
+// The title of the add new alert for reminder.
+"leadactions_reminder"                  =   "알림";
+
+
+
+// The title in the navigation bar of the reminder creation screen.
+"reminder_title"                        =   "알림 만들기";
+
+// The Help Text used by the reminder creation screen.
+"reminder_help"                         =   "제목과 짧은 내용으로 구성된 알림 메시지를 만듭니다. 날짜 선택기를 사용해 알림을 예약할 날짜를 선택하세요.";
+
+// The label used in the title text field.
+"reminder_titlelabel"                   =   "직책";
+
+// The label used in the message text field.
+"reminder_messagelabel"                 =   "메시지";
+
+// The error message shown when a user doesn't enter a title.
+"reminder_titleneeded"                  =   "알림 제목을 입력해야 합니다.";
+
+// The error message shown when a user doesn't enter a message.
+"reminder_messageneeded"                =   "알림 메시지 내용을 입력해야 합니다.";
+
+
+
+// The title in the navigation bar of the email campaign picker screen.
+"emailcampaign_title"                   =   "이메일 캠페인";
+
+// The Help Text used by the email campaign picker screen.
+"emailcampaign_help"                    =   "사용 가능한 모든 이메일 캠페인에서 선택한 리드에 대해 예약할 캠페인을 선택합니다. 캠페인을 누르면 해당 리드에 대해 곧바로 캠페인을 시작합니다.";
+
+
+// The title in the navigation bar of the email messages picker screen.
+"emailmessages_title"                   =   "이메일 메시지";
+
+// The Help Text used by the email messages picker screen.
+"emailmessages_help"                    =   "선택한 리드에 전송할 개별 이메일 메시지를 선택합니다. '정보(i)' 버튼을 누르면 메시지를 보내기 전에 내용을 미리 볼 수 있습니다.";
+
+
+// ============================================================================
+// * Lead Log
+// ============================================================================
+
+// The title in the navigation bar of the lead log screen.
+"leadlog_title"             =   "리드 로그";
+
+// The Help Text used by the lead log screen.
+"leadlog_help"              =   "선택한 리드에 대한 이전까지의 액션 또는 이벤트를 확인합니다.";
+
+
+// ============================================================================
+// * Lead Stats
+// ============================================================================
+
+// The title in the navigation bar of the lead stats screen.
+"leadstats_title"               =   "리드 통계";
+
+// The Help Text used by the lead stats screen.
+"leadstats_help"                =   "선택한 리드에 대한 모든 이메일 및 동영상 통계를 확인합니다.";
+
+// The title shown for the email stats section.
+"leadstats_emailstats"          =   "이메일 통계";
+
+// The title shown for the video stats section.
+"leadstats_videostats"          =   "동영상 통계";
+
+// The key label for emails read.
+"leadstats_emailsread"          =   "읽은 이메일";
+
+// The key label for emails not read.
+"leadstats_emailsnotread"       =   "읽지 않은 이메일";
+
+// The label for how many times a video was watched.
+"leadstats_watched"             =   "시청함";
+
+// The label for how long a video was watched.
+"leadstats_duration"            =   "길이";
+
+// The unit label for the number of times a video was watched.
+"leadstats_times"               =   "회";
+
+// The unit label for the duration time in seconds.
+"leadstats_secs"                =   "초";
+
+
+// ============================================================================
+// * Lead Notes
+// ============================================================================
+
+// The title in the navigation bar of the lead notes screen.
+"leadnotes_title"               =   "리드 노트";
+
+// The Help Text used by the lead notes screen.
+"leadnotes_help"                =   "선택한 리드에 대해 노트를 추가하거나 확인합니다. 새 노트를 추가하려면 '더하기(+)' 버튼을 누릅니다.";
+
+// The title of the new note alert.
+"leadnotes_newnote"             =   "새 노트";
+
+
+// ============================================================================
+// * Manage Groups
+// ============================================================================
+
+// The title in the navigation bar of the manage groups screen.
+"managegroups_title"            = 	"그룹";
+
+// The Help Text used by the manage groups screen.
+"managegroups_help"             = 	"리드 그룹을 확인하고 편집해 쉽고 빠르게 캠페인을 보낼 수 있습니다!\n\n'편집(연필)' 버튼을 누르면 그룹을 삭제할 수 있습니다.\n\n'새로 추가 +' 버튼을 누르면 새 그룹을 만들 수 있습니다.";
+
+// Label to indicate the number of contacts in a group.
+"managegroups_contacts"         = 	"연락처";
+
+// The title used in the new group alert.
+"managegroups_newgroup"         = 	"새 그룹";
+
+// The message used in the new group alert.
+"managegroups_newgroupname"     = 	"새 그룹 이름:";
+
+// The placeholder text in the group name text field.
+"managegroups_groupname"        = 	"그룹 이름";
+
+// The validation message for requiring a group name.
+"managegroups_namevalidation"   =   "그룹 이름을 반드시 입력하세요.";
+
+
+// ============================================================================
+// * Group Details
+// ============================================================================
+
+// The title in the navigation bar of the group details screen. (Overwritten by group name).
+"groupdetails_title"    = 	"그룹 정보";
+
+// The Help Text used by the lead details screen.
+"groupdetails_help"     = 	"현재 그룹의 리드를 봅니다.\n\n'편집(연필)' 버튼을 누르면 리드를 삭제할 수 있습니다.\n\n'새로 추가 +' 버튼을 누르면 현재 그룹에 리드를 추가할 수 있습니다.";
+
+
+// ============================================================================
+// * Multi-use Promotions
+// ============================================================================
+
+// Select Groups
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the Select Groups screen.
+"selectgroups_title"                =   "그룹 선택";
+
+// The Help Text used by the Select Groups screen.
+"selectgroups_help"                 =   "캠페인을 보내려는 리드 그룹을 선택하세요.";
+
+// The instruction text above groups table.
+"selectgroups_instructions"         =   "이 캠페인을 보낼 그룹을 선택하세요:";
+
+// The title of the New Group option in the Action Sheet menu.
+"selectgroups_newgroup"             =   "새 그룹";
+
+// The title of the Select from Phonebook option in the Action Sheet menu.
+"selectgroups_selectcontacts"       = 	"전화번호부에서 선택";
+
+// The validation message for requiring at least one contact.
+"selectgroups_contactvalidation"    = 	"하나 이상의 전화번호가 저장된 그룹을 선택해야 메시지를 보낼 수 있습니다.";
+
+
+// Select Contacts
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the Select Contacts screen.
+"selectcontacts_title"              = 	"연락처 선택";
+
+// The Help Text used by the Select Contacts screen.
+"selectcontacts_help"               = 	"사용할 연락처를 선택하세요.\n\n모바일 기기에 저장한 연락처 옆에는 전화 아이콘이 표시됩니다. Backoffice 리드 옆에는 주소록 아이콘이 표시됩니다.\n\n검색 막대를 이용하면 연락처에 필터를 적용해 검색할 수 있습니다. '키보드 숨김' 버튼을 누르면 검색 후 키보드를 숨길 수 있습니다.\n\n모바일 기기에 저장한 연락처는 Backoffice 리드에 자동으로 추가됩니다.";
+
+// The primary phone label. (Other labels are handled by OS.)
+"selectcontacts_primary"            =   "대표";
+
+// The message of the alert displayed when a contact fails to be added as a lead or to a group.
+"selectcontacts_uploadcontacterror" =   "연락처 업로드 오류.";
+
+// The message of the alert displayed when a lead fails to be added to a group.
+"selectcontacts_addgroupleaderror"  =   "그룹 리드 추가 오류.";
+
+
+// Edit Message
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the Edit Message screen.
+"editmessage_title"         =   "메시지 편집";
+
+// The Help Text used by the Edit Message screen.
+"editmessage_help"          =   "그룹에 보낼 메시지 내용을 입력하세요.\n\n입력한 메시지를 지우려면 'X' 버튼을 누르세요.\n\n리드 이름을 메시지에 넣으려면 '사용자' 버튼을 누르세요.\n\n계속 하려면 '다음' 버튼을 누르세요.";
+
+// The instruction text above the message text field.
+"editmessage_instructions"  =   "그룹에 보낼 SMS 메시지를 입력하세요.";
+
+
+// Send Message
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the Send Message screen.
+"sendmessage_title"         =   "메시지 보내기";
+
+// The Help Text used by the Send Message screen.
+"sendmessage_help"          =   "캠페인을 보낼 리드를 확인하고 '메시지 전송'을 눌러 전송하세요.\n\n캠페인 선택 작업을 처음부터 다시 시작하려면 '취소' 버튼을 누르세요.";
+
+// The instruction text above the contacts table.
+"sendmessage_instructions"  = 	"보내기 전 검토하세요.";
+
+// The title of the Send Messages button.
+"sendmessage_sendmessages"  =   "메시지 전송";
+
+// The message that is displayed upon successfully sending an SMS message.
+"sendmessage_sendsuccess"   = 	"메시지를 보냈습니다.";
+
+// Toasted when an SMS message is sent. (Android Only)
+"sendmessage_messagesent"   =	"메시지 전송 완료";
+
+
+// ============================================================================
+// * Training Videos Select
+// ============================================================================
+
+// The title in the navigation bar of the training videos screen.
+"trainingvideos_title"  =   "트레이닝 동영상";
+
+// The Help Text used by the training videos screen.
+"trainingvideos_help"   =   "트레이닝 동영상을 봅니다.\n\n동영상 열을 눌러 재생하세요.";
+
+
+// ============================================================================
+// * Video Campaign Select
+// ============================================================================
+
+// The title in the navigation bar of the video campaign screen.
+"videocampaign_title"                   =   "동영상 캠페인";
+
+// The Help Text used by the video campaign screen.
+"videocampaign_help"                    =   "동영상 캠페인을 선택해 재생하고 전송합니다.\n\n캠페인의 '정보(i)' 버튼을 누르면 미리 볼 수 있습니다.\n\n캠페인을 선택하고 '다음' 버튼을 눌러 계속 합니다. \n\n캠페인 선택 후 하단의 '옵션' 버튼을 누르면 공유할 수 있습니다.";
+
+// The title in the navigation bar of the video campaign preview webview screen.
+"videocampaign_previewtitle"            = 	"동영상 캠페인 미리보기";
+
+// The text for the no videos found label.
+"videocampaign_novideosfound"           = 	"검색된 동영상이 없습니다.";
+
+// The text for the no categories found label.
+"videocampaign_nocategoriesfound"       =   "검색된 카테고리가 없습니다.";
+
+// The title of the filter button.
+"videocampaign_filter"                  =   "필터";
+
+
+// ============================================================================
+// * Custom Campaign Select
+// ============================================================================
+
+// The title in the navigation bar of the Custom Campaign screen.
+"customcampaign_title"              = 	"커스텀 캠페인";
+
+// The Help Text used by the Custom Campaign screen.
+"customcampaign_help"               = 	"리드 그룹에 다양한 커스텀 캠페인을 보냅니다.\n\n카메라 롤 옵션을 눌러 내 휴대폰 카메라 롤의 사진을 사용해 사진 캠페인을 보낼 수 있습니다.\n\n옵티미즘 라이브러리 옵션을 누르면 옵티미즘 라이브러리에서 사진 캠페인을 보낼 수 있습니다.\n\nYouTube 옵션을 누르면 커스텀 YouTube 캠페인을 보낼 수 있습니다.";
+
+// The Help Text used by the Custom Campaign screen. (Android Only)
+"customcampaign_help_android"       = 	"리드 그룹에 다양한 커스텀 캠페인을 보냅니다.\n\n갤러리 옵션을 눌러 내 휴대폰 갤러리의 사진을 사용해 사진 캠페인을 보낼 수 있습니다.\n\n옵티미즘 라이브러리 옵션을 누르면 옵티미즘 라이브러리에서 사진 캠페인을 보낼 수 있습니다.\n\nYouTube 옵션을 누르면 커스텀 YouTube 캠페인을 보낼 수 있습니다.";
+
+// The title of the Camera Roll Campaign option.
+"customcampaign_camerarolltitle"    = 	"카메라 롤";
+
+// The description of the Camera Roll Campaign option.
+"customcampaign_camerarolldesc"     = 	"내 휴대기기의 카메라 롤에서 이미지를 선택해 캠페인에 사용합니다.";
+
+// The title of the Gallery Campaign option. (Android Only)
+"customcampaign_gallerytitle"       = 	"갤러리";
+
+// The description of the Gallery Campaign option. (Android Only)
+"customcampaign_gallerydesc"        = 	"내 휴대기기의 갤러리에서 이미지를 선택해 캠페인에 사용합니다.";
+
+// The title of the Optimism Library Campaign option.
+"customcampaign_optimismtitle"      = 	"옵티미즘 라이브러리";
+
+// The description of the Optimism Library Campaign option.
+"customcampaign_optimismdesc"       = 	"데일리 옵티미즘 라이브러리에서 이미지를 선택해 캠페인에 사용합니다.";
+
+// The title of the YouTube Campaign option.
+"customcampaign_youtubetitle"       = 	"YouTube";
+
+// The description of the YouTube Campaign option.
+"customcampaign_youtubedesc"        =   "커스텀 YouTube 동영상을 입력해 캠페인에 사용합니다.";
+
+// The title of the Virtual Landing Page Campaign option.
+"customcampaign_virtualpagetitle"   =   "버추얼 랜딩 페이지";
+
+// The description of the Virtual Landing PageCampaign option.
+"customcampaign_virtualpagedesc"    = 	"맞춤 제작된 기업용 버추얼 랜딩 페이지를 캠페인에 사용합니다.";
+
+// The alert message displayed when an image couldn't be found to continue.
+"customcampaign_noimageerror"       =   "이미지 선택 중 오류가 발생했습니다. 다시 시도하세요.";
+
+
+// YouTube Select
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the YouTube Campaigns screen.
+"youtubecampaign_title"             =   "YouTube 캠페인";
+
+// The Help Text used by the YouTube Campaigns screen.
+"youtubecampaign_help"              =   "리드 그룹에 보낼 YouTube 캠페인을 만들거나 선택합니다.\n\n'추가(+)' 버튼을 눌러 새 YouTube 캠페인을 만듭니다.\n\n캠페인을 왼쪽으로 밀면 편집하거나 삭제할 수 있습니다.\n\n'정보(i)' 버튼을 누르면 캠페인 정보를 편집할 수 있습니다.\n\n캠페인을 누르고 다음 버튼을 눌러 계속합니다.";
+
+// The message displayed when campaign downloads fail.
+"youtubecampaign_getfailure"        =   "YouTube 캠페인 다운로드 실패. 다시 시도하세요.";
+
+// The message displayed when campaign deletion fails.
+"youtubecampaign_deletefailure"     =	"캠페인을 삭제할 수 없습니다.";
+
+
+// YouTube Add/Update
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the YouTube Campaign Editor screen.
+"youtubeeditor_title"               =   "캠페인 추가/편집";
+
+// The Help Text used by the YouTube Campaign Editor screen.
+"youtubeeditor_help"                =   "커스텀 YouTube 캠페인 정보를 입력합니다.\n\n캠페인을 만들려면 모든 항목을 입력해야 합니다.\n\n- URL 페이지 이름(100자): 리드가 URL에서 보게 될 내용입니다.\n- 페이지 제목(50자): 동영상 페이지 맨 위에 표시되는 내용입니다.\n- 동영상 이름(25자): 동영상 아래 표시되는 이름입니다.\n- 동영상 설명(150자): 동영상 이름 아래에 표시되는 동영상에 관한 간략한 정보입니다.\n- 동영상 링크(100자): 표시될 YouTube 동영상에 대한 링크입니다.\n\n동영상 링크 입력 후에는 커스텀 동영상 페이지에 사용될 임베드 동영상 플레이어를 미리 볼 수 있습니다.\n\n'저장' 버튼을 눌러 커스텀 YouTube 캠페인을 저장합니다.";
+
+// The text used to indicate where the embed preview will appear.
+"youtubeeditor_embedpreview"        = 	"YouTube 임베드 미리보기가 여기에 표시됩니다. 미리 보려면 동영상 링크를 설정하세요.";
+
+// The title and placeholder text used in the URL Page Name text field.
+"youtubeeditor_pagename"            =   "URL 페이지 이름";
+
+// The title and placeholder text used in the Page Title text field.
+"youtubeeditor_pagetitle"           = 	"페이지 제목";
+
+// The title and placeholder text used in the Video Name text field.
+"youtubeeditor_videoname"           = 	"동영상 이름";
+
+// The title and placeholder text used in the Video Description text field.
+"youtubeeditor_videodescription"    = 	"동영상 설명";
+
+// The title and placeholder text used in the Video Link text field.
+"youtubeeditor_videolink"           =   "동영상 링크";
+
+// The message displayed when a campaign is saved successfully.
+"youtubeeditor_savesuccess"         =   "캠페인을 저장했습니다!";
+
+// The message displayed when a campaign fails to save.
+"youtubeeditor_savefailure"         =   "캠페인을 저장할 수 없습니다.";
+
+// The too many characters validation message.
+/*
+ "{0} - {1}: {2}/{3}"
+ Where:
+ {0} = Field Name
+ {1} = The Translated Text
+ {2} = Current Number of Letters
+ {3} = Max Limit of Letters
+ */
+"youtubeeditor_manyvalidation"     = 	"텍스트 필드 글자 수가 너무 많습니다. 현재 글자수는";
+
+// The too few characters validation message.
+/*
+ "{0} - {1}"
+ Where:
+ {0} = Field Name
+ {1} = The Translated Text
+ */
+"youtubeeditor_fewvalidation"       =   "값을 입력하세요.";
+
+
+// Virtual Landing Page Campaign Select
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the Virtual Landing Page Campaigns screen.
+"virtualpagecampaign_title"         =   "랜딩 페이지 캠페인";
+
+// The Help Text used by the Virtual Landing Page Campaigns screen.
+"virtualpagecampaign_help"          =   "캠페인에 사용할 기업용 버추얼 랜딩 페이지를 선택하세요.\n\n캠페인의 '정보(i)' 버튼을 누르면 미리 볼 수 있습니다.\n\n하단 도구 막대의 액션 버튼을 누르면 SMS 외 다른 방법으로 캠페인을 공유할 수 있습니다.";
+
+// The message displayed when campaign downloads fail.
+"virtualpagecampaign_getfailure"    =   "버추얼 페이지 다운로드 실패. 다시 시도하세요.";
+
+// The title in the navigation bar of the Virtual Landing Pages Campaign preview webview screen.
+"virtualpagecampaign_previewtitle"  = 	"버추얼 페이지 미리보기";
+
+
+// ============================================================================
+// * Campaign Stats
+// ============================================================================
+
+// The title in the navigation bar of the Campaign Stats screen.
+"campaignstats_title"   =   "캠페인 통계";
+
+// The Help Text used by the Campaign Stats screen.
+"campaignstats_help"    =   "모든 모바일 캠페인 통계를 확인하세요!";
+
+
+// ============================================================================
+// * My Badges
+// ============================================================================
+
+// The title in the navigation bar of the My Badges screen.
+"mybadges_title"            =   "내 뱃지";
+
+// The Help Text used by the My Badges screen.
+"mybadges_help"             =   "이벤트 참여, 캠페인 전송 등을 통해 획득한 모든 뱃지를 볼 수 있습니다. 뱃지를 눌러 자세한 정보를 확인하세요!";
+
+// The points label text.
+"mybadges_points"           =   "포인트";
+
+// The message displayed in the alert shown when a badge is not earned but is selected.
+"mybadges_notearned"        =   "아직 획득하지 못한 뱃지입니다!";
+
+// The message displayed when badge downloads fail.
+"mybadges_getfailure"       =   "뱃지 다운로드 실패. 다시 시도하세요.";
+
+// The message displayed when sharing a badge. (Android Only)
+"mybadges_sharebadge"       =	"뱃지 공유";
+
+// The message displayed when a single badge is earned.
+/*
+ "{0}: {1}"
+ Where:
+ {0} = The Translated Text
+ {1} = Badge Name
+ */
+"mybadges_singleearned"     =   "뱃지를 획득했습니다";
+
+// The message displayed when multiple badges are earned.
+"mybadges_multipleearned"   =   "새 뱃지를 획득했습니다!";
+
+
+// ============================================================================
+// * Badge Details
+// ============================================================================
+
+// The title in the navigation bar of the Badge Detail screen. (Overridden by Badge name).
+"badgedetails_title"    =   "뱃지 정보";
+
+// The Help Text used by the Badge Detail screen.
+"badgedetails_help"     =   "뱃지를 확인하세요! 새로 획득하신 뱃지입니다!";
+
+// The message to share when sharing a badge.
+/*
+ "{0}: {1}"
+ Where:
+ {0} = The Translated Text
+ {1} = Badge Name
+ */
+"badgedetails_share"    =   "제가 뱃지를 획득했습니다";
+
+
+// ============================================================================
+// * Alerts
+// ============================================================================
+
+// The title in the navigation bar of the Alerts screen.
+"alerts_title"              =   "알람";
+
+// The Help Text used by the Alerts screen.
+"alerts_help"               =   "모든 계정 관련 알람을 봅니다.\n\n'삭제' 버튼을 누르면 모든 알람을 삭제합니다.";
+
+// The message displayed when deleting all alerts.
+"alerts_deletealerts"       =   "모든 알람을 삭제할까요?";
+
+// The title in the navigation bar of the Alerts Preview screen.
+"alerts_previewdetailtitle" = 	"알람 정보";
+
+// The Help Text used by the Alerts Preview screen.
+"alerts_previewdetailhelp"  = 	"특정 알람에 관한 모든 정보를 봅니다.";
+
+
+// ============================================================================
+// * Profile
+// ============================================================================
+
+// The title in the navigation bar of the Profile screen.
+"profile_title"     =   "모바일 프로필";
+
+// The Help Text used by the Profile screen.
+"profile_help"      =   "내 모바일 프로필을 봅니다.\n\n프로필 편집을 누르면 프로필 정보를 변경할 수 있습니다.\n\n소셜 미디어 로그인 옵션을 누르면 소셜 미디어 계정에 로그인할 수 있습니다.\n\n오토 드립 설정을 선택하면 내 옵티미즘 오토 드립 등록 일정을 변경할 수 있습니다.";
+
+// Used to link to a user's profile website. (Android Only)
+"profile_mywebsite"         =   "내 웹사이트";
+
+
+// The title of the Edit Profile option.
+"profile_editprofiletitle"  = 	"프로필 편집";
+
+// The description of the Edit Profile option.
+"profile_editprofiledesc"   = 	"이름, 연락처 정보, 프로필 사진 등 내 모바일 프로필 설정을 변경할 수 있습니다.";
+
+// The title of the Login to Social Media option.
+"profile_socialmediatitle"  = 	"소셜 미디어 로그인";
+
+// The description of the Login to Social Media option.
+"profile_socialmediadesc"   = 	"오토 드립 캠페인 등을 사용하려면 소셜 미디어 계정 로그인을 사용하세요.";
+
+// The title of the Auto-Drip Settings option.
+"profile_autodriptitle"     = 	"오토 드립 설정";
+
+// The description of the Auto-Drip Settings option.
+"profile_autodripdesc"      = 	"모든 소셜 미디어 계정에 대해 오토 드립 일정을 만들고 등록합니다.";
+
+
+// ============================================================================
+// * Edit Profile
+// ============================================================================
+
+// The title in the navigation bar of the Edit Profile screen.
+"editprofile_title"                 =   "프로필 편집";
+
+// The Help Text used by the Edit Profile screen.
+"editprofile_help"                  =   "내 프로필 정보를 편집하고 새 프로필 사진을 업로드합니다.\n\n프로필 사진은 카메라 롤이나 소셜 미디어 계정에서 업로드할 수 있습니다. 소셜 미디어의 프로필 사진을 사용하려면 해당 소셜 미디어 계정에 로그인한 상태여야 합니다.\n\n'저장' 버튼을 누르면 변경 사항을 저장합니다.";
+
+// The Help Text used by the Edit Profile screen. (Android Only)
+"editprofile_help_android"          =   "내 프로필 정보를 편집하고 새 프로필 사진을 업로드합니다.\n\n프로필 사진은 갤러리나 소셜 미디어 계정에서 업로드할 수 있습니다. 소셜 미디어의 프로필 사진을 사용하려면 해당 소셜 미디어 계정에 로그인한 상태여야 합니다.\n\n'저장' 버튼을 누르면 변경 사항을 저장합니다.";
+
+// The title of the Edit Profile Picture Button.
+"editprofile_editprofilepic"        =   "프로필 사진 편집";
+
+// The title of the Edit Profile Picture Action Sheet menu.
+"editprofile_editprofilepictitle"   =   "다음에서 프로필 사진 선택";
+
+// The title of the Camera Roll option in the edit profile Action Sheet menu.
+"editprofile_cameraroll"            =   "카메라 롤";
+
+// The title of the Gallery option in the edit profile Action Sheet menu. (Android Only)
+"editprofile_gallery"               =   "갤러리";
+
+// The title of the Save Settings Button.
+"editprofile_savesettings"          =   "설정 저장";
+
+// The validation message for requiring a first name to be entered.
+"editprofile_firstnamevalidation"   =   "이름을 반드시 입력하세요.";
+
+// The validation message for requiring a display name to be entered.
+"editprofile_displaynamevalidation" =   "화면 표시명을 반드시 입력하세요.";
+
+// The message displayed when saving a profile successfully.
+"editprofile_savesuccess"           =   "모바일 프로필을 저장했습니다!";
+
+// The message displayed when saving a profile fails.
+"editprofile_savefailure"           = 	"모바일 프로필 업데이트 실패. 다시 시도하세요.";
+
+
+// ============================================================================
+// * Social Media Login
+// ============================================================================
+
+// The title in the navigation bar of the Social Media screen.
+"socialmedia_title"         =   "소셜 미디어";
+
+// The Help Text used by the Social Media screen.
+"socialmedia_help"          =   "소셜 네트워크로 로그인합니다. 소셜 네트워크에 로그인하면 모바일 프로필에 소셜 미디어 프로필을 업로드하고 옵티미즘 오토 드립 게시 기능을 이용할 수 있습니다.";
+
+// The text for the How we use your Social Media Accounts label.
+"socialmedia_howeusetitle"  = 	"이 앱에서 귀하의 소셜 미디어 계정 용도:";
+
+// The text description for How we user Social Media.
+"socialmedia_howweusedesc"  = 	"- 기본 프로필 정보 불러오기(이름, 화면 표시명 등)\n- 앱에 사용할 프로필 사진 불러오기\n- 내 계정 대신 게시물을 등록할 수 있는 권한";
+
+
+// ============================================================================
+// * Auto-Drip Schedule
+// ============================================================================
+
+// The title in the navigation bar of the Auto-Drip Schedules screen.
+"autodrip_title"        =   "오토 드립 일정";
+
+// The Help Text used by the Auto-Drip Schedules screen.
+"autodrip_help"         =   "오토 드립 일정을 설정합니다. 시간과 요일을 지정하면 게시물 등록에 대한 알림을 받을 수 있습니다.\n\n'저장' 버튼을 누르면 일정을 저장합니다.\n\n'글쓰기'를 누르면 글을 쓸 수 있습니다.\n\n글을 쓸 때는 이미지를 추가할 수 있으며 커스텀 메시지를 지정하고 어느 소셜 네트워크에 올릴 것인지 정할 수 있습니다.";
+
+// The title of the Make Post Now Button.
+"autodrip_makepostnow"  =   "글쓰기";
+
+// The text of the schedule label.
+"autodrip_schedule"     =   "일정";
+
+// The message displayed in the alert when a schedule is saved successfully.
+"autodrip_savesuccess"  =   "일정을 저장했습니다!";
+
+// The message displayed in the alert when a schedule fails to save.
+"autodrip_savefailure"  =   "일정 저장 중 오류. 다시 시도하세요.";
+
+
+// The title to the Refresh Button.
+"autodrip_refreshoption"    = 	"새로 고침";
+
+// The title to the Library Button.
+"autodrip_library"          = 	"라이브러리";
+
+// The title to the Camera Roll Button.
+"autodrip_cameraroll"       = 	"카메라 롤";
+
+// The title to the Gallery Button. (Android Only)
+"autodrip_gallery"          = 	"갤러리";
+
+// The text of the instructions label.
+"autodrip_instructions"     = 	"위에 메시지를 입력하세요.";
+
+// The text of the Social Networks label.
+"autodrip_socialnetworks"   = 	"소셜 네트워크";
+
+// The validation message displayed to require at least one social network selected.
+"autodrip_socialvalidation" = 	"최소 하나의 소셜 네트워크를 선택해야 합니다.";
+
+// The validation message to require login.
+/*
+ "{0} - {1}"
+ Where:
+ {0} = Social Network Name
+ {1} = The Translated Text
+ */
+"autodrip_loginvalidation"  = 	"글을 쓰려면 로그인이 필요합니다.";
+
+// The title used in Auto-Drip push notifications. (Android Only)
+"autodrip_autodrip"         =   "오토 드립";
+
+// Message added to local notification for auto-dripping.
+"autodrip_timetopost"       =	"오토 드립 - 글을 쓸 시간입니다!";
+
+
+
+// ============================================================================
+// * Success On Demand
+// ============================================================================
+
+// The title in the navigation bar of the Success On Demand screen.
+"sod_title"     =   "Success On Demand";
+
+// The Help Text used by the Success On Demand screen.
+"sod_help"      =   "Success On Demand 의 모든 콘텐츠에 액세스하세요!";
+
+
+// ============================================================================
+// * Help Center
+// ============================================================================
+
+// Help Center
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the Help Center screen.
+"helpcenter_title"          =   "도움말 센터";
+
+// The Help Text used by the Help Center screen.
+"helpcenter_help"           =   "도움말을 쉽게 열어볼 수 있습니다. 아무 화면에서나 탐색 막대 제목을 누르세요.\n\n표시할 도움말이 있는 경우 지금과 같이 새로운 창으로 표시됩니다!\n\n다른 화면에서 제목을 눌러보세요!";
+
+// The text used to instruct users to tap the title to view help tips.
+"helpcenter_instructions"   = 	"도움이 필요하신가요? 위 탐색 막대에서 '도움말 센터'를 누르세요!\n지금 눌러보세요!";
+
+// The title of the Request Support option.
+"helpcenter_supporttitle"   = 	"지원 문의";
+
+// The description of the Request Support option.
+"helpcenter_supportdesc"    =   "도움을 요청하거나 앱 관련 문제를 신고할 수 있습니다.";
+
+// The title of the Training Videos option.
+"helpcenter_trainingtitle"  = 	"트레이닝 동영상";
+
+// The description of the Training Videos option.
+"helpcenter_trainingdesc"   = 	"앱을 최대한 활용할 수 있는 트레이닝 동영상을 봅니다.";
+
+// The title of the Rate the App option.
+"helpcenter_rateapptitle"   = 	"앱 평점 등록";
+
+// The description of the Rate the App option.
+"helpcenter_rateappdesc"    =   "마음에 드셨나요? App Store에 별 5개 평점을 남겨주세요!";
+
+
+// Support Request
+// ----------------------------------------------------------------------------
+
+// The title in the Navigation bar of the Support Requests screen.
+"supportrequests_title"                 =   "지원 요청";
+
+// The Help Text used by the Support Requests screen.
+"supportrequests_help"                  =   "내가 접수한 지원 문의를 볼 수 있습니다. 지원 요청을 누르면 내가 요청한 지원 항목에 대한 답신을 볼 수 있습니다.\n\n추가(+) 버튼을 누르면 새 지원 요청을 등록할 수 있습니다.";
+
+
+// The title in the Navigation bar of the Add Support Request screen.
+"addsupportrequest_title"               =   "지원 요청";
+
+// The Help Text used by the Add Support Request screen.
+"addsupportrequest_help"                =   "지원 요청을 직접 전송합니다. 텍스트 상자에 내용을 입력하고 제출을 누르세요.";
+
+// The text used to instruct users to create a support request.
+"addsupportrequest_instructions"        =   "아래 지원 요청 메시지를 입력하세요";
+
+// The message used when sending a support request is successful.
+"addsupportrequest_success"             =   "지원 요청이 접수되었습니다!";
+
+// The validation message for requiring a message.
+"addsupportrequest_textvalidation"      =   "내용을 입력하세요.";
+
+
+// The title in the Navigation bar of the Support Responses screen.
+"supportresponses_title"                =   "지원 답신";
+
+// The Help Text used by the Support Responses screen.
+"supportresponses_help"                 =   "내가 접수한 지원 문의 내용과 지원 담당자의 답신을 볼 수 있습니다.\n\n답장을 보내려면 아래 메시지 막대를 사용하세요.";
+
+// The title text of the Send button.
+"supportresponses_send"                 =   "전송";
+
+// The placeholder text in the message bar text view.
+"supportresponses_placeholdertext"      =   "메시지";
+
+
+// ============================================================================
+// * Jeunesse Only
+// ============================================================================
+
+// The title of the Dashboard menu option.
+"menu_dashboard"                =   "대시보드";
+
+// The title of the My Events menu option.
+"menu_myevents"                 =   "내 이벤트";
+
+// The title of the Admin Events menu option.
+"menu_adminevents"              =   "이벤트 관리자";
+
+// The title of the People I Sponsor menu option.
+"menu_peoplesponsored"          =   "내가 후원하는 사용자";
+
+// The title of the Genealogy menu option.
+"menu_genealogy"                =   "가계도";
+
+// The title of the Add New Signup menu option.
+"menu_newsignup"                =   "신규 회원가입 추가";
+
+// The title of the Messages menu option.
+"menu_messages"                 =   "메시지";
+
+// The title of the Reports menu option.
+"menu_reports"                  =   "보고서";
+
+// The title of the JCloud menu option.
+"menu_jcloud"                   =   "JCloud";
+
+
+// The title of the menu section header for JOffice.
+"menu_jofficeheader"            =   "JOFFICE™";
+
+
+// ============================================================================
+// * Jeunesse Dashboard
+// ============================================================================
+
+// The title in the navigation bar of the Dashboard screen.
+"dashboard_title"                   =   "대시보드";
+
+// The Help Text used by the Dashboard screen.
+"dashboard_help"                    =   "대시보드에서는 내 비즈니스에 대한 모든 최신 정보를 확인할 수 있습니다.\n\n각각의 탭 버튼을 눌러 탭 사이를 전환할 수 있습니다.";
+
+// The title of the Business Snapshot tab.
+"dashboard_businesssnapshot"        =   "비즈니스 스냅샷";
+
+// The title of the Home tab.
+"dashboard_home"                    =   "홈";
+
+// The title of the News Feed tab.
+"dashboard_newsfeed"                =   "뉴스 피드";
+
+// The title of the JNews tab.
+"dashboard_jnews"                   =   "JNews";
+
+// The title of the Prospector tab.
+"dashboard_prospector"              =   "가망고객";
+
+
+// ============================================================================
+// * People I Sponsor
+// ============================================================================
+
+// The title in the navigation bar of the People I Sponsor screen.
+"peopleisponsor_title"                  =   "내가 후원하는 사용자";
+
+// The Help Text used by the People I Sponsor screen.
+"peopleisponsor_help"                   =   "내가 후원하는 연락처 사용자를 보고 연락합니다. 후원자를 누르면 정보를 볼 수 있습니다.";
+
+
+// The title in the navigation bar of the People I Sponsor Detail screen. (Replaced by sponsor displayname)
+"peopleisponsordetail_title"            =   "내가 후원하는 사용자";
+
+// The Help Text used by the People I Sponsor Detail screen.
+"peopleisponsordetail_help"             =   "선택한 사용자에 대한 연락처 정보를 봅니다. 이메일이나 전화 버튼을 누르면 후원자에게 연락할 수 있습니다.";
+
+
+// ============================================================================
+// * Genealogy
+// ============================================================================
+
+// The title in the navigation bar of the Genealogy screen.
+"genealogy_title"                  =   "가계도";
+
+// The Help Text used by the Genealogy screen.
+"genealogy_help"                   =   "전체 가계도를 볼 수 있습니다.";
+
+
+// ============================================================================
+// * Add New Signup
+// ============================================================================
+
+// The title in the navigation bar of the New Signup screen.
+"newsignup_title"                   =   "새 회원가입";
+
+// The Help Text used by the New Signup screen.
+"newsignup_help"                    =   "내 아이디/웹사이트 URL을 입력하고 '회원 가입' 버튼을 누르면 새 회원가입을 추가할 수 있습니다. 회원 가입에 필요한 정보를 입력하는 단계로 진행합니다.";
+
+// The label text for the sponsor text field.
+"newsignup_sponsor"                 =   "후원자 웹사이트 URL";
+
+// The title text for the Signup button.
+"newsignup_signup"                  =   "회원 가입";
+
+// The warning message that appears when an invalid value is entered.
+"newsignup_invalidmessage"          =   "아이디와 웹사이트 URL을 올바로 입력하세요.";
+
+
+// ============================================================================
+// * Messages
+// ============================================================================
+
+// The title in the navigation bar of the Messages screen.
+"messages_title"            =   "메시지";
+
+// The Help Text used by the Messages screen.
+"messages_help"             =   "내 개인 계정 메시지를 봅니다.\n\n메시지를 왼쪽으로 넘기면 메시지를 삭제합니다.\n\n하단 막대에서 '폴더' 버튼을 누르면 수신함과 휴지통 폴더 사이를 전환할 수 있습니다.\n\n메시지를 누르면 내용을 볼 수 있습니다.";
+
+
+// The title of the Inbox Message Folder.
+"messages_inbox"            =   "수신함";
+
+// The title of the Trash Message Folder.
+"messages_trash"            =   "휴지통";
+
+
+// ============================================================================
+// * Reports
+// ============================================================================
+
+// The title in the navigation bar of the Reports List screen.
+"reportslist_title"            =   "보고서";
+
+// The Help Text used by the Reports List screen.
+"reportslist_help"             =   "휴대 기기에서 비즈니스 보고서를 볼 수 있습니다! 보고서를 눌러서 확인하세요.";
+
+
+// The title in the navigation bar of the Report Parameters screen.
+"reportparams_title"            =   "보고서 파라미터";
+
+// The Help Text used by the Report Parameters screen.
+"reportparams_help"             =   "필요한 파라미터를 입력하고 선택해 보고서를 생성합니다.";
+
+// The title used by the View Reports button.
+"reportparams_viewreports"      =   "보고서 보기";
+
+
+// The title in the navigation bar of the Report Viewer screen.
+"reportviewer_title"            =   "보고서 뷰어";
+
+// The Help Text used by the Report Viewer screen.
+"reportviewer_help"             =   "이전에 선택한 파라미터로 생성된 보고서를 봅니다.";
+
+
+// ============================================================================
+// * JCloud
+// ============================================================================
+
+// The title in the navigation bar of the JCloud screen.
+"jcloud_title"                          =   "JCloud";
+
+// The Help Text used by the JCloud screen.
+"jcloud_help"                           =   "클라우드에서 모든 파일과 디렉토리를 봅니다.\n\n다운로드 버튼을 누르면 파일을 다운로드합니다.\n\n이미 로컬 기기에 파일이 다운로드된 경우 다운로드 버튼은 표시되지 않습니다. 파일을 누르기만 하면 열립니다.\n\n로컬 기기에 다운로드한 파일을 삭제하려면 파일을 오른쪽에서 왼쪽으로 밀어 삭제 버튼을 사용하세요.";
+
+// The title used in the Remove Local button.
+"jcloud_removelocal"                    =   "로컬 파일 삭제";
+
+// The title in the navigation bar of the JCloud screen when downloading a file.
+"jcloud_downloading"                    =   "다운로드 중";
+
+
+// ============================================================================
+// * My Events
+// ============================================================================
+
+// The title in the navigation bar of the My Events List screen.
+"myeventslist_title"                        =   "내 이벤트";
+
+// The Help Text used by the My Events List screen.
+"myeventslist_help"                         =   "내가 등록한 이벤트 목록을 봅니다. \n\n이벤트를 누르면 그 이벤트에 대한 액세스 코드를 볼 수 있습니다.";
+
+// The notice for not being registered for any events.
+"myeventslist_notregistered"                =   "현재 내가 등록한 이벤트가 없습니다.";
+
+
+// The title in the navigation bar of the My Events Detail screen. (Replaced by event name)
+"myeventsdetail_title"                      =   "내 이벤트 QR 코드";
+
+// The Help Text used by the My Events Detail screen.
+"myeventsdetail_help"                       =   "선택한 이벤트에 액세스할 때 필요한 QR 코드입니다. 이 코드를 이벤트 담당자에게 보여주면 입장할 수 있습니다.\n\n간혹 인터넷 연결이 원활하지 못한 경우 '카메라 롤에 저장' 버튼을 눌러 이 QR 코드를 다운로드할 수 있으니 기억하세요.";
+
+// The Help Text used by the My Events Detail screen. (Android Only)
+"myeventsdetail_help_android"                       =   "선택한 이벤트에 액세스할 때 필요한 QR 코드입니다. 이 코드를 이벤트 담당자에게 보여주면 입장할 수 있습니다.\n\n간혹 인터넷 연결이 원활하지 못한 경우 '갤러리에 저장' 버튼을 눌러 이 QR 코드를 다운로드할 수 있으니 기억하세요.";
+
+// The title in the Save to Camera Roll button.
+"myeventsdetail_savetocameraroll"           =   "카메라 롤에 저장";
+
+// The title in the Save to Gallery button. (Android Only)
+"myeventsdetail_savetogallery"              =   "갤러리에 저장";
+
+// The alert text for reminding users to download an event QR Code.
+"myeventsdetail_downloadreminder"           =   "간혹 인터넷 연결이 원활하지 못한 경우 '카메라 롤에 저장' 버튼을 눌러 이 QR 코드를 다운로드할 수 있으니 기억하세요.";
+
+// The alert text for reminding users to download an event QR Code. (Android Only)
+"myeventsdetail_downloadreminder_android"   =   "간혹 인터넷 연결이 원활하지 못한 경우 '갤러리에 저장' 버튼을 눌러 이 QR 코드를 다운로드할 수 있으니 기억하세요.";
+
+// The alert text verifying a QR code was saved successfully.
+"myeventsdetail_qrcodesavesuccess"          =   "QR 코드를 저장했습니다!";
+
+// The alert text notifying the user that a QR code failed to save.
+"myeventsdetail_qrcodesavefailure"          =   "QR 코드 저장 실패.";
+
+
+// ============================================================================
+// * Admin Events
+// ============================================================================
+
+// The title in the navigation bar of the Admin Events List screen.
+"admineventslist_title"         =   "이벤트 관리자";
+
+// The Help Text used by the Admin Events List screen.
+"admineventslist_help"          =   "예정된 모든 이벤트와 참가자 명단, 참가등록자 명단 등의 정보를 확인합니다.";
+
+// The text used to indicate the number of signups for an event.
+"admineventslist_signups"       =   "참가등록";

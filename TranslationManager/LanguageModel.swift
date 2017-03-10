@@ -14,6 +14,6 @@ class LanguageModel: NSObject {
     
     init(name:String, cultureName:String) {
         self.name = name;
-        self.cultureName = name;
+        self.cultureName = cultureName;
     }
 }

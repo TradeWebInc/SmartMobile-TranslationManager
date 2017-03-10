@@ -109,16 +109,15 @@ class ReviewViewController: UIViewController {
                                             
                                         },
                                         failure: { (response:URLResponse?, error:Error?) in
-                                            DispatchQueue.main.async { self.translationFailed(); }
+                                            DispatchQueue.main.async {
+                                                print("Parsing Response: \(client.name) \(environment.name) \(translation.key) - Failed");
+                                                self.translationFailed();
+                                            }
                                         }
                                     );
-                                    
                                 }
-                                
                             }
-                            
                         }
-                        
                     }
                 }
             }

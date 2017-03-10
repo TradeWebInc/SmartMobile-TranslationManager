@@ -1463,8 +1463,8 @@
 // The title of the Add New Signup menu option.
 "menu_newsignup"                =   "Add New Signup";
 
-// The title of the Messages menu option.
-"menu_messages"                 =   "Messages";
+// The title of the Mailbox menu option.
+"menu_messages"                 =   "Mailbox";
 
 // The title of the Reports menu option.
 "menu_reports"                  =   "Reports";
@@ -1557,7 +1557,7 @@
 // ============================================================================
 
 // The title in the navigation bar of the Messages screen.
-"messages_title"            =   "Messages";
+"messages_title"            =   "Mailbox";
 
 // The Help Text used by the Messages screen.
 "messages_help"             =   "View your personal account messages.\n\nSwiping left on a message will allow you to delete the message.\n\nTap the \"Folder\" button on the bottom bar to switch between your Inbox and Trash folders.\n\nTap on a message to view its' contents.";

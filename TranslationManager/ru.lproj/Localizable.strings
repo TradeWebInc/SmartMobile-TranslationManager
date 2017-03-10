@@ -1,0 +1,1486 @@
+// ============================================================================
+// * Android
+// ============================================================================
+
+"android_exitconfirm"				=	"Хотите выйти?";
+"android_appnotfound"				=	"Не удалось найти приложение в магазине приложений.";
+"android_nogoogleplus"				=	"Необходимо установить Google+.";
+"android_notificatonssetting"		=	"Получать уведомления";
+
+
+// ============================================================================
+// * General
+// ============================================================================
+
+"general_yes"               = 	"Да";
+"general_no"                =   "Нет";
+"general_on"				= 	"ВКЛ.";
+"general_off"				=	"ВЫКЛ.";
+"general_accept"            =   "Принять";
+"general_decline"           =   "Отклонить";
+"general_success"           =   "Готово!";
+"general_error"             = 	"Ошибка";
+"general_notice"            = 	"Уведомление";
+"general_ok"                =   "ОК";
+"general_cancel"            = 	"Отмена";
+"general_loading"           = 	"Загрузка";
+"general_none"              = 	"Нет";
+"general_next"              = 	"Далее";
+"general_done"              = 	"Готово";
+"general_save"              = 	"Сохранить";
+"general_delete"            = 	"Удалить";
+"general_addnew"            =   "Добавить +";
+"general_add"				=	"Добавить";
+"general_create"            =   "Создать";
+"general_edit"              =   "Изменить";
+"general_seemore"           =   "Еще";
+"general_more"              =   "Еще";
+"general_reset"             = 	"Сбросить";
+"general_post"              = 	"Опубликовать";
+"general_submit"            =   "Отправить";
+"general_share"             =   "Поделиться";
+"general_exit"              =   "Выйти";
+"general_settings"          =   "Настройки";
+"general_info"              =   "Сведения";
+"general_unknownerror"      =   "Произошла неизвестная ошибка. Повторите попытку.";
+"general_nointernet"		=	"Не удалось подключиться к Интернету. Проверьте настройки подключения и повторите попытку.";
+"general_cantmakecalls"     =   "Звонить с этого устройства нельзя.";
+"general_cantsendsms"     	=   "Отправлять SMS с этого устройства нельзя.";
+"general_cantsendemail"     =   "Отправлять сообщения электронной почты с этого устройства нельзя. Проверьте почтовые настройки и повторите попытку.";
+
+"general_back"              =   "Назад";
+"general_forward"           =   "Вперед";
+"general_webpageerror"      =   "Не удалось загрузить веб-страницу.";
+
+"general_unknownname"       =   "Неизвестное имя";
+"general_username"          = 	"Имя пользователя";
+"general_firstname"         = 	"Имя";
+"general_lastname"          = 	"Фамилия";
+"general_name"              =   "Имя";
+"general_language"          =   "Язык";
+"general_address"           =   "Адрес";
+"general_city"              =   "Город";
+"general_state"             =   "Штат";
+"general_zip"               =   "Индекс";
+"general_province"          =   "Регион";
+"general_postalcode"        =   "Индекс";
+"general_country"           =   "Страна";
+"general_phonenumber"       = 	"Номер телефона";
+"general_phone"             = 	"Телефон";
+"general_secondphone"       =   "Второй номер";
+"general_cell"              = 	"Сотовый";
+"general_work"              = 	"Рабочий";
+"general_email"             = 	"Эл. почта";
+"general_status"            = 	"Статус";
+"general_displayname"       = 	"Псевдоним";
+"general_title"             = 	"Должность";
+"general_contact"           =   "Контакт";
+"general_lead"              =   "Потенциальный клиент";
+"general_facebookurl"       = 	"Ссылка в Facebook";
+"general_twitterhandle"     = 	"Имя в Twitter";
+"general_skypeusername"     = 	"Имя в Skype";
+"general_devicemodel"       =   "Модель устройства";
+"general_devicelanguage"    =   "Язык устройства";
+"general_deviceos"          =   "ОС устройства";
+"general_appversion"        =   "Версия приложения";
+
+"general_sunday"            = 	"Воскресенье";
+"general_monday"            =   "Понедельник";
+"general_tuesday"           = 	"Вторник";
+"general_wednesday"         = 	"Среда";
+"general_thursday"          = 	"Четверг";
+"general_friday"            = 	"Пятница";
+"general_saturday"          = 	"Суббота";
+
+"general_days"              =   "дн.";
+"general_hours"             =   "ч";
+
+"general_facebook"          = 	"Facebook";
+"general_twitter"           = 	"Twitter";
+"general_googleplus"        = 	"Google+";
+
+
+// ============================================================================
+// * Language Select
+// ============================================================================
+
+"language_select"           =   "Выберите язык";
+
+
+// ============================================================================
+// * App Rating
+// ============================================================================
+
+
+// The title of the prompt for app rating.
+"rateappprompt_title"   = 	"Оцените приложение?";
+
+// The message in the prompt for app rating.
+"rateappprompt_message" = 	"Нравится это приложение? Хотите оценить текущую версию?";
+
+// The cancel text of the prompt for app rating.
+"rateappprompt_cancel"  = 	"Не сейчас";
+
+
+// ============================================================================
+// * Login
+// ============================================================================
+
+// The title in the navigation bar of the login screen.
+"login_title"                   =	"Добро пожаловать";
+
+// The Help Text used by the login screen.
+"login_help"                    =   "Для входа введите имя пользователя и пароль.\n\nПередвиньте ползунок «Оставаться в системе», чтобы мы запомнили ваши учетные данные. Когда вы откроете приложение в следующий раз, они будут введены автоматически!";
+
+// The placeholder text for the password text field.
+"login_password"                = 	"Пароль";
+
+// The title of the Login Button, and any alert message box.
+"login_login"                   = 	"Войти";
+
+// The label for the Keep Me Connected Switch.
+"login_keepmeconnected"         =   "Оставаться в системе";
+
+// The Version label on indicating the app version.
+"login_version"                 = 	"Версия";
+
+// The text used in the loading indicator for the login screen.
+"login_loading"                 = 	"Вход";
+
+// The login error/failure message.
+"login_loginerror"              = 	"При входе произошла ошибка. Проверьте свое имя пользователя и пароль и повторите попытку.";
+
+
+// The title text of the login method prompt.
+"login_loginmethodprompt"       =   "Укажите, какие из ваших учетных данных нам следует запомнить.";
+
+// The title of the Use Touch ID button.
+"login_methodtouchid"           =   "Использовать Touch ID";
+
+// The title of the Remember Username & Password button.
+"login_methoduserandpass"       =   "Запомнить имя пользователя и пароль";
+
+// The title of the Remember Username only button.
+"login_methoduser"              =   "Запомнить только имя пользователя";
+
+
+// ============================================================================
+// * Terms of Service
+// ============================================================================
+
+// The title in the navigation bar of the Terms of Service screen.
+"tos_title"             =   "Условия обслуживания";
+
+// The Help Text used by the login screen.
+"tos_help"              =   "Для работы с этим приложением ознакомьтесь с Условиями обслуживания — примите либо отклоните их. Если вы отклоните их, то в дальнейшем не сможете пользоваться функциями приложения.";
+
+
+// ============================================================================
+// * Menu
+// ============================================================================
+
+// The title of the Home menu option.
+"menu_home"             =   "Главная";
+
+// The title of the Optimism menu option.
+"menu_optimism"         =   "Порция оптимизма";
+
+// The title of the My Leads menu option.
+"menu_myleads"          = 	"Мои потенциальные клиенты";
+
+// The title of the Manage Groups menu option.
+"menu_managegroups"     = 	"Управление группами";
+
+// The title of the Training Videos menu option.
+"menu_trainingvideos"   =   "Обучающие видео";
+
+// The title of the Video Campaign menu option.
+"menu_videocampaign"    = 	"Видеорассылки";
+
+// The title of the Group SMS menu option.
+"menu_groupsms"         =   "Групповые SMS";
+
+// The title of the Custom Campaign menu option.
+"menu_customcampaign"   =   "Индивидуальная рассылка";
+
+// The title of the Campaign Stats menu option.
+"menu_campaignstats"    = 	"Статистика рассылок";
+
+// The title of the My Badges menu option.
+"menu_mybadges"         =   "Мои значки";
+
+// The title of the Alerts menu option.
+"menu_alerts"           =   "Оповещения";
+
+// The title of the Profile menu option.
+"menu_profile"          =   "Профиль";
+
+// The title of the Back Office menu option.
+"menu_backoffice"       =   "Личный кабинет";
+
+// The title of the Success On Demand menu option.
+"menu_sod"              =   "Успех по запросу";
+
+// The title of the Help Center menu option.
+"menu_helpcenter"       = 	"Справочный центр";
+
+// The title of the Logout menu option.
+"menu_logout"           =   "Выйти";
+
+
+// The title of the menu section header for Home.
+"menu_homeheader"           =   "ГЛАВНАЯ";
+
+// The title of the menu section header for Lead Management.
+"menu_leadmanagementheader" = 	"МОИ ПОТЕНЦИАЛЬНЫЕ КЛИЕНТЫ";
+
+// The title of the menu section header for Promotions.
+"menu_promotions"           = 	"РЕКЛАМНЫЕ АКЦИИ";
+
+// The title of the menu section header for Other.
+"menu_otherheader"          = 	"ДРУГОЕ";
+
+// The title of the menu section header for More.
+"menu_moreheader"           = 	"ЕЩЕ";
+
+
+
+// ============================================================================
+// * Daily Optimism
+// ============================================================================
+
+// The title in the navigation bar of the daily optimism screen.
+"dailyoptimism_title"       = 	"Ежедневная порция оптимизма";
+
+// The Help Text used by the daily optimism screen.
+"dailyoptimism_help"        = 	"Просматривайте ежедневные порции оптимизма и делитесь ими!\n\nНажав «Коллекция», вы сможете выбрать любую из полученных порций, которой хотите поделиться.";
+
+// The title of the Share Button.
+"dailyoptimism_share"       = 	"Поделиться сегодняшней порцией оптимизма";
+
+// The title of the Optimism Library Button.
+"dailyoptimism_library"     = 	"Коллекция";
+
+// The title of the Auto-Drip Settings Button.
+"dailyoptimism_autodrip"    = 	"Настройки автоматической капельной рассылки";
+
+
+
+// ============================================================================
+// * Optimism Library
+// ============================================================================
+
+// The title in the navigation bar of the optimism library screen.
+"optimismlibrary_title"     = 	"Коллекция";
+
+// The Help Text used by the optimism library screen.
+"optimismlibrary_help"      = 	"Выберите одну из порций оптимизма, которой хотите поделиться, из коллекции.";
+
+// The title of the Filter Button.
+"optimismlibrary_filter"    = 	"Фильтрация";
+
+// The title of Optimism Filter action sheet.
+"optimismlibrary_filterby"  =   "Фильтрация";
+
+
+// ============================================================================
+// * Optimism Library
+// ============================================================================
+
+// The title in the navigation bar of the share optimism screen.
+"shareoptimism_title"   = 	"Порция оптимизма";
+
+// The Help Text used by the share optimism screen.
+"shareoptimism_help"    = 	"Просматривайте порции оптимизма, выбранные из коллекции, и делитесь ими!\n\nЧтобы вернуться в коллекцию, нажмите кнопку «Назад».";
+
+// The title of the Share This Optimism Button.
+"shareoptimism_share"   = 	"Поделиться этой порцией оптимизма";
+
+
+// ============================================================================
+// * My Leads
+// ============================================================================
+
+// The title in the navigation bar of the my leads screen.
+"myleads_title"             =   "Мои потенциальные клиенты";
+
+// The Help Text used by the my leads screen.
+"myleads_help"              =   "Просматривайте и изменяйте текущих потенциальных клиентов.\n\nНажмите кнопку «Добавить +», чтобы добавить потенциальных клиентов из контактов, или можете мигом ввести их вручную!\n\nНажмите на потенциального клиента, чтобы изменить сведения о нем. Проведите по нему влево, чтобы открыть дополнительные параметры.\n\nНажмите кнопку «Сортировка», чтобы отсортировать список потенциальных клиентов. Их можно отсортировать как по возрастанию, так и по убыванию.\n\nПотенциальных клиентов можно также отфильтровать кнопкой «Фильтрация» и через строку поиска.";
+
+// The title of the Sort Button.
+"myleads_sort"              =   "Сортировка";
+
+// The title of the Sort Action Sheet Menu.
+"myleads_sortby"            =   "Сортировка";
+
+// The title of the Ascending Segment Control Button.
+"myleads_ascending"         =   "Возр.";
+
+// The title of the Descending Segment Control Button.
+"myleads_descending"        =   "Убыв.";
+
+// The title of the Filter Button.
+"myleads_filter"            =   "Фильтрация";
+
+// The title of the Filter Action Sheet Menu.
+"myleads_filterby"          = 	"Фильтрация";
+
+// The title of the Change Status Action Menu.
+"myleads_changestatusto"    =   "Сменить статус";
+
+// The warning message shown when changing a lead to the cold status.
+"myleads_coldconfirm"       =   "Этот потенциальный клиент будет отображаться только при фильтрации по статусу «Холодные». Хотите выбрать для него этот статус?";
+
+// The title of the Hot option during Filtering.
+"myleads_statushot"         = 	"Популярные";
+
+// The title of the Warm option during Filtering.
+"myleads_statuswarm"        = 	"Теплые";
+
+// The title of the Cold option during Filtering.
+"myleads_statuscold"        = 	"Холодные";
+
+// The title of the New option during Filtering.
+"myleads_statusnew"         = 	"Новые";
+
+// The title of the Add Lead Action Sheet Menu.
+"myleads_addlead"           = 	"Добавить потенциального клиента";
+
+// The title for the Add from Contacts option during Add Lead.
+"myleads_addcontact"        = 	"Добавить из контактов";
+
+// The title for the Add New Lead option during Add Lead.
+"myleads_addnewlead"        = 	"Добавить потенциального клиента";
+
+// The title of the alert message boxes for any Add Contact action.
+"myleads_contacts"          = 	"Контакты";
+
+// The message displayed when a contact is added successfully.
+"myleads_addcontactsuccess" =   "Контакт добавлен!";
+
+// The Add Contact error/failure message.
+"myleads_addcontacterror"   =   "При добавлении контакта произошла ошибка.";
+
+// Displayed in a My Leads table cell when no contact info is available. (phone and/or email).
+"myleads_nocontactinfo"     = 	"Контактных данных не найдено.";
+
+// The title of the Send Opt In/Out Link option during Leads More Options.
+"myleads_sendoptinout"      =   "Отправить ссылку с возможностью подписки/отписки";
+
+// The title of the Send Signup Link option during Leads More Options.
+"myleads_signuplink"        = 	"Отправить ссылку для регистрации";
+
+// The title of the Send Free Sample Link option during Leads More Options.
+"myleads_freesample"        = 	"Отправить ссылку на бесплатный образец";
+
+// The title of the Send My Video Player option during Leads More Options.
+"myleads_videoplayer"       = 	"Отправить список моих видео";
+
+// The title of the Local Device View option during Leads More Options.
+"myleads_deviceview"        = 	"Просмотр в контактах";
+
+// Error message when a lead has no phone number.
+"myleads_noleadphone"       =   "Номер телефона для выбранного потенциального клиента не задан.";
+
+// Error message when a lead has no email address.
+"myleads_noleademail"       =   "Адрес электронной почты для выбранного потенциального клиента не задан.";
+
+
+// Message for sending SMS displayed in the Local Device View Screen under My Leads
+"localdevice_sendmessage"			=	"Отправить сообщение";
+
+// Message for create new device contact displayed in the Local Device View Screen under My Leads
+"localdevice_createnewcontact"		=	"Создать контакт";
+
+// Message for adding to existing contact displayed in the Local Device View Screen under My Leads
+"localdevice_addexistingcontact"	=	"Добавить к контакту";
+
+
+// ============================================================================
+// * Add Lead
+// ============================================================================
+
+// The title in the navigation bar of the add lead screen.
+"addlead_title"             =   "Добавить потенциального клиента";
+
+// The Help Text used by the add lead screen.
+"addlead_help"              =   "Введите данные для нового потенциального клиента, которого хотите добавить.\n\nВам НЕОБХОДИМО указать его имя.\n\nНЕОБХОДИМО также указать хотя бы один способ связи (номер телефона или адрес электронной почты).";
+
+// The title of the Add Lead Button.
+"addlead_addlead"           =   "Добавить потенциального клиента";
+
+// The message of the success alert.
+"addlead_addsuccessful"     =   "Потенциальный клиент добавлен!";
+
+// The message of the failure alert.
+"addlead_addfailure"        =   "При добавлении потенциального клиента произошла ошибка.";
+
+// The validation message for requiring a first name.
+"addlead_namevalidation"    =   "Необходимо ввести имя.";
+
+// The validation message for requiring at least one contact method.
+"addlead_contactvalidation" = 	"Укажите хотя бы один способ связи (номер телефона или электронную почту).";
+
+
+// ============================================================================
+// * Lead Details
+// ============================================================================
+
+// The title in the navigation bar of the lead details screen.
+"leaddetails_title"                             = 	"Сведения о потенциальном клиенте";
+
+// The Help Text used by the lead details screen.
+"leaddetails_help"                              = 	"Просматривайте и изменяйте потенциальных клиентов. Отслеживайте журналы, статистику и заметки. Нажмите кнопку «Действия», чтобы запланировать рассылки и задать напоминания. Нажмите кнопку «Удалить потенциального клиента», чтобы удалить выбранного клиента.";
+
+// The title of the change image alert.
+"leaddetails_changeimagetitle"                  =   "Изменить изображение";
+
+// The title of the Photo Library button.
+"leaddetails_photolibrary"                      =   "Медиатека";
+
+// The title of the Take Picture button.
+"leaddetails_takepicture"                       =   "Сделать фото";
+
+// The title of the Remove Current Image button.
+"leaddetails_removeimage"                       =   "Убрать изображение";
+
+// The title of the Actions tab.
+"leaddetails_actionstab"                        =   "Действия";
+
+// The title of the Log tab.
+"leaddetails_logtab"                            =   "Журнал";
+
+// The title of the Stats tab.
+"leaddetails_statstab"                          =   "Статистика";
+
+// The title of the Notes tab.
+"leaddetails_notestab"                          =   "Заметки";
+
+// The title of the Photo Library Unavailable alert.
+"leaddetails_nophotolibrarytitle"               =   "Медиатека недоступна";
+
+// The message of the Photo Library Unavailable alert.
+"leaddetails_nophotolibrarymessage"             =   "У приложения нет доступа к Медиатеке.";
+
+// The title of the Camera Unavailable alert.
+"leaddetails_nocameratitle"                     =   "Камера недоступна";
+
+// The message of the Camera Unavailable alert.
+"leaddetails_nocameramessage"                   =   "У приложения нет доступа к камере на этом устройстве.";
+
+// The message displayed when a lead is opted in to receive emails.
+"leaddetails_emailoptedin"                      =   "Выбрано получение сообщений электронной почты.";
+
+// The message displayed when a lead is opted out to receive emails.
+"leaddetails_emailoptedout"                     =   "Получение сообщений электронной почты не выбрано.";
+
+// The message displayed when a lead is opted in to receive SMS messages.
+"leaddetails_smsoptedin"                        =   "Выбрано получение SMS.";
+
+// The message displayed when a lead is opted out to receive SMS messages.
+"leaddetails_smsoptedout"                       =   "Получение SMS не выбрано.";
+
+// The title of the Delete Lead button.
+"leaddetails_deletelead"                        =   "Удалить потенциального клиента";
+
+// The title of the delete lead confirmation alert.
+"leaddetails_deleteleadtitle"                   =   "Удалить текущего потенциального клиента";
+
+// The message of the delete lead confirmation alert.
+"leaddetails_deleteleadmessage"                 =   "Хотите удалить этого потенциального клиента?";
+
+
+// ============================================================================
+// * Edit Lead
+// ============================================================================
+
+// The title in the navigation bar of the Edit Lead screen.
+"editlead_title"                =   "Изменить потенциального клиента";
+
+// The title in the navigation bar of the See More version fo the Edit Lead screen.
+"editlead_titleseemore"         =   "Данные о потенциальном клиенте";
+
+// The Help Text used by the Edit Lead screen.
+"editlead_help"                 =   "При просмотре данных о потенциальном клиенте нажмите кнопку «Изменить», чтобы изменить их. Введите данные о нем и нажмите «Сохранить», чтобы сохранить любые изменения.";
+
+// The title of the Basic Info section.
+"editlead_basicinfo"            =   "Основные данные";
+
+// The title of the Contact Info section.
+"editlead_contactinfo"          =   "Контактные данные";
+
+// The title of the Address Info section.
+"editlead_addressinfo"          =   "Адрес";
+
+// The message of the success alert.
+"editlead_savesuccessful"       =   "Потенциальный клиент сохранен!";
+
+
+// ============================================================================
+// * Lead Actions
+// ============================================================================
+
+// The title in the navigation bar of the lead actions screen.
+"leadactions_title"                     =   "Действия для потенциального клиента";
+
+// The Help Text used by the lead actions screen.
+"leadactions_help"                      =   "Просматривайте, начинайте или отменяйте рекомендуемые и запланированные действия. Нажмите кнопку «Выполнить», чтобы выполнить рекомендуемое действие для потенциального клиента. Чтобы добавить запланированное действие, нажмите кнопку «Добавить». Любое запланированное действие можно отменить, нажав кнопку «Отмена».";
+
+// The title of the recommended actions section.
+"leadactions_recommendedactions"        =   "Рекомендуемые действия";
+
+// The message shown when no recommended actions exist.
+"leadactions_norecommendedactions"      =   "Рекомендуемые действия не найдены.";
+
+// The title of the scheduled actions section.
+"leadactions_scheduledactions"          =   "Запланированные действия";
+
+// The message shown when no scheduled actions exist.
+"leadactions_noscheduledactions"        =   "Запланированные действия не найдены.";
+
+// The message of the cancel scheduled action alert.
+"leadactions_cancelscheduledaction"     =   "Хотите отменить это действие?";
+
+// The title of the Do It button.
+"leadactions_doit"                      =   "Выполнить";
+
+// The title of the add new alert for email campaign.
+"leadactions_emailcampaign"             =   "Электронная рассылка";
+
+// The title of the add new alert for single email.
+"leadactions_singleemail"               =   "Одиночное сообщение";
+
+// The title of the add new alert for reminder.
+"leadactions_reminder"                  =   "Напоминание";
+
+
+
+// The title in the navigation bar of the reminder creation screen.
+"reminder_title"                        =   "Создать напоминание";
+
+// The Help Text used by the reminder creation screen.
+"reminder_help"                         =   "Создайте напоминание, состоящее из заголовка и краткого сообщения. С помощью указателя даты выберите дату, на которую следует запланировать напоминание.";
+
+// The label used in the title text field.
+"reminder_titlelabel"                   =   "Должность";
+
+// The label used in the message text field.
+"reminder_messagelabel"                 =   "Сообщение";
+
+// The error message shown when a user doesn't enter a title.
+"reminder_titleneeded"                  =   "Необходимо ввести заголовок напоминания.";
+
+// The error message shown when a user doesn't enter a message.
+"reminder_messageneeded"                =   "Необходимо ввести сообщение для напоминания.";
+
+
+
+// The title in the navigation bar of the email campaign picker screen.
+"emailcampaign_title"                   =   "Электронные рассылки";
+
+// The Help Text used by the email campaign picker screen.
+"emailcampaign_help"                    =   "Выберите доступную электронную рассылку, чтобы запланировать ее для выбранного потенциального клиента. Если нажать на рассылку, она сразу же запустится.";
+
+
+// The title in the navigation bar of the email messages picker screen.
+"emailmessages_title"                   =   "Сообщения электронной почты";
+
+// The Help Text used by the email messages picker screen.
+"emailmessages_help"                    =   "Выберите отдельное сообщение электронной почты для отправки выбранному потенциальному клиенту. Чтобы посмотреть сообщение перед отправкой, нажмите кнопку «Сведения» (i).";
+
+
+// ============================================================================
+// * Lead Log
+// ============================================================================
+
+// The title in the navigation bar of the lead log screen.
+"leadlog_title"             =   "Журнал потенциального клиента";
+
+// The Help Text used by the lead log screen.
+"leadlog_help"              =   "Просматривайте любые предыдущие действия или мероприятия выбранного потенциального клиента.";
+
+
+// ============================================================================
+// * Lead Stats
+// ============================================================================
+
+// The title in the navigation bar of the lead stats screen.
+"leadstats_title"               =   "Статистика потенциального клиента";
+
+// The Help Text used by the lead stats screen.
+"leadstats_help"                =   "Просматривайте полную статистику рассылок и видеопросмотров для выбранного потенциального клиента.";
+
+// The title shown for the email stats section.
+"leadstats_emailstats"          =   "Статистика рассылок";
+
+// The title shown for the video stats section.
+"leadstats_videostats"          =   "Статистика видеопросмотров";
+
+// The key label for emails read.
+"leadstats_emailsread"          =   "Прочитанные сообщения";
+
+// The key label for emails not read.
+"leadstats_emailsnotread"       =   "Непрочитанные сообщения";
+
+// The label for how many times a video was watched.
+"leadstats_watched"             =   "Просмотрено";
+
+// The label for how long a video was watched.
+"leadstats_duration"            =   "Длительность";
+
+// The unit label for the number of times a video was watched.
+"leadstats_times"               =   "раз(а)";
+
+// The unit label for the duration time in seconds.
+"leadstats_secs"                =   "сек";
+
+
+// ============================================================================
+// * Lead Notes
+// ============================================================================
+
+// The title in the navigation bar of the lead notes screen.
+"leadnotes_title"               =   "Заметки о потенциальном клиенте";
+
+// The Help Text used by the lead notes screen.
+"leadnotes_help"                =   "Добавляйте и просматривайте заметки для выбранного потенциального клиента. Чтобы добавить заметку, нажмите кнопку «Плюс» (+).";
+
+// The title of the new note alert.
+"leadnotes_newnote"             =   "Новая заметка";
+
+
+// ============================================================================
+// * Manage Groups
+// ============================================================================
+
+// The title in the navigation bar of the manage groups screen.
+"managegroups_title"            = 	"Группы";
+
+// The Help Text used by the manage groups screen.
+"managegroups_help"             = 	"Просматривайте и изменяйте группы или потенциальных клиентов, чтобы запускать рассылки для них было быстро и просто!\n\nЧтобы удалить группу, нажмите кнопку «Изменить» (карандаш).\n\nЧтобы создать группу, нажмите кнопку «Добавить +».";
+
+// Label to indicate the number of contacts in a group.
+"managegroups_contacts"         = 	"Контакты";
+
+// The title used in the new group alert.
+"managegroups_newgroup"         = 	"Новая группа";
+
+// The message used in the new group alert.
+"managegroups_newgroupname"     = 	"Название новой группы:";
+
+// The placeholder text in the group name text field.
+"managegroups_groupname"        = 	"Название группы";
+
+// The validation message for requiring a group name.
+"managegroups_namevalidation"   =   "У группы должно быть название.";
+
+
+// ============================================================================
+// * Group Details
+// ============================================================================
+
+// The title in the navigation bar of the group details screen. (Overwritten by group name).
+"groupdetails_title"    = 	"Сведения о группе";
+
+// The Help Text used by the lead details screen.
+"groupdetails_help"     = 	"Просматривайте потенциальных клиентов в текущей группе.\n\nЧтобы удалить потенциального клиента, нажмите кнопку «Изменить» (карандаш).\n\nЧтобы добавить клиента в группу, нажмите кнопку «Добавить +».";
+
+
+// ============================================================================
+// * Multi-use Promotions
+// ============================================================================
+
+// Select Groups
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the Select Groups screen.
+"selectgroups_title"                =   "Выбор группы";
+
+// The Help Text used by the Select Groups screen.
+"selectgroups_help"                 =   "Выберите группы потенциальных клиентов, для которых хотите настроить рассылки.";
+
+// The instruction text above groups table.
+"selectgroups_instructions"         =   "Выберите группы для этой рассылки:";
+
+// The title of the New Group option in the Action Sheet menu.
+"selectgroups_newgroup"             =   "Новая группа";
+
+// The title of the Select from Phonebook option in the Action Sheet menu.
+"selectgroups_selectcontacts"       = 	"Выбрать из адресной книги";
+
+// The validation message for requiring at least one contact.
+"selectgroups_contactvalidation"    = 	"Необходимо выбрать группы хотя бы с одним номером телефона, чтобы отправить сообщение.";
+
+
+// Select Contacts
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the Select Contacts screen.
+"selectcontacts_title"              = 	"Выбрать контакты";
+
+// The Help Text used by the Select Contacts screen.
+"selectcontacts_help"               = 	"Выберите контакты, которые хотите использовать.\n\nУ контактов с мобильного устройства появится значок телефона. У потенциальных клиентов из личного кабинета появится значок адресной книги.\n\nФильтруйте контакты, вводя имена в строке поиска. Чтобы скрыть клавиатуру после поиска, нажмите кнопку «Скрыть клавиатуру».\n\nКонтакты, выбранные с мобильного устройства, будут автоматически добавлены к потенциальным клиентам из личного кабинета.";
+
+// The primary phone label. (Other labels are handled by OS.)
+"selectcontacts_primary"            =   "основной";
+
+// The message of the alert displayed when a contact fails to be added as a lead or to a group.
+"selectcontacts_uploadcontacterror" =   "Ошибка при загрузке контакта.";
+
+// The message of the alert displayed when a lead fails to be added to a group.
+"selectcontacts_addgroupleaderror"  =   "При добавлении потенциального клиента к группе произошла ошибка.";
+
+
+// Edit Message
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the Edit Message screen.
+"editmessage_title"         =   "Изменить сообщение";
+
+// The Help Text used by the Edit Message screen.
+"editmessage_help"          =   "Введите сообщение, которое хотите отправить своим группам.\n\nЧтобы очистить набранный текст, нажмите кнопку «X».\n\nЧтобы добавить имена потенциальных клиентов в сообщение, нажмите кнопку «Пользователь».\n\nЧтобы продолжить, нажмите кнопку «Далее».";
+
+// The instruction text above the message text field.
+"editmessage_instructions"  =   "Введите SMS-сообщение для отправки группе.";
+
+
+// Send Message
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the Send Message screen.
+"sendmessage_title"         =   "Отправить сообщение";
+
+// The Help Text used by the Send Message screen.
+"sendmessage_help"          =   "Подтверждайте потенциальных клиентов, для которых хотите запустить рассылку, а для отправки нажмите кнопку «Отправить сообщения».\n\nЧтобы начать рассылку снова, нажмите кнопку «Отмена».";
+
+// The instruction text above the contacts table.
+"sendmessage_instructions"  = 	"Проверьте перед отправкой.";
+
+// The title of the Send Messages button.
+"sendmessage_sendmessages"  =   "Отправить сообщения";
+
+// The message that is displayed upon successfully sending an SMS message.
+"sendmessage_sendsuccess"   = 	"Сообщения отправлены.";
+
+// Toasted when an SMS message is sent. (Android Only)
+"sendmessage_messagesent"   =	"Сообщение отправлено";
+
+
+// ============================================================================
+// * Training Videos Select
+// ============================================================================
+
+// The title in the navigation bar of the training videos screen.
+"trainingvideos_title"  =   "Обучающие видео";
+
+// The Help Text used by the training videos screen.
+"trainingvideos_help"   =   "Просматривайте обучающие видео.\n\nДля просмотра видео нажмите на видеоряд.";
+
+
+// ============================================================================
+// * Video Campaign Select
+// ============================================================================
+
+// The title in the navigation bar of the video campaign screen.
+"videocampaign_title"                   =   "Видеорассылки";
+
+// The Help Text used by the video campaign screen.
+"videocampaign_help"                    =   "Выбирайте, просматривайте и запускайте видеорассылки.\n\nДля предпросмотра рассылки нажмите кнопку «Сведения (i)» на ней.\n\nВыберите рассылку и нажмите кнопку «Далее», чтобы продолжить.\n\nПосле этого нажмите кнопку «Параметры» в нижней панели, чтобы запустить рассылку.";
+
+// The title in the navigation bar of the video campaign preview webview screen.
+"videocampaign_previewtitle"            = 	"Предпросмотр видеорассылки";
+
+// The text for the no videos found label.
+"videocampaign_novideosfound"           = 	"Видео не найдено";
+
+// The text for the no categories found label.
+"videocampaign_nocategoriesfound"       =   "Категорий не найдено";
+
+// The title of the filter button.
+"videocampaign_filter"                  =   "Фильтрация";
+
+
+// ============================================================================
+// * Custom Campaign Select
+// ============================================================================
+
+// The title in the navigation bar of the Custom Campaign screen.
+"customcampaign_title"              = 	"Индивидуальная рассылка";
+
+// The Help Text used by the Custom Campaign screen.
+"customcampaign_help"               = 	"Выполняйте индивидуальные рассылки для своих групп потенциальных клиентов.\n\nЧтобы разослать фото из «Фотопленки» устройства, выберите «Фотопленку».\n\nВыберите коллекцию порций оптимизма, чтобы разослать фото из нее.\n\nА чтобы выполнить рассылку с YouTube, выберите пункт YouTube.";
+
+// The Help Text used by the Custom Campaign screen. (Android Only)
+"customcampaign_help_android"       = 	"Выполняйте индивидуальные рассылки для своих групп потенциальных клиентов.\n\nЧтобы разослать фото из галереи устройства, выберите галерею.\n\nВыберите коллекцию порций оптимизма, чтобы разослать фото из нее.\n\nА чтобы выполнить рассылку видео из YouTube, выберите пункт YouTube.";
+
+// The title of the Camera Roll Campaign option.
+"customcampaign_camerarolltitle"    = 	"Фотопленка";
+
+// The description of the Camera Roll Campaign option.
+"customcampaign_camerarolldesc"     = 	"Выберите изображение из «Фотопленки», чтобы использовать его в рассылке.";
+
+// The title of the Gallery Campaign option. (Android Only)
+"customcampaign_gallerytitle"       = 	"Галерея";
+
+// The description of the Gallery Campaign option. (Android Only)
+"customcampaign_gallerydesc"        = 	"Выберите изображение из галереи, чтобы использовать его в рассылке.";
+
+// The title of the Optimism Library Campaign option.
+"customcampaign_optimismtitle"      = 	"Коллекция порций оптимизма";
+
+// The description of the Optimism Library Campaign option.
+"customcampaign_optimismdesc"       = 	"Выберите изображение для рассылки из коллекции ежедневных порций оптимизма.";
+
+// The title of the YouTube Campaign option.
+"customcampaign_youtubetitle"       = 	"YouTube";
+
+// The description of the YouTube Campaign option.
+"customcampaign_youtubedesc"        =   "Добавьте в рассылку видео из YouTube.";
+
+// The title of the Virtual Landing Page Campaign option.
+"customcampaign_virtualpagetitle"   =   "Виртуальная целевая страница";
+
+// The description of the Virtual Landing PageCampaign option.
+"customcampaign_virtualpagedesc"    = 	"В рассылке используйте индивидуальную виртуальную целевую страницу.";
+
+// The alert message displayed when an image couldn't be found to continue.
+"customcampaign_noimageerror"       =   "Не удалось выбрать изображение. Повторите попытку.";
+
+
+// YouTube Select
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the YouTube Campaigns screen.
+"youtubecampaign_title"             =   "Рассылки видео из YouTube";
+
+// The Help Text used by the YouTube Campaigns screen.
+"youtubecampaign_help"              =   "Создавайте и выбирайте рассылки видео из YouTube для индивидуальной отправки группам потенциальных клиентов.\n\nЧтобы создать рассылку YouTube, нажмите кнопку «Добавить +».\n\nЧтобы изменить или удалить рассылку, проведите по ней влево.\n\nЧтобы изменить рассылку, нажмите кнопку «Сведения» (i).\n\nВыберите рассылку, а затем нажмите кнопку «Далее», чтобы продолжить.";
+
+// The message displayed when campaign downloads fail.
+"youtubecampaign_getfailure"        =   "Не удалось загрузить рассылки YouTube. Повторите попытку.";
+
+// The message displayed when campaign deletion fails.
+"youtubecampaign_deletefailure"     =	"Не удалось удалить рассылку.";
+
+
+// YouTube Add/Update
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the YouTube Campaign Editor screen.
+"youtubeeditor_title"               =   "Добавить/изменить рассылку";
+
+// The Help Text used by the YouTube Campaign Editor screen.
+"youtubeeditor_help"                =   "Введите данные для индивидуальной рассылки YouTube.\n\nЧтобы запустить рассылку, НЕОБХОДИМО заполнить ВСЕ поля.\n\n- URL-адрес (100 символов): это то, что увидят потенциальные клиенты в поле URL.\n- Заголовок страницы (50 символов): будет отображаться вверху страницы с видео.\n- Название видео (25 символов): будет отображаться под видеоплеером.\n- Описание видео (150 символов): краткое описание под названием видео.\n- Ссылка на видео (100 символов): ссылка на видео из YouTube.\n\nПосле того как вы укажите ссылку на видео, вы сможете предварительно просмотреть встроенное видео, которое будет использоваться в индивидуальной рассылке.\n\nЧтобы сохранить индивидуальную рассылку YouTube, нажмите кнопку «Сохранить».";
+
+// The text used to indicate where the embed preview will appear.
+"youtubeeditor_embedpreview"        = 	"Здесь будет отображаться встроенное видео из YouTube. Для предпросмотра добавьте ссылку на видео.";
+
+// The title and placeholder text used in the URL Page Name text field.
+"youtubeeditor_pagename"            =   "URL-адрес";
+
+// The title and placeholder text used in the Page Title text field.
+"youtubeeditor_pagetitle"           = 	"Заголовок страницы";
+
+// The title and placeholder text used in the Video Name text field.
+"youtubeeditor_videoname"           = 	"Название видео";
+
+// The title and placeholder text used in the Video Description text field.
+"youtubeeditor_videodescription"    = 	"Описание видео";
+
+// The title and placeholder text used in the Video Link text field.
+"youtubeeditor_videolink"           =   "Ссылка на видео";
+
+// The message displayed when a campaign is saved successfully.
+"youtubeeditor_savesuccess"         =   "Рассылка сохранена!";
+
+// The message displayed when a campaign fails to save.
+"youtubeeditor_savefailure"         =   "Не удалось сохранить рассылку.";
+
+// The too many characters validation message.
+/*
+ "{0} - {1}: {2}/{3}"
+ Where:
+ {0} = Field Name
+ {1} = The Translated Text
+ {2} = Current Number of Letters
+ {3} = Max Limit of Letters
+ */
+"youtubeeditor_manyvalidation"     = 	"В текстовом поле должно быть меньше символов. Текущее количество символов";
+
+// The too few characters validation message.
+/*
+ "{0} - {1}"
+ Where:
+ {0} = Field Name
+ {1} = The Translated Text
+ */
+"youtubeeditor_fewvalidation"       =   "Необходимо ввести значение.";
+
+
+// Virtual Landing Page Campaign Select
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the Virtual Landing Page Campaigns screen.
+"virtualpagecampaign_title"         =   "Рассылки с целевыми страницами";
+
+// The Help Text used by the Virtual Landing Page Campaigns screen.
+"virtualpagecampaign_help"          =   "Выберите корпоративную виртуальную целевую страницу для использования в рассылке.\n\nДля предпросмотра рассылки нажмите кнопку «Сведения» (i) на ней.\n\nЧтобы запустить рассылку не по SMS, нажмите кнопку «Действия» в нижней панели инструментов и выберите нужный способ отправки.";
+
+// The message displayed when campaign downloads fail.
+"virtualpagecampaign_getfailure"    =   "Не удалось загрузить виртуальные страницы. Повторите попытку.";
+
+// The title in the navigation bar of the Virtual Landing Pages Campaign preview webview screen.
+"virtualpagecampaign_previewtitle"  = 	"Предпросмотр виртуальной страницы";
+
+
+// ============================================================================
+// * Campaign Stats
+// ============================================================================
+
+// The title in the navigation bar of the Campaign Stats screen.
+"campaignstats_title"   =   "Статистика рассылок";
+
+// The Help Text used by the Campaign Stats screen.
+"campaignstats_help"    =   "Просматривайте статистику по всем мобильными рассылкам!";
+
+
+// ============================================================================
+// * My Badges
+// ============================================================================
+
+// The title in the navigation bar of the My Badges screen.
+"mybadges_title"            =   "Мои значки";
+
+// The Help Text used by the My Badges screen.
+"mybadges_help"             =   "Просматривайте все значки, заработанные за посещение мероприятий, за рассылки и многое другое. Чтобы полюбоваться значком, просто нажмите на него!";
+
+// The points label text.
+"mybadges_points"           =   "Баллы";
+
+// The message displayed in the alert shown when a badge is not earned but is selected.
+"mybadges_notearned"        =   "Вы пока не заработали этот значок!";
+
+// The message displayed when badge downloads fail.
+"mybadges_getfailure"       =   "Не удалось загрузить значки. Повторите попытку.";
+
+// The message displayed when sharing a badge. (Android Only)
+"mybadges_sharebadge"       =	"Поделиться значком";
+
+// The message displayed when a single badge is earned.
+/*
+ "{0}: {1}"
+ Where:
+ {0} = The Translated Text
+ {1} = Badge Name
+ */
+"mybadges_singleearned"     =   "Вы заработали значок";
+
+// The message displayed when multiple badges are earned.
+"mybadges_multipleearned"   =   "Вы заработали новые значки!";
+
+
+// ============================================================================
+// * Badge Details
+// ============================================================================
+
+// The title in the navigation bar of the Badge Detail screen. (Overridden by Badge name).
+"badgedetails_title"    =   "Данные о значке";
+
+// The Help Text used by the Badge Detail screen.
+"badgedetails_help"     =   "Полюбуйтесь своим значком! Вы ведь его заработали!";
+
+// The message to share when sharing a badge.
+/*
+ "{0}: {1}"
+ Where:
+ {0} = The Translated Text
+ {1} = Badge Name
+ */
+"badgedetails_share"    =   "Мне достался значок";
+
+
+// ============================================================================
+// * Alerts
+// ============================================================================
+
+// The title in the navigation bar of the Alerts screen.
+"alerts_title"              =   "Оповещения";
+
+// The Help Text used by the Alerts screen.
+"alerts_help"               =   "Просматривайте любые оповещения своей учетной записи.\n\nЧтобы удалить все оповещения, нажмите на значок корзины.";
+
+// The message displayed when deleting all alerts.
+"alerts_deletealerts"       =   "Удалить все оповещения?";
+
+// The title in the navigation bar of the Alerts Preview screen.
+"alerts_previewdetailtitle" = 	"Подробности оповещений";
+
+// The Help Text used by the Alerts Preview screen.
+"alerts_previewdetailhelp"  = 	"Просматривайте подробности любого оповещения.";
+
+
+// ============================================================================
+// * Profile
+// ============================================================================
+
+// The title in the navigation bar of the Profile screen.
+"profile_title"     =   "Мобильный профиль";
+
+// The Help Text used by the Profile screen.
+"profile_help"      =   "Просматривайте свой мобильный профиль.\n\nЧтобы изменить данные в нем, нажмите «Изменить профиль».\n\nНажмите «Вход в соцсети», чтобы войти в учетные записи соцсетей.\n\nИзменить личное расписание для публикации порций оптимизма можно, нажав кнопку «Настройки автоматической капельной рассылки».";
+
+// Used to link to a user's profile website. (Android Only)
+"profile_mywebsite"         =   "Мой веб-сайт";
+
+
+// The title of the Edit Profile option.
+"profile_editprofiletitle"  = 	"Изменить профиль";
+
+// The description of the Edit Profile option.
+"profile_editprofiledesc"   = 	"Изменяйте настройки своего мобильного профиля, в том числе имя, контактные данные и изображение профиля.";
+
+// The title of the Login to Social Media option.
+"profile_socialmediatitle"  = 	"Вход в соцсети";
+
+// The description of the Login to Social Media option.
+"profile_socialmediadesc"   = 	"Входите через соцсети, чтобы использовать такие функции, как автоматические капельные рассылки.";
+
+// The title of the Auto-Drip Settings option.
+"profile_autodriptitle"     = 	"Настройки автоматической капельной рассылки";
+
+// The description of the Auto-Drip Settings option.
+"profile_autodripdesc"      = 	"Планируйте и создавайте публикации для автоматической капельной рассылки по всем соцсетям.";
+
+
+// ============================================================================
+// * Edit Profile
+// ============================================================================
+
+// The title in the navigation bar of the Edit Profile screen.
+"editprofile_title"                 =   "Изменить профиль";
+
+// The Help Text used by the Edit Profile screen.
+"editprofile_help"                  =   "Вы можете изменить данные своего профиля и загрузить новое изображение.\n\nИзображения можно загружать из «Фотопленки» и своих профилей соцсетей. Только сначала войдите в учетную запись, прежде чем использовать изображение.\n\nЧтобы сохранить любые внесенные изменения, нажмите кнопку «Сохранить».";
+
+// The Help Text used by the Edit Profile screen. (Android Only)
+"editprofile_help_android"          =   "Вы можете изменить данные своего профиля и загрузить новое изображение.\n\nИзображения можно загружать из галереи и своих профилей соцсетей. Только сначала войдите в учетную запись, прежде чем использовать изображение.\n\nЧтобы сохранить любые внесенные изменения, нажмите кнопку «Сохранить».";
+
+// The title of the Edit Profile Picture Button.
+"editprofile_editprofilepic"        =   "Изменить изображение профиля";
+
+// The title of the Edit Profile Picture Action Sheet menu.
+"editprofile_editprofilepictitle"   =   "Выбрать изображение профиля";
+
+// The title of the Camera Roll option in the edit profile Action Sheet menu.
+"editprofile_cameraroll"            =   "Фотопленка";
+
+// The title of the Gallery option in the edit profile Action Sheet menu. (Android Only)
+"editprofile_gallery"               =   "Галерея";
+
+// The title of the Save Settings Button.
+"editprofile_savesettings"          =   "Сохранить настройки";
+
+// The validation message for requiring a first name to be entered.
+"editprofile_firstnamevalidation"   =   "Необходимо ввести имя.";
+
+// The validation message for requiring a display name to be entered.
+"editprofile_displaynamevalidation" =   "Необходимо ввести псевдоним.";
+
+// The message displayed when saving a profile successfully.
+"editprofile_savesuccess"           =   "Мобильный профиль сохранен!";
+
+// The message displayed when saving a profile fails.
+"editprofile_savefailure"           = 	"Не удалось обновить мобильный профиль. Повторите попытку.";
+
+
+// ============================================================================
+// * Social Media Login
+// ============================================================================
+
+// The title in the navigation bar of the Social Media screen.
+"socialmedia_title"         =   "Соцсети";
+
+// The Help Text used by the Social Media screen.
+"socialmedia_help"          =   "Входите через соцсети — так вы сможете добавить свое изображение профиля из нужной соцсети в мобильный профиль и автоматически публиковать порции оптимизма.";
+
+// The text for the How we use your Social Media Accounts label.
+"socialmedia_howeusetitle"  = 	"Как пользоваться учетными записями соцсетей:";
+
+// The text description for How we user Social Media.
+"socialmedia_howweusedesc"  = 	"- Получение основных данных профиля (имя, псевдоним и т. д.)\n- Получение изображения профиля, которое будет показываться в приложении.\n- Запрос разрешений на публикацию.";
+
+
+// ============================================================================
+// * Auto-Drip Schedule
+// ============================================================================
+
+// The title in the navigation bar of the Auto-Drip Schedules screen.
+"autodrip_title"        =   "Расписание автоматических капельных рассылок";
+
+// The Help Text used by the Auto-Drip Schedules screen.
+"autodrip_help"         =   "Задайте расписание автоматической капельной рассылки. Установите время и дни недели, когда бы вы хотели получать напоминания о публикациях.\n\nЧтобы сохранить расписание, нажмите кнопку «Сохранить».\n\nЧтобы сделать публикацию сразу, нажмите «Опубликовать сейчас»!\n\nДля публикации можно подобрать подходящее изображение, написать подходящее сообщение и указать лишь нужные соцсети.";
+
+// The title of the Make Post Now Button.
+"autodrip_makepostnow"  =   "Опубликовать сейчас";
+
+// The text of the schedule label.
+"autodrip_schedule"     =   "Расписание";
+
+// The message displayed in the alert when a schedule is saved successfully.
+"autodrip_savesuccess"  =   "Расписание сохранено!";
+
+// The message displayed in the alert when a schedule fails to save.
+"autodrip_savefailure"  =   "При сохранении расписания произошла ошибка. Повторите попытку.";
+
+
+// The title to the Refresh Button.
+"autodrip_refreshoption"    = 	"Обновить";
+
+// The title to the Library Button.
+"autodrip_library"          = 	"Коллекция";
+
+// The title to the Camera Roll Button.
+"autodrip_cameraroll"       = 	"Фотопленка";
+
+// The title to the Gallery Button. (Android Only)
+"autodrip_gallery"          = 	"Галерея";
+
+// The text of the instructions label.
+"autodrip_instructions"     = 	"Введите сообщение выше.";
+
+// The text of the Social Networks label.
+"autodrip_socialnetworks"   = 	"Социальные сети";
+
+// The validation message displayed to require at least one social network selected.
+"autodrip_socialvalidation" = 	"Необходимо выбрать хотя бы одну соцсеть для публикации в ней.";
+
+// The validation message to require login.
+/*
+ "{0} - {1}"
+ Where:
+ {0} = Social Network Name
+ {1} = The Translated Text
+ */
+"autodrip_loginvalidation"  = 	"Для публикации необходимо выполнить вход.";
+
+// The title used in Auto-Drip push notifications. (Android Only)
+"autodrip_autodrip"         =   "Автокапельная рассылка";
+
+// Message added to local notification for auto-dripping.
+"autodrip_timetopost"       =	"Автокапельная рассылка. Время для публикации!";
+
+
+
+// ============================================================================
+// * Success On Demand
+// ============================================================================
+
+// The title in the navigation bar of the Success On Demand screen.
+"sod_title"     =   "Успех по запросу";
+
+// The Help Text used by the Success On Demand screen.
+"sod_help"      =   "Полный доступ к «Успеху по запросу»!";
+
+
+// ============================================================================
+// * Help Center
+// ============================================================================
+
+// Help Center
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the Help Center screen.
+"helpcenter_title"          =   "Справочный центр";
+
+// The Help Text used by the Help Center screen.
+"helpcenter_help"           =   "Помощь всегда в одном нажатии! Просто нажмите на заголовок панели навигации на любом экране.\n\nЕсли доступна какая-нибудь информация, она отобразится в новом окне как сейчас!\n\nПопробуйте нажать на заголовок на других экранах!";
+
+// The text used to instruct users to tap the title to view help tips.
+"helpcenter_instructions"   = 	"Нужна помощь? Нажмите на заголовок «Справочный центр» в панели навигации выше!\nДавайте же! Смелее!";
+
+// The title of the Request Support option.
+"helpcenter_supporttitle"   = 	"Обратиться в поддержку";
+
+// The description of the Request Support option.
+"helpcenter_supportdesc"    =   "Обращайтесь к нам за поддержкой или сообщайте о проблемах, с которыми сталкиваетесь в приложении.";
+
+// The title of the Training Videos option.
+"helpcenter_trainingtitle"  = 	"Обучающие видео";
+
+// The description of the Training Videos option.
+"helpcenter_trainingdesc"   = 	"С помощью полезных обучающих материалов вы узнаете, как в полной мере использовать возможности этого приложения!";
+
+// The title of the Rate the App option.
+"helpcenter_rateapptitle"   = 	"Оценить приложение";
+
+// The description of the Rate the App option.
+"helpcenter_rateappdesc"    =   "Нравится наше приложение? Мы будем рады, если вы дадите ему 5 звезд в App Store!";
+
+
+// Support Request
+// ----------------------------------------------------------------------------
+
+// The title in the Navigation bar of the Support Requests screen.
+"supportrequests_title"                 =   "Обращения в службу поддержки";
+
+// The Help Text used by the Support Requests screen.
+"supportrequests_help"                  =   "Вы можете просматривать любые запросы, с которыми вы обращались в службу поддержки. Нажмите на обращение, чтобы посмотреть ответ на него.\n\nЧтобы создать новое обращение, нажмите кнопку «Добавить +».";
+
+
+// The title in the Navigation bar of the Add Support Request screen.
+"addsupportrequest_title"               =   "Обращение в службу поддержки";
+
+// The Help Text used by the Add Support Request screen.
+"addsupportrequest_help"                =   "Обращайтесь к нам за поддержкой напрямую. Введите сообщение в текстовом поле и нажмите «Отправить».";
+
+// The text used to instruct users to create a support request.
+"addsupportrequest_instructions"        =   "Введите обращение ниже";
+
+// The message used when sending a support request is successful.
+"addsupportrequest_success"             =   "Ваше обращение получено!";
+
+// The validation message for requiring a message.
+"addsupportrequest_textvalidation"      =   "Необходимо ввести сообщение.";
+
+
+// The title in the Navigation bar of the Support Responses screen.
+"supportresponses_title"                =   "Ответы на обращения";
+
+// The Help Text used by the Support Responses screen.
+"supportresponses_help"                 =   "Просматривайте свои обращения в службу поддержки и полученные ответы.\n\nДля ответа используйте панель сообщений внизу.";
+
+// The title text of the Send button.
+"supportresponses_send"                 =   "Отправить";
+
+// The placeholder text in the message bar text view.
+"supportresponses_placeholdertext"      =   "Сообщение";
+
+
+// ============================================================================
+// * Jeunesse Only
+// ============================================================================
+
+// The title of the Dashboard menu option.
+"menu_dashboard"                =   "Панель управления";
+
+// The title of the My Events menu option.
+"menu_myevents"                 =   "Мои мероприятия";
+
+// The title of the Admin Events menu option.
+"menu_adminevents"              =   "Мероприятия администратора";
+
+// The title of the People I Sponsor menu option.
+"menu_peoplesponsored"          =   "Кого я спонсирую";
+
+// The title of the Genealogy menu option.
+"menu_genealogy"                =   "Древо";
+
+// The title of the Add New Signup menu option.
+"menu_newsignup"                =   "Зарегистрировать нового участника";
+
+// The title of the Messages menu option.
+"menu_messages"                 =   "Сообщения";
+
+// The title of the Reports menu option.
+"menu_reports"                  =   "Отчеты";
+
+// The title of the JCloud menu option.
+"menu_jcloud"                   =   "JCloud";
+
+
+// The title of the menu section header for JOffice.
+"menu_jofficeheader"            =   "JOFFICE™";
+
+
+// ============================================================================
+// * Jeunesse Dashboard
+// ============================================================================
+
+// The title in the navigation bar of the Dashboard screen.
+"dashboard_title"                   =   "Панель управления";
+
+// The Help Text used by the Dashboard screen.
+"dashboard_help"                    =   "В панели управления вы можете просматривать все актуальные сведения о своем бизнесе.\n\nНажмите кнопку вкладок, чтобы выбрать другую вкладку.";
+
+// The title of the Business Snapshot tab.
+"dashboard_businesssnapshot"        =   "Бизнес-статистика";
+
+// The title of the Home tab.
+"dashboard_home"                    =   "Главная";
+
+// The title of the News Feed tab.
+"dashboard_newsfeed"                =   "Лента новостей";
+
+// The title of the JNews tab.
+"dashboard_jnews"                   =   "JNews";
+
+// The title of the Prospector tab.
+"dashboard_prospector"              =   "Prospector";
+
+
+// ============================================================================
+// * People I Sponsor
+// ============================================================================
+
+// The title in the navigation bar of the People I Sponsor screen.
+"peopleisponsor_title"                  =   "Кого я спонсирую";
+
+// The Help Text used by the People I Sponsor screen.
+"peopleisponsor_help"                   =   "Просматривайте тех, кого вы лично спонсируете, и связывайтесь с ними. Нажмите на спонсора, чтобы узнать о нем подробнее.";
+
+
+// The title in the navigation bar of the People I Sponsor Detail screen. (Replaced by sponsor displayname)
+"peopleisponsordetail_title"            =   "Кого я спонсирую";
+
+// The Help Text used by the People I Sponsor Detail screen.
+"peopleisponsordetail_help"             =   "Просматривайте контактные данные выбранного спонсора. Чтобы связаться с ним, нажмите на адрес электронной почты или на номер телефона.";
+
+
+// ============================================================================
+// * Genealogy
+// ============================================================================
+
+// The title in the navigation bar of the Genealogy screen.
+"genealogy_title"                  =   "Древо";
+
+// The Help Text used by the Genealogy screen.
+"genealogy_help"                   =   "Просматривайте полное генеалогическое древо.";
+
+
+// ============================================================================
+// * Add New Signup
+// ============================================================================
+
+// The title in the navigation bar of the New Signup screen.
+"newsignup_title"                   =   "Добавить нового участника";
+
+// The Help Text used by the New Signup screen.
+"newsignup_help"                    =   "Зарегистрируйте нового участника. Для этого укажите свое имя пользователя или URL-адрес сайта и нажмите кнопку «Регистрация». Затем вам будет предложено ввести необходимые данные.";
+
+// The label text for the sponsor text field.
+"newsignup_sponsor"                 =   "URL-адрес сайта спонсора";
+
+// The title text for the Signup button.
+"newsignup_signup"                  =   "Регистрация";
+
+// The warning message that appears when an invalid value is entered.
+"newsignup_invalidmessage"          =   "Введите действительное имя пользователя или URL-адрес.";
+
+
+// ============================================================================
+// * Messages
+// ============================================================================
+
+// The title in the navigation bar of the Messages screen.
+"messages_title"            =   "Сообщения";
+
+// The Help Text used by the Messages screen.
+"messages_help"             =   "Просматривайте свои личные сообщения.\n\nЧтобы удалить сообщение, проведите по нему влево.\n\nЧтобы перейти во входящие либо в корзину, нажмите на значок папки в нижней панели.\n\nЧтобы прочитать сообщение, просто нажмите на него.";
+
+
+// The title of the Inbox Message Folder.
+"messages_inbox"            =   "Входящие";
+
+// The title of the Trash Message Folder.
+"messages_trash"            =   "Корзина";
+
+
+// ============================================================================
+// * Reports
+// ============================================================================
+
+// The title in the navigation bar of the Reports List screen.
+"reportslist_title"            =   "Отчеты";
+
+// The Help Text used by the Reports List screen.
+"reportslist_help"             =   "Просматривайте все свои бизнес-отчеты прямо на мобильном устройстве! Чтобы посмотреть отчет, нажмите на него.";
+
+
+// The title in the navigation bar of the Report Parameters screen.
+"reportparams_title"            =   "Параметры отчетов";
+
+// The Help Text used by the Report Parameters screen.
+"reportparams_help"             =   "Введите и выберите требуемые параметры, чтобы создать выбранный отчет.";
+
+// The title used by the View Reports button.
+"reportparams_viewreports"      =   "Просмотр отчетов";
+
+
+// The title in the navigation bar of the Report Viewer screen.
+"reportviewer_title"            =   "Средство просмотра отчетов";
+
+// The Help Text used by the Report Viewer screen.
+"reportviewer_help"             =   "Посмотрите отчет, созданный с учетом заданных ранее параметров.";
+
+
+// ============================================================================
+// * JCloud
+// ============================================================================
+
+// The title in the navigation bar of the JCloud screen.
+"jcloud_title"                          =   "JCloud";
+
+// The Help Text used by the JCloud screen.
+"jcloud_help"                           =   "Просматривайте любые файлы и каталоги в облаке.\n\nЧтобы загрузить файл, нажмите кнопку загрузки.\n\nЕсли файл уже загружен локально, кнопка загрузки не отобразится. В этом случае просто нажмите на файл, и он откроется.\n\nЧтобы удалить локально загруженный файл, проведите по нему справа налево — появится кнопка удаления.";
+
+// The title used in the Remove Local button.
+"jcloud_removelocal"                    =   "Удалить локальную версию файла";
+
+// The title in the navigation bar of the JCloud screen when downloading a file.
+"jcloud_downloading"                    =   "Загрузка";
+
+
+// ============================================================================
+// * My Events
+// ============================================================================
+
+// The title in the navigation bar of the My Events List screen.
+"myeventslist_title"                        =   "Мои мероприятия";
+
+// The Help Text used by the My Events List screen.
+"myeventslist_help"                         =   "Просматривайте список мероприятий, на которые вы зарегистрированы.\n\nНажмите на мероприятие, чтобы посмотреть код доступа к нему.";
+
+// The notice for not being registered for any events.
+"myeventslist_notregistered"                =   "Пока что вы не зарегистрированы ни на одно мероприятие.";
+
+
+// The title in the navigation bar of the My Events Detail screen. (Replaced by event name)
+"myeventsdetail_title"                      =   "QR-код моего мероприятия";
+
+// The Help Text used by the My Events Detail screen.
+"myeventsdetail_help"                       =   "Это ваш QR-код для доступа к выбранному мероприятию. Покажите код администратору, чтобы вас пустили.\n\nИногда интернет-подключение на мероприятиях слабое либо отсутствует вовсе, поэтому обязательно загрузите этот QR-код, нажав кнопку «Сохранить в “Фотопленку”».";
+
+// The Help Text used by the My Events Detail screen. (Android Only)
+"myeventsdetail_help_android"                       =   "Это ваш QR-код для доступа к выбранному мероприятию. Покажите код администратору, чтобы вас пустили.\n\nИногда интернет-подключение на мероприятиях слабое либо отсутствует вовсе, поэтому обязательно загрузите этот QR-код, нажав кнопку «Сохранить в галерею».";
+
+// The title in the Save to Camera Roll button.
+"myeventsdetail_savetocameraroll"           =   "Сохранить в «Фотопленку»";
+
+// The title in the Save to Gallery button. (Android Only)
+"myeventsdetail_savetogallery"              =   "Сохранить в галерею";
+
+// The alert text for reminding users to download an event QR Code.
+"myeventsdetail_downloadreminder"           =   "Иногда интернет-подключение на мероприятиях слабое либо отсутствует вовсе, поэтому обязательно загрузите этот QR-код, нажав кнопку «Сохранить в “Фотопленку”».";
+
+// The alert text for reminding users to download an event QR Code. (Android Only)
+"myeventsdetail_downloadreminder_android"   =   "Иногда интернет-подключение на мероприятиях слабое либо отсутствует вовсе, поэтому обязательно загрузите этот QR-код, нажав кнопку «Сохранить в галерею».";
+
+// The alert text verifying a QR code was saved successfully.
+"myeventsdetail_qrcodesavesuccess"          =   "QR-код сохранен!";
+
+// The alert text notifying the user that a QR code failed to save.
+"myeventsdetail_qrcodesavefailure"          =   "Не удалось сохранить QR-код.";
+
+
+// ============================================================================
+// * Admin Events
+// ============================================================================
+
+// The title in the navigation bar of the Admin Events List screen.
+"admineventslist_title"         =   "Мероприятия администратора";
+
+// The Help Text used by the Admin Events List screen.
+"admineventslist_help"          =   "Просматривайте любые предстоящие мероприятия и участников, которые на них зарегистрированы.";
+
+// The text used to indicate the number of signups for an event.
+"admineventslist_signups"       =   "Регистрации";

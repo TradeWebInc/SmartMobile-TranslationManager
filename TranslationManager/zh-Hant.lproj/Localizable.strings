@@ -1,0 +1,1486 @@
+// ============================================================================
+// * Android
+// ============================================================================
+
+"android_exitconfirm"				=	"確定要結束嗎？";
+"android_appnotfound"				=	"無法在市集中找到 app。";
+"android_nogoogleplus"				=	"您必須安裝 Google+。";
+"android_notificatonssetting"		=	"接收通知";
+
+
+// ============================================================================
+// * General
+// ============================================================================
+
+"general_yes"               = 	"是";
+"general_no"                =   "否";
+"general_on"				= 	"開";
+"general_off"				=	"關";
+"general_accept"            =   "接受";
+"general_decline"           =   "拒絕";
+"general_success"           =   "成功";
+"general_error"             = 	"錯誤";
+"general_notice"            = 	"注意事項";
+"general_ok"                =   "好";
+"general_cancel"            = 	"取消";
+"general_loading"           = 	"載入中";
+"general_none"              = 	"無";
+"general_next"              = 	"繼續";
+"general_done"              = 	"完成";
+"general_save"              = 	"儲存";
+"general_delete"            = 	"刪除";
+"general_addnew"            =   "新增 +";
+"general_add"				=	"新增";
+"general_create"            =   "建立";
+"general_edit"              =   "編輯";
+"general_seemore"           =   "查看更多";
+"general_more"              =   "更多";
+"general_reset"             = 	"重置";
+"general_post"              = 	"留言";
+"general_submit"            =   "提交";
+"general_share"             =   "共享";
+"general_exit"              =   "結束";
+"general_settings"          =   "設定";
+"general_info"              =   "資訊";
+"general_unknownerror"      =   "發生不明錯誤。請再試一次。";
+"general_nointernet"		=	"無法連接 Internet。請檢查 Internet 設定，然後再試一次。";
+"general_cantmakecalls"     =   "這台裝置無法撥電話。";
+"general_cantsendsms"     	=   "這台裝置無法傳送簡訊。";
+"general_cantsendemail"     =   "這台裝置無法傳送電子郵件。請檢查電子郵件設定然後再試一次。";
+
+"general_back"              =   "返回";
+"general_forward"           =   "下一步";
+"general_webpageerror"      =   "無法載入網頁。";
+
+"general_unknownname"       =   "名稱不明";
+"general_username"          = 	"使用者名稱";
+"general_firstname"         = 	"名字";
+"general_lastname"          = 	"姓氏";
+"general_name"              =   "名稱";
+"general_language"          =   "語言";
+"general_address"           =   "地址";
+"general_city"              =   "城市";
+"general_state"             =   "州/省";
+"general_zip"               =   "郵遞區號";
+"general_province"          =   "省分";
+"general_postalcode"        =   "郵遞區號";
+"general_country"           =   "國家/地區";
+"general_phonenumber"       = 	"電話號碼";
+"general_phone"             = 	"電話";
+"general_secondphone"       =   "第二支電話";
+"general_cell"              = 	"手機";
+"general_work"              = 	"公司";
+"general_email"             = 	"電子郵件";
+"general_status"            = 	"狀態";
+"general_displayname"       = 	"顯示名稱";
+"general_title"             = 	"職稱";
+"general_contact"           =   "聯絡資訊";
+"general_lead"              =   "潛在客戶";
+"general_facebookurl"       = 	"Facebook URL";
+"general_twitterhandle"     = 	"Twitter 帳號";
+"general_skypeusername"     = 	"Skype 使用者名稱";
+"general_devicemodel"       =   "裝置型號";
+"general_devicelanguage"    =   "裝置語言";
+"general_deviceos"          =   "裝置作業系統";
+"general_appversion"        =   "App 版本";
+
+"general_sunday"            = 	"星期日";
+"general_monday"            =   "星期一";
+"general_tuesday"           = 	"星期二";
+"general_wednesday"         = 	"星期三";
+"general_thursday"          = 	"星期四";
+"general_friday"            = 	"星期五";
+"general_saturday"          = 	"星期六";
+
+"general_days"              =   "天";
+"general_hours"             =   "小時";
+
+"general_facebook"          = 	"Facebook";
+"general_twitter"           = 	"Twitter";
+"general_googleplus"        = 	"Google+";
+
+
+// ============================================================================
+// * Language Select
+// ============================================================================
+
+"language_select"           =   "選擇語言";
+
+
+// ============================================================================
+// * App Rating
+// ============================================================================
+
+
+// The title of the prompt for app rating.
+"rateappprompt_title"   = 	"是否幫 App 評分？";
+
+// The message in the prompt for app rating.
+"rateappprompt_message" = 	"喜歡這個 app 嗎？要幫目前版本評分嗎？";
+
+// The cancel text of the prompt for app rating.
+"rateappprompt_cancel"  = 	"以後再說";
+
+
+// ============================================================================
+// * Login
+// ============================================================================
+
+// The title in the navigation bar of the login screen.
+"login_title"                   =	"歡迎光臨";
+
+// The Help Text used by the login screen.
+"login_help"                    =   "輸入使用者名稱和密碼即可登入。\n\n輕點「保持連線」開關就能讓 app 記住您的使用者名稱和密碼。app 將在開啟時設法自動登入！";
+
+// The placeholder text for the password text field.
+"login_password"                = 	"密碼";
+
+// The title of the Login Button, and any alert message box.
+"login_login"                   = 	"登入";
+
+// The label for the Keep Me Connected Switch.
+"login_keepmeconnected"         =   "保持連線";
+
+// The Version label on indicating the app version.
+"login_version"                 = 	"版本";
+
+// The text used in the loading indicator for the login screen.
+"login_loading"                 = 	"正在登入";
+
+// The login error/failure message.
+"login_loginerror"              = 	"登入期間發生錯誤。請檢查使用者名稱和密碼，然後再試一次。";
+
+
+// The title text of the login method prompt.
+"login_loginmethodprompt"       =   "告訴我要如何幫您保持連線。";
+
+// The title of the Use Touch ID button.
+"login_methodtouchid"           =   "使用 Touch ID";
+
+// The title of the Remember Username & Password button.
+"login_methoduserandpass"       =   "記住使用者名稱與密碼";
+
+// The title of the Remember Username only button.
+"login_methoduser"              =   "只記住使用者名稱";
+
+
+// ============================================================================
+// * Terms of Service
+// ============================================================================
+
+// The title in the navigation bar of the Terms of Service screen.
+"tos_title"             =   "服務條款";
+
+// The Help Text used by the login screen.
+"tos_help"              =   "請閱讀使用本 app 時必須遵守的「服務條款」協議。請接受或拒絕協議。拒絕本協議就無法使用此 app 的其他功能。";
+
+
+// ============================================================================
+// * Menu
+// ============================================================================
+
+// The title of the Home menu option.
+"menu_home"             =   "主畫面";
+
+// The title of the Optimism menu option.
+"menu_optimism"         =   "勵志圖";
+
+// The title of the My Leads menu option.
+"menu_myleads"          = 	"我的潛在客戶";
+
+// The title of the Manage Groups menu option.
+"menu_managegroups"     = 	"管理群組";
+
+// The title of the Training Videos menu option.
+"menu_trainingvideos"   =   "訓練影片";
+
+// The title of the Video Campaign menu option.
+"menu_videocampaign"    = 	"影片行銷活動";
+
+// The title of the Group SMS menu option.
+"menu_groupsms"         =   "群組簡訊";
+
+// The title of the Custom Campaign menu option.
+"menu_customcampaign"   =   "自定行銷活動";
+
+// The title of the Campaign Stats menu option.
+"menu_campaignstats"    = 	"行銷活動數據";
+
+// The title of the My Badges menu option.
+"menu_mybadges"         =   "我的勳章";
+
+// The title of the Alerts menu option.
+"menu_alerts"           =   "通知";
+
+// The title of the Profile menu option.
+"menu_profile"          =   "個人檔案";
+
+// The title of the Back Office menu option.
+"menu_backoffice"       =   "後台系統網站";
+
+// The title of the Success On Demand menu option.
+"menu_sod"              =   "Success On Demand";
+
+// The title of the Help Center menu option.
+"menu_helpcenter"       = 	"輔助說明中心";
+
+// The title of the Logout menu option.
+"menu_logout"           =   "登出";
+
+
+// The title of the menu section header for Home.
+"menu_homeheader"           =   "主畫面";
+
+// The title of the menu section header for Lead Management.
+"menu_leadmanagementheader" = 	"我的潛在客戶";
+
+// The title of the menu section header for Promotions.
+"menu_promotions"           = 	"促銷活動";
+
+// The title of the menu section header for Other.
+"menu_otherheader"          = 	"其他";
+
+// The title of the menu section header for More.
+"menu_moreheader"           = 	"更多";
+
+
+
+// ============================================================================
+// * Daily Optimism
+// ============================================================================
+
+// The title in the navigation bar of the daily optimism screen.
+"dailyoptimism_title"       = 	"每日勵志圖";
+
+// The Help Text used by the daily optimism screen.
+"dailyoptimism_help"        = 	"查看並分享每日勵志圖！\n\n輕點「資料庫」即可選擇您要分享的任何一張舊勵志圖。";
+
+// The title of the Share Button.
+"dailyoptimism_share"       = 	"分享今天的勵志圖";
+
+// The title of the Optimism Library Button.
+"dailyoptimism_library"     = 	"資料庫";
+
+// The title of the Auto-Drip Settings Button.
+"dailyoptimism_autodrip"    = 	"自動發佈設定";
+
+
+
+// ============================================================================
+// * Optimism Library
+// ============================================================================
+
+// The title in the navigation bar of the optimism library screen.
+"optimismlibrary_title"     = 	"資料庫";
+
+// The Help Text used by the optimism library screen.
+"optimismlibrary_help"      = 	"在資料庫中選擇您要繼續分享的勵志圖。";
+
+// The title of the Filter Button.
+"optimismlibrary_filter"    = 	"過濾條件";
+
+// The title of Optimism Filter action sheet.
+"optimismlibrary_filterby"  =   "過濾依據";
+
+
+// ============================================================================
+// * Optimism Library
+// ============================================================================
+
+// The title in the navigation bar of the share optimism screen.
+"shareoptimism_title"   = 	"勵志圖";
+
+// The Help Text used by the share optimism screen.
+"shareoptimism_help"    = 	"查看並分享您在資料庫中選擇的勵志圖！\n\n輕點「返回」按鈕即可返回資料庫。";
+
+// The title of the Share This Optimism Button.
+"shareoptimism_share"   = 	"分享這張勵志圖";
+
+
+// ============================================================================
+// * My Leads
+// ============================================================================
+
+// The title in the navigation bar of the my leads screen.
+"myleads_title"             =   "我的潛在客戶";
+
+// The Help Text used by the my leads screen.
+"myleads_help"              =   "查看與編輯目前的潛在客戶。\n\n輕點「新增（+）」按鈕即可從聯絡資訊加入潛在客戶。您也可以立即手動輸入潛在客戶！\n\n輕點潛在客戶即可編輯詳細資訊。在潛在客戶上向左滑動即可看到其他選項。\n\n輕點「排序」按鈕即可將潛在客戶列表排序。潛在客戶列表可以升冪排序也可以降冪排序。\n\n若要過濾潛在客戶列表，您也可以利用「過濾條件」按鈕和搜尋列。";
+
+// The title of the Sort Button.
+"myleads_sort"              =   "排序";
+
+// The title of the Sort Action Sheet Menu.
+"myleads_sortby"            =   "排序方式";
+
+// The title of the Ascending Segment Control Button.
+"myleads_ascending"         =   "升冪";
+
+// The title of the Descending Segment Control Button.
+"myleads_descending"        =   "降冪";
+
+// The title of the Filter Button.
+"myleads_filter"            =   "過濾條件";
+
+// The title of the Filter Action Sheet Menu.
+"myleads_filterby"          = 	"過濾依據";
+
+// The title of the Change Status Action Menu.
+"myleads_changestatusto"    =   "將狀態改成";
+
+// The warning message shown when changing a lead to the cold status.
+"myleads_coldconfirm"       =   "除非將過濾條件設為沒有興趣狀態，否則畫面上不會顯示這個潛在客戶。確定要將這個潛在客戶標示為沒有興趣嗎？";
+
+// The title of the Hot option during Filtering.
+"myleads_statushot"         = 	"超有興趣";
+
+// The title of the Warm option during Filtering.
+"myleads_statuswarm"        = 	"很有興趣";
+
+// The title of the Cold option during Filtering.
+"myleads_statuscold"        = 	"沒有興趣";
+
+// The title of the New option during Filtering.
+"myleads_statusnew"         = 	"新增";
+
+// The title of the Add Lead Action Sheet Menu.
+"myleads_addlead"           = 	"新增潛在客戶";
+
+// The title for the Add from Contacts option during Add Lead.
+"myleads_addcontact"        = 	"從聯絡資訊新增";
+
+// The title for the Add New Lead option during Add Lead.
+"myleads_addnewlead"        = 	"新增潛在客戶";
+
+// The title of the alert message boxes for any Add Contact action.
+"myleads_contacts"          = 	"聯絡資訊";
+
+// The message displayed when a contact is added successfully.
+"myleads_addcontactsuccess" =   "聯絡資訊新增成功！";
+
+// The Add Contact error/failure message.
+"myleads_addcontacterror"   =   "新增聯絡資訊時出現錯誤。";
+
+// Displayed in a My Leads table cell when no contact info is available. (phone and/or email).
+"myleads_nocontactinfo"     = 	"無聯絡資訊。";
+
+// The title of the Send Opt In/Out Link option during Leads More Options.
+"myleads_sendoptinout"      =   "傳送加入∕退出連結";
+
+// The title of the Send Signup Link option during Leads More Options.
+"myleads_signuplink"        = 	"傳送註冊連結";
+
+// The title of the Send Free Sample Link option during Leads More Options.
+"myleads_freesample"        = 	"傳送免費樣品連結";
+
+// The title of the Send My Video Player option during Leads More Options.
+"myleads_videoplayer"       = 	"傳送我的影片播放程式";
+
+// The title of the Local Device View option during Leads More Options.
+"myleads_deviceview"        = 	"本機裝置顯示方式";
+
+// Error message when a lead has no phone number.
+"myleads_noleadphone"       =   "您尚未設定所選潛在客戶的電話號碼。";
+
+// Error message when a lead has no email address.
+"myleads_noleademail"       =   "您尚未設定所選潛在客戶的電子郵件位址。";
+
+
+// Message for sending SMS displayed in the Local Device View Screen under My Leads
+"localdevice_sendmessage"			=	"傳送訊息";
+
+// Message for create new device contact displayed in the Local Device View Screen under My Leads
+"localdevice_createnewcontact"		=	"新增聯絡資訊";
+
+// Message for adding to existing contact displayed in the Local Device View Screen under My Leads
+"localdevice_addexistingcontact"	=	"加入原有的聯絡資訊";
+
+
+// ============================================================================
+// * Add Lead
+// ============================================================================
+
+// The title in the navigation bar of the add lead screen.
+"addlead_title"             =   "新增潛在客戶";
+
+// The Help Text used by the add lead screen.
+"addlead_help"              =   "輸入您要加入的新潛在客戶資訊。\n\n您必須提供新潛在客戶的名字。\n\n您也必須為新的潛在客戶提供至少一種聯絡方式（電話號碼或電子郵件）。";
+
+// The title of the Add Lead Button.
+"addlead_addlead"           =   "新增潛在客戶";
+
+// The message of the success alert.
+"addlead_addsuccessful"     =   "潛在客戶新增成功！";
+
+// The message of the failure alert.
+"addlead_addfailure"        =   "新增潛在客戶時出現錯誤。";
+
+// The validation message for requiring a first name.
+"addlead_namevalidation"    =   "您必須輸入名字（不含姓）。";
+
+// The validation message for requiring at least one contact method.
+"addlead_contactvalidation" = 	"您必須輸入至少一種聯絡方式（電話或電子郵件）。";
+
+
+// ============================================================================
+// * Lead Details
+// ============================================================================
+
+// The title in the navigation bar of the lead details screen.
+"leaddetails_title"                             = 	"潛在客戶詳細資訊";
+
+// The Help Text used by the lead details screen.
+"leaddetails_help"                              = 	"查看和編輯一個潛在客戶。持續追蹤記錄、數據和附註。點一下「動作」按鈕即可安排電子郵件行銷活動和提醒的時間。如要刪除所選的潛在客戶，請點一下「刪除潛在客戶」按鈕。";
+
+// The title of the change image alert.
+"leaddetails_changeimagetitle"                  =   "更改圖片";
+
+// The title of the Photo Library button.
+"leaddetails_photolibrary"                      =   "照片圖庫";
+
+// The title of the Take Picture button.
+"leaddetails_takepicture"                       =   "拍照";
+
+// The title of the Remove Current Image button.
+"leaddetails_removeimage"                       =   "移除目前的圖片";
+
+// The title of the Actions tab.
+"leaddetails_actionstab"                        =   "動作";
+
+// The title of the Log tab.
+"leaddetails_logtab"                            =   "記錄";
+
+// The title of the Stats tab.
+"leaddetails_statstab"                          =   "數據";
+
+// The title of the Notes tab.
+"leaddetails_notestab"                          =   "附註";
+
+// The title of the Photo Library Unavailable alert.
+"leaddetails_nophotolibrarytitle"               =   "無法使用照片圖庫";
+
+// The message of the Photo Library Unavailable alert.
+"leaddetails_nophotolibrarymessage"             =   "此 app 無法取用照片圖庫。";
+
+// The title of the Camera Unavailable alert.
+"leaddetails_nocameratitle"                     =   "無法使用攝影機";
+
+// The message of the Camera Unavailable alert.
+"leaddetails_nocameramessage"                   =   "此 app 無法取用這台裝置的攝影機。";
+
+// The message displayed when a lead is opted in to receive emails.
+"leaddetails_emailoptedin"                      =   "已選擇願意接收電子郵件。";
+
+// The message displayed when a lead is opted out to receive emails.
+"leaddetails_emailoptedout"                     =   "未選擇願意接收電子郵件。";
+
+// The message displayed when a lead is opted in to receive SMS messages.
+"leaddetails_smsoptedin"                        =   "已選擇願意接收簡訊。";
+
+// The message displayed when a lead is opted out to receive SMS messages.
+"leaddetails_smsoptedout"                       =   "未選擇願意接收簡訊。";
+
+// The title of the Delete Lead button.
+"leaddetails_deletelead"                        =   "刪除潛在客戶";
+
+// The title of the delete lead confirmation alert.
+"leaddetails_deleteleadtitle"                   =   "刪除目前的潛在客戶";
+
+// The message of the delete lead confirmation alert.
+"leaddetails_deleteleadmessage"                 =   "確定要刪除這個潛在客戶嗎？";
+
+
+// ============================================================================
+// * Edit Lead
+// ============================================================================
+
+// The title in the navigation bar of the Edit Lead screen.
+"editlead_title"                =   "編輯潛在客戶";
+
+// The title in the navigation bar of the See More version fo the Edit Lead screen.
+"editlead_titleseemore"         =   "查看潛在客戶詳細資料";
+
+// The Help Text used by the Edit Lead screen.
+"editlead_help"                 =   "在查看時點一下「編輯」按鈕即可修改潛在客戶資訊。輸入這個潛在客戶的資料並點一下「儲存」，即可將所作的任何變更儲存起來。";
+
+// The title of the Basic Info section.
+"editlead_basicinfo"            =   "基本資訊";
+
+// The title of the Contact Info section.
+"editlead_contactinfo"          =   "聯絡資訊";
+
+// The title of the Address Info section.
+"editlead_addressinfo"          =   "地址資訊";
+
+// The message of the success alert.
+"editlead_savesuccessful"       =   "潛在客戶儲存成功！";
+
+
+// ============================================================================
+// * Lead Actions
+// ============================================================================
+
+// The title in the navigation bar of the lead actions screen.
+"leadactions_title"                     =   "潛在客戶動作";
+
+// The Help Text used by the lead actions screen.
+"leadactions_help"                      =   "查看、開始和取消系統建議和已經排定的動作。點一下「執行」按鈕即可處理系統針對潛在客戶建議的動作。如要新增排定的動作，請點一下「新增」按鈕。點一下「取消」按鈕即可取消所有排定的動作。";
+
+// The title of the recommended actions section.
+"leadactions_recommendedactions"        =   "系統建議動作";
+
+// The message shown when no recommended actions exist.
+"leadactions_norecommendedactions"      =   "找不到系統建議動作。";
+
+// The title of the scheduled actions section.
+"leadactions_scheduledactions"          =   "排定動作";
+
+// The message shown when no scheduled actions exist.
+"leadactions_noscheduledactions"        =   "找不到排定動作。";
+
+// The message of the cancel scheduled action alert.
+"leadactions_cancelscheduledaction"     =   "確定要取消這個動作嗎？";
+
+// The title of the Do It button.
+"leadactions_doit"                      =   "執行";
+
+// The title of the add new alert for email campaign.
+"leadactions_emailcampaign"             =   "電子郵件行銷活動";
+
+// The title of the add new alert for single email.
+"leadactions_singleemail"               =   "單一電子郵件";
+
+// The title of the add new alert for reminder.
+"leadactions_reminder"                  =   "提醒";
+
+
+
+// The title in the navigation bar of the reminder creation screen.
+"reminder_title"                        =   "建立提醒";
+
+// The Help Text used by the reminder creation screen.
+"reminder_help"                         =   "建立提醒時必須設定名稱和簡短訊息。使用日期選擇工具即可選擇您要安排的提醒日期。";
+
+// The label used in the title text field.
+"reminder_titlelabel"                   =   "職稱";
+
+// The label used in the message text field.
+"reminder_messagelabel"                 =   "訊息";
+
+// The error message shown when a user doesn't enter a title.
+"reminder_titleneeded"                  =   "您必須輸入提醒名稱。";
+
+// The error message shown when a user doesn't enter a message.
+"reminder_messageneeded"                =   "您必須輸入提醒訊息內容。";
+
+
+
+// The title in the navigation bar of the email campaign picker screen.
+"emailcampaign_title"                   =   "電子郵件行銷活動";
+
+// The Help Text used by the email campaign picker screen.
+"emailcampaign_help"                    =   "在所有電子郵件行銷活動中選擇您要使用的行銷活動，以便針對所選潛在客戶安排行銷活動時間。點一下行銷活動即可馬上展開這個潛在客戶的行銷活動。";
+
+
+// The title in the navigation bar of the email messages picker screen.
+"emailmessages_title"                   =   "電子郵件";
+
+// The Help Text used by the email messages picker screen.
+"emailmessages_help"                    =   "選取要寄給所選潛在客戶的個別電子郵件。點一下「資訊 (i)」按鈕即可在傳送前預覽訊息內容。";
+
+
+// ============================================================================
+// * Lead Log
+// ============================================================================
+
+// The title in the navigation bar of the lead log screen.
+"leadlog_title"             =   "潛在客戶記錄";
+
+// The Help Text used by the lead log screen.
+"leadlog_help"              =   "查看與所選潛在客戶有關的所有過去動作或活動。";
+
+
+// ============================================================================
+// * Lead Stats
+// ============================================================================
+
+// The title in the navigation bar of the lead stats screen.
+"leadstats_title"               =   "潛在客戶數據";
+
+// The Help Text used by the lead stats screen.
+"leadstats_help"                =   "查看與所選潛在客戶有關的所有電子郵件和影片數據。";
+
+// The title shown for the email stats section.
+"leadstats_emailstats"          =   "電子郵件數據";
+
+// The title shown for the video stats section.
+"leadstats_videostats"          =   "影片數據";
+
+// The key label for emails read.
+"leadstats_emailsread"          =   "已讀電子郵件";
+
+// The key label for emails not read.
+"leadstats_emailsnotread"       =   "未讀電子郵件";
+
+// The label for how many times a video was watched.
+"leadstats_watched"             =   "已觀看";
+
+// The label for how long a video was watched.
+"leadstats_duration"            =   "觀看時間";
+
+// The unit label for the number of times a video was watched.
+"leadstats_times"               =   "次數";
+
+// The unit label for the duration time in seconds.
+"leadstats_secs"                =   "秒";
+
+
+// ============================================================================
+// * Lead Notes
+// ============================================================================
+
+// The title in the navigation bar of the lead notes screen.
+"leadnotes_title"               =   "潛在客戶附註";
+
+// The Help Text used by the lead notes screen.
+"leadnotes_help"                =   "加入和查看所選潛在客戶的附註。點一下「加號 (+)」按鈕即可新增附註。";
+
+// The title of the new note alert.
+"leadnotes_newnote"             =   "新附註";
+
+
+// ============================================================================
+// * Manage Groups
+// ============================================================================
+
+// The title in the navigation bar of the manage groups screen.
+"managegroups_title"            = 	"群組";
+
+// The Help Text used by the manage groups screen.
+"managegroups_help"             = 	"查看與編輯潛在客戶群組，送出行銷活動資訊快速又簡單！\n\n輕點「編輯（鉛筆）」按鈕即可刪除群組。\n\n輕點「新增 +」按鈕即可新增群組。";
+
+// Label to indicate the number of contacts in a group.
+"managegroups_contacts"         = 	"聯絡資訊";
+
+// The title used in the new group alert.
+"managegroups_newgroup"         = 	"新增群組";
+
+// The message used in the new group alert.
+"managegroups_newgroupname"     = 	"新群組名稱：";
+
+// The placeholder text in the group name text field.
+"managegroups_groupname"        = 	"群組名稱";
+
+// The validation message for requiring a group name.
+"managegroups_namevalidation"   =   "群組必須有名稱。";
+
+
+// ============================================================================
+// * Group Details
+// ============================================================================
+
+// The title in the navigation bar of the group details screen. (Overwritten by group name).
+"groupdetails_title"    = 	"群組詳細資訊";
+
+// The Help Text used by the lead details screen.
+"groupdetails_help"     = 	"查看目前群組中的潛在客戶。\n\n輕點「編輯（鉛筆）」按鈕即可刪除潛在客戶。\n\n輕點「新增 +」按鈕即可將潛在客戶加入目前的群組。";
+
+
+// ============================================================================
+// * Multi-use Promotions
+// ============================================================================
+
+// Select Groups
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the Select Groups screen.
+"selectgroups_title"                =   "選取群組";
+
+// The Help Text used by the Select Groups screen.
+"selectgroups_help"                 =   "選取行銷活動資訊的傳送目標（潛在客戶群組）。";
+
+// The instruction text above groups table.
+"selectgroups_instructions"         =   "選取這份行銷活動資訊的目標傳送群組：";
+
+// The title of the New Group option in the Action Sheet menu.
+"selectgroups_newgroup"             =   "新增群組";
+
+// The title of the Select from Phonebook option in the Action Sheet menu.
+"selectgroups_selectcontacts"       = 	"從電話簿選取";
+
+// The validation message for requiring at least one contact.
+"selectgroups_contactvalidation"    = 	"若要傳送訊息，您必須選取有一組以上電話號碼的群組。";
+
+
+// Select Contacts
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the Select Contacts screen.
+"selectcontacts_title"              = 	"選取聯絡資訊";
+
+// The Help Text used by the Select Contacts screen.
+"selectcontacts_help"               = 	"選取您要使用的聯絡資訊。\n\n螢幕上會顯示行動裝置中的聯絡資訊，旁邊有電話圖像。後台系統潛在客戶旁則有通訊錄圖像。\n\n若要過濾聯絡資訊，請在搜尋列中輸入文字。輕點「鍵盤隱藏」按鈕即可在搜尋後隱藏鍵盤。\n\n系統會將您在行動裝置上選取的聯絡資訊自動加入後台系統潛在客戶。";
+
+// The primary phone label. (Other labels are handled by OS.)
+"selectcontacts_primary"            =   "主要";
+
+// The message of the alert displayed when a contact fails to be added as a lead or to a group.
+"selectcontacts_uploadcontacterror" =   "上傳聯絡資訊時發生錯誤。";
+
+// The message of the alert displayed when a lead fails to be added to a group.
+"selectcontacts_addgroupleaderror"  =   "將潛在客戶加入群組時發生錯誤。";
+
+
+// Edit Message
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the Edit Message screen.
+"editmessage_title"         =   "編輯訊息";
+
+// The Help Text used by the Edit Message screen.
+"editmessage_help"          =   "輸入您要傳送給群組成員的訊息。\n\n輕點「X」按鈕即可消除您輸入的訊息。\n\n輕點「使用者」按鈕即可將潛在客戶名稱加入訊息。\n\n輕點「繼續」按鈕即可繼續操作。";
+
+// The instruction text above the message text field.
+"editmessage_instructions"  =   "輸入您要傳送給群組成員的簡訊。";
+
+
+// Send Message
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the Send Message screen.
+"sendmessage_title"         =   "傳送訊息";
+
+// The Help Text used by the Send Message screen.
+"sendmessage_help"          =   "確認您要將行銷活動資訊傳送給哪些潛在客戶，然後輕點「傳送訊息」按鈕即可送出。\n\n輕點「取消」按鈕即可重新選擇行銷活動。";
+
+// The instruction text above the contacts table.
+"sendmessage_instructions"  = 	"檢查無誤即可傳送。";
+
+// The title of the Send Messages button.
+"sendmessage_sendmessages"  =   "傳送訊息";
+
+// The message that is displayed upon successfully sending an SMS message.
+"sendmessage_sendsuccess"   = 	"簡訊已經發出。";
+
+// Toasted when an SMS message is sent. (Android Only)
+"sendmessage_messagesent"   =	"已傳送訊息";
+
+
+// ============================================================================
+// * Training Videos Select
+// ============================================================================
+
+// The title in the navigation bar of the training videos screen.
+"trainingvideos_title"  =   "訓練影片";
+
+// The Help Text used by the training videos screen.
+"trainingvideos_help"   =   "觀賞訓練影片。\n\n輕點影片列即可觀賞影片。";
+
+
+// ============================================================================
+// * Video Campaign Select
+// ============================================================================
+
+// The title in the navigation bar of the video campaign screen.
+"videocampaign_title"                   =   "影片行銷活動";
+
+// The Help Text used by the video campaign screen.
+"videocampaign_help"                    =   "您可選擇、觀賞和傳送影片行銷活動資訊。\n\n輕點行銷活動上的「資訊（i）」按鈕即可預覽內容。\n\n選取行銷活動然後輕點「繼續」按鈕即可繼續操作。\n\n選取您要分享的行銷活動，然後輕點下方工具列中的「選項」按鈕。";
+
+// The title in the navigation bar of the video campaign preview webview screen.
+"videocampaign_previewtitle"            = 	"影片行銷活動預覽";
+
+// The text for the no videos found label.
+"videocampaign_novideosfound"           = 	"找不到影片";
+
+// The text for the no categories found label.
+"videocampaign_nocategoriesfound"       =   "找不到類別";
+
+// The title of the filter button.
+"videocampaign_filter"                  =   "過濾條件";
+
+
+// ============================================================================
+// * Custom Campaign Select
+// ============================================================================
+
+// The title in the navigation bar of the Custom Campaign screen.
+"customcampaign_title"              = 	"自定行銷活動";
+
+// The Help Text used by the Custom Campaign screen.
+"customcampaign_help"               = 	"將多份自定行銷活動資訊傳送給潛在客戶群組。\n\n選擇「相機膠卷」選項後，您在傳送照片行銷活動資訊時即可利用手機「相機膠卷」中的照片。\n\n選擇「勵志圖資料庫」選項後，您在傳送照片行銷活動資訊時即可利用「勵志圖資料庫」\n\n選擇「YouTube」選項即可送出自定的 YouTube 行銷活動資訊。";
+
+// The Help Text used by the Custom Campaign screen. (Android Only)
+"customcampaign_help_android"       = 	"將多份自定行銷活動資訊傳送給潛在客戶群組。\n\n選擇「圖庫」選項後，您在傳送照片行銷活動資訊時即可利用手機圖庫中的照片。\n\n選擇「勵志圖資料庫」選項後，您在傳送照片行銷活動資訊時即可利用「勵志圖資料庫」\n\n選擇「YouTube」選項即可送出自定的 YouTube 行銷活動資訊。";
+
+// The title of the Camera Roll Campaign option.
+"customcampaign_camerarolltitle"    = 	"相機膠卷";
+
+// The description of the Camera Roll Campaign option.
+"customcampaign_camerarolldesc"     = 	"選取行動裝置相機膠卷中的圖片，以便用於行銷活動。";
+
+// The title of the Gallery Campaign option. (Android Only)
+"customcampaign_gallerytitle"       = 	"圖庫";
+
+// The description of the Gallery Campaign option. (Android Only)
+"customcampaign_gallerydesc"        = 	"選取行動裝置圖庫中的圖片，以便用於行銷活動。";
+
+// The title of the Optimism Library Campaign option.
+"customcampaign_optimismtitle"      = 	"勵志圖資料庫";
+
+// The description of the Optimism Library Campaign option.
+"customcampaign_optimismdesc"       = 	"選取每日勵志圖資料庫中的圖片，以便用於行銷活動。";
+
+// The title of the YouTube Campaign option.
+"customcampaign_youtubetitle"       = 	"YouTube";
+
+// The description of the YouTube Campaign option.
+"customcampaign_youtubedesc"        =   "輸入要用於行銷活動的自定 YouTube 影片。";
+
+// The title of the Virtual Landing Page Campaign option.
+"customcampaign_virtualpagetitle"   =   "虛擬到達網頁";
+
+// The description of the Virtual Landing PageCampaign option.
+"customcampaign_virtualpagedesc"    = 	"將公司客製化的虛擬到達網頁用於行銷活動。";
+
+// The alert message displayed when an image couldn't be found to continue.
+"customcampaign_noimageerror"       =   "選取圖片時發生問題。請再試一次。";
+
+
+// YouTube Select
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the YouTube Campaigns screen.
+"youtubecampaign_title"             =   "YouTube 行銷活動";
+
+// The Help Text used by the YouTube Campaigns screen.
+"youtubecampaign_help"              =   "製作並選取您要傳送給潛在客戶群組的自定 YouTube 行銷活動。\n\n輕點「新增 +」按鈕即可新增 YouTube 行銷活動。\n\n在行銷活動上向左滑動即可編輯或刪除行銷活動。\n\n輕點「資訊（i）」按鈕即可編輯行銷活動資訊。\n\n輕點行銷活動然後輕點「繼續」按鈕即可繼續操作。";
+
+// The message displayed when campaign downloads fail.
+"youtubecampaign_getfailure"        =   "無法下載 YouTube 行銷活動。請再試一次。";
+
+// The message displayed when campaign deletion fails.
+"youtubecampaign_deletefailure"     =	"無法刪除行銷活動。";
+
+
+// YouTube Add/Update
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the YouTube Campaign Editor screen.
+"youtubeeditor_title"               =   "新增/編輯行銷活動";
+
+// The Help Text used by the YouTube Campaign Editor screen.
+"youtubeeditor_help"                =   "輸入自定 YouTube 行銷活動的資訊。\n\n您必須填寫所有欄位才能建立行銷活動。\n\n- 網址（100 個字元）：這是潛在客戶會在網址列中看到的資訊。\n- 網頁標題（50 個字元）：這是影片網頁最上方顯示的標題。\n- 影片名稱（25 個字元）：這是影片播放程式下方列出的名稱。\n- 影片說明（150 個字元）：這是影片名稱下方列出的影片簡介。\n- 影片連結（100 個字元）：這是要顯示的 YouTube 影片連結。\n\n輸入影片連結後，您可預覽要用於自定影片網頁中的內嵌影片播放程式。\n\n輕點「儲存」按鈕即可儲存自定的 YouTube 行銷活動。";
+
+// The text used to indicate where the embed preview will appear.
+"youtubeeditor_embedpreview"        = 	"系統會在這裡載入 YouTube 內嵌預覽畫面。設定要預覽的影片連結。";
+
+// The title and placeholder text used in the URL Page Name text field.
+"youtubeeditor_pagename"            =   "網址";
+
+// The title and placeholder text used in the Page Title text field.
+"youtubeeditor_pagetitle"           = 	"網頁標題";
+
+// The title and placeholder text used in the Video Name text field.
+"youtubeeditor_videoname"           = 	"影片名稱";
+
+// The title and placeholder text used in the Video Description text field.
+"youtubeeditor_videodescription"    = 	"影片說明";
+
+// The title and placeholder text used in the Video Link text field.
+"youtubeeditor_videolink"           =   "影片連結";
+
+// The message displayed when a campaign is saved successfully.
+"youtubeeditor_savesuccess"         =   "行銷活動儲存成功！";
+
+// The message displayed when a campaign fails to save.
+"youtubeeditor_savefailure"         =   "無法儲存行銷活動。";
+
+// The too many characters validation message.
+/*
+ "{0} - {1}: {2}/{3}"
+ Where:
+ {0} = Field Name
+ {1} = The Translated Text
+ {2} = Current Number of Letters
+ {3} = Max Limit of Letters
+ */
+"youtubeeditor_manyvalidation"     = 	"您在文字欄位中輸入的字數太多。目前的字元數  ";
+
+// The too few characters validation message.
+/*
+ "{0} - {1}"
+ Where:
+ {0} = Field Name
+ {1} = The Translated Text
+ */
+"youtubeeditor_fewvalidation"       =   "您必須輸入數值。";
+
+
+// Virtual Landing Page Campaign Select
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the Virtual Landing Page Campaigns screen.
+"virtualpagecampaign_title"         =   "到達網頁行銷活動";
+
+// The Help Text used by the Virtual Landing Page Campaigns screen.
+"virtualpagecampaign_help"          =   "請選取要用於行銷活動的公司虛擬到達網頁。\n\n輕點行銷活動上的「資訊（i）」按鈕即可預覽內容。\n\n若要透過簡訊以外的方式分享行銷活動資訊，請輕點下方工具列中的「動作」按鈕。";
+
+// The message displayed when campaign downloads fail.
+"virtualpagecampaign_getfailure"    =   "無法下載虛擬網頁。請再試一次。";
+
+// The title in the navigation bar of the Virtual Landing Pages Campaign preview webview screen.
+"virtualpagecampaign_previewtitle"  = 	"虛擬網頁預覽";
+
+
+// ============================================================================
+// * Campaign Stats
+// ============================================================================
+
+// The title in the navigation bar of the Campaign Stats screen.
+"campaignstats_title"   =   "行銷活動數據";
+
+// The Help Text used by the Campaign Stats screen.
+"campaignstats_help"    =   "輕鬆查詢所有的行動行銷活動數據！";
+
+
+// ============================================================================
+// * My Badges
+// ============================================================================
+
+// The title in the navigation bar of the My Badges screen.
+"mybadges_title"            =   "我的勳章";
+
+// The Help Text used by the My Badges screen.
+"mybadges_help"             =   "查看您出席活動、送出行銷活動資料⋯⋯等等而獲頒的所有勳章。輕點勳章就能看到精美設計！";
+
+// The points label text.
+"mybadges_points"           =   "點數";
+
+// The message displayed in the alert shown when a badge is not earned but is selected.
+"mybadges_notearned"        =   "您尚未獲頒這個勳章！";
+
+// The message displayed when badge downloads fail.
+"mybadges_getfailure"       =   "無法下載勳章。請再試一次。";
+
+// The message displayed when sharing a badge. (Android Only)
+"mybadges_sharebadge"       =	"共享勳章";
+
+// The message displayed when a single badge is earned.
+/*
+ "{0}: {1}"
+ Where:
+ {0} = The Translated Text
+ {1} = Badge Name
+ */
+"mybadges_singleearned"     =   "您已獲頒勳章";
+
+// The message displayed when multiple badges are earned.
+"mybadges_multipleearned"   =   "您獲頒新的勳章！";
+
+
+// ============================================================================
+// * Badge Details
+// ============================================================================
+
+// The title in the navigation bar of the Badge Detail screen. (Overridden by Badge name).
+"badgedetails_title"    =   "勳章詳細資訊";
+
+// The Help Text used by the Badge Detail screen.
+"badgedetails_help"     =   "好好欣賞您的勳章吧！這是您的辛苦成果！真不是蓋的！";
+
+// The message to share when sharing a badge.
+/*
+ "{0}: {1}"
+ Where:
+ {0} = The Translated Text
+ {1} = Badge Name
+ */
+"badgedetails_share"    =   "我獲頒勳章了";
+
+
+// ============================================================================
+// * Alerts
+// ============================================================================
+
+// The title in the navigation bar of the Alerts screen.
+"alerts_title"              =   "通知";
+
+// The Help Text used by the Alerts screen.
+"alerts_help"               =   "查看帳號內的所有通知。\n\n輕點「垃圾桶」按鈕即可刪除所有通知。";
+
+// The message displayed when deleting all alerts.
+"alerts_deletealerts"       =   "是否刪除所有通知？";
+
+// The title in the navigation bar of the Alerts Preview screen.
+"alerts_previewdetailtitle" = 	"通知詳細資訊";
+
+// The Help Text used by the Alerts Preview screen.
+"alerts_previewdetailhelp"  = 	"查看特定通知的詳細資訊。";
+
+
+// ============================================================================
+// * Profile
+// ============================================================================
+
+// The title in the navigation bar of the Profile screen.
+"profile_title"     =   "行動個人檔案";
+
+// The Help Text used by the Profile screen.
+"profile_help"      =   "查看您的行動個人檔案。\n\n選取「編輯個人檔案」即可修改個人檔案資訊。\n\n選取「登入社交網站」選項即可登入自己的社交網站帳號。\n\n選取「自動發佈設定」即可修改個人的勵志圖自動發佈時間表。";
+
+// Used to link to a user's profile website. (Android Only)
+"profile_mywebsite"         =   "我的網站";
+
+
+// The title of the Edit Profile option.
+"profile_editprofiletitle"  = 	"編輯個人檔案";
+
+// The description of the Edit Profile option.
+"profile_editprofiledesc"   = 	"修改您的行動個人檔案設定，包括姓名、聯絡資訊和個人檔案圖片。";
+
+// The title of the Login to Social Media option.
+"profile_socialmediatitle"  = 	"登入社交網站";
+
+// The description of the Login to Social Media option.
+"profile_socialmediadesc"   = 	"登入社交網站帳號，以便使用自動發佈行銷活動這類功能。";
+
+// The title of the Auto-Drip Settings option.
+"profile_autodriptitle"     = 	"自動發佈設定";
+
+// The description of the Auto-Drip Settings option.
+"profile_autodripdesc"      = 	"製作留言並設定時間，以便自動發佈到您所有的社交網站帳號。";
+
+
+// ============================================================================
+// * Edit Profile
+// ============================================================================
+
+// The title in the navigation bar of the Edit Profile screen.
+"editprofile_title"                 =   "編輯個人檔案";
+
+// The Help Text used by the Edit Profile screen.
+"editprofile_help"                  =   "編輯您的個人檔案資訊，並上傳新的個人檔案圖片。\n\n您可以從相機膠卷和社交網站帳號上傳個人檔案圖片。您必須登入這些帳號才能使用裡面的個人檔案圖片。\n\n輕點「儲存」按鈕即可儲存您做的所有變更。";
+
+// The Help Text used by the Edit Profile screen. (Android Only)
+"editprofile_help_android"          =   "編輯您的個人檔案資訊，並上傳新的個人檔案圖片。\n\n您可以從圖庫和社交網站帳號上傳個人檔案圖片。您必須登入這些帳號才能使用裡面的個人檔案圖片。\n\n輕點「儲存」按鈕即可儲存您做的所有變更。";
+
+// The title of the Edit Profile Picture Button.
+"editprofile_editprofilepic"        =   "編輯個人檔案圖片";
+
+// The title of the Edit Profile Picture Action Sheet menu.
+"editprofile_editprofilepictitle"   =   "選取個人檔案圖片來源";
+
+// The title of the Camera Roll option in the edit profile Action Sheet menu.
+"editprofile_cameraroll"            =   "相機膠卷";
+
+// The title of the Gallery option in the edit profile Action Sheet menu. (Android Only)
+"editprofile_gallery"               =   "圖庫";
+
+// The title of the Save Settings Button.
+"editprofile_savesettings"          =   "儲存設定";
+
+// The validation message for requiring a first name to be entered.
+"editprofile_firstnamevalidation"   =   "您必須輸入名字（不含姓）。";
+
+// The validation message for requiring a display name to be entered.
+"editprofile_displaynamevalidation" =   "您必須輸入顯示名稱。";
+
+// The message displayed when saving a profile successfully.
+"editprofile_savesuccess"           =   "行動個人檔案儲存成功！";
+
+// The message displayed when saving a profile fails.
+"editprofile_savefailure"           = 	"無法更新行動個人檔案。請再試一次。";
+
+
+// ============================================================================
+// * Social Media Login
+// ============================================================================
+
+// The title in the navigation bar of the Social Media screen.
+"socialmedia_title"         =   "社交網站";
+
+// The Help Text used by the Social Media screen.
+"socialmedia_help"          =   "登入您的社交網站帳號。登入帳號後即可將社交網站個人檔案圖片上傳到行動個人檔案，並發佈勵志圖自動發佈留言。";
+
+// The text for the How we use your Social Media Accounts label.
+"socialmedia_howeusetitle"  = 	"我們如何使用您的社交網站帳號：";
+
+// The text description for How we user Social Media.
+"socialmedia_howweusedesc"  = 	"- 取得基本個人檔案資訊（名稱、用戶名稱⋯⋯等等）\n- 取得要在 app 中顯示的個人檔案圖片\n- 要求提供讓您留言的權限";
+
+
+// ============================================================================
+// * Auto-Drip Schedule
+// ============================================================================
+
+// The title in the navigation bar of the Auto-Drip Schedules screen.
+"autodrip_title"        =   "自動發佈時間表";
+
+// The Help Text used by the Auto-Drip Schedules screen.
+"autodrip_help"         =   "設定自動發佈時間表。設定要在一週哪幾天的哪個時間提醒您要發佈留言。\n\n輕點「儲存」按鈕即可儲存時間表。\n\n輕點「立即留言」按鈕即可馬上留言。\n\n留言時可以選擇要張貼的自定圖片、自定訊息內容，並選擇要在哪些社交網站留言。";
+
+// The title of the Make Post Now Button.
+"autodrip_makepostnow"  =   "立即留言";
+
+// The text of the schedule label.
+"autodrip_schedule"     =   "時間表";
+
+// The message displayed in the alert when a schedule is saved successfully.
+"autodrip_savesuccess"  =   "時間表儲存成功！";
+
+// The message displayed in the alert when a schedule fails to save.
+"autodrip_savefailure"  =   "儲存時間表時發生問題。請再試一次。";
+
+
+// The title to the Refresh Button.
+"autodrip_refreshoption"    = 	"重新整理";
+
+// The title to the Library Button.
+"autodrip_library"          = 	"資料庫";
+
+// The title to the Camera Roll Button.
+"autodrip_cameraroll"       = 	"相機膠卷";
+
+// The title to the Gallery Button. (Android Only)
+"autodrip_gallery"          = 	"圖庫";
+
+// The text of the instructions label.
+"autodrip_instructions"     = 	"請在上方輸入留言內容。";
+
+// The text of the Social Networks label.
+"autodrip_socialnetworks"   = 	"社交網站";
+
+// The validation message displayed to require at least one social network selected.
+"autodrip_socialvalidation" = 	"您必須選擇至少 1 個要留言的社交網站。";
+
+// The validation message to require login.
+/*
+ "{0} - {1}"
+ Where:
+ {0} = Social Network Name
+ {1} = The Translated Text
+ */
+"autodrip_loginvalidation"  = 	"您必須登入帳號才能留言。";
+
+// The title used in Auto-Drip push notifications. (Android Only)
+"autodrip_autodrip"         =   "自動發佈";
+
+// Message added to local notification for auto-dripping.
+"autodrip_timetopost"       =	"自動發佈 - 留言時間到了！";
+
+
+
+// ============================================================================
+// * Success On Demand
+// ============================================================================
+
+// The title in the navigation bar of the Success On Demand screen.
+"sod_title"     =   "Success On Demand";
+
+// The Help Text used by the Success On Demand screen.
+"sod_help"      =   "讀取 Success On Demand 的完整內容！";
+
+
+// ============================================================================
+// * Help Center
+// ============================================================================
+
+// Help Center
+// ----------------------------------------------------------------------------
+
+// The title in the navigation bar of the Help Center screen.
+"helpcenter_title"          =   "輔助說明中心";
+
+// The Help Text used by the Help Center screen.
+"helpcenter_help"           =   "輕輕一點，問題馬上解決！輕點任何畫面上的導覽列標題。\n\n若有輔助說明資訊，則會另起一個視窗顯示內容，就像本視窗！\n\n您可以輕點其他畫面的標題試試！";
+
+// The text used to instruct users to tap the title to view help tips.
+"helpcenter_instructions"   = 	"需要幫忙嗎？請在上方導覽列中輕點「輔助說明中心」標題！\n別怕！點一下就對了！";
+
+// The title of the Request Support option.
+"helpcenter_supporttitle"   = 	"請求支援";
+
+// The description of the Request Support option.
+"helpcenter_supportdesc"    =   "要求協助或將 app 的問題回報給我們。";
+
+// The title of the Training Videos option.
+"helpcenter_trainingtitle"  = 	"訓練影片";
+
+// The description of the Training Videos option.
+"helpcenter_trainingdesc"   = 	"您可獲得實用訓練課程，發揮這個 app 的所有威力！";
+
+// The title of the Rate the App option.
+"helpcenter_rateapptitle"   = 	"為 app 評分";
+
+// The description of the Rate the App option.
+"helpcenter_rateappdesc"    =   "喜歡這個 app 嗎？請在 App Store 中給我們 5 顆星評價！";
+
+
+// Support Request
+// ----------------------------------------------------------------------------
+
+// The title in the Navigation bar of the Support Requests screen.
+"supportrequests_title"                 =   "客服要求";
+
+// The Help Text used by the Support Requests screen.
+"supportrequests_help"                  =   "查詢您建立的所有客服要求。輕點客服要求即可查看我們針對這項要求提供的答案。\n\n輕點「新增 +」按鈕即可新增客服要求。";
+
+
+// The title in the Navigation bar of the Add Support Request screen.
+"addsupportrequest_title"               =   "客服要求";
+
+// The Help Text used by the Add Support Request screen.
+"addsupportrequest_help"                =   "直接傳給我們客服要求。請在文字框中輸入訊息內容，然後輕點「提交」。";
+
+// The text used to instruct users to create a support request.
+"addsupportrequest_instructions"        =   "請在下方輸入客服要求訊息";
+
+// The message used when sending a support request is successful.
+"addsupportrequest_success"             =   "我們已經收到您的客服要求！";
+
+// The validation message for requiring a message.
+"addsupportrequest_textvalidation"      =   "您必須輸入訊息內容。";
+
+
+// The title in the Navigation bar of the Support Responses screen.
+"supportresponses_title"                =   "客服回答內容";
+
+// The Help Text used by the Support Responses screen.
+"supportresponses_help"                 =   "查看您的客服要求資訊，以及客服部門的回答內容。\n\n若要回覆，請使用下方的訊息列。";
+
+// The title text of the Send button.
+"supportresponses_send"                 =   "傳送";
+
+// The placeholder text in the message bar text view.
+"supportresponses_placeholdertext"      =   "訊息";
+
+
+// ============================================================================
+// * Jeunesse Only
+// ============================================================================
+
+// The title of the Dashboard menu option.
+"menu_dashboard"                =   "控制台";
+
+// The title of the My Events menu option.
+"menu_myevents"                 =   "我的活動";
+
+// The title of the Admin Events menu option.
+"menu_adminevents"              =   "管理活動";
+
+// The title of the People I Sponsor menu option.
+"menu_peoplesponsored"          =   "使用者 I 贊助者";
+
+// The title of the Genealogy menu option.
+"menu_genealogy"                =   "家族";
+
+// The title of the Add New Signup menu option.
+"menu_newsignup"                =   "新註冊";
+
+// The title of the Messages menu option.
+"menu_messages"                 =   "訊息";
+
+// The title of the Reports menu option.
+"menu_reports"                  =   "報告";
+
+// The title of the JCloud menu option.
+"menu_jcloud"                   =   "JCloud";
+
+
+// The title of the menu section header for JOffice.
+"menu_jofficeheader"            =   "JOFFICE™";
+
+
+// ============================================================================
+// * Jeunesse Dashboard
+// ============================================================================
+
+// The title in the navigation bar of the Dashboard screen.
+"dashboard_title"                   =   "控制台";
+
+// The Help Text used by the Dashboard screen.
+"dashboard_help"                    =   "您可在控制台中看到所有最新的業務資訊。\n\n點一下標籤頁按鈕即可切換標籤頁。";
+
+// The title of the Business Snapshot tab.
+"dashboard_businesssnapshot"        =   "業務快照";
+
+// The title of the Home tab.
+"dashboard_home"                    =   "主畫面";
+
+// The title of the News Feed tab.
+"dashboard_newsfeed"                =   "動態消息";
+
+// The title of the JNews tab.
+"dashboard_jnews"                   =   "JNews";
+
+// The title of the Prospector tab.
+"dashboard_prospector"              =   "Prospector";
+
+
+// ============================================================================
+// * People I Sponsor
+// ============================================================================
+
+// The title in the navigation bar of the People I Sponsor screen.
+"peopleisponsor_title"                  =   "使用者 I 贊助者";
+
+// The Help Text used by the People I Sponsor screen.
+"peopleisponsor_help"                   =   "查看並聯絡您贊助的使用者。輕點贊助者即可查看更多詳細資訊。";
+
+
+// The title in the navigation bar of the People I Sponsor Detail screen. (Replaced by sponsor displayname)
+"peopleisponsordetail_title"            =   "使用者 I 贊助者";
+
+// The Help Text used by the People I Sponsor Detail screen.
+"peopleisponsordetail_help"             =   "查看所選贊助者的聯絡資訊。輕點任何電子郵件或電話按鈕即可與贊助者聯絡。";
+
+
+// ============================================================================
+// * Genealogy
+// ============================================================================
+
+// The title in the navigation bar of the Genealogy screen.
+"genealogy_title"                  =   "家族";
+
+// The Help Text used by the Genealogy screen.
+"genealogy_help"                   =   "查看整個家族。";
+
+
+// ============================================================================
+// * Add New Signup
+// ============================================================================
+
+// The title in the navigation bar of the New Signup screen.
+"newsignup_title"                   =   "新註冊";
+
+// The Help Text used by the New Signup screen.
+"newsignup_help"                    =   "若要新註冊帳號，請輸入使用者名稱/網站 URL，然後輕點「註冊」按鈕。系統會要求您填寫必要的註冊資訊。";
+
+// The label text for the sponsor text field.
+"newsignup_sponsor"                 =   "贊助者網站 URL";
+
+// The title text for the Signup button.
+"newsignup_signup"                  =   "註冊";
+
+// The warning message that appears when an invalid value is entered.
+"newsignup_invalidmessage"          =   "您必須輸入有效的使用者名稱/網站 URL。";
+
+
+// ============================================================================
+// * Messages
+// ============================================================================
+
+// The title in the navigation bar of the Messages screen.
+"messages_title"            =   "訊息";
+
+// The Help Text used by the Messages screen.
+"messages_help"             =   "查看個人帳號中的訊息。\n\n在訊息上向左滑動即可刪除訊息。\n\n輕點下方工具列中的「檔案夾」按鈕即可來回切換收件匣和垃圾桶檔案夾。\n\n輕點訊息即可查看訊息內容。";
+
+
+// The title of the Inbox Message Folder.
+"messages_inbox"            =   "收件匣";
+
+// The title of the Trash Message Folder.
+"messages_trash"            =   "垃圾桶";
+
+
+// ============================================================================
+// * Reports
+// ============================================================================
+
+// The title in the navigation bar of the Reports List screen.
+"reportslist_title"            =   "報告";
+
+// The Help Text used by the Reports List screen.
+"reportslist_help"             =   "使用行動裝置即可查看業務報告！輕點報告即可查看內容。";
+
+
+// The title in the navigation bar of the Report Parameters screen.
+"reportparams_title"            =   "報告參數";
+
+// The Help Text used by the Report Parameters screen.
+"reportparams_help"             =   "輸入並選取必要參數即可產生所選報告。";
+
+// The title used by the View Reports button.
+"reportparams_viewreports"      =   "查看報告";
+
+
+// The title in the navigation bar of the Report Viewer screen.
+"reportviewer_title"            =   "報告播放視窗";
+
+// The Help Text used by the Report Viewer screen.
+"reportviewer_help"             =   "查看根據先前所選參數產生的報告內容。";
+
+
+// ============================================================================
+// * JCloud
+// ============================================================================
+
+// The title in the navigation bar of the JCloud screen.
+"jcloud_title"                          =   "JCloud";
+
+// The Help Text used by the JCloud screen.
+"jcloud_help"                           =   "查看雲端中的所有檔案與目錄。\n\n輕點檔案的下載按鈕即可下載。\n\n若檔案已下載到本機，則不會出現下載按鈕。輕點檔案即可開啟並查看內容。\n\n若要刪除下載到本機的檔案，只要在檔案上從右向左滑動，即可出現移除按鈕。";
+
+// The title used in the Remove Local button.
+"jcloud_removelocal"                    =   "移除本機檔案";
+
+// The title in the navigation bar of the JCloud screen when downloading a file.
+"jcloud_downloading"                    =   "下載中";
+
+
+// ============================================================================
+// * My Events
+// ============================================================================
+
+// The title in the navigation bar of the My Events List screen.
+"myeventslist_title"                        =   "我的活動";
+
+// The Help Text used by the My Events List screen.
+"myeventslist_help"                         =   "查看您已經註冊的活動列表。\n\n輕點活動即可查看您的活動參加代碼。";
+
+// The notice for not being registered for any events.
+"myeventslist_notregistered"                =   "您目前並未註冊任何活動。";
+
+
+// The title in the navigation bar of the My Events Detail screen. (Replaced by event name)
+"myeventsdetail_title"                      =   "我的活動 QR 條碼";
+
+// The Help Text used by the My Events Detail screen.
+"myeventsdetail_help"                       =   "這是您的所選活動參加 QR 條碼。只要出示給活動行政人員即可參加。\n\n有時活動現場的 Internet 連線品質不佳或不提供網路，所以請務必輕點「儲存到相機膠卷」按鈕，如此即可下載 QR 條碼。";
+
+// The Help Text used by the My Events Detail screen. (Android Only)
+"myeventsdetail_help_android"                       =   "這是您的所選活動參加 QR 條碼。只要出示給活動行政人員即可參加。\n\n有時活動現場的 Internet 連線品質不佳或不提供網路，所以請務必輕點「儲存到圖庫」按鈕，如此即可下載 QR 條碼。";
+
+// The title in the Save to Camera Roll button.
+"myeventsdetail_savetocameraroll"           =   "儲存到相機膠卷";
+
+// The title in the Save to Gallery button. (Android Only)
+"myeventsdetail_savetogallery"              =   "儲存到圖庫";
+
+// The alert text for reminding users to download an event QR Code.
+"myeventsdetail_downloadreminder"           =   "有時活動現場的 Internet 連線品質不佳或不提供網路，所以請務必輕點「儲存到相機膠卷」按鈕，如此即可下載 QR 條碼。";
+
+// The alert text for reminding users to download an event QR Code. (Android Only)
+"myeventsdetail_downloadreminder_android"   =   "有時活動現場的 Internet 連線品質不佳或不提供網路，所以請務必輕點「儲存到圖庫」按鈕，如此即可下載 QR 條碼。";
+
+// The alert text verifying a QR code was saved successfully.
+"myeventsdetail_qrcodesavesuccess"          =   "QR 條碼儲存成功！";
+
+// The alert text notifying the user that a QR code failed to save.
+"myeventsdetail_qrcodesavefailure"          =   "QR 條碼儲存失敗。";
+
+
+// ============================================================================
+// * Admin Events
+// ============================================================================
+
+// The title in the navigation bar of the Admin Events List screen.
+"admineventslist_title"         =   "管理活動";
+
+// The Help Text used by the Admin Events List screen.
+"admineventslist_help"          =   "查看所有近期活動以及報名/註冊人數。";
+
+// The text used to indicate the number of signups for an event.
+"admineventslist_signups"       =   "註冊";
