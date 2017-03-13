@@ -1302,17 +1302,11 @@
 // The Help Text used by the Dashboard screen.
 "dashboard_help"                    =   "No painel de controlo pode encontrar as informações mais recentes relativas aos seus negócios.\n\nToque nos botões dos separadores para mudar de separador.";
 
-// The title of the Business Snapshot tab.
-"dashboard_businesssnapshot"        =   "Resumo dos Negócios";
-
 // The title of the Home tab.
 "dashboard_home"                    =   "Início";
 
 // The title of the News Feed tab.
 "dashboard_newsfeed"                =   "Feed de Notícias";
-
-// The title of the JNews tab.
-"dashboard_jnews"                   =   "JNews";
 
 // The title of the Prospector tab.
 "dashboard_prospector"              =   "Prospector";

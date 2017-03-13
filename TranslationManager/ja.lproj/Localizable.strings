@@ -1302,17 +1302,11 @@
 // The Help Text used by the Dashboard screen.
 "dashboard_help"                    =   "ダッシュボードから、ビジネス関連の最新情報をすべて確認できます。\n\n［タブ］ボタンを押してタブを切り替えてください。";
 
-// The title of the Business Snapshot tab.
-"dashboard_businesssnapshot"        =   "ビジネス用スナップショット";
-
 // The title of the Home tab.
 "dashboard_home"                    =   "ホーム";
 
 // The title of the News Feed tab.
 "dashboard_newsfeed"                =   "ニュースフィード";
-
-// The title of the JNews tab.
-"dashboard_jnews"                   =   "JNews";
 
 // The title of the Prospector tab.
 "dashboard_prospector"              =   "Prospector";

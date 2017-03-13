@@ -1302,17 +1302,11 @@
 // The Help Text used by the Dashboard screen.
 "dashboard_help"                    =   "Fra kontrolpanelet kan du se alle de seneste informationer om din forretning.\n\nTryk på tabulatorknappen for at skifte mellem fanerne.";
 
-// The title of the Business Snapshot tab.
-"dashboard_businesssnapshot"        =   "Business Snapshot";
-
 // The title of the Home tab.
 "dashboard_home"                    =   "Hjem";
 
 // The title of the News Feed tab.
 "dashboard_newsfeed"                =   "Nyheder";
-
-// The title of the JNews tab.
-"dashboard_jnews"                   =   "JNews";
 
 // The title of the Prospector tab.
 "dashboard_prospector"              =   "Prospektor";

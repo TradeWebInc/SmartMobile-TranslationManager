@@ -1302,17 +1302,11 @@
 // The Help Text used by the Dashboard screen.
 "dashboard_help"                    =   "Dari papan pemuka anda boleh lihat semua maklumat terkini berkenaan perniagaan anda.\n\nKetik butang tab untuk beralih kepada tab lain.";
 
-// The title of the Business Snapshot tab.
-"dashboard_businesssnapshot"        =   "Petika Perniagaan";
-
 // The title of the Home tab.
 "dashboard_home"                    =   "Laman Utama";
 
 // The title of the News Feed tab.
 "dashboard_newsfeed"                =   "Suapan Berita";
-
-// The title of the JNews tab.
-"dashboard_jnews"                   =   "JNews";
 
 // The title of the Prospector tab.
 "dashboard_prospector"              =   "Prospektor";

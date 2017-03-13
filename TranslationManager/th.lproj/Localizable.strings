@@ -1302,17 +1302,11 @@
 // The Help Text used by the Dashboard screen.
 "dashboard_help"                    =   "จากแดชบอร์ด คุณจะสามารถดูข้อมูลล่าสุดทั้งหมดที่เกี่ยวกับธุรกิจของคุณ\n\nแตะที่ปุ่มแท็บเพื่อสลับระหว่างแท็บต่างๆ";
 
-// The title of the Business Snapshot tab.
-"dashboard_businesssnapshot"        =   "สแน็ปช็อตธุรกิจ";
-
 // The title of the Home tab.
 "dashboard_home"                    =   "หน้าแรก";
 
 // The title of the News Feed tab.
 "dashboard_newsfeed"                =   "ฟีดข่าว";
-
-// The title of the JNews tab.
-"dashboard_jnews"                   =   "JNews";
 
 // The title of the Prospector tab.
 "dashboard_prospector"              =   "ผู้มุ่งหวัง";

@@ -1302,17 +1302,11 @@
 // The Help Text used by the Dashboard screen.
 "dashboard_help"                    =   "Dari dasbor Anda dapat melihat semua informasi terbaru yang berhubungan dengan bisnis Anda. Ketuk tombol tab untuk mengubah setiap tab.";
 
-// The title of the Business Snapshot tab.
-"dashboard_businesssnapshot"        =   "Potret Bisnis";
-
 // The title of the Home tab.
 "dashboard_home"                    =   "Beranda";
 
 // The title of the News Feed tab.
 "dashboard_newsfeed"                =   "Kabar Berita";
-
-// The title of the JNews tab.
-"dashboard_jnews"                   =   "JNews";
 
 // The title of the Prospector tab.
 "dashboard_prospector"              =   "Pencari";

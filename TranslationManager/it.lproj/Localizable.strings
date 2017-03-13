@@ -38,7 +38,7 @@
 "autodrip_socialvalidation" = "Selezioni almeno 1 social network per postare dei post.";
 "autodrip_timetopost" = "Auto-Drip - È ora di creare un post!";
 "autodrip_title" = "Orari Auto-Drip";
-"badgedetails_help" = "Meraviglioso riconoscimento! L'\hai guadagnato! Veramente!";
+"badgedetails_help" = "Meraviglioso riconoscimento! L\'hai guadagnato! Veramente!";
 "badgedetails_share" = "Ho guadagnato un riconoscimento";
 "badgedetails_title" = "Dettagli Riconoscimento";
 "campaignstats_help" = "Guarda tutte le tue statistiche per le campagne mediatiche!";
@@ -51,7 +51,7 @@
 "customcampaign_help_android" = "Invia diverse campagne personalizzate ai gruppi delle reclute. \nSelezioni dalla Fotocamera l\'opzione invia una campagna fotografica usando la Fotocamera del telefono. \nScegli l\'opzione Libreria dell\'Ottimismo dalla libreria dell\'Ottimismo\nScegli l\'opzione Youtube per inviare una campagna personalizzata di Youtube.";
 "customcampaign_noimageerror" = "C\'è stato un problema con l\'immagine selezionata. Per favori riprova.";
 "customcampaign_optimismdesc" = "Seleziona un\'immagine dalla Libreria dell\'Ottimismo da usare per la campagna.";
-"customcampaign_optimismtitle" = "Libreria dell'Ottimismo";
+"customcampaign_optimismtitle" = "Libreria dell\'Ottimismo";
 "customcampaign_title" = "Campagna Personalizzata";
 "customcampaign_virtualpagedesc" = "Utilizza una pagina Virtual Landing personalizzata di un\'azienda per una campagna";
 "customcampaign_virtualpagetitle" = "Pagina Virtual Lanfing";
@@ -272,7 +272,7 @@
 "peopleisponsor_title" = "Persone che Sponsorizzo";
 "peopleisponsordetail_help" = "Guarda le informazioni dei contatti dello sponsor selezionato. Premi i tasti email o telefono per contattare lo sponsor.";
 "peopleisponsordetail_title" = "Persone che Sponsorizzo";
-"profile_autodripdesc" = "Imposta e crea post per l'\Auto-Drip su tutti i tuoi account dei Social Media.";
+"profile_autodripdesc" = "Imposta e crea post per l\'Auto-Drip su tutti i tuoi account dei Social Media.";
 "profile_autodriptitle" = "Impostazioni Auto-Drip";
 "profile_editprofiledesc" = "Modifica le tue impostazioni del profilo includendo il nome, info contatti e foto del profilo.";
 "profile_editprofiletitle" = "Modifica Profilo";
@@ -292,7 +292,7 @@
 "reportviewer_help" = "Guarda i rapporti generati dai parametri precedentemente selezionati.";
 "reportviewer_title" = "Rapporto Spettatore";
 "selectcontacts_addgroupleaderror" = "Errore aggiungendo la recluta al gruppo.";
-"selectcontacts_help" = "Seleziona i contatti che vorresti usare. \nContatti dal telefonino appariranno con un\'icona telefono a fianco. Reclute del BackOffice appariranno con un'\icona agenda. \nFiltra i contatti cercandoli nella sezione cerca. Premi il tasto \"Nascondi Tastiera\" per nascondere la tastiera dopo la ricerca. \nI contatti selezionati dal telefonino verranno automaticamente aggiunti al tuo Back Office delle Reclute.";
+"selectcontacts_help" = "Seleziona i contatti che vorresti usare. \nContatti dal telefonino appariranno con un\'icona telefono a fianco. Reclute del BackOffice appariranno con un\'icona agenda. \nFiltra i contatti cercandoli nella sezione cerca. Premi il tasto \"Nascondi Tastiera\" per nascondere la tastiera dopo la ricerca. \nI contatti selezionati dal telefonino verranno automaticamente aggiunti al tuo Back Office delle Reclute.";
 "selectcontacts_primary" = "primario/primaria";
 "selectcontacts_title" = "Seleziona Contatti";
 "selectcontacts_uploadcontacterror" = "Errore caricando il contatto";

@@ -1302,17 +1302,11 @@
 // The Help Text used by the Dashboard screen.
 "dashboard_help"                    =   "在控制面板中，您可以查看所有最新业务信息。\n\n点按标签按钮，可在标签之间切换。";
 
-// The title of the Business Snapshot tab.
-"dashboard_businesssnapshot"        =   "业务快照";
-
 // The title of the Home tab.
 "dashboard_home"                    =   "主页";
 
 // The title of the News Feed tab.
 "dashboard_newsfeed"                =   "新订阅源";
-
-// The title of the JNews tab.
-"dashboard_jnews"                   =   "JNews";
 
 // The title of the Prospector tab.
 "dashboard_prospector"              =   "探矿人";

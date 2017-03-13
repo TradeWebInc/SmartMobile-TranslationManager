@@ -1302,17 +1302,11 @@
 // The Help Text used by the Dashboard screen.
 "dashboard_help"                    =   "대시보드에서는 내 비즈니스에 대한 모든 최신 정보를 확인할 수 있습니다.\n\n각각의 탭 버튼을 눌러 탭 사이를 전환할 수 있습니다.";
 
-// The title of the Business Snapshot tab.
-"dashboard_businesssnapshot"        =   "비즈니스 스냅샷";
-
 // The title of the Home tab.
 "dashboard_home"                    =   "홈";
 
 // The title of the News Feed tab.
 "dashboard_newsfeed"                =   "뉴스 피드";
-
-// The title of the JNews tab.
-"dashboard_jnews"                   =   "JNews";
 
 // The title of the Prospector tab.
 "dashboard_prospector"              =   "가망고객";

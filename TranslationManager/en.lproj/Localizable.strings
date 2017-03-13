@@ -21,7 +21,7 @@
 "general_success"           =   "Success";
 "general_error"             = 	"Error";
 "general_notice"            = 	"Notice";
-"general_ok"                =   "Ok";
+"general_ok"                =   "OK";
 "general_cancel"            = 	"Cancel";
 "general_loading"           = 	"Loading";
 "general_none"              = 	"None";
@@ -1487,20 +1487,14 @@
 // The Help Text used by the Dashboard screen.
 "dashboard_help"                    =   "From the dashboard you can view all of the latest information relating to your business.\n\nTap on the tab buttons to switch between tabs.";
 
-// The title of the Business Snapshot tab.
-"dashboard_businesssnapshot"        =   "Business Snapshot";
-
 // The title of the Home tab.
 "dashboard_home"                    =   "Home";
 
 // The title of the News Feed tab.
 "dashboard_newsfeed"                =   "News Feed";
 
-// The title of the JNews tab.
-"dashboard_jnews"                   =   "JNews";
-
-// The title of the Prospector tab.
-"dashboard_prospector"              =   "Prospector";
+// The title of the Pathways tab.
+"dashboard_prospector"              =   "Pathways";
 
 
 // ============================================================================
