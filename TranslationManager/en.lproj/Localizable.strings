@@ -579,6 +579,9 @@
 // The title of the take action button.
 "actionitemdetail_takeaction"           =   "Take Action";
 
+// The alert message displayed to the user when completing a meeting action item type.
+"actionitemdetail_meetingconfirm"       =   "Have you completed the meeting?";
+
 // The message displayed at the bottom of the Action Path Item detail screen.
 "actionitemdetail_alreadycompleted"     =   "Already completed this action?";
 
@@ -1663,4 +1666,3 @@
 
 // The text used to indicate the number of signups for an event.
 "admineventslist_signups"       =   "Signups";
-
