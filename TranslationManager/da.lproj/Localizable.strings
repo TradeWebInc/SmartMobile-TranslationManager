@@ -215,6 +215,9 @@
 // The title of the Profile menu option.
 "menu_profile"          =   "Profil";
 
+// The title of the SmartCloud menu option.
+"menu_smartcloud"                   =   "SmartCloud";
+
 // The title of the Back Office menu option.
 "menu_backoffice"       =   "Backoffice Web";
 
@@ -1284,9 +1287,6 @@
 // The title of the Reports menu option.
 "menu_reports"                  =   "Rapporter";
 
-// The title of the JCloud menu option.
-"menu_jcloud"                   =   "JCloud";
-
 
 // The title of the menu section header for JOffice.
 "menu_jofficeheader"            =   "JOFFICE™";
@@ -1408,20 +1408,20 @@
 
 
 // ============================================================================
-// * JCloud
+// * SmartCloud
 // ============================================================================
 
-// The title in the navigation bar of the JCloud screen.
-"jcloud_title"                          =   "JCloud";
+// The title in the navigation bar of the SmartCloud screen.
+"smartcloud_title"                          =   "SmartCloud";
 
-// The Help Text used by the JCloud screen.
-"jcloud_help"                           =   "Se alle filer og mapper i Cloud.\n\nTryk på download-knappen for at downloade en fil.\n\nHvis filen allerede er downloadet lokalt vil download-knappen ikke blive vist. Tryk på filen for at åbne og se den.\n\nFor at slette en lokalt downloadet fil, svirp på filen fra højre mod venstre for at vise slet-knappen.";
+// The Help Text used by the SmartCloud screen.
+"smartcloud_help"                           =   "Se alle filer og mapper i Cloud.\n\nTryk på download-knappen for at downloade en fil.\n\nHvis filen allerede er downloadet lokalt vil download-knappen ikke blive vist. Tryk på filen for at åbne og se den.\n\nFor at slette en lokalt downloadet fil, svirp på filen fra højre mod venstre for at vise slet-knappen.";
 
 // The title used in the Remove Local button.
-"jcloud_removelocal"                    =   "Fjern lokal";
+"smartcloud_removelocal"                    =   "Fjern lokal";
 
-// The title in the navigation bar of the JCloud screen when downloading a file.
-"jcloud_downloading"                    =   "Downloader";
+// The title in the navigation bar of the SmartCloud screen when downloading a file.
+"smartcloud_downloading"                    =   "Downloader";
 
 
 // ============================================================================

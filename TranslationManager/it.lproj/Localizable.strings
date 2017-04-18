@@ -156,8 +156,8 @@
 "helpcenter_title" = "Centro d\'Aiuto";
 "helpcenter_trainingdesc" = "Partecipa ad un utile allenamento su come utilizzare l\'applicazione alla massima potenza!";
 "helpcenter_trainingtitle" = "Video di Allenamento";
-"jcloud_help" = "Guarda tutti i documenti e le informazioni nella Nuvola. \nPremi il tasto scarica per scaricare un documento. \nSe il documento è stato già scaricato, il tasto scarica non apparirà. Semplicemente seleziona il documento per aprirlo e vederlo. \nPer cancellare un documento scaricato, sposta il documento da destra a sinistra del tasto rimuovi.";
-"jcloud_removelocal" = "Rimozione Locale";
+"smartcloud_help" = "Guarda tutti i documenti e le informazioni nella Nuvola. \nPremi il tasto scarica per scaricare un documento. \nSe il documento è stato già scaricato, il tasto scarica non apparirà. Semplicemente seleziona il documento per aprirlo e vederlo. \nPer cancellare un documento scaricato, sposta il documento da destra a sinistra del tasto rimuovi.";
+"smartcloud_removelocal" = "Rimozione Locale";
 "language_select" = "Seleziona Lingua";
 "leaddetails_help" = "Qui hai pieno accesso ai dettagli della pagina della recluta sul web. Puoi modificare ogni informazione sulla recluta scelta.";
 "leaddetails_title" = "Dettagli Recluta";
@@ -189,7 +189,7 @@
 "menu_helpcenter" = "Centro Aiuto";
 "menu_home" = "Casa";
 "menu_homeheader" = "CASA";
-"menu_jcloud" = "Cloud";
+"menu_smartcloud" = "SmartCloud";
 "menu_jofficeheader" = "JOFFICE";
 "menu_leadmanagementheader" = "LE MIE RECLUTE";
 "menu_logout" = "Logout";

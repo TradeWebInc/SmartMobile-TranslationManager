@@ -226,7 +226,10 @@
 "menu_profile"          =   "Profile";
 
 // the title of the Shopping Cart menu option.
-"menu_shoppingcart"  =   "Shopping Cart";
+"menu_shoppingcart"     =   "Shopping Cart";
+
+// The title of the SmartCloud menu option.
+"menu_smartcloud"           =   "SmartCloud";
 
 // The title of the Back Office menu option.
 "menu_backoffice"       =   "Backoffice Web";
@@ -578,9 +581,6 @@
 
 // The title of the take action button.
 "actionitemdetail_takeaction"           =   "Take Action";
-
-// The alert message displayed to the user when completing a meeting action item type.
-"actionitemdetail_meetingconfirm"       =   "Have you completed the meeting?";
 
 // The message displayed at the bottom of the Action Path Item detail screen.
 "actionitemdetail_alreadycompleted"     =   "Already completed this action?";
@@ -1274,6 +1274,23 @@
 
 
 // ============================================================================
+// * SmartCloud
+// ============================================================================
+
+// The title in the navigation bar of the SmartCloud screen.
+"smartcloud_title"                          =   "SmartCloud";
+
+// The Help Text used by the SmartCloud screen.
+"smartcloud_help"                           =   "View all files and directories in the Cloud.\n\nTap on the download button for a file to download it.\n\nIf the file is already downloaded locally, the download button will not appear. Simply tap the file to open and view it.\n\nTo delete a locally downloaded file, simply swipe the file from right to left to reveal the removal button.";
+
+// The title used in the Remove Local button.
+"smartcloud_removelocal"                    =   "Remove Local";
+
+// The title in the navigation bar of the SmartCloud screen when downloading a file.
+"smartcloud_downloading"                    =   "Downloading";
+
+
+// ============================================================================
 // * Shopping Cart
 // ============================================================================
 
@@ -1472,9 +1489,6 @@
 // The title of the Reports menu option.
 "menu_reports"                  =   "Reports";
 
-// The title of the JCloud menu option.
-"menu_jcloud"                   =   "JCloud";
-
 
 // The title of the menu section header for JOffice.
 "menu_jofficeheader"            =   "JOFFICE™";
@@ -1596,23 +1610,6 @@
 
 
 // ============================================================================
-// * JCloud
-// ============================================================================
-
-// The title in the navigation bar of the JCloud screen.
-"jcloud_title"                          =   "JCloud";
-
-// The Help Text used by the JCloud screen.
-"jcloud_help"                           =   "View all files and directories in the Cloud.\n\nTap on the download button for a file to download it.\n\nIf the file is already downloaded locally, the download button will not appear. Simply tap the file to open and view it.\n\nTo delete a locally downloaded file, simply swipe the file from right to left to reveal the removal button.";
-
-// The title used in the Remove Local button.
-"jcloud_removelocal"                    =   "Remove Local";
-
-// The title in the navigation bar of the JCloud screen when downloading a file.
-"jcloud_downloading"                    =   "Downloading";
-
-
-// ============================================================================
 // * My Events
 // ============================================================================
 
@@ -1666,3 +1663,4 @@
 
 // The text used to indicate the number of signups for an event.
 "admineventslist_signups"       =   "Signups";
+

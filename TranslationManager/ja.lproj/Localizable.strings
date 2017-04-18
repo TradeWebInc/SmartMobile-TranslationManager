@@ -215,6 +215,9 @@
 // The title of the Profile menu option.
 "menu_profile"          =   "プロフィール";
 
+// The title of the SmartCloud menu option.
+"menu_smartcloud"           =   "SmartCloud";
+
 // The title of the Back Office menu option.
 "menu_backoffice"       =   "バックオフィスウェブ";
 
@@ -1284,9 +1287,6 @@
 // The title of the Reports menu option.
 "menu_reports"                  =   "レポート";
 
-// The title of the JCloud menu option.
-"menu_jcloud"                   =   "JCloud";
-
 
 // The title of the menu section header for JOffice.
 "menu_jofficeheader"            =   "JOFFICE™";
@@ -1408,20 +1408,20 @@
 
 
 // ============================================================================
-// * JCloud
+// * SmartCloud
 // ============================================================================
 
-// The title in the navigation bar of the JCloud screen.
-"jcloud_title"                          =   "JCloud";
+// The title in the navigation bar of the SmartCloud screen.
+"smartcloud_title"                          =   "SmartCloud";
 
-// The Help Text used by the JCloud screen.
-"jcloud_help"                           =   "クラウド内のすべてのファイルとディレクトリを表示します。\n\nファイルをダウンロードするには「ダウンロード」ボタンをタップします。\n\nファイルがすでにローカル上にダウンロードされている場合は、「ダウンロード」ボタンは表示されません。ファイルをタップするだけで表示できます。\n\nローカル上にダウンロードされたファイルを削除するには、ファイルを右から左にスワイプして削除ボタンを表示させます。";
+// The Help Text used by the SmartCloud screen.
+"smartcloud_help"                           =   "クラウド内のすべてのファイルとディレクトリを表示します。\n\nファイルをダウンロードするには「ダウンロード」ボタンをタップします。\n\nファイルがすでにローカル上にダウンロードされている場合は、「ダウンロード」ボタンは表示されません。ファイルをタップするだけで表示できます。\n\nローカル上にダウンロードされたファイルを削除するには、ファイルを右から左にスワイプして削除ボタンを表示させます。";
 
 // The title used in the Remove Local button.
-"jcloud_removelocal"                    =   "ローカルファイルを削除";
+"smartcloud_removelocal"                    =   "ローカルファイルを削除";
 
-// The title in the navigation bar of the JCloud screen when downloading a file.
-"jcloud_downloading"                    =   "ダウンロード中";
+// The title in the navigation bar of the SmartCloud screen when downloading a file.
+"smartcloud_downloading"                    =   "ダウンロード中";
 
 
 // ============================================================================

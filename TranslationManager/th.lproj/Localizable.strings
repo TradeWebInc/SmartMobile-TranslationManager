@@ -215,6 +215,9 @@
 // The title of the Profile menu option.
 "menu_profile"          =   "โปรไฟล์";
 
+// The title of the SmartCloud menu option.
+"menu_smartcloud"           =   "SmartCloud";
+
 // The title of the Back Office menu option.
 "menu_backoffice"       =   "เว็บแบ็กออฟฟิศ";
 
@@ -1284,9 +1287,6 @@
 // The title of the Reports menu option.
 "menu_reports"                  =   "รายงาน";
 
-// The title of the JCloud menu option.
-"menu_jcloud"                   =   "JCloud";
-
 
 // The title of the menu section header for JOffice.
 "menu_jofficeheader"            =   "JOFFICE™";
@@ -1408,20 +1408,20 @@
 
 
 // ============================================================================
-// * JCloud
+// * SmartCloud
 // ============================================================================
 
-// The title in the navigation bar of the JCloud screen.
-"jcloud_title"                          =   "JCloud";
+// The title in the navigation bar of the SmartCloud screen.
+"smartcloud_title"                          =   "SmartCloud";
 
-// The Help Text used by the JCloud screen.
-"jcloud_help"                           =   "ดูไฟล์และไดเรกทอรีทั้งหมดในระบบคลาวด์\n\nแตะที่ปุ่มดาวน์โหลดของไฟล์เพื่อดาวน์โหลด\n\nถ้ามีการดาวน์โหลดไฟล์มาในเครื่องแล้ว ปุ่มดาวน์โหลดจะไม่ปรากฏขึ้น ให้แตะที่ไฟล์เพื่อเปิดและดูข้อมูลในนั้น\n\nหากต้องการลบไฟล์ที่ดาวน์โหลดมาในเครื่อง ให้ใช้นิ้วปัดไฟล์จากขวาไปซ้ายเพื่อนำปุ่มลบออกมา";
+// The Help Text used by the SmartCloud screen.
+"smartcloud_help"                           =   "ดูไฟล์และไดเรกทอรีทั้งหมดในระบบคลาวด์\n\nแตะที่ปุ่มดาวน์โหลดของไฟล์เพื่อดาวน์โหลด\n\nถ้ามีการดาวน์โหลดไฟล์มาในเครื่องแล้ว ปุ่มดาวน์โหลดจะไม่ปรากฏขึ้น ให้แตะที่ไฟล์เพื่อเปิดและดูข้อมูลในนั้น\n\nหากต้องการลบไฟล์ที่ดาวน์โหลดมาในเครื่อง ให้ใช้นิ้วปัดไฟล์จากขวาไปซ้ายเพื่อนำปุ่มลบออกมา";
 
 // The title used in the Remove Local button.
-"jcloud_removelocal"                    =   "ลบข้อมูลในเครื่อง";
+"smartcloud_removelocal"                    =   "ลบข้อมูลในเครื่อง";
 
-// The title in the navigation bar of the JCloud screen when downloading a file.
-"jcloud_downloading"                    =   "กำลังดาวน์โหลด";
+// The title in the navigation bar of the SmartCloud screen when downloading a file.
+"smartcloud_downloading"                    =   "กำลังดาวน์โหลด";
 
 
 // ============================================================================

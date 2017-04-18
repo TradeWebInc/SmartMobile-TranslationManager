@@ -215,6 +215,9 @@
 // The title of the Profile menu option.
 "menu_profile"          =   "Perfil";
 
+// The title of the SmartCloud menu option.
+"menu_smartcloud"           =   "SmartCloud";
+
 // The title of the Back Office menu option.
 "menu_backoffice"       =   "Web Backoffice";
 
@@ -1284,9 +1287,6 @@
 // The title of the Reports menu option.
 "menu_reports"                  =   "Relatórios";
 
-// The title of the JCloud menu option.
-"menu_jcloud"                   =   "JCloud";
-
 
 // The title of the menu section header for JOffice.
 "menu_jofficeheader"            =   "JOFFICE™";
@@ -1408,20 +1408,20 @@
 
 
 // ============================================================================
-// * JCloud
+// * SmartCloud
 // ============================================================================
 
-// The title in the navigation bar of the JCloud screen.
-"jcloud_title"                          =   "JCloud";
+// The title in the navigation bar of the SmartCloud screen.
+"smartcloud_title"                          =   "SmartCloud";
 
-// The Help Text used by the JCloud screen.
-"jcloud_help"                           =   "Visualize todos os ficheiros e diretórios na Nuvem.\n\nToque no botão de transferência de um ficheiro para o transferir.\n\nSe o ficheiro já tiver sido transferido localmente, o botão de transferência não será apresentado. Bastará tocar no ficheiro para o abrir e visualizar.\n\nPara eliminar um ficheiro transferido localmente, basta deslizar o ficheiro da direita para a esquerda para revelar o botão de remoção.";
+// The Help Text used by the SmartCloud screen.
+"smartcloud_help"                           =   "Visualize todos os ficheiros e diretórios na Nuvem.\n\nToque no botão de transferência de um ficheiro para o transferir.\n\nSe o ficheiro já tiver sido transferido localmente, o botão de transferência não será apresentado. Bastará tocar no ficheiro para o abrir e visualizar.\n\nPara eliminar um ficheiro transferido localmente, basta deslizar o ficheiro da direita para a esquerda para revelar o botão de remoção.";
 
 // The title used in the Remove Local button.
-"jcloud_removelocal"                    =   "Remover Local";
+"smartcloud_removelocal"                    =   "Remover Local";
 
-// The title in the navigation bar of the JCloud screen when downloading a file.
-"jcloud_downloading"                    =   "A transferir";
+// The title in the navigation bar of the SmartCloud screen when downloading a file.
+"smartcloud_downloading"                    =   "A transferir";
 
 
 // ============================================================================

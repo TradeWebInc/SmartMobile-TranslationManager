@@ -206,10 +206,10 @@
 "helpcenter_title" = "Centre D\'Assistance";
 "helpcenter_trainingdesc" = "Obtenez une formation très utile pour l\'utilisation la plus complète de cette application!";
 "helpcenter_trainingtitle" = "Vidéos de Formation";
-"jcloud_downloading" = "Téléchargement";
-"jcloud_help" = "Voir tous les fichiers et répertoires dans le Cloud. Appuyez sur le bouton de téléchargement d\'un fichier pour le télécharger. Si le dossier est déjà téléchargé sur place, le bouton de téléchargement ne sera pas apparaître. Appuyez simplement sur le fichier pour l\'ouvrir et la visualiser. Pour supprimer un fichier téléchargé sur place, glissez simplement le fichier de droite à gauche pour révéler le bouton de suppression.";
-"jcloud_removelocal" = "Retirer locale";
-"jcloud_title" = "Jcloud";
+"smartcloud_downloading" = "Téléchargement";
+"smartcloud_help" = "Voir tous les fichiers et répertoires dans le Cloud. Appuyez sur le bouton de téléchargement d\'un fichier pour le télécharger. Si le dossier est déjà téléchargé sur place, le bouton de téléchargement ne sera pas apparaître. Appuyez simplement sur le fichier pour l\'ouvrir et la visualiser. Pour supprimer un fichier téléchargé sur place, glissez simplement le fichier de droite à gauche pour révéler le bouton de suppression.";
+"smartcloud_removelocal" = "Retirer locale";
+"smartcloud_title" = "SmartCloud";
 "language_select" = "Sélectionner une langue";
 "leadactions_cancelscheduledaction" = "Êtes-vous certain de vouloir annuler cette action?";
 "leadactions_doit" = "à faire";
@@ -300,7 +300,7 @@
 "menu_helpcenter" = "Centre D\'Assistance";
 "menu_home" = "Page d\'accueil";
 "menu_homeheader" = "PAGE D\'ACCUEIL";
-"menu_jcloud" = "Cloud";
+"menu_smartcloud" = "SmartCloud";
 "menu_jofficeheader" = "JOFFICE™";
 "menu_leadmanagementheader" = "MES PROSPECTS";
 "menu_logout" = "Déconnexion";

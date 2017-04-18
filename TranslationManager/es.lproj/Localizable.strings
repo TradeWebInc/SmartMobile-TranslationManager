@@ -198,9 +198,9 @@
 "helpcenter_title" = "Centro de Ayuda";
 "helpcenter_trainingdesc" = "Obtenga formación de utilidad para aprender a utilizar esta App y aprovecharla al máximo.";
 "helpcenter_trainingtitle" = "Videos de formación";
-"jcloud_downloading" = "Descargo";
-"jcloud_help" = "Vea los archivos y directorios de Cloud.\nPulse el botón de descarga para descargar un archivo.\nSi el archivo ya se ha descargado localmente, el botón de descarga no aparecerá. Basta con pulsar el archivo para abrirlo y verlo.\nPara eliminar un archivo descargado localmente, deslice el archivo de derecha a izquierda para que se muestre el botón de eliminación.";
-"jcloud_removelocal" = "Quitar local";
+"smartcloud_downloading" = "Descargo";
+"smartcloud_help" = "Vea los archivos y directorios de Cloud.\nPulse el botón de descarga para descargar un archivo.\nSi el archivo ya se ha descargado localmente, el botón de descarga no aparecerá. Basta con pulsar el archivo para abrirlo y verlo.\nPara eliminar un archivo descargado localmente, deslice el archivo de derecha a izquierda para que se muestre el botón de eliminación.";
+"smartcloud_removelocal" = "Quitar local";
 "language_select" = "Seleccionar idioma";
 "leadactions_cancelscheduledaction" = "¿Está usted seguro de que desea cancelar esta acción?";
 "leadactions_doit" = "Hacerlo";
@@ -291,7 +291,7 @@
 "menu_helpcenter" = "Centro de Ayuda";
 "menu_home" = "Inicio";
 "menu_homeheader" = "INICIO";
-"menu_jcloud" = "Cloud";
+"menu_smartcloud" = "SmartCloud";
 "menu_leadmanagementheader" = "MIS CLIENTES POTENCIALES";
 "menu_logout" = "Cerrar sesión";
 "menu_managegroups" = "Administrar grupos";

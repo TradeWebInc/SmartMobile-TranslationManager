@@ -215,6 +215,9 @@
 // The title of the Profile menu option.
 "menu_profile"          =   "個人檔案";
 
+// The title of the SmartCloud menu option.
+"menu_smartcloud"                   =   "SmartCloud";
+
 // The title of the Back Office menu option.
 "menu_backoffice"       =   "後台系統網站";
 
@@ -1284,9 +1287,6 @@
 // The title of the Reports menu option.
 "menu_reports"                  =   "報告";
 
-// The title of the JCloud menu option.
-"menu_jcloud"                   =   "JCloud";
-
 
 // The title of the menu section header for JOffice.
 "menu_jofficeheader"            =   "JOFFICE™";
@@ -1408,20 +1408,20 @@
 
 
 // ============================================================================
-// * JCloud
+// * SmartCloud
 // ============================================================================
 
-// The title in the navigation bar of the JCloud screen.
-"jcloud_title"                          =   "JCloud";
+// The title in the navigation bar of the SmartCloud screen.
+"smartcloud_title"                          =   "SmartCloud";
 
-// The Help Text used by the JCloud screen.
-"jcloud_help"                           =   "查看雲端中的所有檔案與目錄。\n\n輕點檔案的下載按鈕即可下載。\n\n若檔案已下載到本機，則不會出現下載按鈕。輕點檔案即可開啟並查看內容。\n\n若要刪除下載到本機的檔案，只要在檔案上從右向左滑動，即可出現移除按鈕。";
+// The Help Text used by the SmartCloud screen.
+"smartcloud_help"                           =   "查看雲端中的所有檔案與目錄。\n\n輕點檔案的下載按鈕即可下載。\n\n若檔案已下載到本機，則不會出現下載按鈕。輕點檔案即可開啟並查看內容。\n\n若要刪除下載到本機的檔案，只要在檔案上從右向左滑動，即可出現移除按鈕。";
 
 // The title used in the Remove Local button.
-"jcloud_removelocal"                    =   "移除本機檔案";
+"smartcloud_removelocal"                    =   "移除本機檔案";
 
-// The title in the navigation bar of the JCloud screen when downloading a file.
-"jcloud_downloading"                    =   "下載中";
+// The title in the navigation bar of the SmartCloud screen when downloading a file.
+"smartcloud_downloading"                    =   "下載中";
 
 
 // ============================================================================

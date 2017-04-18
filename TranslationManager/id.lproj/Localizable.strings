@@ -215,6 +215,9 @@
 // The title of the Profile menu option.
 "menu_profile"          =   "Profil";
 
+// The title of the SmartCloud menu option.
+"menu_smartcloud"       =   "SmartCloud";
+
 // The title of the Back Office menu option.
 "menu_backoffice"       =   "Web Backoffice";
 
@@ -1284,9 +1287,6 @@
 // The title of the Reports menu option.
 "menu_reports"                  =   "Laporan";
 
-// The title of the JCloud menu option.
-"menu_jcloud"                   =   "JCloud";
-
 
 // The title of the menu section header for JOffice.
 "menu_jofficeheader"            =   "JOFFICE™";
@@ -1408,20 +1408,20 @@
 
 
 // ============================================================================
-// * JCloud
+// * SmartCloud
 // ============================================================================
 
-// The title in the navigation bar of the JCloud screen.
-"jcloud_title"                          =   "JCloud";
+// The title in the navigation bar of the SmartCloud screen.
+"smartcloud_title"                          =   "SmartCloud";
 
-// The Help Text used by the JCloud screen.
-"jcloud_help"                           =   "Lihat semua berkas dan petunjuk pada Cloud.\n\nKetuk tombol unduh untuk mengunduh berkas.\n\nJika berkas sudah diunduh secara lokal, tombol unduh tidak akan muncul. Ketuk berkas untuk membuka dan melihatnya.\n\nUntuk menghapus semua berkas yang diunduh secara lokal, sapu berkas dari kanan ke kiri untuk memunculkan tombol hapus.";
+// The Help Text used by the SmartCloud screen.
+"smartcloud_help"                           =   "Lihat semua berkas dan petunjuk pada Cloud.\n\nKetuk tombol unduh untuk mengunduh berkas.\n\nJika berkas sudah diunduh secara lokal, tombol unduh tidak akan muncul. Ketuk berkas untuk membuka dan melihatnya.\n\nUntuk menghapus semua berkas yang diunduh secara lokal, sapu berkas dari kanan ke kiri untuk memunculkan tombol hapus.";
 
 // The title used in the Remove Local button.
-"jcloud_removelocal"                    =   "Hapus Lokal";
+"smartcloud_removelocal"                    =   "Hapus Lokal";
 
-// The title in the navigation bar of the JCloud screen when downloading a file.
-"jcloud_downloading"                    =   "Mengunduh";
+// The title in the navigation bar of the SmartCloud screen when downloading a file.
+"smartcloud_downloading"                    =   "Mengunduh";
 
 
 // ============================================================================

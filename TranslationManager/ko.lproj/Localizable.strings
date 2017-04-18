@@ -215,6 +215,9 @@
 // The title of the Profile menu option.
 "menu_profile"          =   "프로필";
 
+// The title of the SmartCloud menu option.
+"menu_smartcloud"                   =   "SmartCloud";
+
 // The title of the Back Office menu option.
 "menu_backoffice"       =   "Backoffice Web";
 
@@ -1284,9 +1287,6 @@
 // The title of the Reports menu option.
 "menu_reports"                  =   "보고서";
 
-// The title of the JCloud menu option.
-"menu_jcloud"                   =   "JCloud";
-
 
 // The title of the menu section header for JOffice.
 "menu_jofficeheader"            =   "JOFFICE™";
@@ -1408,20 +1408,20 @@
 
 
 // ============================================================================
-// * JCloud
+// * SmartCloud
 // ============================================================================
 
-// The title in the navigation bar of the JCloud screen.
-"jcloud_title"                          =   "JCloud";
+// The title in the navigation bar of the SmartCloud screen.
+"smartcloud_title"                          =   "SmartCloud";
 
-// The Help Text used by the JCloud screen.
-"jcloud_help"                           =   "클라우드에서 모든 파일과 디렉토리를 봅니다.\n\n다운로드 버튼을 누르면 파일을 다운로드합니다.\n\n이미 로컬 기기에 파일이 다운로드된 경우 다운로드 버튼은 표시되지 않습니다. 파일을 누르기만 하면 열립니다.\n\n로컬 기기에 다운로드한 파일을 삭제하려면 파일을 오른쪽에서 왼쪽으로 밀어 삭제 버튼을 사용하세요.";
+// The Help Text used by the SmartCloud screen.
+"smartcloud_help"                           =   "클라우드에서 모든 파일과 디렉토리를 봅니다.\n\n다운로드 버튼을 누르면 파일을 다운로드합니다.\n\n이미 로컬 기기에 파일이 다운로드된 경우 다운로드 버튼은 표시되지 않습니다. 파일을 누르기만 하면 열립니다.\n\n로컬 기기에 다운로드한 파일을 삭제하려면 파일을 오른쪽에서 왼쪽으로 밀어 삭제 버튼을 사용하세요.";
 
 // The title used in the Remove Local button.
-"jcloud_removelocal"                    =   "로컬 파일 삭제";
+"smartcloud_removelocal"                    =   "로컬 파일 삭제";
 
-// The title in the navigation bar of the JCloud screen when downloading a file.
-"jcloud_downloading"                    =   "다운로드 중";
+// The title in the navigation bar of the SmartCloud screen when downloading a file.
+"smartcloud_downloading"                    =   "다운로드 중";
 
 
 // ============================================================================
