@@ -30,6 +30,7 @@
 "general_save"              = 	"Save";
 "general_delete"            = 	"Delete";
 "general_remove"            =   "Remove";
+"general_search"            =   "Search";
 "general_addnew"            =   "Add New +";
 "general_add"				=	"Add";
 "general_create"            =   "Create";
@@ -1567,7 +1568,7 @@
 
 
 // ============================================================================
-// * Messages
+// * Mailbox
 // ============================================================================
 
 // The title in the navigation bar of the Messages screen.
