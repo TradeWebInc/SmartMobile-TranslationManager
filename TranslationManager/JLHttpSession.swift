@@ -125,7 +125,7 @@ class JLHttpSession: NSObject {
             // Check for error
             if (error != nil) {
                 returnData = nil;
-                print("Synchronous Request Error: \(error!) Request: \(request.allHTTPHeaderFields!)\n\(request.url)");
+                print("Synchronous Request Error: \(error!) Request: \(request.allHTTPHeaderFields!)\n\(String(describing: request.url))");
             }
             
             if let httpResponse:HTTPURLResponse = response as? HTTPURLResponse {

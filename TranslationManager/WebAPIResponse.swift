@@ -22,7 +22,7 @@ class WebAPIResponse: NSObject {
     var data:Any? = nil;
     
     override var description: String {
-        return "API Response:\nSuccess: \(self.success)\nUserMessage: \(self.userMessage)\nDeveloperMessage: \(self.developerMessage)\nData: \(self.data)";
+        return "API Response:\nSuccess: \(self.success)\nUserMessage: \(self.userMessage)\nDeveloperMessage: \(self.developerMessage)\nData: \(String(describing: self.data))";
     }
    
     init(dataDictionary:[String:Any]) {

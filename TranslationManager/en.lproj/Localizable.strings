@@ -42,6 +42,7 @@
 "general_submit"            =   "Submit";
 "general_send"              =   "Send";
 "general_share"             =   "Share";
+"general_preview"           =   "Preview";
 "general_exit"              =   "Exit";
 "general_settings"          =   "Settings";
 "general_info"              =   "Info";
@@ -57,6 +58,7 @@
 "general_contactsaccess"    =   "Access to contacts is restricted. Please enable access to contacts in your device settings.";
 "general_nocontent"         =   "Content is not available in your selected language.";
 "general_comingsoon"        =   "Coming Soon";
+"general_upcoming"          =   "Upcoming";
 
 "general_back"              =   "Back";
 "general_forward"           =   "Forward";
@@ -555,6 +557,9 @@
 
 // The text shown when no recommended actions are available.
 "prospector_norecommendedactions"       =   "No recommended actions found.";
+
+// The message shown for an action item that is upcoming.
+"prospector_upcomingactionmessage"      =   "This upcoming action item cannot be completed before the following date";
 
 
 
