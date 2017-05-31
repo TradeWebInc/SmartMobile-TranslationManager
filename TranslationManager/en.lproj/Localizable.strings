@@ -324,6 +324,15 @@
 // The Help Text used by the my leads screen.
 "myleads_help"              =   "View and edit your current leads.\n\n Tap the \"Add (+)\" button to add leads from either your contacts or manual input on the fly!\n\nTap a lead to edit their details. Swipe a lead to the left to view additional options.\n\nTap the \"Sort\" button to sort your leads list. You can sort leads by both ascending and descending values.\n\nLeads can also be filtered using the \"Filter\" button and by using the search bar.";
 
+// The title of the leads tab.
+"myleads_leads"             =   "Leads";
+
+// The title of the customers tab.
+"myleads_customers"        =   "Customers";
+
+// The text shown in the no customers label.
+"myleads_nocustomersfound"  =   "No Customers Found";
+
 // The title of the Sort Button.
 "myleads_sort"              =   "Sort";
 
@@ -1672,4 +1681,17 @@
 
 // The text used to indicate the number of signups for an event.
 "admineventslist_signups"       =   "Signups";
+
+
+// The title in the navigation bar of the Admin Event Detail screen.
+"admineventdetail_title"                =   "Event Detail";
+
+// The Help Text used by the Admin Event Detail screen.
+"admineventdetail_help"                 =   "View the details of the selected event.";
+
+// The title of the total check ins label.
+"admineventdetail_totalcheckins"        =   "Total Check Ins";
+
+// The title of the total registrants label.
+"admineventdetail_totalregistrants"     =   "Total Registrants";
 
