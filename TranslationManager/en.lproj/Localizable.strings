@@ -328,7 +328,7 @@
 "myleads_leads"             =   "Leads";
 
 // The title of the customers tab.
-"myleads_customers"        =   "Customers";
+"myleads_customers"         =   "Customers";
 
 // The text shown in the no customers label.
 "myleads_nocustomersfound"  =   "No Customers Found";
@@ -411,6 +411,9 @@
 // Error message when a lead has no email address.
 "myleads_noleademail"       =   "No email set for the selected lead.";
 
+// The tip text for the Customer tutorial.
+"myleads_customertip1"      =   "When we detect a Lead has become a customer, you can merge the lead to a customer here.";
+
 
 // Message for sending SMS displayed in the Local Device View Screen under My Leads
 "localdevice_sendmessage"			=	"Send Message";
@@ -449,6 +452,36 @@
 
 
 // ============================================================================
+// * Customer Confirm
+// ============================================================================
+
+// The title in the navigation bar of the Customer Confirm screen.
+"customerconfirm_title"                 =   "Pending Merges";
+
+// The Help Text used by the Customer Confirm screen.
+"customerconfirm_help"                  =   "Help us decide if we should merge a customer entry with one of your existing leads by comparing their contact information. Tap the \"Merge All\" button to merge all customers with existing leads.";
+
+// The title of the Merge All button.
+"customerconfirm_mergeall"              =   "Merge All";
+
+// The message shown when merging all was successful.
+"customerconfirm_mergeallsuccess"       =   "All customers merged successfully!";
+
+// The message shown when a merge fails.
+"customerconfirm_mergefailed"           =   "Merge Failed";
+
+// The title of the Lead Info label.
+"customerconfirm_leadinfo"              =   "Lead Info";
+
+// The title of the Customer Info label.
+"customerconfirm_customerinfo"          =   "Customer Info";
+
+"customerconfirm_sameperson"            =   "Same Person";
+
+"customerconfirm_differentperson"       =   "Different Person";
+
+
+// ============================================================================
 // * Lead Details
 // ============================================================================
 
@@ -478,6 +511,9 @@
 
 // The title of the Stats tab.
 "leaddetails_statstab"                          =   "Stats";
+
+// The title of the Orders tab.
+"leaddetails_orderstab"                         =   "Orders";
 
 // The title of the Notes tab.
 "leaddetails_notestab"                          =   "Notes";
@@ -754,6 +790,55 @@
 
 // The unit label for the duration time in seconds.
 "leadstats_secs"                =   "secs";
+
+
+// ============================================================================
+// * Lead Orders
+// ============================================================================
+
+// The title in the navigation bar of the lead orders screen.
+"leadorders_title"              =   "Orders";
+
+// The Help Text used by the lead orders screen.
+"leadorders_help"               =   "View a list of orders by the current customer. Tap on an order to see more details.";
+
+
+// ============================================================================
+// * Lead Order Details
+// ============================================================================
+
+// The title in the navigation bar of the lead order detail screen.
+"leadorderdetails_title"            =   "Order Details";
+
+// The Help Text used by the lead order detail screen.
+"leadorderdetails_help"             =   "View the details of the chosen order. Scroll to view all of the products included in the order.";
+
+// The title of the Order # label.
+"leadorderdetails_order"            =   "Order";
+
+// The title of the Order Type label.
+"leadorderdetails_ordertype"        =   "Order Type";
+
+// The title of the Payment Type label.
+"leadorderdetails_paymenttype"      =   "Payment Type";
+
+// The title of the Shipped label.
+"leadorderdetails_shipped"          =   "Shipped";
+
+// The title of the Paid label.
+"leadorderdetails_paid"             =   "Paid";
+
+// The title of the Total label.
+"leadorderdetails_total"            =   "Total";
+
+// The title of the Products label.
+"leadorderdetails_products"         =   "Products";
+
+// The title of the Price label.
+"leadorderdetails_price"            =   "Price";
+
+// The title of the Quantity label.
+"leadorderdetails_quantity"         =   "Quantity";
 
 
 // ============================================================================
@@ -1393,6 +1478,12 @@
 // The Help Text used by the Cart Checkout screen.
 "cartcheckout_help"                 =   "Review your cart and fill out all of the form inputs to complete the checkout process.";
 
+// The title message shown when a purchase is made successfully.
+"cartcheckout_ordercomplete"        =   "Order Complete";
+
+// The message shown when a purchase is made successfully.
+"cartcheckout_confirmation"         =   "Confirmation";
+
 
 // ============================================================================
 // * Success On Demand
@@ -1477,6 +1568,27 @@
 
 // The placeholder text in the message bar text view.
 "supportresponses_placeholdertext"      =   "Message";
+
+
+// ============================================================================
+// * Debug Menu
+// ============================================================================
+
+// The title in the Navigation bar of the Debug Menu screen.
+"debugmenu_title"                   =   "Debug Menu";
+
+// The Help Text used by the Debug Menu screen.
+"debugmenu_help"                    =   "The debug menu can be used to test various features including environment changes and APIs.";
+
+// The message shown when no device token can be displayed.
+"debugmenu_notoken"                 =   "No token available";
+
+
+// The title in the Navigation bar of the API Test Detail screen.
+"apitestdetail_title"               =   "API Detail";
+
+// The Help Text used by the API Test Detail screen.
+"apitestdetail_help"                =   "Preview a specific API request to see why it has failed.";
 
 
 // ============================================================================
