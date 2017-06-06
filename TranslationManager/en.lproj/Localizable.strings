@@ -476,8 +476,10 @@
 // The title of the Customer Info label.
 "customerconfirm_customerinfo"          =   "Customer Info";
 
+// The title of the same person button.
 "customerconfirm_sameperson"            =   "Same Person";
 
+// The title of the different person button.
 "customerconfirm_differentperson"       =   "Different Person";
 
 
