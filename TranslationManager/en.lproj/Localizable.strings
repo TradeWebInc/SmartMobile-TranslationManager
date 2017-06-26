@@ -106,6 +106,8 @@
 
 "general_days"              =   "Day(s)";
 "general_hours"             =   "Hour(s)";
+"general_upcoming"          =   "Upcoming";
+"general_past"              =   "Past";
 
 "general_facebook"          = 	"Facebook";
 "general_facebookrequired"  =   "Please install the Facebook application to use this feature.";
