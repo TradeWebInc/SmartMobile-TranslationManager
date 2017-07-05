@@ -1010,6 +1010,28 @@
 "videocampaign_filter"                  =   "Filter";
 
 
+// The title in the navigation bar of the video playlist screen.
+"videoplaylist_title"                   =   "Video Playlist";
+
+// The alert message shown when attempting to view an empty playlist.
+"videoplaylist_emptyplaylist"           =   "You currently have no videos in your playlist. Add at least one video to view your playlist.";
+
+// The alert message shown when attempting to add a video to a full playlist.
+"videoplaylist_fullplaylist"            =   "Your playlist is full. Please remove a video before adding another.";
+
+// The title of the All Videos button.
+"videoplaylist_allvideos"               =   "All Videos";
+
+// The title of the My Video playlist button.
+"videoplaylist_myvideoplaylist"         =   "My Video Playlist";
+
+// The title of the Add to Playlist button.
+"videoplaylist_addtoplaylist"           =   "Add to Playlist";
+
+// The title of the Remove from Playlist button.
+"videoplaylist_removefromplaylist"      =   "Remove from Playlist";
+
+
 // ============================================================================
 // * Custom Campaign Select
 // ============================================================================
