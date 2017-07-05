@@ -44,7 +44,6 @@ class AppManager : NSObject {
         ClientModel(name: "JMobile", tag: "JM", isActive: true),
         ClientModel(name: "ZMobile", tag: "ZM", isActive: true),
         ClientModel(name: "Avon Spark", tag: "AS", isActive: true),
-        ClientModel(name: "Biwell Bizzi", tag: "BB", isActive: true)
     ];
     var environments:[EnvironmentModel] = [
         EnvironmentModel(name: "Development", tag: "DEV", isActive: false),
@@ -72,10 +71,6 @@ class AppManager : NSObject {
             "DEV":"https://avonca.smartmobiledirectdev.com/api/",
             "PROD":"https://avonca.smartmobiledirect.com/api/"
         ],
-        "BB":[
-            "DEV":"https://biwell.smartmobiledirectdev.com/api/",
-            "PROD":"https://biwell.smartmobiledirect.com/api/"
-        ]
     ];
     
     var translations:[TranslationModel] = [];
