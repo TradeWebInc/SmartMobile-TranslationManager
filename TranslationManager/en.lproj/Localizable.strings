@@ -30,6 +30,7 @@
 "general_save"              = 	"Save";
 "general_delete"            = 	"Delete";
 "general_remove"            =   "Remove";
+"general_removeall"         =   "Remove All";
 "general_search"            =   "Search";
 "general_addnew"            =   "Add New +";
 "general_add"				=	"Add";
@@ -1030,6 +1031,9 @@
 
 // The title of the Remove from Playlist button.
 "videoplaylist_removefromplaylist"      =   "Remove from Playlist";
+
+// The confirmation message shown when attempting to remove all videos from a video playlist.
+"videoplaylist_removeallconfirm"        =   "Are you sure you want to remove all of the videos from your playlist?";
 
 
 // ============================================================================
