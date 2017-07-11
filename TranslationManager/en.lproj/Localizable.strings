@@ -30,7 +30,6 @@
 "general_save"              = 	"Save";
 "general_delete"            = 	"Delete";
 "general_remove"            =   "Remove";
-"general_removeall"         =   "Remove All";
 "general_search"            =   "Search";
 "general_addnew"            =   "Add New +";
 "general_add"				=	"Add";
@@ -1011,31 +1010,6 @@
 "videocampaign_filter"                  =   "Filter";
 
 
-// The title in the navigation bar of the video playlist screen.
-"videoplaylist_title"                   =   "Video Playlist";
-
-// The alert message shown when attempting to view an empty playlist.
-"videoplaylist_emptyplaylist"           =   "You currently have no videos in your playlist. Add at least one video to view your playlist.";
-
-// The alert message shown when attempting to add a video to a full playlist.
-"videoplaylist_fullplaylist"            =   "Your playlist is full. Please remove a video before adding another.";
-
-// The title of the All Videos button.
-"videoplaylist_allvideos"               =   "All Videos";
-
-// The title of the My Video playlist button.
-"videoplaylist_myvideoplaylist"         =   "My Video Playlist";
-
-// The title of the Add to Playlist button.
-"videoplaylist_addtoplaylist"           =   "Add to Playlist";
-
-// The title of the Remove from Playlist button.
-"videoplaylist_removefromplaylist"      =   "Remove from Playlist";
-
-// The confirmation message shown when attempting to remove all videos from a video playlist.
-"videoplaylist_removeallconfirm"        =   "Are you sure you want to remove all of the videos from your playlist?";
-
-
 // ============================================================================
 // * Custom Campaign Select
 // ============================================================================
@@ -1344,6 +1318,29 @@
 
 // The text description for How we user Social Media.
 "socialmedia_howweusedesc"  = 	"- Obtain basic profile info (name, screen-name, etc)\n- Obtain profile picture to display in-app\n- Request permissions to allow you to make posts";
+
+
+// ============================================================================
+// * Facebook Pages
+// ============================================================================
+
+// The title in the navigation bar of the Facebook Pages screen.
+"facebookpages_title"               =   "Facebook Pages";
+
+// The Help Text used by the Facebook Pages screen.
+"facebookpages_help"                =   "Once we have your permission we can help you post content to your Facebook Pages. Select a Page to post your content. \n\nIf you don't see any Facebook Pages we may need you to give us more permissions. To do so, please log out of Facebook from the Profile screen and try to post again.";
+
+// The message shown when no Facebook Pages can be found.
+"facebookpages_nopages"             =   "No Facebook Pages Found";
+
+// The message shown to confirm a Facebook Page publish.
+"facebookpages_publishconfirm"      =   "Are you sure you want to post as this Facebook Page?";
+
+// The message shown when a Facebook Page publish was successful.
+"facebookpages_publishsuccess"      =   "A post has successfully been made as your Facebook Page!";
+
+// The message shown when a Facebook Page publish fails.
+"facebookpages_publishfailed"       =   "An error occurred while publishing as your Facebook Page. Please try again later.";
 
 
 // ============================================================================
