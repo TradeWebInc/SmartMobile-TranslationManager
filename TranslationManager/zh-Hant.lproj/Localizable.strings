@@ -279,12 +279,6 @@
 // The Help Text used by the optimism library screen.
 "optimismlibrary_help"      = 	"在資料庫中選擇您要繼續分享的勵志圖。";
 
-// The title of the Filter Button.
-"optimismlibrary_filter"    = 	"過濾條件";
-
-// The title of Optimism Filter action sheet.
-"optimismlibrary_filterby"  =   "過濾依據";
-
 
 // ============================================================================
 // * Optimism Library
@@ -322,17 +316,8 @@
 // The title of the Descending Segment Control Button.
 "myleads_descending"        =   "降冪";
 
-// The title of the Filter Button.
-"myleads_filter"            =   "過濾條件";
-
-// The title of the Filter Action Sheet Menu.
-"myleads_filterby"          = 	"過濾依據";
-
 // The title of the Change Status Action Menu.
 "myleads_changestatusto"    =   "將狀態改成";
-
-// The warning message shown when changing a lead to the cold status.
-"myleads_coldconfirm"       =   "除非將過濾條件設為沒有興趣狀態，否則畫面上不會顯示這個潛在客戶。確定要將這個潛在客戶標示為沒有興趣嗎？";
 
 // The title of the Hot option during Filtering.
 "myleads_statushot"         = 	"超有興趣";
@@ -798,9 +783,6 @@
 
 // The text for the no categories found label.
 "videocampaign_nocategoriesfound"       =   "找不到類別";
-
-// The title of the filter button.
-"videocampaign_filter"                  =   "過濾條件";
 
 
 // ============================================================================

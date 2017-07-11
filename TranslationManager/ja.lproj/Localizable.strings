@@ -279,12 +279,6 @@
 // The Help Text used by the optimism library screen.
 "optimismlibrary_help"      = 	"ライブラリからちょっといい一言を選んでシェアしましょう。";
 
-// The title of the Filter Button.
-"optimismlibrary_filter"    = 	"フィルター";
-
-// The title of Optimism Filter action sheet.
-"optimismlibrary_filterby"  =   "フィルター：";
-
 
 // ============================================================================
 // * Optimism Library
@@ -322,17 +316,8 @@
 // The title of the Descending Segment Control Button.
 "myleads_descending"        =   "降順";
 
-// The title of the Filter Button.
-"myleads_filter"            =   "フィルター";
-
-// The title of the Filter Action Sheet Menu.
-"myleads_filterby"          = 	"フィルター：";
-
 // The title of the Change Status Action Menu.
 "myleads_changestatusto"    =   "ステータスを変更：";
-
-// The warning message shown when changing a lead to the cold status.
-"myleads_coldconfirm"       =   "見込みステータスで見込顧客をフィルタリングするまで、この見込顧客は表示されません。この見込顧客を「見込： 低」としてマークしてもよろしいですか？";
 
 // The title of the Hot option during Filtering.
 "myleads_statushot"         = 	"見込： 高";
@@ -798,9 +783,6 @@
 
 // The text for the no categories found label.
 "videocampaign_nocategoriesfound"       =   "カテゴリーはみつかりませんでした";
-
-// The title of the filter button.
-"videocampaign_filter"                  =   "フィルター";
 
 
 // ============================================================================

@@ -279,12 +279,6 @@
 // The Help Text used by the optimism library screen.
 "optimismlibrary_help"      = 	"Vælg en optimisme fra biblioteket for at fortsætte med at dele.";
 
-// The title of the Filter Button.
-"optimismlibrary_filter"    = 	"Filter";
-
-// The title of Optimism Filter action sheet.
-"optimismlibrary_filterby"  =   "Filtrér efter";
-
 
 // ============================================================================
 // * Optimism Library
@@ -322,17 +316,8 @@
 // The title of the Descending Segment Control Button.
 "myleads_descending"        =   "Faldende";
 
-// The title of the Filter Button.
-"myleads_filter"            =   "Filter";
-
-// The title of the Filter Action Sheet Menu.
-"myleads_filterby"          = 	"Filtrér efter";
-
 // The title of the Change Status Action Menu.
 "myleads_changestatusto"    =   "Skift status til";
-
-// The warning message shown when changing a lead to the cold status.
-"myleads_coldconfirm"       =   "Dette kundeemne vises ikke, med mindre kundeemner filtreres efter statussen kold. Er du sikker på, at du vil markere dette kundeemne som koldt?";
 
 // The title of the Hot option during Filtering.
 "myleads_statushot"         = 	"Hot";
@@ -798,9 +783,6 @@
 
 // The text for the no categories found label.
 "videocampaign_nocategoriesfound"       =   "Ingen kategorier fundet";
-
-// The title of the filter button.
-"videocampaign_filter"                  =   "Filter";
 
 
 // ============================================================================

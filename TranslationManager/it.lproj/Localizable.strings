@@ -242,8 +242,6 @@
 "myleads_contacts" = "Contatti";
 "myleads_descending" = "Desc";
 "myleads_deviceview" = "Vedere Dispositivo Locale";
-"myleads_filter" = "Filtro";
-"myleads_filterby" = "Filtro da";
 "myleads_freesample" = "Invia Link per Omaggio Gratuito ";
 "myleads_help" = "Guarda e modifica le tue reclute. \nPremi il tasto \"Aggiungi (+)\" per aggiungere reclute dai tuoi conttatti o manualmente al volo! \nSeleziona una recluta per modificare i suoi dettagli. Sposta una recluta a sinistra per vedere più opzioni. \nPremi il tasto \"Organizza\" per organizzare la lista delle tue reclute. Puoi organizzare le tue reclute aumentando o diminuendo valore. \nReclute possono essere anche filtrare utilizzando il tasto \"Filtra\" e utilizzando la sezione cerca.";
 "myleads_nocontactinfo" = "Nessuna informazione disponibile per il contatto.";
@@ -264,8 +262,6 @@
 "newsignup_signup" = "Iscrizione";
 "newsignup_sponsor" = "Sito url dello Sponsor";
 "newsignup_title" = "Nuovo Iscritto";
-"optimismlibrary_filter" = "Filtro";
-"optimismlibrary_filterby" = "Filtrato da";
 "optimismlibrary_help" = "Seleziona un\'Ottimismo dalla libreria per continuare a condivere";
 "optimismlibrary_title" = "Libreria";
 "peopleisponsor_help" = "Guarda e contatta le persone che hai sponsorizzato. Premi uno sponsor per vedere più dettagli.";

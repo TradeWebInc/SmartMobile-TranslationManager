@@ -279,12 +279,6 @@
 // The Help Text used by the optimism library screen.
 "optimismlibrary_help"      = 	"Selecione uma das Motivações da biblioteca para continuar a partilhar.";
 
-// The title of the Filter Button.
-"optimismlibrary_filter"    = 	"Filtrar";
-
-// The title of Optimism Filter action sheet.
-"optimismlibrary_filterby"  =   "Filtrar por";
-
 
 // ============================================================================
 // * Optimism Library
@@ -322,17 +316,8 @@
 // The title of the Descending Segment Control Button.
 "myleads_descending"        =   "Desc";
 
-// The title of the Filter Button.
-"myleads_filter"            =   "Filtrar";
-
-// The title of the Filter Action Sheet Menu.
-"myleads_filterby"          = 	"Filtrar por";
-
 // The title of the Change Status Action Menu.
 "myleads_changestatusto"    =   "Mudar estado para";
-
-// The warning message shown when changing a lead to the cold status.
-"myleads_coldconfirm"       =   "Esta oportunidade potencial só será apresentada se as oportunidades potenciais forem filtradas pelo estado frio. Pretende marcar esta oportunidade potencial como fria?";
 
 // The title of the Hot option during Filtering.
 "myleads_statushot"         = 	"Quente";
@@ -798,9 +783,6 @@
 
 // The text for the no categories found label.
 "videocampaign_nocategoriesfound"       =   "Nenhuma categoria encontrada";
-
-// The title of the filter button.
-"videocampaign_filter"                  =   "Filtrar";
 
 
 // ============================================================================

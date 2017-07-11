@@ -279,12 +279,6 @@
 // The Help Text used by the optimism library screen.
 "optimismlibrary_help"      = 	"공유를 계속하려면 라이브러리에서 옵티미즘을 선택하세요.";
 
-// The title of the Filter Button.
-"optimismlibrary_filter"    = 	"필터";
-
-// The title of Optimism Filter action sheet.
-"optimismlibrary_filterby"  =   "필터 기준";
-
 
 // ============================================================================
 // * Optimism Library
@@ -322,17 +316,8 @@
 // The title of the Descending Segment Control Button.
 "myleads_descending"        =   "내림차순";
 
-// The title of the Filter Button.
-"myleads_filter"            =   "필터";
-
-// The title of the Filter Action Sheet Menu.
-"myleads_filterby"          = 	"필터 기준";
-
 // The title of the Change Status Action Menu.
 "myleads_changestatusto"    =   "상태 정보 변경";
-
-// The warning message shown when changing a lead to the cold status.
-"myleads_coldconfirm"       =   "관심도 상태에 따라 리드를 정렬하지 않으면 이 리드는 표시되지 않습니다. 이 리드를 관심도 하 상태로 표시할까요?";
 
 // The title of the Hot option during Filtering.
 "myleads_statushot"         = 	"관심도 상";
@@ -798,9 +783,6 @@
 
 // The text for the no categories found label.
 "videocampaign_nocategoriesfound"       =   "검색된 카테고리가 없습니다.";
-
-// The title of the filter button.
-"videocampaign_filter"                  =   "필터";
 
 
 // ============================================================================

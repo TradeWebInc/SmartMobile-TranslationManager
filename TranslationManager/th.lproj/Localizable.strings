@@ -279,12 +279,6 @@
 // The Help Text used by the optimism library screen.
 "optimismlibrary_help"      = 	"เลือกแรงบันดาลใจหนึ่งรายการจากไลบรารีเพื่อดำเนินการแชร์ต่อไป";
 
-// The title of the Filter Button.
-"optimismlibrary_filter"    = 	"ตัวกรอง";
-
-// The title of Optimism Filter action sheet.
-"optimismlibrary_filterby"  =   "กรองโดย";
-
 
 // ============================================================================
 // * Optimism Library
@@ -322,17 +316,8 @@
 // The title of the Descending Segment Control Button.
 "myleads_descending"        =   "มากไปน้อย";
 
-// The title of the Filter Button.
-"myleads_filter"            =   "ตัวกรอง";
-
-// The title of the Filter Action Sheet Menu.
-"myleads_filterby"          = 	"กรองโดย";
-
 // The title of the Change Status Action Menu.
 "myleads_changestatusto"    =   "เปลี่ยนสถานะเป็น";
-
-// The warning message shown when changing a lead to the cold status.
-"myleads_coldconfirm"       =   "ผู้มุ่งหวังนี้จะไม่ปรากฏขึ้นมาจนกว่าจะถูกกรองด้วยสถานะแนวโน้มต่ำ แน่ใจหรือว่าคุณต้องการกำกับสถานะว่าผู้มุ่งหวังนี้มีแนวโน้มต่ำ";
 
 // The title of the Hot option during Filtering.
 "myleads_statushot"         = 	"แนวโน้มสูง";
@@ -798,9 +783,6 @@
 
 // The text for the no categories found label.
 "videocampaign_nocategoriesfound"       =   "ไม่พบหมวดหมู่";
-
-// The title of the filter button.
-"videocampaign_filter"                  =   "ตัวกรอง";
 
 
 // ============================================================================
