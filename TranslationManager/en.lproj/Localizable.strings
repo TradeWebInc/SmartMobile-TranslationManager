@@ -44,7 +44,7 @@
 "general_send"              =   "Send";
 "general_share"             =   "Share";
 "general_preview"           =   "Preview";
-"general_filter"            =   "Filter";
+"general_filter"            = 	"Filter";
 "general_filterby"          =   "Filter by";
 "general_exit"              =   "Exit";
 "general_settings"          =   "Settings";
@@ -1018,6 +1018,16 @@
 
 // The confirmation message shown when attempting to remove all videos from a video playlist.
 "videoplaylist_removeallconfirm"        =   "Are you sure you want to remove all of the videos from your playlist?";
+
+// Video Playlist help tutorial tips.
+"videoplaylist_tip1"                    =   "Introducing the new video playlist feature! Choose up to 6 of your favorite videos to share to your leads!";
+"videoplaylist_tip2"                    =   "Tap a video's playlist button to add or remove the video from your playlist.";
+"videoplaylist_tip3"                    =   "Tap the \"My Video Playlist\" tab to view your playlist!";
+"videoplaylist_tip4"                    =   "Tap and drag your playlist videos to reorder your playlist.";
+"videoplaylist_tip5"                    =   "Tap the \"Share\" button to share your playlist to social media.";
+"videoplaylist_tip6"                    =   "Tap the \"Next\" button to share your playlist with your leads and groups.";
+"videoplaylist_tip7"                    =   "Tap the \"Remove All\" button to remove all videos from your playlist.";
+"videoplaylist_tip8"                    =   "Tap the \"All Videos\" tab to return back to the full video list and share individual videos.";
 
 
 // ============================================================================
