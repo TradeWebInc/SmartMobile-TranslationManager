@@ -351,12 +351,9 @@
 "myleads_addnewlead" = "Ajouter un Nouveau Prospect";
 "myleads_ascending" = "Augmenter";
 "myleads_changestatusto" = "Changez votre statut à";
-"myleads_coldconfirm" = "Ce prospect ne sera pas affiché à moins que les prospects soient filtrés par le statut \"moins intéressé\". Êtes-vous sûr de vouloir marquer ce prospect comme \"moins intéressé\" ?";
 "myleads_contacts" = "Contacts";
 "myleads_descending" = "Diminuer";
 "myleads_deviceview" = "Vue depuis votre appareil local";
-"myleads_filter" = "Filtrer";
-"myleads_filterby" = "Filtrer par";
 "myleads_freesample" = "Envoyer le lien pour la commande d\'échantillon gratuit.";
 "myleads_help" = "Voir et modifier vos prospects actuels. Appuyez sur le bouton \"Ajouter (+)\" pour ajouter des prospects soit depuis vos contacts ou soit faire la saisie manuelle directement ! Appuyez sur un prospect pour modifier leurs détails.  Glissez un prospect sur la gauche pour voir apparaître plus d'options. Appuyez sur le bouton \"Trier\" pour trier la liste de vos prospects. Vous pouvez trier les prospects en augmentant ou en diminuant les valeurs. Les prospects peuvent être également triés par l'utilisation du bouton \"Filtre\" et en utilisant la barre de recherche.";
 "myleads_nocontactinfo" = "Aucune information disponible pour ce contact.";
@@ -378,8 +375,6 @@
 "newsignup_signup" = "Créer un compte";
 "newsignup_sponsor" = "Le siteurl du parrain";
 "newsignup_title" = "Nouvelle inscription";
-"optimismlibrary_filter" = "Flitrer";
-"optimismlibrary_filterby" = "Filtrer par";
 "optimismlibrary_help" = "Sélectionner un des Optimismes de votre Catalogue d'Images pour continuer à partager.";
 "optimismlibrary_title" = "Catalogue d'images";
 "peopleisponsor_help" = "Afficher et contacter des personnes que vous parrainez personnellement. Tapez sur un sponsor pour afficher plus de détails.";
@@ -456,7 +451,6 @@
 "tos_title" = "Conditions d'utilisation";
 "trainingvideos_help" = "Voir les Vidéos de Formation. Appuyez sur la ligne de la vidéo pour la visionner.";
 "trainingvideos_title" = "Vidéos de Formation";
-"videocampaign_filter" = "Filtre";
 "videocampaign_help" = "Sélectionner, voir and envoyer des Vidéos de Campagnes. Appuyez sur le bouton \"Information\" (i) sur la campagne pour faire un aperçu. Sélectionner une campagne et appuyez sur  le bouton \"Suivant\" pour continuer. Appuyez sur le bouton \"Options\"  en dessous de la barre après la sélection d'une campagne à partager.";
 "videocampaign_nocategoriesfound" = "Aucune catégories trouvées";
 "videocampaign_nocategoryfound" = "Aucune catégorie trouvée";

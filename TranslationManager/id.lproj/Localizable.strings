@@ -279,12 +279,6 @@
 // The Help Text used by the optimism library screen.
 "optimismlibrary_help"      = 	"Pilih satu Optimisme dari pustaka untuk melanjutkan berbagi.";
 
-// The title of the Filter Button.
-"optimismlibrary_filter"    = 	"Filter";
-
-// The title of Optimism Filter action sheet.
-"optimismlibrary_filterby"  =   "Filter berdasarkan";
-
 
 // ============================================================================
 // * Optimism Library
@@ -322,17 +316,8 @@
 // The title of the Descending Segment Control Button.
 "myleads_descending"        =   "Menurunkan";
 
-// The title of the Filter Button.
-"myleads_filter"            =   "Filter";
-
-// The title of the Filter Action Sheet Menu.
-"myleads_filterby"          = 	"Filter berdasarkan";
-
 // The title of the Change Status Action Menu.
 "myleads_changestatusto"    =   "Ubah status menjadi";
-
-// The warning message shown when changing a lead to the cold status.
-"myleads_coldconfirm"       =   "Prospek ini tidak akan ditampilkan kecuali prospek tersebut difilter oleh status dingin. Apakah Anda ingin menandai prospek ini sebagai dingin?";
 
 // The title of the Hot option during Filtering.
 "myleads_statushot"         = 	"Hot";
@@ -798,9 +783,6 @@
 
 // The text for the no categories found label.
 "videocampaign_nocategoriesfound"       =   "Kategori tidak ditemukan";
-
-// The title of the filter button.
-"videocampaign_filter"                  =   "Filter";
 
 
 // ============================================================================

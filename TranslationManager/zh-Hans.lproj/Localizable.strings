@@ -279,12 +279,6 @@
 // The Help Text used by the optimism library screen.
 "optimismlibrary_help"      = 	"从库中选择一个善论以分享。";
 
-// The title of the Filter Button.
-"optimismlibrary_filter"    = 	"筛选器";
-
-// The title of Optimism Filter action sheet.
-"optimismlibrary_filterby"  =   "筛选条件";
-
 
 // ============================================================================
 // * Optimism Library
@@ -322,17 +316,8 @@
 // The title of the Descending Segment Control Button.
 "myleads_descending"        =   "降序";
 
-// The title of the Filter Button.
-"myleads_filter"            =   "筛选器";
-
-// The title of the Filter Action Sheet Menu.
-"myleads_filterby"          = 	"筛选条件";
-
 // The title of the Change Status Action Menu.
 "myleads_changestatusto"    =   "将状态更改为";
-
-// The warning message shown when changing a lead to the cold status.
-"myleads_coldconfirm"       =   "除非此商机联系人的状态为兴趣不大，否则将不会显示此商机联系人。您确定要将此商机联系人标记为兴趣不大吗？";
 
 // The title of the Hot option during Filtering.
 "myleads_statushot"         = 	"非常感兴趣";
@@ -798,9 +783,6 @@
 
 // The text for the no categories found label.
 "videocampaign_nocategoriesfound"       =   "未找到类别";
-
-// The title of the filter button.
-"videocampaign_filter"                  =   "筛选器";
 
 
 // ============================================================================

@@ -341,12 +341,9 @@
 "myleads_addnewlead" = "Añadir nuevo cliente potencial.";
 "myleads_ascending" = "Ascender";
 "myleads_changestatusto" = "Cambiar el estado a";
-"myleads_coldconfirm" = "Este cliente no aparecera a menos que sean filtrado como llamadas frías o llamadas no solicitadas. ¿Está seguro de que quiere marcar este cliente como frío?";
 "myleads_contacts" = "Contactos";
 "myleads_descending" = "Descender";
 "myleads_deviceview" = "Vista de dispositivo local";
-"myleads_filter" = "Filtrar";
-"myleads_filterby" = "Filtrar por";
 "myleads_freesample" = "Enviar enlace de muestra gratuita.";
 "myleads_help" = "Vea y edite sus clientes potenciales actuales.\nPulse el botón “Añadir (+)” para añadir clientes potenciales desde sus contactos o hágalo sobre la marcha de manera manual.\nPulse sobre un cliente potencial para editar sus detalles. Deslice un cliente potencial hacia la izquierda para ver opciones adicionales.\nPulse el botón “Organizar” para organizar su lista de clientes potenciales. Puede orgaizar sus clientes potenciales por valores descendentes o ascendentes.\nLos clientes potenciales también se pueden filtrar utilizando el botón “Filtrar” y utilizando la barra de búsqueda.";
 "myleads_nocontactinfo" = "No hay información del contacto disponible.";
@@ -368,8 +365,6 @@
 "newsignup_signup" = "Inscribirse";
 "newsignup_sponsor" = "Url del sitio del patrocinador";
 "newsignup_title" = "Nueva inscripción";
-"optimismlibrary_filter" = "Filtrar";
-"optimismlibrary_filterby" = "Filtrar Por";
 "optimismlibrary_help" = "Seleccione uno de los Optimismos de la biblioteca para seguir compartiendo.";
 "optimismlibrary_title" = "Biblioteca";
 "peopleisponsor_help" = "Ver a las personas que ha patrocinado personalmente y contactar con ellas. Pulsar sobre un patrocinador para ver más detalles.";
@@ -446,7 +441,6 @@
 "tos_title" = "Términos de servicio";
 "trainingvideos_help" = "Vea los videos de formación.\nPulse en la fila del video para verlo.";
 "trainingvideos_title" = "Videos de formación";
-"videocampaign_filter" = "Filtros";
 "videocampaign_help" = "Seleccione, vea y envíe Campañas de video.\nPulse el botón “Info (i)” en una campaña para su vista previa.\nSeleccione una campaña y pulse el botón \"Siguiente\" para continuar.\nPulse el botón \"Opciones\" en la barra inferior después de seleccionar una campaña para compartirla.";
 "videocampaign_nocategoriesfound" = "No se encontró ninguna categoría";
 "videocampaign_novideosfound" = "No se encontraron vídeos";
