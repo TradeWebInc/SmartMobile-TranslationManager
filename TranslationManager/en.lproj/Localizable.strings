@@ -1004,6 +1004,9 @@
 // The alert message shown when attempting to add a video to a full playlist.
 "videoplaylist_fullplaylist"            =   "Your playlist is full. Please remove a video before adding another.";
 
+// The alert that displays when a user has an untranslated video in their playlist.
+"videoplaylist_languageerror"           =   "One or more of the videos in your playlist are not available in the currently selected language.";
+
 // The title of the All Videos button.
 "videoplaylist_allvideos"               =   "All Videos";
 
