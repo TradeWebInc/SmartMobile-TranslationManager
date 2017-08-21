@@ -25,6 +25,9 @@
 "general_cancel"            = 	"Cancel";
 "general_loading"           = 	"Loading";
 "general_none"              = 	"None";
+"general_open"              =   "Open";
+"general_closed"            =   "Closed";
+"general_previous"          =   "Previous";
 "general_next"              = 	"Next";
 "general_done"              = 	"Done";
 "general_save"              = 	"Save";
@@ -48,7 +51,13 @@
 "general_filterby"          =   "Filter by";
 "general_exit"              =   "Exit";
 "general_settings"          =   "Settings";
+"general_details"           =   "Details";
+"general_categories"        =   "Categories";
+"general_question"          =   "Question";
+"general_responses"         =   "Responses";
+"general_location"          =   "Location";
 "general_info"              =   "Info";
+"general_moreinfo"          =   "More Info";
 "general_showme"            =   "Show Me";
 "general_taphere"           =   "Tap Here";
 "general_needhelp"          =   "Need help?";
@@ -191,6 +200,121 @@
 
 // The Help Text used by the login screen.
 "tos_help"              =   "Please read over the Terms of Service agreement for use with this app. Either accept or decline the agreement. Declining the agreement will prevent you from using any further features of the app.";
+
+
+// ============================================================================
+// * Events Module
+// ============================================================================
+
+"event_agenda"                      =   "Agenda";
+"event_session"                     =   "Session";
+"event_sessions"                    =   "Sessions";
+"event_myschedule"                  =   "My Schedule";
+"event_speakers"                    =   "Speakers";
+"event_bio"                         =   "Biography";
+"event_venuemap"                    =   "Venue Map";
+"event_materials"                   =   "Materials";
+"event_surveys"                     =   "Surveys";
+"event_polls"                       =   "Polls";
+"event_castvote"                    =   "Cast Vote";
+"event_surveysandpolls"             =   "Surveys & Polls";
+"event_announcements"               =   "Announcements";
+"event_sponsors"                    =   "Sponsors";
+"eventdashboard_happeningnow"       =   "Happening Now";
+"eventdashboard_nosessions"         =   "No sessions occurring at this time.";
+
+
+
+// The title in the navigation bar of the Events Agenda screen.
+"eventagenda_title"                 =   "Agenda";
+
+// The Help Text used by the Events Agenda screen.
+"eventagenda_help"                  =   "View an event's agenda. Tap on an agenda item to get more details. \n\nTap on the \"Follow\" button to get alerts before an agenda item begins.";
+
+
+
+// The title in the navigation bar of the Events Agenda Item screen.
+"eventagendaitem_title"             =   "Agenda Item";
+
+// The Help Text used by the Events Agenda Item screen.
+"eventagendaitem_help"              =   "View the details of an event agenda item. Tap on the \"Follow\" button to get alerts before an agenda item begins. \n\nTap the location \"Show Me\" button to view where the agenda item takes place. \n\nTap on a download button to view materials associated with the agenda item. \n\nTap the \"Speakers\" tab to view all of the speakers involved with the agenda item.";
+
+
+
+// The title in the navigation bar of the Events Speaker screen.
+"eventspeakers_title"               =   "Speakers";
+
+// The Help Text used by the Events Speaker screen.
+"eventspeakers_help"                =   "View all of the people speaking at the event. Tap a speaker to view their bio. \n\nTap the \"Favorite\" button to get alerts when before a speaker is presenting.";
+
+
+
+// The title in the navigation bar of the Events Speaker Detail screen.
+"eventspeakerdetail_title"          =   "Speaker Details";
+
+// The Help Text used by the Events Speaker Detail screen.
+"eventspeakerdetail_help"           =   "View the details of an event speaker. Tap the \"Favorite\" button to get alerts when before a speaker is presenting. \n\nTap the \"Sessions\" tab to view all of the agenda items in which the speaker is presenting.";
+
+
+
+// The title in the navigation bar of the Events Materials screen.
+"eventmaterials_title"              =   "Materials";
+
+// The Help Text used by the Events Materials screen.
+"eventmaterials_help"               =   "View all of the materials and resources for the event. Tap the download button to download and view a material.";
+
+
+
+// The title in the navigation bar of the Events Survey and Polls screen.
+"eventsurveylist_title"             =   "Surveys & Polls";
+
+// The Help Text used by the Events Survey and Polls screen.
+"eventsurveylist_help"              =   "View all of the surveys and polls currently taking place at the event. Give us your input to help us improve your event experience!";
+
+// The message shown when a user selects an already completed survey/poll.
+"eventsurveylist_alreadycompleted"  =   "You have already completed this survey/poll.";
+
+
+
+// The title in the navigation bar of the Events Survey Detail screen.
+"eventsurveydetail_title"           =   "Survey Details";
+
+// The Help Text used by the Events Survey Detail screen.
+"eventsurveydetail_help"            =   "Select an answer for each question. Select the \"Next\" button to either complete the survey or proceed to the next question.";
+
+// The message shown when a survey answer is required.
+"eventsurveydetail_needanswer"      =   "You must answer the current question before proceeding.";
+
+// The message shown to confirm a vote in a poll.
+"eventsurveydetail_voteconfirm"     =   "Are you sure you want to vote for this answer?";
+
+// The message shown when a survey or poll ahs been completed.
+"eventsurveydetail_surveycomplete"  =   "Thank you for providing your input!";
+
+
+
+// The title in the navigation bar of the Events Announcements screen.
+"eventannouncements_title"          =   "Announcements";
+
+// The Help Text used by the Events Announcements screen.
+"eventannouncements_help"           =   "View all of the event announcements. Important information about any time and location changes can be found here.";
+
+
+
+// The title in the navigation bar of the Events Sponsors screen.
+"eventsponsorlist_title"            =   "Sponsors";
+
+// The Help Text used by the Events Sponsors screen.
+"eventsponsorlist_help"             =   "View all of our event sponsors. Tap on a sponsor to get more information.";
+
+
+
+// The title in the navigation bar of the Events Sponsor Detail screen.
+"eventsponsordetail_title"          =   "Sponsor Details";
+
+// The Help Text used by the Events Sponsor Detail screen.
+"eventsponsordetail_help"           =   "View the details of the sponsor. Tap the \"More Info\" button to get additional details on the sponsor.";
+
 
 
 // ============================================================================
