@@ -1920,6 +1920,12 @@
 // The Help Text used by the My Events List screen.
 "myeventslist_help"                         =   "View a list of events for which you are registered. \n\nTap an event to view your access code to that event.";
 
+// The title used in the My Events table section.
+"myeventslist_myevents"                     =   "My Events";
+
+// The title used in the Upcoming Events table section.
+"myeventslist_upcomingevents"               =   "Upcoming Events";
+
 // The notice for not being registered for any events.
 "myeventslist_notregistered"                =   "You are not currently registered for any events.";
 
