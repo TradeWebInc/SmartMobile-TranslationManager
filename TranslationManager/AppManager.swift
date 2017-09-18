@@ -74,7 +74,7 @@ class AppManager : NSObject {
         ],
         "PMBP":[
             "DEV":"https://pmb.smartmobiledirectdev.com/api/",
-            "PROD":"https://pmb.smartmobiledirectdev.com/api/"
+            "PROD":"https://pmb.smartmobiledirect.com/api/"
         ],
     ];
     
