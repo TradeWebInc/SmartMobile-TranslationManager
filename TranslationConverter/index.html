@@ -43,11 +43,11 @@
         
         .mainContainer {
             margin:0 auto; 
-            padding:1em; 
             width:100%; 
-            max-width:1000px; 
+            max-width:860px; 
             border:1px solid #DDDDDD; 
-            border-radius:4px; 
+            border-radius:8px; 
+            overflow: hidden;
             text-align:center;
             box-sizing: border-box;
         }
@@ -63,8 +63,9 @@
         }
         
         .textBox {
-            margin:0.5em 0em;
+            margin-top:0.5em;
             width:49%; 
+            flex-grow:1;
             height:400px;
             overflow: auto;
             border:1px solid #888888; 
@@ -79,7 +80,7 @@
 <body>
     
     <div class="mainContainer">
-        <h4>Mobile App Translation CSV to Strings Converter</h4>
+        <div style="margin-bottom:1em;padding:0.5em 0.5em; background:#FF5A00; color:#FFFFFF;">Mobile App Translation CSV to Strings Converter</div>
         <input type="file" multiple/>
         <div id="stringsValue" class="textBoxContainer"></div>
     </div>
