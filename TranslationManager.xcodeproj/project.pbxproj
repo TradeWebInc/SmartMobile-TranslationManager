@@ -28,6 +28,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0B12961E1F7068BF00CFC13F /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
 		0B5E2DB91E64B11B006629C2 /* TranslationManager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TranslationManager.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0B5E2DBC1E64B11B006629C2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0B5E2DC31E64B11B006629C2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -229,6 +230,7 @@
 				th,
 				"zh-Hans",
 				"zh-Hant",
+				de,
 			);
 			mainGroup = 0B5E2DB01E64B11B006629C2;
 			productRefGroup = 0B5E2DBA1E64B11B006629C2 /* Products */;
@@ -296,6 +298,7 @@
 				0BC9E44D1E720A040013FB9A /* th */,
 				0BC9E44E1E720A0B0013FB9A /* zh-Hans */,
 				0BC9E44F1E720A100013FB9A /* zh-Hant */,
+				0B12961E1F7068BF00CFC13F /* de */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
