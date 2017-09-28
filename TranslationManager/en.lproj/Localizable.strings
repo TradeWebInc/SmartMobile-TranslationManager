@@ -2,52 +2,52 @@
 // * Android
 // ============================================================================
 
-"android_exitconfirm"				=	"Are you sure you want to exit?";
-"android_appnotfound"				=	"Unable to find app on the market.";
-"android_nogoogleplus"				=	"You must have Google+ installed.";
-"android_notificatonssetting"		=	"Receive Notifications";
+"android_exitconfirm"                =    "Are you sure you want to exit?";
+"android_appnotfound"                =    "Unable to find app on the market.";
+"android_nogoogleplus"                =    "You must have Google+ installed.";
+"android_notificatonssetting"        =    "Receive Notifications";
 
 
 // ============================================================================
 // * General
 // ============================================================================
 
-"general_yes"               = 	"Yes";
+"general_yes"               =     "Yes";
 "general_no"                =   "No";
-"general_on"				= 	"ON";
-"general_off"				=	"OFF";
+"general_on"                =     "ON";
+"general_off"                =    "OFF";
 "general_accept"            =   "Accept";
 "general_decline"           =   "Decline";
 "general_success"           =   "Success";
-"general_error"             = 	"Error";
-"general_notice"            = 	"Notice";
+"general_error"             =     "Error";
+"general_notice"            =     "Notice";
 "general_ok"                =   "OK";
-"general_cancel"            = 	"Cancel";
-"general_loading"           = 	"Loading";
-"general_none"              = 	"None";
+"general_cancel"            =     "Cancel";
+"general_loading"           =     "Loading";
+"general_none"              =     "None";
 "general_open"              =   "Open";
 "general_closed"            =   "Closed";
 "general_previous"          =   "Previous";
-"general_next"              = 	"Next";
-"general_done"              = 	"Done";
-"general_save"              = 	"Save";
-"general_delete"            = 	"Delete";
+"general_next"              =     "Next";
+"general_done"              =     "Done";
+"general_save"              =     "Save";
+"general_delete"            =     "Delete";
 "general_remove"            =   "Remove";
 "general_removeall"         =   "Remove All";
 "general_search"            =   "Search";
 "general_addnew"            =   "Add New +";
-"general_add"				=	"Add";
+"general_add"                =    "Add";
 "general_create"            =   "Create";
 "general_edit"              =   "Edit";
 "general_seemore"           =   "See More";
 "general_more"              =   "More";
-"general_reset"             = 	"Reset";
-"general_post"              = 	"Post";
+"general_reset"             =     "Reset";
+"general_post"              =     "Post";
 "general_submit"            =   "Submit";
 "general_send"              =   "Send";
 "general_share"             =   "Share";
 "general_preview"           =   "Preview";
-"general_filter"            = 	"Filter";
+"general_filter"            =     "Filter";
 "general_filterby"          =   "Filter by";
 "general_exit"              =   "Exit";
 "general_settings"          =   "Settings";
@@ -63,9 +63,9 @@
 "general_needhelp"          =   "Need help?";
 "general_noadditionalinfo"  =   "No additional information provided.";
 "general_unknownerror"      =   "An unknown error has occurred. Please try again.";
-"general_nointernet"		=	"Could not connect to the internet. Please check your internet settings and try again.";
+"general_nointernet"        =    "Could not connect to the internet. Please check your internet settings and try again.";
 "general_cantmakecalls"     =   "This device cannot make calls.";
-"general_cantsendsms"     	=   "This device cannot send SMS messages.";
+"general_cantsendsms"         =   "This device cannot send SMS messages.";
 "general_cantsendemail"     =   "This device cannot send email. Please check your email configuration and try again.";
 "general_contactsaccess"    =   "Access to contacts is restricted. Please enable access to contacts in your device settings.";
 "general_nocontent"         =   "Content is not available in your selected language.";
@@ -77,9 +77,9 @@
 "general_webpageerror"      =   "Could not load webpage.";
 
 "general_unknownname"       =   "Unknown Name";
-"general_username"          = 	"Username";
-"general_firstname"         = 	"First Name";
-"general_lastname"          = 	"Last Name";
+"general_username"          =     "Username";
+"general_firstname"         =     "First Name";
+"general_lastname"          =     "Last Name";
 "general_name"              =   "Name";
 "general_language"          =   "Language";
 "general_address"           =   "Address";
@@ -89,42 +89,42 @@
 "general_province"          =   "Province";
 "general_postalcode"        =   "Postal Code";
 "general_country"           =   "Country";
-"general_phonenumber"       = 	"Phone Number";
-"general_phone"             = 	"Phone";
+"general_phonenumber"       =     "Phone Number";
+"general_phone"             =     "Phone";
 "general_secondphone"       =   "Second Phone";
-"general_cell"              = 	"Cell";
-"general_work"              = 	"Work";
-"general_email"             = 	"Email";
-"general_status"            = 	"Status";
-"general_displayname"       = 	"Display Name";
-"general_title"             = 	"Title";
+"general_cell"              =     "Cell";
+"general_work"              =     "Work";
+"general_email"             =     "Email";
+"general_status"            =     "Status";
+"general_displayname"       =     "Display Name";
+"general_title"             =     "Title";
 "general_contact"           =   "Contact";
 "general_lead"              =   "Lead";
-"general_facebookurl"       = 	"Facebook URL";
-"general_twitterhandle"     = 	"Twitter Handle";
-"general_skypeusername"     = 	"Skype Username";
+"general_facebookurl"       =     "Facebook URL";
+"general_twitterhandle"     =     "Twitter Handle";
+"general_skypeusername"     =     "Skype Username";
 "general_devicemodel"       =   "Device Model";
 "general_devicelanguage"    =   "Device Language";
 "general_deviceos"          =   "Device OS";
 "general_appversion"        =   "App Version";
 
-"general_sunday"            = 	"Sunday";
+"general_sunday"            =     "Sunday";
 "general_monday"            =   "Monday";
-"general_tuesday"           = 	"Tuesday";
-"general_wednesday"         = 	"Wednesday";
-"general_thursday"          = 	"Thursday";
-"general_friday"            = 	"Friday";
-"general_saturday"          = 	"Saturday";
+"general_tuesday"           =     "Tuesday";
+"general_wednesday"         =     "Wednesday";
+"general_thursday"          =     "Thursday";
+"general_friday"            =     "Friday";
+"general_saturday"          =     "Saturday";
 
 "general_days"              =   "Day(s)";
 "general_hours"             =   "Hour(s)";
 "general_upcoming"          =   "Upcoming";
 "general_past"              =   "Past";
 
-"general_facebook"          = 	"Facebook";
+"general_facebook"          =     "Facebook";
 "general_facebookrequired"  =   "Please install the Facebook application to use this feature.";
-"general_twitter"           = 	"Twitter";
-"general_googleplus"        = 	"Google+";
+"general_twitter"           =     "Twitter";
+"general_googleplus"        =     "Google+";
 
 
 // ============================================================================
@@ -140,13 +140,13 @@
 
 
 // The title of the prompt for app rating.
-"rateappprompt_title"   = 	"Rate App?";
+"rateappprompt_title"   =     "Rate App?";
 
 // The message in the prompt for app rating.
-"rateappprompt_message" = 	"Like the app? Would you like to rate the current version?";
+"rateappprompt_message" =     "Like the app? Would you like to rate the current version?";
 
 // The cancel text of the prompt for app rating.
-"rateappprompt_cancel"  = 	"Not Now";
+"rateappprompt_cancel"  =     "Not Now";
 
 
 // ============================================================================
@@ -154,28 +154,28 @@
 // ============================================================================
 
 // The title in the navigation bar of the login screen.
-"login_title"                   =	"Welcome";
+"login_title"                   =    "Welcome";
 
 // The Help Text used by the login screen.
 "login_help"                    =   "Enter your username and password to login. \n\nTap the \"Keep me connected\" switch to have the app remember your username and password. When opened the app will attempt to log you in automatically!";
 
 // The placeholder text for the password text field.
-"login_password"                = 	"Password";
+"login_password"                =     "Password";
 
 // The title of the Login Button, and any alert message box.
-"login_login"                   = 	"Login";
+"login_login"                   =     "Login";
 
 // The label for the Keep Me Connected Switch.
 "login_keepmeconnected"         =   "Keep me connected";
 
 // The Version label on indicating the app version.
-"login_version"                 = 	"Version";
+"login_version"                 =     "Version";
 
 // The text used in the loading indicator for the login screen.
-"login_loading"                 = 	"Logging In";
+"login_loading"                 =     "Logging In";
 
 // The login error/failure message.
-"login_loginerror"              = 	"An error occurred during the login process. Please check your username and password and try again.";
+"login_loginerror"              =     "An error occurred during the login process. Please check your username and password and try again.";
 
 
 // The title text of the login method prompt.
@@ -328,16 +328,16 @@
 "menu_optimism"         =   "Optimism";
 
 // The title of the My Leads menu option.
-"menu_myleads"          = 	"My Leads";
+"menu_myleads"          =     "My Leads";
 
 // The title of the Manage Groups menu option.
-"menu_managegroups"     = 	"Manage Groups";
+"menu_managegroups"     =     "Manage Groups";
 
 // The title of the Training Videos menu option.
 "menu_trainingvideos"   =   "Training Videos";
 
 // The title of the Video Campaign menu option.
-"menu_videocampaign"    = 	"Video Campaign";
+"menu_videocampaign"    =     "Video Campaign";
 
 // The title of the Group SMS menu option.
 "menu_groupsms"         =   "Group SMS";
@@ -346,7 +346,7 @@
 "menu_customcampaign"   =   "Custom Campaign";
 
 // The title of the Campaign Stats menu option.
-"menu_campaignstats"    = 	"Campaign Stats";
+"menu_campaignstats"    =     "Campaign Stats";
 
 // The title of the My Badges menu option.
 "menu_mybadges"         =   "My Badges";
@@ -370,7 +370,7 @@
 "menu_sod"              =   "Success On Demand";
 
 // The title of the Help Center menu option.
-"menu_helpcenter"       = 	"Help Center";
+"menu_helpcenter"       =     "Help Center";
 
 // The title of the Logout menu option.
 "menu_logout"           =   "Logout";
@@ -380,16 +380,16 @@
 "menu_homeheader"           =   "HOME";
 
 // The title of the menu section header for Lead Management.
-"menu_leadmanagementheader" = 	"MY LEADS";
+"menu_leadmanagementheader" =     "MY LEADS";
 
 // The title of the menu section header for Promotions.
-"menu_promotions"           = 	"PROMOTIONS";
+"menu_promotions"           =     "PROMOTIONS";
 
 // The title of the menu section header for Other.
-"menu_otherheader"          = 	"OTHER";
+"menu_otherheader"          =     "OTHER";
 
 // The title of the menu section header for More.
-"menu_moreheader"           = 	"MORE";
+"menu_moreheader"           =     "MORE";
 
 
 // ============================================================================
@@ -397,19 +397,19 @@
 // ============================================================================
 
 // The title in the navigation bar of the daily optimism screen.
-"dailyoptimism_title"       = 	"Daily Optimism";
+"dailyoptimism_title"       =     "Daily Optimism";
 
 // The Help Text used by the daily optimism screen.
-"dailyoptimism_help"        = 	"View and share the daily Optimism!\n\nTap \"Library\" to pick any of the past Optimisms to share.";
+"dailyoptimism_help"        =     "View and share the daily Optimism!\n\nTap \"Library\" to pick any of the past Optimisms to share.";
 
 // The title of the Share Button.
-"dailyoptimism_share"       = 	"Share Today's Optimism";
+"dailyoptimism_share"       =     "Share Today's Optimism";
 
 // The title of the Optimism Library Button.
-"dailyoptimism_library"     = 	"Library";
+"dailyoptimism_library"     =     "Library";
 
 // The title of the Auto-Drip Settings Button.
-"dailyoptimism_autodrip"    = 	"Auto-Drip Settings";
+"dailyoptimism_autodrip"    =     "Auto-Drip Settings";
 
 
 // ============================================================================
@@ -417,10 +417,10 @@
 // ============================================================================
 
 // The title in the navigation bar of the optimism library screen.
-"optimismlibrary_title"     = 	"Library";
+"optimismlibrary_title"     =     "Library";
 
 // The Help Text used by the optimism library screen.
-"optimismlibrary_help"      = 	"Select one of the Optimisms from the library to continue sharing.";
+"optimismlibrary_help"      =     "Select one of the Optimisms from the library to continue sharing.";
 
 
 // ============================================================================
@@ -428,13 +428,13 @@
 // ============================================================================
 
 // The title in the navigation bar of the share optimism screen.
-"shareoptimism_title"   = 	"Optimism";
+"shareoptimism_title"   =     "Optimism";
 
 // The Help Text used by the share optimism screen.
-"shareoptimism_help"    = 	"View and share the Optimism that you selected from the library!\n\nTap the back button to return to the library.";
+"shareoptimism_help"    =     "View and share the Optimism that you selected from the library!\n\nTap the back button to return to the library.";
 
 // The title of the Share This Optimism Button.
-"shareoptimism_share"   = 	"Share This Optimism";
+"shareoptimism_share"   =     "Share This Optimism";
 
 
 // ============================================================================
@@ -472,28 +472,28 @@
 "myleads_changestatusto"    =   "Change status to";
 
 // The title of the Hot option during Filtering.
-"myleads_statushot"         = 	"Hot";
+"myleads_statushot"         =     "Hot";
 
 // The title of the Warm option during Filtering.
-"myleads_statuswarm"        = 	"Warm";
+"myleads_statuswarm"        =     "Warm";
 
 // The title of the Cold option during Filtering.
-"myleads_statuscold"        = 	"Cold";
+"myleads_statuscold"        =     "Cold";
 
 // The title of the New option during Filtering.
-"myleads_statusnew"         = 	"New";
+"myleads_statusnew"         =     "New";
 
 // The title of the Add Lead Action Sheet Menu.
-"myleads_addlead"           = 	"Add Lead";
+"myleads_addlead"           =     "Add Lead";
 
 // The title for the Add from Contacts option during Add Lead.
-"myleads_addcontact"        = 	"Add from Contacts";
+"myleads_addcontact"        =     "Add from Contacts";
 
 // The title for the Add New Lead option during Add Lead.
-"myleads_addnewlead"        = 	"Add New Lead";
+"myleads_addnewlead"        =     "Add New Lead";
 
 // The title of the alert message boxes for any Add Contact action.
-"myleads_contacts"          = 	"Contacts";
+"myleads_contacts"          =     "Contacts";
 
 // The message displayed when a contact is added successfully.
 "myleads_addcontactsuccess" =   "Contact added successfully!";
@@ -502,22 +502,22 @@
 "myleads_addcontacterror"   =   "An error occurred while adding a contact.";
 
 // Displayed in a My Leads table cell when no contact info is available. (phone and/or email).
-"myleads_nocontactinfo"     = 	"No contact info available.";
+"myleads_nocontactinfo"     =     "No contact info available.";
 
 // The title of the Send Opt In/Out Link option during Leads More Options.
 "myleads_sendoptinout"      =   "Send Opt In/Out Link";
 
 // The title of the Send Signup Link option during Leads More Options.
-"myleads_signuplink"        = 	"Send Signup Link";
+"myleads_signuplink"        =     "Send Signup Link";
 
 // The title of the Send Free Sample Link option during Leads More Options.
-"myleads_freesample"        = 	"Send Free Sample Link";
+"myleads_freesample"        =     "Send Free Sample Link";
 
 // The title of the Send My Video Player option during Leads More Options.
-"myleads_videoplayer"       = 	"Send My Video Player";
+"myleads_videoplayer"       =     "Send My Video Player";
 
 // The title of the Local Device View option during Leads More Options.
-"myleads_deviceview"        = 	"Local Device View";
+"myleads_deviceview"        =     "Local Device View";
 
 // Error message when a lead has no phone number.
 "myleads_noleadphone"       =   "No phone number set for the selected lead.";
@@ -530,13 +530,13 @@
 
 
 // Message for sending SMS displayed in the Local Device View Screen under My Leads
-"localdevice_sendmessage"			=	"Send Message";
+"localdevice_sendmessage"            =    "Send Message";
 
 // Message for create new device contact displayed in the Local Device View Screen under My Leads
-"localdevice_createnewcontact"		=	"Create New Contact";
+"localdevice_createnewcontact"        =    "Create New Contact";
 
 // Message for adding to existing contact displayed in the Local Device View Screen under My Leads
-"localdevice_addexistingcontact"	=	"Add to Existing Contact";
+"localdevice_addexistingcontact"    =    "Add to Existing Contact";
 
 
 // ============================================================================
@@ -562,7 +562,7 @@
 "addlead_namevalidation"    =   "You must enter a first name.";
 
 // The validation message for requiring at least one contact method.
-"addlead_contactvalidation" = 	"You must enter at least one contact method (phone or email).";
+"addlead_contactvalidation" =     "You must enter at least one contact method (phone or email).";
 
 
 // ============================================================================
@@ -602,10 +602,10 @@
 // ============================================================================
 
 // The title in the navigation bar of the lead details screen.
-"leaddetails_title"                             = 	"Lead Details";
+"leaddetails_title"                             =     "Lead Details";
 
 // The Help Text used by the lead details screen.
-"leaddetails_help"                              = 	"View and edit a single lead. Keep track of logs, stats, and notes. Tap the \"Actions\" button to schedule email campaigns and reminders. Tap the \"Delete Lead\" button to delete the selected lead.";
+"leaddetails_help"                              =     "View and edit a single lead. Keep track of logs, stats, and notes. Tap the \"Actions\" button to schedule email campaigns and reminders. Tap the \"Delete Lead\" button to delete the selected lead.";
 
 // The title of the change image alert.
 "leaddetails_changeimagetitle"                  =   "Change Image";
@@ -657,6 +657,9 @@
 
 // The message displayed when a lead is opted out to receive SMS messages.
 "leaddetails_smsoptedout"                       =   "Not opted in to receive SMS messages.";
+
+// The message included in the Opt In request SMS message.
+"leaddetails_optinrequest"                      =   "Please click here to opt in so I may continue to share valuable information with you!";
 
 // The title of the Delete Lead button.
 "leaddetails_deletelead"                        =   "Delete Lead";
@@ -976,22 +979,22 @@
 // ============================================================================
 
 // The title in the navigation bar of the manage groups screen.
-"managegroups_title"            = 	"Groups";
+"managegroups_title"            =     "Groups";
 
 // The Help Text used by the manage groups screen.
-"managegroups_help"             = 	"View and edit Groups of leads to make sending out campaigns quick and easy!\n\nTap the \"Edit (Pencil)\" button to delete a group.\n\nTap the \"Add New +\" button to create a new group.";
+"managegroups_help"             =     "View and edit Groups of leads to make sending out campaigns quick and easy!\n\nTap the \"Edit (Pencil)\" button to delete a group.\n\nTap the \"Add New +\" button to create a new group.";
 
 // Label to indicate the number of contacts in a group.
-"managegroups_contacts"         = 	"Contacts";
+"managegroups_contacts"         =     "Contacts";
 
 // The title used in the new group alert.
-"managegroups_newgroup"         = 	"New Group";
+"managegroups_newgroup"         =     "New Group";
 
 // The message used in the new group alert.
-"managegroups_newgroupname"     = 	"New group name:";
+"managegroups_newgroupname"     =     "New group name:";
 
 // The placeholder text in the group name text field.
-"managegroups_groupname"        = 	"Group Name";
+"managegroups_groupname"        =     "Group Name";
 
 // The validation message for requiring a group name.
 "managegroups_namevalidation"   =   "A group must have a name.";
@@ -1002,10 +1005,10 @@
 // ============================================================================
 
 // The title in the navigation bar of the group details screen. (Overwritten by group name).
-"groupdetails_title"    = 	"Group Details";
+"groupdetails_title"    =     "Group Details";
 
 // The Help Text used by the lead details screen.
-"groupdetails_help"     = 	"View the leads in the current group.\n\nTap the \"Edit (Pencil)\" button to delete a lead.\n\nTap the \"Add New +\" button to add a lead to the current group.";
+"groupdetails_help"     =     "View the leads in the current group.\n\nTap the \"Edit (Pencil)\" button to delete a lead.\n\nTap the \"Add New +\" button to add a lead to the current group.";
 
 
 // ============================================================================
@@ -1028,20 +1031,20 @@
 "selectgroups_newgroup"             =   "New Group";
 
 // The title of the Select from Phonebook option in the Action Sheet menu.
-"selectgroups_selectcontacts"       = 	"Select from Phonebook";
+"selectgroups_selectcontacts"       =     "Select from Phonebook";
 
 // The validation message for requiring at least one contact.
-"selectgroups_contactvalidation"    = 	"You must select a group(s) with one or more phone numbers to send a message.";
+"selectgroups_contactvalidation"    =     "You must select a group(s) with one or more phone numbers to send a message.";
 
 
 // Select Contacts
 // ----------------------------------------------------------------------------
 
 // The title in the navigation bar of the Select Contacts screen.
-"selectcontacts_title"              = 	"Select Contacts";
+"selectcontacts_title"              =     "Select Contacts";
 
 // The Help Text used by the Select Contacts screen.
-"selectcontacts_help"               = 	"Select the contacts you would like to use.\n\nContacts from your mobile device will appear with a phone icon next to them. Backoffice Leads will appear with an address book icon.\n\nFilter contacts by typing in the search bar. Tap the \"Keyboard Hide\" button to hide the keyboard after searching.\n\nContacts selected from your mobile device will automatically be added to your Backoffice Leads.";
+"selectcontacts_help"               =     "Select the contacts you would like to use.\n\nContacts from your mobile device will appear with a phone icon next to them. Backoffice Leads will appear with an address book icon.\n\nFilter contacts by typing in the search bar. Tap the \"Keyboard Hide\" button to hide the keyboard after searching.\n\nContacts selected from your mobile device will automatically be added to your Backoffice Leads.";
 
 // The primary phone label. (Other labels are handled by OS.)
 "selectcontacts_primary"            =   "primary";
@@ -1076,16 +1079,16 @@
 "sendmessage_help"          =   "Verify the leads you would like to send your campaign to and tap the \"Send Messages\" button to send it out.\n\nTap the \"Cancel\" button to restart the campaign selection process.";
 
 // The instruction text above the contacts table.
-"sendmessage_instructions"  = 	"Review to send.";
+"sendmessage_instructions"  =     "Review to send.";
 
 // The title of the Send Messages button.
 "sendmessage_sendmessages"  =   "Send Message(s)";
 
 // The message that is displayed upon successfully sending an SMS message.
-"sendmessage_sendsuccess"   = 	"Message(s) have been sent.";
+"sendmessage_sendsuccess"   =     "Message(s) have been sent.";
 
 // Toasted when an SMS message is sent. (Android Only)
-"sendmessage_messagesent"   =	"Message Sent";
+"sendmessage_messagesent"   =    "Message Sent";
 
 
 // ============================================================================
@@ -1110,10 +1113,10 @@
 "videocampaign_help"                    =   "Select, view, and send Video Campaigns.\n\nTap the \"Info (i)\" button on a campaign to preview it.\n\nSelect a campaign and Tap the \"Next\" button to continue. \n\nTap the \"Options\" button on the bottom bar after selecting a campaign to share it.";
 
 // The title in the navigation bar of the video campaign preview webview screen.
-"videocampaign_previewtitle"            = 	"Video Campaign Preview";
+"videocampaign_previewtitle"            =     "Video Campaign Preview";
 
 // The text for the no videos found label.
-"videocampaign_novideosfound"           = 	"No videos found";
+"videocampaign_novideosfound"           =     "No videos found";
 
 // The text for the no categories found label.
 "videocampaign_nocategoriesfound"       =   "No categories found";
@@ -1162,34 +1165,34 @@
 // ============================================================================
 
 // The title in the navigation bar of the Custom Campaign screen.
-"customcampaign_title"              = 	"Custom Campaign";
+"customcampaign_title"              =     "Custom Campaign";
 
 // The Help Text used by the Custom Campaign screen.
-"customcampaign_help"               = 	"Send a variety of custom campaigns to your lead groups.\n\nChoose the Camera Roll option to send a photo campaign using photos from your phone's Camera Roll.\n\nChoose the Optimism Library option to send a photo campaign from the Optimism Library\n\nChoose the YouTube option to send out a custom YouTube campaign.";
+"customcampaign_help"               =     "Send a variety of custom campaigns to your lead groups.\n\nChoose the Camera Roll option to send a photo campaign using photos from your phone's Camera Roll.\n\nChoose the Optimism Library option to send a photo campaign from the Optimism Library\n\nChoose the YouTube option to send out a custom YouTube campaign.";
 
 // The Help Text used by the Custom Campaign screen. (Android Only)
-"customcampaign_help_android"       = 	"Send a variety of custom campaigns to your lead groups.\n\nChoose the Gallery option to send a photo campaign using photos from your phone's Gallery.\n\nChoose the Optimism Library option to send a photo campaign from the Optimism Library\n\nChoose the YouTube option to send out a custom YouTube campaign.";
+"customcampaign_help_android"       =     "Send a variety of custom campaigns to your lead groups.\n\nChoose the Gallery option to send a photo campaign using photos from your phone's Gallery.\n\nChoose the Optimism Library option to send a photo campaign from the Optimism Library\n\nChoose the YouTube option to send out a custom YouTube campaign.";
 
 // The title of the Camera Roll Campaign option.
-"customcampaign_camerarolltitle"    = 	"Camera Roll";
+"customcampaign_camerarolltitle"    =     "Camera Roll";
 
 // The description of the Camera Roll Campaign option.
-"customcampaign_camerarolldesc"     = 	"Select an image from the camera roll of your mobile device to use for the campaign.";
+"customcampaign_camerarolldesc"     =     "Select an image from the camera roll of your mobile device to use for the campaign.";
 
 // The title of the Gallery Campaign option. (Android Only)
-"customcampaign_gallerytitle"       = 	"Gallery";
+"customcampaign_gallerytitle"       =     "Gallery";
 
 // The description of the Gallery Campaign option. (Android Only)
-"customcampaign_gallerydesc"        = 	"Select an image from the gallery of your mobile device to use for the campaign.";
+"customcampaign_gallerydesc"        =     "Select an image from the gallery of your mobile device to use for the campaign.";
 
 // The title of the Optimism Library Campaign option.
-"customcampaign_optimismtitle"      = 	"Optimism Library";
+"customcampaign_optimismtitle"      =     "Optimism Library";
 
 // The description of the Optimism Library Campaign option.
-"customcampaign_optimismdesc"       = 	"Select an image from the daily Optimism Library to use in the campaign.";
+"customcampaign_optimismdesc"       =     "Select an image from the daily Optimism Library to use in the campaign.";
 
 // The title of the YouTube Campaign option.
-"customcampaign_youtubetitle"       = 	"YouTube";
+"customcampaign_youtubetitle"       =     "YouTube";
 
 // The description of the YouTube Campaign option.
 "customcampaign_youtubedesc"        =   "Enter a custom YouTube video to use in the campaign.";
@@ -1198,7 +1201,7 @@
 "customcampaign_virtualpagetitle"   =   "Virtual Landing Page";
 
 // The description of the Virtual Landing PageCampaign option.
-"customcampaign_virtualpagedesc"    = 	"Use a corporate customized Virtual Landing Page in a campaign.";
+"customcampaign_virtualpagedesc"    =     "Use a corporate customized Virtual Landing Page in a campaign.";
 
 // The alert message displayed when an image couldn't be found to continue.
 "customcampaign_noimageerror"       =   "There was a problem selecting your image. Please try again.";
@@ -1217,7 +1220,7 @@
 "youtubecampaign_getfailure"        =   "Failed to download YouTube Campaigns. Please try again.";
 
 // The message displayed when campaign deletion fails.
-"youtubecampaign_deletefailure"     =	"Could not delete campaign.";
+"youtubecampaign_deletefailure"     =    "Could not delete campaign.";
 
 
 // YouTube Add/Update
@@ -1230,19 +1233,19 @@
 "youtubeeditor_help"                =   "Enter the information for a custom YouTube campaign.\n\nYou MUST fill out ALL the fields to create a campaign.\n\n- URL Page Name (100 characters): This is what leads will see in the URL.\n- Page Title (50 characters): This will be the title displayed on the top of the video page.\n- Video Name (25 characters): This will be the name listed underneath the video player.\n- Video Description (150 characters): This will be a brief description of the video listed under the Video Name.\n- Video Link (100 characters): This is the link to the YouTube video to be displayed.\n\nAfter entering the Video Link, you can preview the embedded video player that will be used on your custom video page.\n\nTap the \"Save\" button to save your custom YouTube campaign.";
 
 // The text used to indicate where the embed preview will appear.
-"youtubeeditor_embedpreview"        = 	"YouTube Embed Preview will load here. Set Video Link to preview.";
+"youtubeeditor_embedpreview"        =     "YouTube Embed Preview will load here. Set Video Link to preview.";
 
 // The title and placeholder text used in the URL Page Name text field.
 "youtubeeditor_pagename"            =   "URL Page Name";
 
 // The title and placeholder text used in the Page Title text field.
-"youtubeeditor_pagetitle"           = 	"Page Title";
+"youtubeeditor_pagetitle"           =     "Page Title";
 
 // The title and placeholder text used in the Video Name text field.
-"youtubeeditor_videoname"           = 	"Video Name";
+"youtubeeditor_videoname"           =     "Video Name";
 
 // The title and placeholder text used in the Video Description text field.
-"youtubeeditor_videodescription"    = 	"Video Description";
+"youtubeeditor_videodescription"    =     "Video Description";
 
 // The title and placeholder text used in the Video Link text field.
 "youtubeeditor_videolink"           =   "Video Link";
@@ -1262,7 +1265,7 @@
  {2} = Current Number of Letters
  {3} = Max Limit of Letters
  */
-"youtubeeditor_manyvalidation"     = 	"The text field must have fewer letters. Current number of letters";
+"youtubeeditor_manyvalidation"     =     "The text field must have fewer letters. Current number of letters";
 
 // The too few characters validation message.
 /*
@@ -1287,7 +1290,7 @@
 "virtualpagecampaign_getfailure"    =   "Could not download Virtual Pages. Please try again.";
 
 // The title in the navigation bar of the Virtual Landing Pages Campaign preview webview screen.
-"virtualpagecampaign_previewtitle"  = 	"Virtual Page Preview";
+"virtualpagecampaign_previewtitle"  =     "Virtual Page Preview";
 
 
 // ============================================================================
@@ -1321,7 +1324,7 @@
 "mybadges_getfailure"       =   "Could not download badges. Please try again.";
 
 // The message displayed when sharing a badge. (Android Only)
-"mybadges_sharebadge"       =	"Share Badge";
+"mybadges_sharebadge"       =    "Share Badge";
 
 // The message displayed when a single badge is earned.
 /*
@@ -1370,10 +1373,10 @@
 "alerts_deletealerts"       =   "Delete all alerts?";
 
 // The title in the navigation bar of the Alerts Preview screen.
-"alerts_previewdetailtitle" = 	"Alert Details";
+"alerts_previewdetailtitle" =     "Alert Details";
 
 // The Help Text used by the Alerts Preview screen.
-"alerts_previewdetailhelp"  = 	"View any details associated with a particular alert.";
+"alerts_previewdetailhelp"  =     "View any details associated with a particular alert.";
 
 
 // ============================================================================
@@ -1391,22 +1394,22 @@
 
 
 // The title of the Edit Profile option.
-"profile_editprofiletitle"  = 	"Edit Profile";
+"profile_editprofiletitle"  =     "Edit Profile";
 
 // The description of the Edit Profile option.
-"profile_editprofiledesc"   = 	"Modify your mobile profile settings including name, contact info, and profile picture.";
+"profile_editprofiledesc"   =     "Modify your mobile profile settings including name, contact info, and profile picture.";
 
 // The title of the Login to Social Media option.
-"profile_socialmediatitle"  = 	"Login to Social Media";
+"profile_socialmediatitle"  =     "Login to Social Media";
 
 // The description of the Login to Social Media option.
-"profile_socialmediadesc"   = 	"Login to social media accounts for use of features like Auto-Drip Campaigns.";
+"profile_socialmediadesc"   =     "Login to social media accounts for use of features like Auto-Drip Campaigns.";
 
 // The title of the Auto-Drip Settings option.
-"profile_autodriptitle"     = 	"Auto-Drip Settings";
+"profile_autodriptitle"     =     "Auto-Drip Settings";
 
 // The description of the Auto-Drip Settings option.
-"profile_autodripdesc"      = 	"Schedule and create posts to Auto-Drip to all of your social media accounts.";
+"profile_autodripdesc"      =     "Schedule and create posts to Auto-Drip to all of your social media accounts.";
 
 
 // ============================================================================
@@ -1447,7 +1450,7 @@
 "editprofile_savesuccess"           =   "Mobile profile saved successfully!";
 
 // The message displayed when saving a profile fails.
-"editprofile_savefailure"           = 	"Mobile profile could not be updated. Please try again.";
+"editprofile_savefailure"           =     "Mobile profile could not be updated. Please try again.";
 
 
 // ============================================================================
@@ -1461,10 +1464,10 @@
 "socialmedia_help"          =   "Sign in to your social networks. Signing in will allow you upload a social media profile picture to your Mobile Profile and make Optimism AutoDrip posts.";
 
 // The text for the How we use your Social Media Accounts label.
-"socialmedia_howeusetitle"  = 	"How we use your Social Media Accounts:";
+"socialmedia_howeusetitle"  =     "How we use your Social Media Accounts:";
 
 // The text description for How we user Social Media.
-"socialmedia_howweusedesc"  = 	"- Obtain basic profile info (name, screen-name, etc)\n- Obtain profile picture to display in-app\n- Request permissions to allow you to make posts";
+"socialmedia_howweusedesc"  =     "- Obtain basic profile info (name, screen-name, etc)\n- Obtain profile picture to display in-app\n- Request permissions to allow you to make posts";
 
 
 // ============================================================================
@@ -1514,25 +1517,25 @@
 
 
 // The title to the Refresh Button.
-"autodrip_refreshoption"    = 	"Refresh";
+"autodrip_refreshoption"    =     "Refresh";
 
 // The title to the Library Button.
-"autodrip_library"          = 	"Library";
+"autodrip_library"          =     "Library";
 
 // The title to the Camera Roll Button.
-"autodrip_cameraroll"       = 	"Camera Roll";
+"autodrip_cameraroll"       =     "Camera Roll";
 
 // The title to the Gallery Button. (Android Only)
-"autodrip_gallery"          = 	"Gallery";
+"autodrip_gallery"          =     "Gallery";
 
 // The text of the instructions label.
-"autodrip_instructions"     = 	"Enter post message above.";
+"autodrip_instructions"     =     "Enter post message above.";
 
 // The text of the Social Networks label.
-"autodrip_socialnetworks"   = 	"Social Networks";
+"autodrip_socialnetworks"   =     "Social Networks";
 
 // The validation message displayed to require at least one social network selected.
-"autodrip_socialvalidation" = 	"You must select at least 1 social network to post to.";
+"autodrip_socialvalidation" =     "You must select at least 1 social network to post to.";
 
 // The validation message to require login.
 /*
@@ -1541,13 +1544,13 @@
  {0} = Social Network Name
  {1} = The Translated Text
  */
-"autodrip_loginvalidation"  = 	"You must be logged in to post.";
+"autodrip_loginvalidation"  =     "You must be logged in to post.";
 
 // The title used in Auto-Drip push notifications. (Android Only)
 "autodrip_autodrip"         =   "Auto-Drip";
 
 // Message added to local notification for auto-dripping.
-"autodrip_timetopost"       =	"Auto-Drip - It’s time to post!";
+"autodrip_timetopost"       =    "Auto-Drip - It’s time to post!";
 
 
 // ============================================================================
@@ -1681,22 +1684,22 @@
 "helpcenter_help"           =   "Help is always just one tap away! Tap the Navigation Bar title on any screen.\n\nIf there is help info available, it will be displayed in a new window like this one!\n\nTry tapping the title on other screens!";
 
 // The text used to instruct users to tap the title to view help tips.
-"helpcenter_instructions"   = 	"Need help? Tap on the title that says \"Help Center\" in the Navigation Bar above!\nGo ahead! Tap it!";
+"helpcenter_instructions"   =     "Need help? Tap on the title that says \"Help Center\" in the Navigation Bar above!\nGo ahead! Tap it!";
 
 // The title of the Request Support option.
-"helpcenter_supporttitle"   = 	"Request Support";
+"helpcenter_supporttitle"   =     "Request Support";
 
 // The description of the Request Support option.
 "helpcenter_supportdesc"    =   "Ask for assistance or report a problem about the app to us.";
 
 // The title of the Training Videos option.
-"helpcenter_trainingtitle"  = 	"Training Videos";
+"helpcenter_trainingtitle"  =     "Training Videos";
 
 // The description of the Training Videos option.
-"helpcenter_trainingdesc"   = 	"Get useful training for how to use this app to it's fullest potential!";
+"helpcenter_trainingdesc"   =     "Get useful training for how to use this app to it's fullest potential!";
 
 // The title of the Rate the App option.
-"helpcenter_rateapptitle"   = 	"Rate the App";
+"helpcenter_rateapptitle"   =     "Rate the App";
 
 // The description of the Rate the App option.
 "helpcenter_rateappdesc"    =   "Love what you see? Give us a 5 star rating in the App Store!";

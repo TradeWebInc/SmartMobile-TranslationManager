@@ -210,7 +210,7 @@
 "leadactions_noscheduledactions" = "No se encontran acciones programadas.";
 "leadactions_recommendedactions" = "Acciones recomendadas";
 "leadactions_reminder" = "Recordatorio";
-"leadactions_scheduledactions" = "Horario de Acciones";
+"leadactions_scheduledactions" = "Acciones Programadas";
 "leadactions_singleemail" = "Correo electrónico individual";
 "leadactions_singleemailconfirm" = "¿Estás seguro de que quieres enviar este correo electrónico?";
 "leadactions_title" = "Acciones del Cliente Potencial";
@@ -228,7 +228,7 @@
 "leaddetails_emailoptedin" = "Optamos recibir correos electrónicos.";
 "leaddetails_emailoptedout" = "No ha optado por recibir correos electrónicos.";
 "leaddetails_help" = "Aquí tiene acceso completo a la página de los detalles del cliente potencial desde la web. Puede editar cualquier información sobre el cliente potencial elegido.";
-"leaddetails_logtab" = "Iniciar sesión";
+"leaddetails_logtab" = "Registro";
 "leaddetails_nocameramessage" = "La aplicación no puede acceder la cámara en este electrónico.";
 "leaddetails_nocameratitle" = "Cámara no disponible";
 "leaddetails_nophotolibrarymessage" = "La aplicación no puede acceder a la biblioteca de fotos.";
