@@ -48,6 +48,12 @@
 		0B707CE21E65C59100D55FF8 /* TranslationListModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TranslationListModel.swift; sourceTree = "<group>"; };
 		0B707CE41E65D70500D55FF8 /* JLHttpSession.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JLHttpSession.swift; sourceTree = "<group>"; };
 		0B707CE61E65E12D00D55FF8 /* WebAPIResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebAPIResponse.swift; sourceTree = "<group>"; };
+		0B84EB781F8D70C9002F5E87 /* cs */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cs; path = cs.lproj/Localizable.strings; sourceTree = "<group>"; };
+		0B84EB791F8D70D3002F5E87 /* fi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fi; path = fi.lproj/Localizable.strings; sourceTree = "<group>"; };
+		0B84EB7A1F8D7110002F5E87 /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/Localizable.strings; sourceTree = "<group>"; };
+		0B84EB7B1F8D7305002F5E87 /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/Localizable.strings; sourceTree = "<group>"; };
+		0B84EB7C1F8D7323002F5E87 /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Localizable.strings; sourceTree = "<group>"; };
+		0B84EB7D1F8D732E002F5E87 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/Localizable.strings; sourceTree = "<group>"; };
 		0BC9E4451E7209B30013FB9A /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; lineEnding = 0; name = da; path = da.lproj/Localizable.strings; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
 		0BC9E4461E7209C00013FB9A /* id */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; lineEnding = 0; name = id; path = id.lproj/Localizable.strings; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
 		0BC9E4471E7209C60013FB9A /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; lineEnding = 0; name = it; path = it.lproj/Localizable.strings; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
@@ -231,6 +237,12 @@
 				"zh-Hans",
 				"zh-Hant",
 				de,
+				cs,
+				fi,
+				nl,
+				nb,
+				pl,
+				sv,
 			);
 			mainGroup = 0B5E2DB01E64B11B006629C2;
 			productRefGroup = 0B5E2DBA1E64B11B006629C2 /* Products */;
@@ -299,6 +311,12 @@
 				0BC9E44E1E720A0B0013FB9A /* zh-Hans */,
 				0BC9E44F1E720A100013FB9A /* zh-Hant */,
 				0B12961E1F7068BF00CFC13F /* de */,
+				0B84EB781F8D70C9002F5E87 /* cs */,
+				0B84EB791F8D70D3002F5E87 /* fi */,
+				0B84EB7A1F8D7110002F5E87 /* nl */,
+				0B84EB7B1F8D7305002F5E87 /* nb */,
+				0B84EB7C1F8D7323002F5E87 /* pl */,
+				0B84EB7D1F8D732E002F5E87 /* sv */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
