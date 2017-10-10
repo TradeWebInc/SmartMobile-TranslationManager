@@ -31,6 +31,7 @@
 "general_next"              =     "Next";
 "general_done"              =     "Done";
 "general_save"              =     "Save";
+"general_saveconfirm"       =   "Would you like to save changes?";
 "general_delete"            =     "Delete";
 "general_remove"            =   "Remove";
 "general_removeall"         =   "Remove All";
@@ -121,10 +122,10 @@
 "general_upcoming"          =   "Upcoming";
 "general_past"              =   "Past";
 
-"general_facebook"          =     "Facebook";
+"general_facebook"          =   "Facebook";
 "general_facebookrequired"  =   "Please install the Facebook application to use this feature.";
-"general_twitter"           =     "Twitter";
-"general_googleplus"        =     "Google+";
+"general_twitter"           =   "Twitter";
+"general_googleplus"        =   "Google+";
 
 
 // ============================================================================

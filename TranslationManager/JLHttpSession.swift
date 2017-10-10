@@ -164,7 +164,9 @@ class JLHttpSession: NSObject {
         let dataTask:URLSessionDataTask = self.session.dataTask(with: request, completionHandler: {(data:Data?, response:URLResponse?, error:Error?) in
             
             // Hide network activity indicator
-            UIApplication.shared.isNetworkActivityIndicatorVisible = false;
+            DispatchQueue.main.async {
+                UIApplication.shared.isNetworkActivityIndicatorVisible = false;
+            }
             
             URLCache.shared.removeAllCachedResponses();
             
