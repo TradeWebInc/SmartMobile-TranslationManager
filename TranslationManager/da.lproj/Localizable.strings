@@ -1,1648 +1,629 @@
-// ============================================================================
-// * Android
-// ============================================================================
-
-"android_exitconfirm"				=	"Er du sikker på, at du vil forlade siden?";
-"android_appnotfound"				=	"Kan ikke finde app'en.";
-"android_nogoogleplus"				=	"Google+ skal være installeret.";
-"android_notificatonssetting"		=	"Modtag notifikationer";
-
-
-// ============================================================================
-// * General
-// ============================================================================
-
-"general_yes"               = 	"Ja";
-"general_no"                =   "Nej";
-"general_on"				= 	"TIL";
-"general_off"				=	"FRA";
-"general_accept"            =   "Accepter";
-"general_decline"           =   "Afvis";
-"general_success"           =   "Succes";
-"general_error"             = 	"Fejl";
-"general_notice"            = 	"Bemærk";
-"general_ok"                =   "Ok";
-"general_cancel"            = 	"Annuller";
-"general_loading"           = 	"Indlæser";
-"general_none"              = 	"Ingen";
-"general_next"              = 	"Næste";
-"general_done"              = 	"Færdig";
-"general_save"              = 	"Gem";
-"general_delete"            = 	"Slet";
-"general_addnew"            =   "Tilføj ny +";
-"general_add"				=	"Tilføj";
-"general_create"            =   "Opret";
-"general_edit"              =   "Rediger";
-"general_seemore"           =   "Se mere";
-"general_more"              =   "Flere";
-"general_reset"             = 	"Nulstil";
-"general_post"              = 	"Slå op";
-"general_submit"            =   "Indsend";
-"general_share"             =   "Del";
-"general_exit"              =   "Forlad siden";
-"general_settings"          =   "Indstillinger";
-"general_info"              =   "Info";
-"general_unknownerror"      =   "En ukendt fejl er sket. Prøv igen.";
-"general_nointernet"		=	"Kunne ikke forbinde til internettet. Tjek dine netværksindstillinger og prøv igen.";
-"general_cantmakecalls"     =   "Enheden kan ikke foretage opkald.";
-"general_cantsendsms"     	=   "Enheden kan ikke sende sms-beskeder.";
-"general_cantsendemail"     =   "Enheden kan ikke sende e-mail. Tjek din e-mail-opsætning og prøv igen.";
-
-"general_back"              =   "Tilbage";
-"general_forward"           =   "Frem";
-"general_webpageerror"      =   "Kunne ikke indlæse hjemmeside.";
-
-"general_unknownname"       =   "Ukendt navn";
-"general_username"          = 	"Brugernavn";
-"general_firstname"         = 	"Fornavn";
-"general_lastname"          = 	"Efternavn";
-"general_name"              =   "Navn";
-"general_language"          =   "Sprog";
-"general_address"           =   "Adresse";
-"general_city"              =   "By";
-"general_state"             =   "Stat";
-"general_zip"               =   "Postnummer";
-"general_province"          =   "Område";
-"general_postalcode"        =   "Postnummer";
-"general_country"           =   "Land ";
-"general_phonenumber"       = 	"Telefonnummer";
-"general_phone"             = 	"Telefon";
-"general_secondphone"       =   "Sekundær telefon";
-"general_cell"              = 	"Mobil";
-"general_work"              = 	"Arbejde";
-"general_email"             = 	"E-mail";
-"general_status"            = 	"Status";
-"general_displayname"       = 	"Vist navn";
-"general_title"             = 	"Titel";
-"general_contact"           =   "Kontakt";
-"general_lead"              =   "Kundeemne";
-"general_facebookurl"       = 	"Facebook-URL";
-"general_twitterhandle"     = 	"Twitter-brugernavn";
-"general_skypeusername"     = 	"Skype-brugernavn";
-"general_devicemodel"       =   "Enhedsmodel";
-"general_devicelanguage"    =   "Enhedssprog";
-"general_deviceos"          =   "Enhedsstyresystem";
-"general_appversion"        =   "Appversion";
-
-"general_sunday"            = 	"Søndag";
-"general_monday"            =   "Mandag";
-"general_tuesday"           = 	"Tirsdag";
-"general_wednesday"         = 	"Onsdag";
-"general_thursday"          = 	"Torsdag";
-"general_friday"            = 	"Fredag";
-"general_saturday"          = 	"Lørdag";
-
-"general_days"              =   "Dag(e)";
-"general_hours"             =   "Time(r)";
-
-"general_facebook"          = 	"Facebook";
-"general_twitter"           = 	"Twitter";
-"general_googleplus"        = 	"Google+";
-
-
-// ============================================================================
-// * Language Select
-// ============================================================================
-
-"language_select"           =   "Vælg sprog";
-
-
-// ============================================================================
-// * App Rating
-// ============================================================================
-
-
-// The title of the prompt for app rating.
-"rateappprompt_title"   = 	"Bedøm app?";
-
-// The message in the prompt for app rating.
-"rateappprompt_message" = 	"Kan du lide app'en? Vil du bedømme den nuværende version?";
-
-// The cancel text of the prompt for app rating.
-"rateappprompt_cancel"  = 	"Ikke nu";
-
-
-// ============================================================================
-// * Login
-// ============================================================================
-
-// The title in the navigation bar of the login screen.
-"login_title"                   =	"Velkommen";
-
-// The Help Text used by the login screen.
-"login_help"                    =   "Indtast dit brugernavn og adgangskode for at logge ind. \n\n Tryk på \"Hold mig logget ind\"-knappen for at lade app'en huske dit brugernavn og adgangskode. App'en vil ved åbning så forsøge at logge dig automatisk ind!";
-
-// The placeholder text for the password text field.
-"login_password"                = 	"Adgangskode";
-
-// The title of the Login Button, and any alert message box.
-"login_login"                   = 	"Log ind";
-
-// The label for the Keep Me Connected Switch.
-"login_keepmeconnected"         =   "Hold mig logget ind";
-
-// The Version label on indicating the app version.
-"login_version"                 = 	"Version";
-
-// The text used in the loading indicator for the login screen.
-"login_loading"                 = 	"Logger ind";
-
-// The login error/failure message.
-"login_loginerror"              = 	"Der skete en fejl under loginprocessen. Tjek dit brugernavn og adgangskode og prøv igen.";
-
-
-// The title text of the login method prompt.
-"login_loginmethodprompt"       =   "Fortæl os, hvordan vi skal forbinde dig.";
-
-// The title of the Use Touch ID button.
-"login_methodtouchid"           =   "Brug Touch ID";
-
-// The title of the Remember Username & Password button.
-"login_methoduserandpass"       =   "Husk brugernavn & adgangskode";
-
-// The title of the Remember Username only button.
-"login_methoduser"              =   "Husk kun brugernavn ";
-
-
-// ============================================================================
-// * Terms of Service
-// ============================================================================
-
-// The title in the navigation bar of the Terms of Service screen.
-"tos_title"             =   "Servicevilkår";
-
-// The Help Text used by the login screen.
-"tos_help"              =   "Læs Servicevilkår-aftalen for brug af denne app. Accepter eller afvis aftalen. Hvis du afviser aftalen, kan du ikke bruge funktionerne i app'en mere.";
-
-
-// ============================================================================
-// * Menu
-// ============================================================================
-
-// The title of the Home menu option.
-"menu_home"             =   "Hjem";
-
-// The title of the Optimism menu option.
-"menu_optimism"         =   "Optimisme";
-
-// The title of the My Leads menu option.
-"menu_myleads"          = 	"Mine spor";
-
-// The title of the Manage Groups menu option.
-"menu_managegroups"     = 	"Håndter grupper";
-
-// The title of the Training Videos menu option.
-"menu_trainingvideos"   =   "Træningsvideoer";
-
-// The title of the Video Campaign menu option.
-"menu_videocampaign"    = 	"Videokampagne";
-
-// The title of the Group SMS menu option.
-"menu_groupsms"         =   "Gruppe-sms";
-
-// The title of the Custom Campaign menu option.
-"menu_customcampaign"   =   "Brugerdefineret kampagne";
-
-// The title of the Campaign Stats menu option.
-"menu_campaignstats"    = 	"Kampagnestatistikker";
-
-// The title of the My Badges menu option.
-"menu_mybadges"         =   "Mine badges";
-
-// The title of the Alerts menu option.
-"menu_alerts"           =   "Beskeder";
-
-// The title of the Profile menu option.
-"menu_profile"          =   "Profil";
-
-// The title of the SmartCloud menu option.
-"menu_smartcloud"                   =   "SmartCloud";
-
-// The title of the Back Office menu option.
-"menu_backoffice"       =   "Backoffice Web";
-
-// The title of the Success On Demand menu option.
-"menu_sod"              =   "Success On Demand";
-
-// The title of the Help Center menu option.
-"menu_helpcenter"       = 	"Hjælpecenter";
-
-// The title of the Logout menu option.
-"menu_logout"           =   "Log ud";
-
-
-// The title of the menu section header for Home.
-"menu_homeheader"           =   "HJEM";
-
-// The title of the menu section header for Lead Management.
-"menu_leadmanagementheader" = 	"MINE SPOR";
-
-// The title of the menu section header for Promotions.
-"menu_promotions"           = 	"KAMPAGNER";
-
-// The title of the menu section header for Other.
-"menu_otherheader"          = 	"ANDRE";
-
-// The title of the menu section header for More.
-"menu_moreheader"           = 	"FLERE";
-
-
-
-// ============================================================================
-// * Daily Optimism
-// ============================================================================
-
-// The title in the navigation bar of the daily optimism screen.
-"dailyoptimism_title"       = 	"Daglig optimisme";
-
-// The Help Text used by the daily optimism screen.
-"dailyoptimism_help"        = 	"Se og del den daglige optimisme!\n\nTryk på \"Bibliotek\" for at vælge en tidligere optimisme at dele.";
-
-// The title of the Share Button.
-"dailyoptimism_share"       = 	"Del dagens optimisme";
-
-// The title of the Optimism Library Button.
-"dailyoptimism_library"     = 	"Bibliotek";
-
-// The title of the Auto-Drip Settings Button.
-"dailyoptimism_autodrip"    = 	"Auto-Drip-indstillinger";
-
-
-
-// ============================================================================
-// * Optimism Library
-// ============================================================================
-
-// The title in the navigation bar of the optimism library screen.
-"optimismlibrary_title"     = 	"Bibliotek";
-
-// The Help Text used by the optimism library screen.
-"optimismlibrary_help"      = 	"Vælg en optimisme fra biblioteket for at fortsætte med at dele.";
-
-
-// ============================================================================
-// * Optimism Library
-// ============================================================================
-
-// The title in the navigation bar of the share optimism screen.
-"shareoptimism_title"   = 	"Optimisme";
-
-// The Help Text used by the share optimism screen.
-"shareoptimism_help"    = 	"Se og del den optimisme, du har valgt fra biblioteket!!\n\nTryk på tilbage-knappen for at vende tilbage til biblioteket.";
-
-// The title of the Share This Optimism Button.
-"shareoptimism_share"   = 	"Del optimismen";
-
-
-// ============================================================================
-// * My Leads
-// ============================================================================
-
-// The title in the navigation bar of the my leads screen.
-"myleads_title"             =   "Mine spor";
-
-// The Help Text used by the my leads screen.
-"myleads_help"              =   "Se og rediger dine nuværende spor.\n\nTryk på \"Tilføj (+)\"-knappen for at tilføje spor fra enten dine kontakter eller manuel indtastning!\n\nTryk på et spor for at redigere detaljerne. Svirp et spor til venstre for at se yderligere muligheder.\n\nTryk på \"Sortér\"-knappen for at sortere din sporliste. Du kan sortere spor efter både stigende og faldende værdier.\n\nSpor kan også filtreres ved at bruge \"Filter\"-knappen og søgefeltet.";
-
-// The title of the Sort Button.
-"myleads_sort"              =   "Sortér";
-
-// The title of the Sort Action Sheet Menu.
-"myleads_sortby"            =   "Sortér efter";
-
-// The title of the Ascending Segment Control Button.
-"myleads_ascending"         =   "Stigende";
-
-// The title of the Descending Segment Control Button.
-"myleads_descending"        =   "Faldende";
-
-// The title of the Change Status Action Menu.
-"myleads_changestatusto"    =   "Skift status til";
-
-// The title of the Hot option during Filtering.
-"myleads_statushot"         = 	"Hot";
-
-// The title of the Warm option during Filtering.
-"myleads_statuswarm"        = 	"Varm";
-
-// The title of the Cold option during Filtering.
-"myleads_statuscold"        = 	"Kold";
-
-// The title of the New option during Filtering.
-"myleads_statusnew"         = 	"Ny";
-
-// The title of the Add Lead Action Sheet Menu.
-"myleads_addlead"           = 	"Tilføj spor";
-
-// The title for the Add from Contacts option during Add Lead.
-"myleads_addcontact"        = 	"Tilføj fra kontakter";
-
-// The title for the Add New Lead option during Add Lead.
-"myleads_addnewlead"        = 	"Tilføj nyt spor";
-
-// The title of the alert message boxes for any Add Contact action.
-"myleads_contacts"          = 	"Kontakter";
-
-// The message displayed when a contact is added successfully.
-"myleads_addcontactsuccess" =   "Kontakt succesfuldt tilføjet!";
-
-// The Add Contact error/failure message.
-"myleads_addcontacterror"   =   "Der opstod en fejl, mens kontakten blev tilføjet.";
-
-// Displayed in a My Leads table cell when no contact info is available. (phone and/or email).
-"myleads_nocontactinfo"     = 	"Ingen kontaktinfo tilgængelig.";
-
-// The title of the Send Opt In/Out Link option during Leads More Options.
-"myleads_sendoptinout"      =   "Send tilvælg/fravælg link";
-
-// The title of the Send Signup Link option during Leads More Options.
-"myleads_signuplink"        = 	"Send tilmeldingslink";
-
-// The title of the Send Free Sample Link option during Leads More Options.
-"myleads_freesample"        = 	"Send gratis prøve-link";
-
-// The title of the Send My Video Player option during Leads More Options.
-"myleads_videoplayer"       = 	"Send min videoafspiller";
-
-// The title of the Local Device View option during Leads More Options.
-"myleads_deviceview"        = 	"Lokal enhedsvindue";
-
-// Error message when a lead has no phone number.
-"myleads_noleadphone"       =   "Intet telefonnummer sat for det valgte spor.";
-
-// Error message when a lead has no email address.
-"myleads_noleademail"       =   "Ingen e-mail sat for det valgte spor.";
-
-
-// Message for sending SMS displayed in the Local Device View Screen under My Leads
-"localdevice_sendmessage"			=	"Send besked";
-
-// Message for create new device contact displayed in the Local Device View Screen under My Leads
-"localdevice_createnewcontact"		=	"Opret nyt kontakt";
-
-// Message for adding to existing contact displayed in the Local Device View Screen under My Leads
-"localdevice_addexistingcontact"	=	"Tilføj til eksisterende kontakt";
-
-
-// ============================================================================
-// * Add Lead
-// ============================================================================
-
-// The title in the navigation bar of the add lead screen.
-"addlead_title"             =   "Tilføj spor";
-
-// The Help Text used by the add lead screen.
-"addlead_help"              =   "Skriv informationen for dit nye spor, du vil tilføje.\n\nDet nye spor SKAL have et fornavn.\n\nDu SKAL også tilføje mindst én kontaktmetode (Telefonnummer eller e-mail) til det nye spor.";
-
-// The title of the Add Lead Button.
-"addlead_addlead"           =   "Tilføj spor";
-
-// The message of the success alert.
-"addlead_addsuccessful"     =   "Spor succesfuldt tilføjet!";
-
-// The message of the failure alert.
-"addlead_addfailure"        =   "Der opstod en fejl, mens sporet blev tilføjet.";
-
-// The validation message for requiring a first name.
-"addlead_namevalidation"    =   "Skriv først et fornavn.";
-
-// The validation message for requiring at least one contact method.
-"addlead_contactvalidation" = 	"Indtast mindst én kontaktmetode (telefon eller e-mail).";
-
-
-// ============================================================================
-// * Lead Details
-// ============================================================================
-
-// The title in the navigation bar of the lead details screen.
-"leaddetails_title"                             = 	"Spordetaljer";
-
-// The Help Text used by the lead details screen.
-"leaddetails_help"                              = 	"Se og rediger et enkelt kundeemne. Hold styr på logs, statistikker og noter. Tryk på knappen \"Handlinger\" for at planlægge e-mail-kampagner og påmindelser. Tryk på knappen \"Slet kundeemne\" for at slette det valgte kundeemne.";
-
-// The title of the change image alert.
-"leaddetails_changeimagetitle"                  =   "Ændre billede";
-
-// The title of the Photo Library button.
-"leaddetails_photolibrary"                      =   "Fotobibliotek";
-
-// The title of the Take Picture button.
-"leaddetails_takepicture"                       =   "Tag billede";
-
-// The title of the Remove Current Image button.
-"leaddetails_removeimage"                       =   "Fjern nuværende billede";
-
-// The title of the Actions tab.
-"leaddetails_actionstab"                        =   "Handlinger";
-
-// The title of the Log tab.
-"leaddetails_logtab"                            =   "Log";
-
-// The title of the Stats tab.
-"leaddetails_statstab"                          =   "Statistik";
-
-// The title of the Notes tab.
-"leaddetails_notestab"                          =   "Noter";
-
-// The title of the Photo Library Unavailable alert.
-"leaddetails_nophotolibrarytitle"               =   "Fotobibliotek ikke tilgængeligt";
-
-// The message of the Photo Library Unavailable alert.
-"leaddetails_nophotolibrarymessage"             =   "App'en kunne ikke få adgang til fotobiblioteket.";
-
-// The title of the Camera Unavailable alert.
-"leaddetails_nocameratitle"                     =   "Kamera ikke tilgængeligt";
-
-// The message of the Camera Unavailable alert.
-"leaddetails_nocameramessage"                   =   "App'en kunne ikke få adgang til kameraet på denne enhed.";
-
-// The message displayed when a lead is opted in to receive emails.
-"leaddetails_emailoptedin"                      =   "Valgt at modtage e-mails.";
-
-// The message displayed when a lead is opted out to receive emails.
-"leaddetails_emailoptedout"                     =   "Ikke valgt at modtage e-mails.";
-
-// The message displayed when a lead is opted in to receive SMS messages.
-"leaddetails_smsoptedin"                        =   "Valgt at modtage sms-beskeder.";
-
-// The message displayed when a lead is opted out to receive SMS messages.
-"leaddetails_smsoptedout"                       =   "Ikke valgt at modtage sms-beskeder.";
-
-// The title of the Delete Lead button.
-"leaddetails_deletelead"                        =   "Slet kundeemne";
-
-// The title of the delete lead confirmation alert.
-"leaddetails_deleteleadtitle"                   =   "Slet aktuelle kundeemne";
-
-// The message of the delete lead confirmation alert.
-"leaddetails_deleteleadmessage"                 =   "Er du sikker på, at du vil slette dette kundeemne?";
-
-
-// ============================================================================
-// * Edit Lead
-// ============================================================================
-
-// The title in the navigation bar of the Edit Lead screen.
-"editlead_title"                =   "Rediger kundeemne";
-
-// The title in the navigation bar of the See More version fo the Edit Lead screen.
-"editlead_titleseemore"         =   "Se detaljer om kundeemne";
-
-// The Help Text used by the Edit Lead screen.
-"editlead_help"                 =   "Når du ser på kundeemnets informationer, kan du trykke på knappen \"Rediger\" for at redigere dem. Indtast nye data for kundeemnet og tryk på \"Gem\" for at gemme eventuelle ændringer.";
-
-// The title of the Basic Info section.
-"editlead_basicinfo"            =   "Basisoplysninger";
-
-// The title of the Contact Info section.
-"editlead_contactinfo"          =   "Kontaktinfo";
-
-// The title of the Address Info section.
-"editlead_addressinfo"          =   "Adresseinfo";
-
-// The message of the success alert.
-"editlead_savesuccessful"       =   "Kundeemne gemt!";
-
-
-// ============================================================================
-// * Lead Actions
-// ============================================================================
-
-// The title in the navigation bar of the lead actions screen.
-"leadactions_title"                     =   "Kundeemne handlinger";
-
-// The Help Text used by the lead actions screen.
-"leadactions_help"                      =   "Se, start og annuller anbefalede og planlagte handlinger. Tryk på knappen \"Gør det\" for at udføre en anbefalet handling for et kundeemne. For at tilføje en ny planlagt handling trykkes på knappen \"Tilføj ny\". En planlagt handling kan annulleres ved at trykke på knappen \"Annuller\".";
-
-// The title of the recommended actions section.
-"leadactions_recommendedactions"        =   "Anbefalede handlinger";
-
-// The message shown when no recommended actions exist.
-"leadactions_norecommendedactions"      =   "Ingen anbefalede handlinger fundet.";
-
-// The title of the scheduled actions section.
-"leadactions_scheduledactions"          =   "Planlagte handlinger";
-
-// The message shown when no scheduled actions exist.
-"leadactions_noscheduledactions"        =   "Ingen planlagte handlinger fundet.";
-
-// The message of the cancel scheduled action alert.
-"leadactions_cancelscheduledaction"     =   "Er du sikker på, at du vil annullere denne handling?";
-
-// The title of the Do It button.
-"leadactions_doit"                      =   "Gør det";
-
-// The title of the add new alert for email campaign.
-"leadactions_emailcampaign"             =   "E-mail-kampagne";
-
-// The title of the add new alert for single email.
-"leadactions_singleemail"               =   "Enkelt e-mail";
-
-// The title of the add new alert for reminder.
-"leadactions_reminder"                  =   "Påmindelse";
-
-
-
-// The title in the navigation bar of the reminder creation screen.
-"reminder_title"                        =   "Opret påmindelse";
-
-// The Help Text used by the reminder creation screen.
-"reminder_help"                         =   "Opret en påmindelse bestående af en titel og en kort besked. Brug datovælgeren til at vælge en dato, hvor påmindelsen skal planlægges.";
-
-// The label used in the title text field.
-"reminder_titlelabel"                   =   "Titel";
-
-// The label used in the message text field.
-"reminder_messagelabel"                 =   "Besked";
-
-// The error message shown when a user doesn't enter a title.
-"reminder_titleneeded"                  =   "Du skal indtaste en titel for påmindelsen.";
-
-// The error message shown when a user doesn't enter a message.
-"reminder_messageneeded"                =   "Du skal indtaste en besked for påmindelsen.";
-
-
-
-// The title in the navigation bar of the email campaign picker screen.
-"emailcampaign_title"                   =   "E-mail-kampagner";
-
-// The Help Text used by the email campaign picker screen.
-"emailcampaign_help"                    =   "Vælg en kampagne til planlægning for det valgte kundeemne fra alle tilgængelige e-mail-kampagner. Tryk på en kampagne for straks at starte den for kundeemnet.";
-
-
-// The title in the navigation bar of the email messages picker screen.
-"emailmessages_title"                   =   "E-mail-beskeder";
-
-// The Help Text used by the email messages picker screen.
-"emailmessages_help"                    =   "Vælg en individual e-mail-besked at sende til det valgte kundeemne. Tryk på knappen \"Info (i)\" for at gennemse beskeden, før den sendes.";
-
-
-// ============================================================================
-// * Lead Log
-// ============================================================================
-
-// The title in the navigation bar of the lead log screen.
-"leadlog_title"             =   "Kundeemne log";
-
-// The Help Text used by the lead log screen.
-"leadlog_help"              =   "Se eventuelle tidligere handlinger eller begivenheder for det valgte kundeemne.";
-
-
-// ============================================================================
-// * Lead Stats
-// ============================================================================
-
-// The title in the navigation bar of the lead stats screen.
-"leadstats_title"               =   "Kundeemne statistik";
-
-// The Help Text used by the lead stats screen.
-"leadstats_help"                =   "Se alle e-mail- og videostatistikker for det valgte kundeemne.";
-
-// The title shown for the email stats section.
-"leadstats_emailstats"          =   "E-mail-statistik";
-
-// The title shown for the video stats section.
-"leadstats_videostats"          =   "Videostatistik";
-
-// The key label for emails read.
-"leadstats_emailsread"          =   "E-mails læst";
-
-// The key label for emails not read.
-"leadstats_emailsnotread"       =   "E-mails ikke læst";
-
-// The label for how many times a video was watched.
-"leadstats_watched"             =   "Set";
-
-// The label for how long a video was watched.
-"leadstats_duration"            =   "Varighed";
-
-// The unit label for the number of times a video was watched.
-"leadstats_times"               =   "gange";
-
-// The unit label for the duration time in seconds.
-"leadstats_secs"                =   "sekunder";
-
-
-// ============================================================================
-// * Lead Notes
-// ============================================================================
-
-// The title in the navigation bar of the lead notes screen.
-"leadnotes_title"               =   "Kundeemne noter";
-
-// The Help Text used by the lead notes screen.
-"leadnotes_help"                =   "Tilføj og se noter for det valgte kundeemne. Tryk på knappen \"Plus (+)\" for at tilføje en ny note.";
-
-// The title of the new note alert.
-"leadnotes_newnote"             =   "Ny note";
-
-
-// ============================================================================
-// * Manage Groups
-// ============================================================================
-
-// The title in the navigation bar of the manage groups screen.
-"managegroups_title"            = 	"Grupper";
-
-// The Help Text used by the manage groups screen.
-"managegroups_help"             = 	"Se og rediger grupper for spor for at gøre det lettere at sende kampagner hurtigt ud!\n\nTryk på \"Rediger (Blyant)\"-knappen for at slette en gruppe.\n\nTryk på \"Tilføj ny +\"-knappen for at oprette en ny gruppe.";
-
-// Label to indicate the number of contacts in a group.
-"managegroups_contacts"         = 	"Kontakter";
-
-// The title used in the new group alert.
-"managegroups_newgroup"         = 	"Ny gruppe";
-
-// The message used in the new group alert.
-"managegroups_newgroupname"     = 	"Ny gruppenavn:";
-
-// The placeholder text in the group name text field.
-"managegroups_groupname"        = 	"Gruppenavn";
-
-// The validation message for requiring a group name.
-"managegroups_namevalidation"   =   "En gruppe skal have et navn.";
-
-
-// ============================================================================
-// * Group Details
-// ============================================================================
-
-// The title in the navigation bar of the group details screen. (Overwritten by group name).
-"groupdetails_title"    = 	"Gruppedetaljer";
-
-// The Help Text used by the lead details screen.
-"groupdetails_help"     = 	"Se spor i den nuværende gruppe.\n\nTryk på \"Rediger (Blyant)-knappen for at slette et spor.\n\nTryk på \"Tilføj nyt +\"-knappen for at tilføje et spor til den nuværende gruppe.";
-
-
-// ============================================================================
-// * Multi-use Promotions
-// ============================================================================
-
-// Select Groups
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the Select Groups screen.
-"selectgroups_title"                =   "Vælg gruppe";
-
-// The Help Text used by the Select Groups screen.
-"selectgroups_help"                 =   "Vælg sporgrupperne, du vil sende kampagnerne til.";
-
-// The instruction text above groups table.
-"selectgroups_instructions"         =   "Vælg grupper, du vil sende kampagnen til:";
-
-// The title of the New Group option in the Action Sheet menu.
-"selectgroups_newgroup"             =   "Ny gruppe";
-
-// The title of the Select from Phonebook option in the Action Sheet menu.
-"selectgroups_selectcontacts"       = 	"Vælg fra telefonbog";
-
-// The validation message for requiring at least one contact.
-"selectgroups_contactvalidation"    = 	"Du skal vælge en gruppe(r) med et eller flere telefonnumre for at sende en besked.";
-
-
-// Select Contacts
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the Select Contacts screen.
-"selectcontacts_title"              = 	"Vælg kontakter";
-
-// The Help Text used by the Select Contacts screen.
-"selectcontacts_help"               = 	"Vælg de kontakter, du vil bruge.\n\nKontakter fra din mobiltelefon vil fremstå med et telefonikon ved siden af dem. Backoffice-spor vil fremstå med et telefonbogikon.\n\nFiltrér kontakter ved at skrive i søgefeltet. Tryk på \"Skjul tastatur\"-knappen for at skjule tastaturet efter søgningen.\n\nKontakter valgt fra din mobiltelefon vil automatisk blive tilføjet til dine Backoffice-spor.";
-
-// The primary phone label. (Other labels are handled by OS.)
-"selectcontacts_primary"            =   "primær";
-
-// The message of the alert displayed when a contact fails to be added as a lead or to a group.
-"selectcontacts_uploadcontacterror" =   "Der skete en fejl, mens kontakten blev uploadet.";
-
-// The message of the alert displayed when a lead fails to be added to a group.
-"selectcontacts_addgroupleaderror"  =   "Der skete en fejl, mens sporet blev tilføjet til gruppen.";
-
-
-// Edit Message
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the Edit Message screen.
-"editmessage_title"         =   "Rediger besked";
-
-// The Help Text used by the Edit Message screen.
-"editmessage_help"          =   "Skriv en besked, der skal sendes til dine grupper.\n\nTryk på \"X\"-knappen for at slette din indtastede besked.\n\nTryk på \"Bruger\"-knappen for at tilføjet sporets navn i beskeden.\n\nTryk på \"Næste\"-knappen for at fortsætte.";
-
-// The instruction text above the message text field.
-"editmessage_instructions"  =   "Skriv sms-besked, der skal sendes til gruppen.";
-
-
-// Send Message
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the Send Message screen.
-"sendmessage_title"         =   "Send besked";
-
-// The Help Text used by the Send Message screen.
-"sendmessage_help"          =   "Bekræft sporene, du vil sende din kampagne til og tryk på \"Send beskeder\"-knappen for at sende den.\n\nTryk på \"Annuller\"-knappen for at genstarte vælge-processen for kampagnen.";
-
-// The instruction text above the contacts table.
-"sendmessage_instructions"  = 	"Gennemlæs for at sende.";
-
-// The title of the Send Messages button.
-"sendmessage_sendmessages"  =   "Send besked(er)";
-
-// The message that is displayed upon successfully sending an SMS message.
-"sendmessage_sendsuccess"   = 	"Besked(er) er sendt.";
-
-// Toasted when an SMS message is sent. (Android Only)
-"sendmessage_messagesent"   =	"Besked sendt";
-
-
-// ============================================================================
-// * Training Videos Select
-// ============================================================================
-
-// The title in the navigation bar of the training videos screen.
-"trainingvideos_title"  =   "Træningsvideoer";
-
-// The Help Text used by the training videos screen.
-"trainingvideos_help"   =   "Se træningsvideoer.\n\nTryk på videorækken for at se videoen.";
-
-
-// ============================================================================
-// * Video Campaign Select
-// ============================================================================
-
-// The title in the navigation bar of the video campaign screen.
-"videocampaign_title"                   =   "Videokampagne";
-
-// The Help Text used by the video campaign screen.
-"videocampaign_help"                    =   "Vælg, se og send videokampagner.\n\nTryk på \"Info (i)\"-knappen for at se den.\n\nVælg en kampagne og tryk på \"Næste\"-knappen for at fortsætte.\n\nTryk på \"Muligheder\"-knappen i bundbaren efter at have valgt en kampagne for at dele den.";
-
-// The title in the navigation bar of the video campaign preview webview screen.
-"videocampaign_previewtitle"            = 	"Se videokampagne";
-
-// The text for the no videos found label.
-"videocampaign_novideosfound"           = 	"Ingen videoer fundet";
-
-// The text for the no categories found label.
-"videocampaign_nocategoriesfound"       =   "Ingen kategorier fundet";
-
-
-// ============================================================================
-// * Custom Campaign Select
-// ============================================================================
-
-// The title in the navigation bar of the Custom Campaign screen.
-"customcampaign_title"              = 	"Brugerdefineret kampagne";
-
-// The Help Text used by the Custom Campaign screen.
-"customcampaign_help"               = 	"Send en række brugerdefinerede kampagner til din sporgruppe.\n\nVælg kamerarullen for at sende en billedkampagne ved at bruge billeder fra din telefons kamerarulle.\n\nVælg optimisme-biblioteket for at sende en billedkampagne fra optimisme-biblioteket.\n\nVælg YouTube for at sende en brugerdefineret YouTube-kampagne.";
-
-// The Help Text used by the Custom Campaign screen. (Android Only)
-"customcampaign_help_android"       = 	"Send en række brugerdefinerede kampagner til din sporgruppe.\n\nVælg galleriet for at sende en billedkampagne ved at bruge billeder fra din telefons galleri.\n\nVælg optimisme-biblioteket for at sende en billedkampagne fra optimisme-biblioteket.\n\nVælg YouTube for at sende en brugerdefineret YouTube-kampagne.";
-
-// The title of the Camera Roll Campaign option.
-"customcampaign_camerarolltitle"    = 	"Kamerarulle";
-
-// The description of the Camera Roll Campaign option.
-"customcampaign_camerarolldesc"     = 	"Vælg et billede fra din telefons kamerarulle at bruge til kampagnen.";
-
-// The title of the Gallery Campaign option. (Android Only)
-"customcampaign_gallerytitle"       = 	"Galleri";
-
-// The description of the Gallery Campaign option. (Android Only)
-"customcampaign_gallerydesc"        = 	"Vælg et billede fra din telefons galleri at bruge til kampagnen.";
-
-// The title of the Optimism Library Campaign option.
-"customcampaign_optimismtitle"      = 	"Optimisme-bibliotek";
-
-// The description of the Optimism Library Campaign option.
-"customcampaign_optimismdesc"       = 	"Vælg et billede fra det daglige optimisme-bibliotek for at bruge det i kampagnen.";
-
-// The title of the YouTube Campaign option.
-"customcampaign_youtubetitle"       = 	"YouTube";
-
-// The description of the YouTube Campaign option.
-"customcampaign_youtubedesc"        =   "Indtast en YouTube-video for at bruge det i kampagnen.";
-
-// The title of the Virtual Landing Page Campaign option.
-"customcampaign_virtualpagetitle"   =   "Virtuel startside";
-
-// The description of the Virtual Landing PageCampaign option.
-"customcampaign_virtualpagedesc"    = 	"Bruge en virksomhedsbrugertilpasset virtuelt startside i en kampagne.";
-
-// The alert message displayed when an image couldn't be found to continue.
-"customcampaign_noimageerror"       =   "Der opstod et problem med at vælge dit billede. Prøv igen.";
-
-
-// YouTube Select
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the YouTube Campaigns screen.
-"youtubecampaign_title"             =   "YouTube-kampagner";
-
-// The Help Text used by the YouTube Campaigns screen.
-"youtubecampaign_help"              =   "Lav og vælg dine brugerdefinerede YouTube-kampagner at sende til sporgrupper.\n\nTryk på \"Tilføj (+)\"-knappen for at lave en ny YouTube-kampagne.\n\nSvirp en kampagne til venstre for at redigere eller slette kampagnen.\n\nTryk på \"Info (i)\"-knappen for at redigere kampagnen.\n\nTryk på en kampagne og \"Næste\"-knappen for at fortsætte.";
-
-// The message displayed when campaign downloads fail.
-"youtubecampaign_getfailure"        =   "Kunne ikke downloade YouTube-kampagner. Prøv igen.";
-
-// The message displayed when campaign deletion fails.
-"youtubecampaign_deletefailure"     =	"Kunne ikke slette kampagne.";
-
-
-// YouTube Add/Update
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the YouTube Campaign Editor screen.
-"youtubeeditor_title"               =   "Tilføj/rediger kampagne";
-
-// The Help Text used by the YouTube Campaign Editor screen.
-"youtubeeditor_help"                =   "Skriv informationen til en brugerdefineret YouTube-kampagne.\n\nDu SKAL udfylde ALLE felter for at lave kampagnen.\n\n- URL-sidenavn (100 tegn): Det her er, hvad spor vil se i URL.\n- Sidetitel (50 tegn): Det her vil være titlen, der vises i toppen af videosiden.\n- Videonavn (25 tegn): Det her vil være navnet, der står under videoafspilleren.\n- Videobeskrivelse (150 tegn): Det her vil være en kort beskrivelse af videoen, der står under videoens navn.\n- Videolink (100 tegn): Det her er linket til YouTube-videoen, der skal vises.\n\nEfter at have indsat videolinket kan du se videoafspilleren, der vil blive brugt på din brugerdefinerede videoside.\n\nTryk på \"Gem\"-knappen for at gemme din brugerdefinerede YouTube-kampagne.";
-
-// The text used to indicate where the embed preview will appear.
-"youtubeeditor_embedpreview"        = 	"Dit YouTube-preview vil blive indlæst her. Opret videolink for at få se det.";
-
-// The title and placeholder text used in the URL Page Name text field.
-"youtubeeditor_pagename"            =   "URL-sidenavn";
-
-// The title and placeholder text used in the Page Title text field.
-"youtubeeditor_pagetitle"           = 	"Sidetitel";
-
-// The title and placeholder text used in the Video Name text field.
-"youtubeeditor_videoname"           = 	"Videonavn";
-
-// The title and placeholder text used in the Video Description text field.
-"youtubeeditor_videodescription"    = 	"Videobeskrivelse";
-
-// The title and placeholder text used in the Video Link text field.
-"youtubeeditor_videolink"           =   "Videolink";
-
-// The message displayed when a campaign is saved successfully.
-"youtubeeditor_savesuccess"         =   "Kampagne gemt!";
-
-// The message displayed when a campaign fails to save.
-"youtubeeditor_savefailure"         =   "Kunne ikke gemme kampagne.";
-
-// The too many characters validation message.
-/*
- "{0} - {1}: {2}/{3}"
- Where:
- {0} = Field Name
- {1} = The Translated Text
- {2} = Current Number of Letters
- {3} = Max Limit of Letters
- */
-"youtubeeditor_manyvalidation"     = 	"Tekstfeltet skal have færre bogstaver. Korrekt antal bogstaver";
-
-// The too few characters validation message.
-/*
- "{0} - {1}"
- Where:
- {0} = Field Name
- {1} = The Translated Text
- */
-"youtubeeditor_fewvalidation"       =   "Du skal skrive en værdi.";
-
-
-// Virtual Landing Page Campaign Select
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the Virtual Landing Page Campaigns screen.
-"virtualpagecampaign_title"         =   "Startsidekampagner";
-
-// The Help Text used by the Virtual Landing Page Campaigns screen.
-"virtualpagecampaign_help"          =   "Vælg en virksomheds virtuel startside at bruge i en kampagne.\n\nTryk på \"Info (i)\"-knappen på en kampagne for at se den.\n\nTryk på action-knappen i bundbaren for at dele en kampagne gennem andre metoder end sms.";
-
-// The message displayed when campaign downloads fail.
-"virtualpagecampaign_getfailure"    =   "Kunne ikke downloade virtuelle sider. Prøv igen.";
-
-// The title in the navigation bar of the Virtual Landing Pages Campaign preview webview screen.
-"virtualpagecampaign_previewtitle"  = 	"Preview af virtuel side";
-
-
-// ============================================================================
-// * Campaign Stats
-// ============================================================================
-
-// The title in the navigation bar of the Campaign Stats screen.
-"campaignstats_title"   =   "Kampagnestatistikker";
-
-// The Help Text used by the Campaign Stats screen.
-"campaignstats_help"    =   "Se alle dine statistikker for mobilkampagner!";
-
-
-// ============================================================================
-// * My Badges
-// ============================================================================
-
-// The title in the navigation bar of the My Badges screen.
-"mybadges_title"            =   "Mine badges";
-
-// The Help Text used by the My Badges screen.
-"mybadges_help"             =   "Se alle de badges, du har optjent ved at deltage i begivenheder, sende kampagner ud, osv. Tryk på et badge for at se det i hele dets storhed!";
-
-// The points label text.
-"mybadges_points"           =   "Point";
-
-// The message displayed in the alert shown when a badge is not earned but is selected.
-"mybadges_notearned"        =   "Du har ikke optjent det her badge endnu!";
-
-// The message displayed when badge downloads fail.
-"mybadges_getfailure"       =   "Kunne ikke downloade badges. Prøv igen.";
-
-// The message displayed when sharing a badge. (Android Only)
-"mybadges_sharebadge"       =	"Del badge";
-
-// The message displayed when a single badge is earned.
-/*
- "{0}: {1}"
- Where:
- {0} = The Translated Text
- {1} = Badge Name
- */
-"mybadges_singleearned"     =   "Du har optjent et badge";
-
-// The message displayed when multiple badges are earned.
-"mybadges_multipleearned"   =   "Du har optjent nye badges!";
-
-
-// ============================================================================
-// * Badge Details
-// ============================================================================
-
-// The title in the navigation bar of the Badge Detail screen. (Overridden by Badge name).
-"badgedetails_title"    =   "Badgedetaljer";
-
-// The Help Text used by the Badge Detail screen.
-"badgedetails_help"     =   "Besku dit badge! Du har fortjent det! Det har du altså!";
-
-// The message to share when sharing a badge.
-/*
- "{0}: {1}"
- Where:
- {0} = The Translated Text
- {1} = Badge Name
- */
-"badgedetails_share"    =   "Jeg har optjent et badge";
-
-
-// ============================================================================
-// * Alerts
-// ============================================================================
-
-// The title in the navigation bar of the Alerts screen.
-"alerts_title"              =   "Beskeder";
-
-// The Help Text used by the Alerts screen.
-"alerts_help"               =   "Se beskeder forbundet med din konto.\n\nTryk på \"Papirkurv\"-knappen for at slette alle beskeder.";
-
-// The message displayed when deleting all alerts.
-"alerts_deletealerts"       =   "Slet alle beskeder?";
-
-// The title in the navigation bar of the Alerts Preview screen.
-"alerts_previewdetailtitle" = 	"Beskeddetaljer";
-
-// The Help Text used by the Alerts Preview screen.
-"alerts_previewdetailhelp"  = 	"Se detaljer forbundet med en bestemt besked.";
-
-
-// ============================================================================
-// * Profile
-// ============================================================================
-
-// The title in the navigation bar of the Profile screen.
-"profile_title"     =   "Mobilprofil";
-
-// The Help Text used by the Profile screen.
-"profile_help"      =   "Se din mobilprofil.\n\nVælg rediger profil for at redigere din profilinformation.\n\nVælg log ind på sociale medier for at logge ind på dine sociale mediekonti.\n\nVælg Auto-Drip-indstillinger for at redigere din personlige optimisme Auto-Drip opslagskalender.";
-
-// Used to link to a user's profile website. (Android Only)
-"profile_mywebsite"         =   "Min hjemmeside";
-
-
-// The title of the Edit Profile option.
-"profile_editprofiletitle"  = 	"Rediger profil";
-
-// The description of the Edit Profile option.
-"profile_editprofiledesc"   = 	"Rediger dine mobilprofilindstillinger, deriblandt navn, kontaktinfo og profilbillede.";
-
-// The title of the Login to Social Media option.
-"profile_socialmediatitle"  = 	"Log ind på social medie";
-
-// The description of the Login to Social Media option.
-"profile_socialmediadesc"   = 	"Log ind på sociale mediekonti for at bruge funktioner som Auto-Drip-kampagner.";
-
-// The title of the Auto-Drip Settings option.
-"profile_autodriptitle"     = 	"Auto-Drip-indstillinger";
-
-// The description of the Auto-Drip Settings option.
-"profile_autodripdesc"      = 	"Planlæg og lav opslag til Auto-Drip til alle dine sociale mediekonti.";
-
-
-// ============================================================================
-// * Edit Profile
-// ============================================================================
-
-// The title in the navigation bar of the Edit Profile screen.
-"editprofile_title"                 =   "Rediger profil";
-
-// The Help Text used by the Edit Profile screen.
-"editprofile_help"                  =   "Rediger din profilinformation og læg et nyt profilbillede op.\n\nProfilbilleder kan lægges op fra din kamerarulle og sociale mediekonti. Du skal logge ind på dine konti, før du kan bruger deres tilknyttede profilbilleder.\n\nTryk på \"gem\"-knappen for at gemme ændringer, du har lavet.";
-
-// The Help Text used by the Edit Profile screen. (Android Only)
-"editprofile_help_android"          =   "Rediger din profilinformation og læg et nyt profilbillede op.\n\nProfilbilleder kan lægges op fra dit galleri og sociale mediekonti. Du skal logge ind på dine konti, før du kan bruger deres tilknyttede profilbilleder.\n\nTryk på \"gem\"-knappen for at gemme ændringer, du har lavet.";
-
-// The title of the Edit Profile Picture Button.
-"editprofile_editprofilepic"        =   "Rediger profilbillede";
-
-// The title of the Edit Profile Picture Action Sheet menu.
-"editprofile_editprofilepictitle"   =   "Vælg profilbillede fra";
-
-// The title of the Camera Roll option in the edit profile Action Sheet menu.
-"editprofile_cameraroll"            =   "Kamerarulle";
-
-// The title of the Gallery option in the edit profile Action Sheet menu. (Android Only)
-"editprofile_gallery"               =   "Galleri";
-
-// The title of the Save Settings Button.
-"editprofile_savesettings"          =   "Gem indstillinger";
-
-// The validation message for requiring a first name to be entered.
-"editprofile_firstnamevalidation"   =   "Skriv først et fornavn.";
-
-// The validation message for requiring a display name to be entered.
-"editprofile_displaynamevalidation" =   "Du skal skrive et skærmnavn.";
-
-// The message displayed when saving a profile successfully.
-"editprofile_savesuccess"           =   "Mobilprofil opdateret!";
-
-// The message displayed when saving a profile fails.
-"editprofile_savefailure"           = 	"Mobilprofilen kunne ikke opdateres. Prøv igen.";
-
-
-// ============================================================================
-// * Social Media Login
-// ============================================================================
-
-// The title in the navigation bar of the Social Media screen.
-"socialmedia_title"         =   "Sociale medier";
-
-// The Help Text used by the Social Media screen.
-"socialmedia_help"          =   "Log ind på dine sociale netværk. Ved at logge ind kan du bruger et socale medie-profilbillede på din mobilprofil og lave optimisme Auto-Drip-opslag.";
-
-// The text for the How we use your Social Media Accounts label.
-"socialmedia_howeusetitle"  = 	"Hvordan vi bruger sociale medie-konti:";
-
-// The text description for How we user Social Media.
-"socialmedia_howweusedesc"  = 	"- Få adgang til basal profilinformation (navn, skærmnavn, osv)\n- Få adgang til profilbilleder at vise i app'en\n- Anmod om tilladelse til at lade dig lave opslag";
-
-
-// ============================================================================
-// * Auto-Drip Schedule
-// ============================================================================
-
-// The title in the navigation bar of the Auto-Drip Schedules screen.
-"autodrip_title"        =   "Auto-Drip-kalender";
-
-// The Help Text used by the Auto-Drip Schedules screen.
-"autodrip_help"         =   "Lav en Auto-Drip-kalender. Vælg et tidspunkt og ugedagene, du gerne vil mindes om at lave opslag.\n\nTryk på \"Gem\"-knappen for at gemme din kalender.\n\nTryk på \"Lav opslag nu\"-knappen for at lave et opslag nu!\n\nNår du laver et opslag, er det muligt at vælge et billede at lægge op, vælge en besked og vælge et socialt netværk at dele opslaget på.";
-
-// The title of the Make Post Now Button.
-"autodrip_makepostnow"  =   "Lav opslag nu";
-
-// The text of the schedule label.
-"autodrip_schedule"     =   "Tidsplan";
-
-// The message displayed in the alert when a schedule is saved successfully.
-"autodrip_savesuccess"  =   "Din tidsplan blev gemt!";
-
-// The message displayed in the alert when a schedule fails to save.
-"autodrip_savefailure"  =   "Der opstod et problem, mens vi gemte din tidsplan. Prøv igen.";
-
-
-// The title to the Refresh Button.
-"autodrip_refreshoption"    = 	"Opdater";
-
-// The title to the Library Button.
-"autodrip_library"          = 	"Bibliotek";
-
-// The title to the Camera Roll Button.
-"autodrip_cameraroll"       = 	"Kamerarulle";
-
-// The title to the Gallery Button. (Android Only)
-"autodrip_gallery"          = 	"Galleri";
-
-// The text of the instructions label.
-"autodrip_instructions"     = 	"Skriv besked ovenover.";
-
-// The text of the Social Networks label.
-"autodrip_socialnetworks"   = 	"Sociale netværk";
-
-// The validation message displayed to require at least one social network selected.
-"autodrip_socialvalidation" = 	"Du skal vælge mindst ét socialt netværk at slå opslag op på.";
-
-// The validation message to require login.
-/*
- "{0} - {1}"
- Where:
- {0} = Social Network Name
- {1} = The Translated Text
- */
-"autodrip_loginvalidation"  = 	"Du skal være logget ind for at lave et opslag.";
-
-// The title used in Auto-Drip push notifications. (Android Only)
-"autodrip_autodrip"         =   "Auto-Drip";
-
-// Message added to local notification for auto-dripping.
-"autodrip_timetopost"       =	"Auto-Drip - Det er tid til opslag!";
-
-
-
-// ============================================================================
-// * Success On Demand
-// ============================================================================
-
-// The title in the navigation bar of the Success On Demand screen.
-"sod_title"     =   "Success On Demand";
-
-// The Help Text used by the Success On Demand screen.
-"sod_help"      =   "Tilgå det fulde indhold af Success On Demand!";
-
-
-// ============================================================================
-// * Help Center
-// ============================================================================
-
-// Help Center
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the Help Center screen.
-"helpcenter_title"          =   "Hjælpecenter";
-
-// The Help Text used by the Help Center screen.
-"helpcenter_help"           =   "Hjælp er kun et klik væk! Tryk på titlen i navigationsbaren på enhver side.\n\nHvis der er hjælp tilgængelig, vil det vises i et nyt vindue ligesom dette!\n\nPrøv at trykke på titlen på andre sider!";
-
-// The text used to instruct users to tap the title to view help tips.
-"helpcenter_instructions"   = 	"Har du brug for hjælp? Tryk på titlen \"Hjælpecenter\" i navigationsbaren ovenover!\nGør det! Tryk på den!";
-
-// The title of the Request Support option.
-"helpcenter_supporttitle"   = 	"Anmod om support";
-
-// The description of the Request Support option.
-"helpcenter_supportdesc"    =   "Bed om hjælp eller meld et problem i app'en til os.";
-
-// The title of the Training Videos option.
-"helpcenter_trainingtitle"  = 	"Træningsvideoer";
-
-// The description of the Training Videos option.
-"helpcenter_trainingdesc"   = 	"Få nyttig træning i, hvordan du bruger app'en bedst muligt!";
-
-// The title of the Rate the App option.
-"helpcenter_rateapptitle"   = 	"Vurdér app'en";
-
-// The description of the Rate the App option.
-"helpcenter_rateappdesc"    =   "Kan du lide, hvad du ser? Giv os 5 stjerner i App Store!";
-
-
-// Support Request
-// ----------------------------------------------------------------------------
-
-// The title in the Navigation bar of the Support Requests screen.
-"supportrequests_title"                 =   "Support-anmodninger";
-
-// The Help Text used by the Support Requests screen.
-"supportrequests_help"                  =   "Tilgå de support-anmodninger, du har oprettet. Tryk på en anmodning for at se svarene.\n\nTryk på Tilføj (+)-knappen for at lave en ny anmodning.";
-
-
-// The title in the Navigation bar of the Add Support Request screen.
-"addsupportrequest_title"               =   "Support-anmodning";
-
-// The Help Text used by the Add Support Request screen.
-"addsupportrequest_help"                =   "Send os en direkte anmodning om support. Skriv din besked i tekstfeltet og tryk på indsend.";
-
-// The text used to instruct users to create a support request.
-"addsupportrequest_instructions"        =   "Skriv en support-anmodning i beskeden nedenunder";
-
-// The message used when sending a support request is successful.
-"addsupportrequest_success"             =   "Vi har modtaget din support-anmodning!";
-
-// The validation message for requiring a message.
-"addsupportrequest_textvalidation"      =   "Du skal skrive en besked.";
-
-
-// The title in the Navigation bar of the Support Responses screen.
-"supportresponses_title"                =   "Svar fra support";
-
-// The Help Text used by the Support Responses screen.
-"supportresponses_help"                 =   "Se din support-anmodningsinfo udover vores supportholds svar.\n\nBrug beskedbaren i bunden til at svare.";
-
-// The title text of the Send button.
-"supportresponses_send"                 =   "Send";
-
-// The placeholder text in the message bar text view.
-"supportresponses_placeholdertext"      =   "Besked";
-
-
-// ============================================================================
-// * Jeunesse Only
-// ============================================================================
-
-// The title of the Dashboard menu option.
-"menu_dashboard"                =   "Kontrolpanel";
-
-// The title of the My Events menu option.
-"menu_myevents"                 =   "Mine begivenheder";
-
-// The title of the Admin Events menu option.
-"menu_adminevents"              =   "Administrer begivenheder";
-
-// The title of the People I Sponsor menu option.
-"menu_peoplesponsored"          =   "Personer I Sponsor";
-
-// The title of the Genealogy menu option.
-"menu_genealogy"                =   "Genealogi";
-
-// The title of the Add New Signup menu option.
-"menu_newsignup"                =   "Tilføj ny tilmelding";
-
-// The title of the Messages menu option.
-"menu_messages"                 =   "Beskeder";
-
-// The title of the Reports menu option.
-"menu_reports"                  =   "Rapporter";
-
-
-// The title of the menu section header for JOffice.
-"menu_jofficeheader"            =   "JOFFICE™";
-
-
-// ============================================================================
-// * Jeunesse Dashboard
-// ============================================================================
-
-// The title in the navigation bar of the Dashboard screen.
-"dashboard_title"                   =   "Kontrolpanel";
-
-// The Help Text used by the Dashboard screen.
-"dashboard_help"                    =   "Fra kontrolpanelet kan du se alle de seneste informationer om din forretning.\n\nTryk på tabulatorknappen for at skifte mellem fanerne.";
-
-// The title of the Home tab.
-"dashboard_home"                    =   "Hjem";
-
-// The title of the News Feed tab.
-"dashboard_newsfeed"                =   "Nyheder";
-
-// The title of the Prospector tab.
-"dashboard_prospector"              =   "Prospektor";
-
-
-// ============================================================================
-// * People I Sponsor
-// ============================================================================
-
-// The title in the navigation bar of the People I Sponsor screen.
-"peopleisponsor_title"                  =   "Personer I Sponsor";
-
-// The Help Text used by the People I Sponsor screen.
-"peopleisponsor_help"                   =   "Se og kontakt folk, som du personligt sponsorerer. Tryk på en sponsor for at se flere detaljer.";
-
-
-// The title in the navigation bar of the People I Sponsor Detail screen. (Replaced by sponsor displayname)
-"peopleisponsordetail_title"            =   "Personer I Sponsor";
-
-// The Help Text used by the People I Sponsor Detail screen.
-"peopleisponsordetail_help"             =   "Se kontaktinfo for den valgte sponsor. Tryk på e-mail- eller telefonknapperne for at kontakte sponsoren.";
-
-
-// ============================================================================
-// * Genealogy
-// ============================================================================
-
-// The title in the navigation bar of the Genealogy screen.
-"genealogy_title"                  =   "Genealogi";
-
-// The Help Text used by the Genealogy screen.
-"genealogy_help"                   =   "Se hele dit stamtræ.";
-
-
-// ============================================================================
-// * Add New Signup
-// ============================================================================
-
-// The title in the navigation bar of the New Signup screen.
-"newsignup_title"                   =   "Ny tilmelding";
-
-// The Help Text used by the New Signup screen.
-"newsignup_help"                    =   "Tilføj en ny tilmelding ved at skrive dit brugernavn/sideurl og tryppe på \"tilmeld-\"knappen. Du vil blive bedt om at udfylde den nødvendige tilmeldingsinformation.";
-
-// The label text for the sponsor text field.
-"newsignup_sponsor"                 =   "Sponsor sideurl";
-
-// The title text for the Signup button.
-"newsignup_signup"                  =   "Tilmeld dig";
-
-// The warning message that appears when an invalid value is entered.
-"newsignup_invalidmessage"          =   "Du skal skrive et valid brugernavn/sideurl.";
-
-
-// ============================================================================
-// * Messages
-// ============================================================================
-
-// The title in the navigation bar of the Messages screen.
-"messages_title"            =   "Beskeder";
-
-// The Help Text used by the Messages screen.
-"messages_help"             =   "Se dine personlige kontobeskeder.\n\nSvirp til venstre på en besked for at kunne slette den.\n\nTryk på \"Mappe\"-knappen i bundbaren for at skifte mellem din indbakke og papirkurven.\n\nTryk på en besked for at se dens indhold.";
-
-
-// The title of the Inbox Message Folder.
-"messages_inbox"            =   "Indbakke";
-
-// The title of the Trash Message Folder.
-"messages_trash"            =   "Papirkurv";
-
-
-// ============================================================================
-// * Reports
-// ============================================================================
-
-// The title in the navigation bar of the Reports List screen.
-"reportslist_title"            =   "Rapporter";
-
-// The Help Text used by the Reports List screen.
-"reportslist_help"             =   "Se alle dine forretningsrapporter direkte på din mobiltelefon! Tryk på en rapport for at se den.";
-
-
-// The title in the navigation bar of the Report Parameters screen.
-"reportparams_title"            =   "Rapportparametre";
-
-// The Help Text used by the Report Parameters screen.
-"reportparams_help"             =   "Indtast og vælg de nødvendige parametre for at generere den valgte rapport.";
-
-// The title used by the View Reports button.
-"reportparams_viewreports"      =   "Se rapporter";
-
-
-// The title in the navigation bar of the Report Viewer screen.
-"reportviewer_title"            =   "Rapportlæser";
-
-// The Help Text used by the Report Viewer screen.
-"reportviewer_help"             =   "Se den genereret rapport fra de tidligere valgte parametre,";
-
-
-// ============================================================================
-// * SmartCloud
-// ============================================================================
-
-// The title in the navigation bar of the SmartCloud screen.
-"smartcloud_title"                          =   "SmartCloud";
-
-// The Help Text used by the SmartCloud screen.
-"smartcloud_help"                           =   "Se alle filer og mapper i Cloud.\n\nTryk på download-knappen for at downloade en fil.\n\nHvis filen allerede er downloadet lokalt vil download-knappen ikke blive vist. Tryk på filen for at åbne og se den.\n\nFor at slette en lokalt downloadet fil, svirp på filen fra højre mod venstre for at vise slet-knappen.";
-
-// The title used in the Remove Local button.
-"smartcloud_removelocal"                    =   "Fjern lokal";
-
-// The title in the navigation bar of the SmartCloud screen when downloading a file.
-"smartcloud_downloading"                    =   "Downloader";
-
-
-// ============================================================================
-// * My Events
-// ============================================================================
-
-// The title in the navigation bar of the My Events List screen.
-"myeventslist_title"                        =   "Mine begivenheder";
-
-// The Help Text used by the My Events List screen.
-"myeventslist_help"                         =   "Se en lister over begivenheder, du er tilmeldt.\n\nTryk på en begivenhed for at se din kode til den.";
-
-// The notice for not being registered for any events.
-"myeventslist_notregistered"                =   "Du er ikke registreret til nogen begivenheder i øjeblikket.";
-
-
-// The title in the navigation bar of the My Events Detail screen. (Replaced by event name)
-"myeventsdetail_title"                      =   "Min begivenheds QR-kode";
-
-// The Help Text used by the My Events Detail screen.
-"myeventsdetail_help"                       =   "Det her er din QR-kode til den valgte begivenhed. Vis den til en begivenhedsadministrator for at få adgang.\n\nNogle gange er der dårlig og/eller ingen internetforbindelse til begivenheder, så det er vigtigt at downloade den her QR-kode ved at trykke på \"Gem til kamerarulle\"-knappen.";
-
-// The Help Text used by the My Events Detail screen. (Android Only)
-"myeventsdetail_help_android"                       =   "Det her er din QR-kode til den valgte begivenhed. Vis den til en begivenhedsadministrator for at få adgang.\n\nNogle gange er der dårlig og/eller ingen internetforbindelse til begivenheder, så det er vigtigt at downloade den her QR-kode ved at trykke på \"Gem til galleri\"-knappen.";
-
-// The title in the Save to Camera Roll button.
-"myeventsdetail_savetocameraroll"           =   "Gem til kamerarulle";
-
-// The title in the Save to Gallery button. (Android Only)
-"myeventsdetail_savetogallery"              =   "Gem til galleri";
-
-// The alert text for reminding users to download an event QR Code.
-"myeventsdetail_downloadreminder"           =   "Nogle gange er der dårlig og/eller ingen internetforbindelse til begivenheder, så det er vigtigt at downloade den her QR-kode ved at trykke på \"Gem til kamerarulle\"-knappen.";
-
-// The alert text for reminding users to download an event QR Code. (Android Only)
-"myeventsdetail_downloadreminder_android"   =   "Nogle gange er der dårlig og/eller ingen internetforbindelse til begivenheder, så det er vigtigt at downloade den her QR-kode ved at trykke på \"Gem til galleri\"-knappen.";
-
-// The alert text verifying a QR code was saved successfully.
-"myeventsdetail_qrcodesavesuccess"          =   "QR-kode gemt!";
-
-// The alert text notifying the user that a QR code failed to save.
-"myeventsdetail_qrcodesavefailure"          =   "QR-kode blev ikke gemt.";
-
-
-// ============================================================================
-// * Admin Events
-// ============================================================================
-
-// The title in the navigation bar of the Admin Events List screen.
-"admineventslist_title"         =   "Administrer begivenheder";
-
-// The Help Text used by the Admin Events List screen.
-"admineventslist_help"          =   "Se alle kommende begivenheder og antallet af tilmeldte/registrerede, der kommer.";
-
-// The text used to indicate the number of signups for an event.
-"admineventslist_signups"       =   "Tilmeldte";
-
-"actionitemdetail_alreadycompleted"="Allerede fuldført denne handling?";
-"actionitemdetail_help"="Se detaljerne for en anbefalet handling. Den supplerende information kan hjælpe dig med at fuldføre handlingen. Hvis du allerede har gennemført handlingen, og den ikke blev registreret, tryk på \"Tryk her\" knappen for at fortsætte.";
-"actionitemdetail_meetingconfirm"="Har du fuldført mødet?";
-"actionitemdetail_pathcomplete"="Dette lead har nu afsluttet deres nuværende sti!";
-"actionitemdetail_splitwarning"="Denne handling er en del af et split i stien. Hvis du udfører denne handling, kan det forhindre dig i at fuldføre andre.";
-"actionitemdetail_takeaction"="Handling";
-"actionitemdetail_title"="Anbefalet handling";
-"actionpathpicker_help"="Vælg en handlingstil for at tildele et lead. Du kan forhåndsvise en handlingsti ved at trykke på \"(i)\" knappen.";
-"actionpathpicker_title"="Handlingsstier";
-"actionpathviewer_help"="Se en handlingsti\'s fulde struktur. Du kan trække for at zoome ind eller ud.";
-"actionpathviewer_title"="Handlingsti fremviser";
-"admineventdetail_help"="Se detaljerne for det valgte arrangement.";
-"admineventdetail_title"="Arrangement detaljer";
-"admineventdetail_totalcheckins"="Total indtjekninger";
-"admineventdetail_totalregistrants"="Total registrerede";
-"apitestdetail_help"="Se en specifik API-forespørgsel for at se, hvorfor den mislykkedes.";
-"apitestdetail_title"="API-detaljer";
-"cart_help"="Gennemgå og rediger din kurv. \n\nTryk på \"Fjern alle\" knappen for at fjerne alle produkter fra kurven. \n\nTryk på \"Gå til kasse\" knappen for at fuldføre købsprocessen.";
-"cart_numberincart"="Produkter i din kurv";
-"cart_title"="Indkøbskurv";
-"cartcategories_help"="Vælg en kategori for at se alle de associerede produkter.";
-"cartcategories_title"="Kategorier";
-"cartcheckout_confirmation"="Bekræftelse";
-"cartcheckout_help"="Se din kurv og udfyld alle formularene for at gennemføre købprocessen.";
-"cartcheckout_ordercomplete"="Ordre gennemført";
-"cartcheckout_title"="Kassen";
-"cartproductdetail_help"="Se detaljerne om et bestemt produkt. \n\nTryk på \"Tilføj til kurv\" knappen for at tilføje produktet til din kurv.";
-"cartproductdetail_title"="Produktdetaljer";
-"cartproducts_help"="Vælg et produkt for at se flere detaljer. \n\nTryk på \"Tilføj til kurv\" knappen for at tilføje produktet til din kurv";
-"cartproducts_title"="Produkter";
-"carttype_help"="Vælg mellem at lave en detailhandel med køb af engrosprodukt ved at vælge en typeknap.";
-"carttype_retail"="Detailhandel";
-"carttype_title"="Valg af kurv";
-"carttype_wholesale"="JOffice Shop";
-"carttype_wholesaleunavailable"="Vi arbejder hårdt på at tilføje engroskøb til appen!";
-"customerconfirm_customerinfo"="Kundeoplysninger";
-"customerconfirm_differentperson"="Anden person";
-"customerconfirm_help"="Hjælp os med at beslutte, om vi skal sammenflette en kundeindtastning med en af dine eksisterende leads, ved at sammenligne deres kontaktoplysninger. Tryk på \"Sammenflet alle\" knappen for at sammenflette alle kunder med eksisterende leads.";
-"customerconfirm_leadinfo"="Leads info";
-"customerconfirm_mergeall"="Sammenflet alle";
-"customerconfirm_mergeallsuccess"="Alle kunder er sammenflettet!";
-"customerconfirm_mergefailed"="Sammenfletning mislykkedes";
-"customerconfirm_sameperson"="Samme person";
-"customerconfirm_title"="Afventende sammenfletninger";
-"debugmenu_help"="Fejlmenuen kan bruges til at teste forskellige funktioner, herunder miljøændringer og API'er.";
-"debugmenu_notoken"="Ingen token til rådighed";
-"debugmenu_title"="Fejlfindingsmenu";
-"event_agenda"="Dagsorden";
-"event_announcements"="Meddelelser";
-"event_bio"="Biografi";
-"event_castvote"="Afgiv stemme";
-"event_materials"="Materialer";
-"event_myschedule"="Min tidsplan";
-"event_polls"="Afstemninger";
-"event_session"="Session";
-"event_sessions"="Sessioner";
-"event_speakers"="Gæstetaler";
-"event_sponsors"="Sponsorer";
-"event_surveys"="Surveys";
-"event_surveysandpolls"="Surveys & afstemninger";
-"event_venuemap"="Lokationskort";
-"eventagenda_help"="Se en arrangement\'s dagsorden. Tryk på en dagsorden for at få flere detaljer. \n\nTryk på \"Følg\" knappen for at få notifikationer før en dagsorden begynder.";
-"eventagenda_title"="Dagsorden";
-"eventagendaitem_help"="Se detaljerne for et arrangements dagsorden. Tryk på \"Følg\" knappen for at få notifikationer før en dagsorden begynder. \n\nTryk på lokation \"Vis mig\" knappen for at se, hvor dagsordens emne finder sted. \n\nTryk på download knappen for at få vist materialer, der er knyttet til dagsordnen. \n\nTryk på \"Gæstetaler\" fanebladet for at se alle de gæstetalere, der er involveret i dagsordenen.";
-"eventagendaitem_title"="Dagsorden emne";
-"eventannouncements_help"="Se alle meddelelser for arrangementer. Vigtige oplysninger om tid og stedændringer findes her.";
-"eventannouncements_title"="Meddelelser";
-"eventdashboard_happeningnow"="Sker nu";
-"eventdashboard_nosessions"="Ingen sessioner forekommer på nuværende tidspunkt.";
-"eventmaterials_help"="Se alle materialer og ressourcer til arrangementet. Tryk på download knappen for at downloade og se materialet.";
-"eventmaterials_title"="Materialer";
-"eventspeakerdetail_help"="Se detaljerne for en gæstetaler til et arrangement. Tryk på \"Favorit\" knappen for at få notifikationer før en gæstetaler kommer på.\n\nTryk på \"Session\" fanebladet for at få vist alle de dagsordenspunkter, som gæstetaleren kommer med.";
-"eventspeakerdetail_title"="Gæstetaler detajler";
-"eventspeakers_help"="Se alle de mennesker, der er gæstetaler på et arrangement. Tryk på en gæstetaler for at se deres bio. \n\nTryk på \"Favorit\"  knappen for at få notifikationer når før en gæstetaler kommer på.";
-"eventspeakers_title"="Gæstetaler";
-"eventsponsordetail_help"="Se detaljer om sponsoren. Tryk på \"Mere info\" knappen for at få yderligere detaljer om sponsoren.";
-"eventsponsordetail_title"="Sponsordetaljer";
-"eventsponsorlist_help"="Se alle vores sponsorer. Tryk på en sponsor for at få flere oplysninger.";
-"eventsponsorlist_title"="Sponsorer";
-"eventsurveydetail_help"="Vælg et svar for hvert spørgsmål. Vælg \"Næste\" knappen for enten at afslutte undersøgelsen eller fortsætte til næste spørgsmål.";
-"eventsurveydetail_needanswer"="Du skal besvare det aktuelle spørgsmål, inden du fortsætter.";
-"eventsurveydetail_surveycomplete"="Tak fordi du gav dit input!";
-"eventsurveydetail_title"="Survey detaljer";
-"eventsurveydetail_voteconfirm"="Er du sikker på, at du vil stemme på dette svar?";
-"eventsurveylist_alreadycompleted"="Du har allerede gennemført denne survey/afstemning.";
-"eventsurveylist_help"="Se alle de survey og afstemninger, der aktuelt finder sted på arrangementet. Giv os dit input for at hjælpe os med at forbedre din oplevelses af arrangementet!";
-"eventsurveylist_title"="Survey/afstemninger";
-"facebookpages_help"="Når vi har din tilladelse, kan vi hjælpe dig med at sende indhold til dine Facebook sider. Vælg en side at sende dit indhold til. \n\nHvis du ikke ser nogen Facebook sider, har vi muligvis brug for at du giver os flere tilladelser. For at gøre det, skal du logge ud af Facebook fra profilskærmen og forsøge at sende igen.";
-"facebookpages_nopages"="Ingen Facebook sider fundet";
-"facebookpages_publishconfirm"="Er du sikker på, at du vil poste til denne Facebook side?";
-"facebookpages_publishfailed"="Der opstod en fejl under udgivelsen til din Facebook side. Prøv igen senere.";
-"facebookpages_publishsuccess"="Et indlæg er blevet postet til din Facebook side!";
-"facebookpages_title"="Facebook sider";
-"general_categories"="Kategorier";
-"general_closed"="Lukket";
-"general_comingsoon"="Kommer snart";
-"general_contactsaccess"="Adgang til kontakter er begrænset. Aktiver adgang til kontakter i enhedens indstillinger.";
-"general_details"="Detaljer";
-"general_facebookrequired"="Installer Facebook programmet for at bruge denne funktion.";
-"general_location"="Lokation";
-"general_moreinfo"="Mere info";
-"general_needhelp"="Brug for hjælp?";
-"general_noadditionalinfo"="Ingen yderligere oplysninger til rådighed.";
-"general_nocontent"="Indhold er ikke tilgængeligt på dit valgte sprog.";
-"general_open"="Åben";
-"general_past"="Tidligere";
-"general_preview"="Forhåndsvisning";
-"general_previous"="Tidligere";
-"general_question"="Spørgsmål";
-"general_remove"="Fjern";
-"general_removeall"="Fjern alt";
-"general_responses"="Svar";
-"general_search"="Søg";
-"general_send"="Send";
-"general_showme"="Vis mig";
-"general_taphere"="Tryk her";
-"general_upcoming"="Kommende";
-"leadactions_customemail"="Brugerdefineret e-mail";
-"leadactions_singleemailconfirm"="Er du sikker på, at du vil sende denne e-mail?";
-"leaddetails_abandonpath"="Forlad sti";
-"leaddetails_abandonpathvalidation"="Dette vil forlade dit leads aktuelle handlingsti. Ønsker du at fortsætte?";
-"leaddetails_actionpathtitle"="Nuværende handlingssti";
-"leaddetails_assignnewpath"="Tildel ny sti";
-"leaddetails_changepath"="Skift billede";
-"leaddetails_completionprogress"="Afslutningsproces";
-"leaddetails_orderstab"="Ordrer";
-"leaddetails_pathneedscontactinfo"="Du kan ikke knytte dette lead til denne ati. Følgende oplysninger er nødvendige";
-"leaddetails_timetocomplete"="Gennemsnitlig tid for at afslutte";
-"leaddetails_viewfullpath"="Se fuld sti";
-"leadorderdetails_help"="Se detaljerne for den valgte rækkefølge. Rul for at se alle de produkter, der er inkluderet i ordren.";
-"leadorderdetails_order"="Ordre";
-"leadorderdetails_ordertype"="Ordre type";
-"leadorderdetails_paid"="Betalt";
-"leadorderdetails_paymenttype"="Betalingstype";
-"leadorderdetails_price"="Pris";
-"leadorderdetails_products"="Produkter";
-"leadorderdetails_quantity"="Antal";
-"leadorderdetails_shipped"="Afsendt";
-"leadorderdetails_title"="Ordre detaljer";
-"leadorderdetails_total"="Total";
-"leadorders_help"="Se en liste over ordrer fra den nuværende kunde. Tryk på en ordre for at se flere detaljer.";
-"leadorders_title"="Ordrer";
-"menu_shoppingcart"="Indkøbskurv";
-"myeventslist_myevents"="Mine arrangementer";
-"myeventslist_upcomingevents"="Kommende arrangementer";
-"myleads_customers"="Kunder";
-"myleads_customertip1"="Når vi registrer at et lead er blevet til en kunde, kan du sammenflette dette lead til en kunde her.";
-"myleads_leads"="Leads";
-"myleads_nocustomersfound"="Ingen kunder fundet";
-"prospector_actionpath"="Handlingssti";
-"prospector_doit"="Gør det";
-"prospector_generaltutorial"="Anbefalede handlinger for alle lead bliver vist nedenfor. Handlinger anbefales baseret på handlingsstien, hvor du tildeler leads.";
-"prospector_norecommendedactions"="Ingen anbefalede handlinger fundet.";
-"prospector_tip1"="Tryk på menuen\"Mine leads \".";
-"prospector_tip2"="Du skal vælge et lead, du vil overføre til en handlingsti.";
-"prospector_tip3"="Tryk på\"Tilføj ny sti\" knappen for at tildele en sti til dette lead.";
-"prospector_tip4"="Med tiden vil vi anbefale handlinger til dig, baseret på den sti du valgte. Du kan se disse handlinger ved at trykke på \"HANDLINGER\" knappen.";
-"prospector_tip5"="Du kan også se anbefalede handlinger ved at vende tilbage til dit dashboard.";
-"prospector_upcomingactionmessage"="Dette kommende handlingselement kan ikke fuldføres før den følgende dato";
-"shoppingcart_added"="Tilføjet";
-"shoppingcart_addtocart"="Tilføj til kurv";
-"shoppingcart_checkout"="Kassen";
-"shoppingcart_clearcart"="Vil du fjerne alle varer fra din indkøbskurv?";
-"shoppingcart_price"="Pris";
-"shoppingcart_removefromcart"="Er du sikker på, at du vil fjerne dette produkt fra din indkøbskurv?";
-"shoppingcart_saleprice"="Udsalgspris";
-"shoppingcart_subtotal"="Subtotal";
-"videoplaylist_addtoplaylist"="Tilføj til afspilningsliste";
-"videoplaylist_allvideos"="Alle videoer";
-"videoplaylist_emptyplaylist"="Du har i øjeblikket ingen videoer i din afspilningsliste. Tilføj mindst én video for at se din afspilningsliste.";
-"videoplaylist_fullplaylist"="Din afspilningsliste er fuld. Fjern venligst en video, før du tilføjer en anden.";
-"videoplaylist_languageerror"="En eller flere af videoerne i din afspilningsliste er ikke tilgængelige i det valgte sprog.";
-"videoplaylist_myvideoplaylist"="Min video afspilningsliste";
-"videoplaylist_removeallconfirm"="Er du sikker på, at du vil fjerne alle videoer fra din afspilningsliste?";
-"videoplaylist_removefromplaylist"="Fjern fra afspilningsliste";
-"videoplaylist_tip1"="Vi introducerer den nye video afspilningsliste funktion! Vælg op til 6 af dine yndlingsvideoer for at dele med dine leads!";
-"videoplaylist_tip2"="Tryk på en video afspilningsliste knap for at tilføje eller fjerne videoen fra din afspilningsliste.";
-"videoplaylist_tip3"="Tryk på \"Min video afspilningsliste\"fanebladet for at se din afspilningsliste!";
-"videoplaylist_tip4"="Tryk og træk dine afspilningsliste videoer for at sortere din afspilningsliste.";
-"videoplaylist_tip5"="Tryk på \"Del\" knappen for at dele din afspilningsliste på de sociale medier.";
-"videoplaylist_tip6"="Tryk på \"Næste\" knappen for at dele din afspilningsliste med dine leads og grupper.";
-"videoplaylist_tip7"="Tryk på \"Fjern alle\" knappen for at fjerne alle videoer fra din afspilningsliste.";
-"videoplaylist_tip8"="Tryk på \"Alle videoer\"fanen for at vende tilbage til den fulde videoliste og dele individuelle videoer.";
-"videoplaylist_title"="Video afspilningsliste";
-
+"actionitemdetail_alreadycompleted" = "Allerede fuldført denne handling?";
+"actionitemdetail_help" = "Se detaljerne for en anbefalet handling. Den supplerende information kan hjælpe dig med at fuldføre handlingen. Hvis du allerede har gennemført handlingen, og den ikke blev registreret, tryk på \"Tryk her\" knappen for at fortsætte.";
+"actionitemdetail_meetingconfirm" = "Har du fuldført mødet?";
+"actionitemdetail_pathcomplete" = "Dette lead har nu afsluttet deres nuværende sti!";
+"actionitemdetail_splitwarning" = "Denne handling er en del af et split i stien. Hvis du udfører denne handling, kan det forhindre dig i at fuldføre andre.";
+"actionitemdetail_takeaction" = "Handling";
+"actionitemdetail_title" = "Anbefalet handling";
+"actionpathpicker_help" = "Vælg en handlingstil for at tildele et lead. Du kan forhåndsvise en handlingsti ved at trykke på \"(i)\" knappen.";
+"actionpathpicker_title" = "Handlingsstier";
+"actionpathviewer_help" = "Se en handlingsti\'s fulde struktur. Du kan trække for at zoome ind eller ud.";
+"actionpathviewer_title" = "Handlingsti fremviser";
+"addlead_addfailure" = "Der opstod en fejl, mens sporet blev tilføjet.";
+"addlead_addlead" = "Tilføj spor";
+"addlead_addsuccessful" = "Spor succesfuldt tilføjet!";
+"addlead_contactvalidation" = "Indtast mindst én kontaktmetode (telefon eller e-mail).";
+"addlead_help" = "Skriv informationen for dit nye spor, du vil tilføje.\n\nDet nye spor SKAL have et fornavn.\n\nDu SKAL også tilføje mindst én kontaktmetode (Telefonnummer eller e-mail) til det nye spor.";
+"addlead_namevalidation" = "Skriv først et fornavn.";
+"addlead_title" = "Tilføj spor";
+"addsupportrequest_help" = "Send os en direkte anmodning om support. Skriv din besked i tekstfeltet og tryk på indsend.";
+"addsupportrequest_instructions" = "Skriv en support-anmodning i beskeden nedenunder";
+"addsupportrequest_success" = "Vi har modtaget din support-anmodning!";
+"addsupportrequest_textvalidation" = "Du skal skrive en besked.";
+"addsupportrequest_title" = "Support-anmodning";
+"admineventdetail_help" = "Se detaljerne for det valgte arrangement.";
+"admineventdetail_title" = "Arrangement detaljer";
+"admineventdetail_totalcheckins" = "Total indtjekninger";
+"admineventdetail_totalregistrants" = "Total registrerede";
+"admineventslist_help" = "Se alle kommende begivenheder og antallet af tilmeldte/registrerede, der kommer.";
+"admineventslist_signups" = "Tilmeldte";
+"admineventslist_title" = "Administrer begivenheder";
+"alerts_deletealerts" = "Slet alle beskeder?";
+"alerts_help" = "Se beskeder forbundet med din konto.\n\nTryk på \"Papirkurv\"-knappen for at slette alle beskeder.";
+"alerts_previewdetailhelp" = "Se detaljer forbundet med en bestemt besked.";
+"alerts_previewdetailtitle" = "Beskeddetaljer";
+"alerts_title" = "Beskeder";
+"android_appnotfound" = "Kan ikke finde app\'en.";
+"android_exitconfirm" = "Er du sikker på, at du vil forlade siden?";
+"android_nogoogleplus" = "Google+ skal være installeret.";
+"android_notificatonssetting" = "Modtag notifikationer";
+"apitestdetail_help" = "Se en specifik API-forespørgsel for at se, hvorfor den mislykkedes.";
+"apitestdetail_title" = "API-detaljer";
+"autodrip_autodrip" = "Auto-Drip";
+"autodrip_cameraroll" = "Kamerarulle";
+"autodrip_gallery" = "Galleri";
+"autodrip_help" = "Lav en Auto-Drip-kalender. Vælg et tidspunkt og ugedagene, du gerne vil mindes om at lave opslag.\n\nTryk på \"Gem\"-knappen for at gemme din kalender.\n\nTryk på \"Lav opslag nu\"-knappen for at lave et opslag nu!\n\nNår du laver et opslag, er det muligt at vælge et billede at lægge op, vælge en besked og vælge et socialt netværk at dele opslaget på.";
+"autodrip_instructions" = "Skriv besked ovenover.";
+"autodrip_library" = "Bibliotek";
+"autodrip_loginvalidation" = "Du skal være logget ind for at lave et opslag.";
+"autodrip_makepostnow" = "Lav opslag nu";
+"autodrip_refreshoption" = "Opdater";
+"autodrip_savefailure" = "Der opstod et problem, mens vi gemte din tidsplan. Prøv igen.";
+"autodrip_savesuccess" = "Din tidsplan blev gemt!";
+"autodrip_schedule" = "Tidsplan";
+"autodrip_socialnetworks" = "Sociale netværk";
+"autodrip_socialvalidation" = "Du skal vælge mindst ét socialt netværk at slå opslag op på.";
+"autodrip_timetopost" = "Auto-Drip - Det er tid til opslag!";
+"autodrip_title" = "Auto-Drip-kalender";
+"badgedetails_help" = "Besku dit badge! Du har fortjent det! Det har du altså!";
+"badgedetails_share" = "Jeg har optjent et badge";
+"badgedetails_title" = "Badgedetaljer";
+"campaignstats_help" = "Se alle dine statistikker for mobilkampagner!";
+"campaignstats_title" = "Kampagnestatistikker";
+"cart_help" = "Gennemgå og rediger din kurv. \n\nTryk på \"Fjern alle\" knappen for at fjerne alle produkter fra kurven. \n\nTryk på \"Gå til kasse\" knappen for at fuldføre købsprocessen.";
+"cart_numberincart" = "Produkter i din kurv";
+"cart_title" = "Indkøbskurv";
+"cartcategories_help" = "Vælg en kategori for at se alle de associerede produkter.";
+"cartcategories_title" = "Kategorier";
+"cartcheckout_confirmation" = "Bekræftelse";
+"cartcheckout_help" = "Se din kurv og udfyld alle formularene for at gennemføre købprocessen.";
+"cartcheckout_ordercomplete" = "Ordre gennemført";
+"cartcheckout_title" = "Kassen";
+"cartproductdetail_help" = "Se detaljerne om et bestemt produkt. \n\nTryk på \"Tilføj til kurv\" knappen for at tilføje produktet til din kurv.";
+"cartproductdetail_title" = "Produktdetaljer";
+"cartproducts_help" = "Vælg et produkt for at se flere detaljer. \n\nTryk på \"Tilføj til kurv\" knappen for at tilføje produktet til din kurv";
+"cartproducts_title" = "Produkter";
+"carttype_help" = "Vælg mellem at lave en detailhandel med køb af engrosprodukt ved at vælge en typeknap.";
+"carttype_retail" = "Detailhandel";
+"carttype_title" = "Valg af kurv";
+"carttype_wholesale" = "JOffice Shop";
+"carttype_wholesaleunavailable" = "Vi arbejder hårdt på at tilføje engroskøb til appen!";
+"customcampaign_camerarolldesc" = "Vælg et billede fra din telefons kamerarulle at bruge til kampagnen.";
+"customcampaign_camerarolltitle" = "Kamerarulle";
+"customcampaign_gallerydesc" = "Vælg et billede fra din telefons galleri at bruge til kampagnen.";
+"customcampaign_gallerytitle" = "Galleri";
+"customcampaign_help" = "Send en række brugerdefinerede kampagner til din sporgruppe.\n\nVælg kamerarullen for at sende en billedkampagne ved at bruge billeder fra din telefons kamerarulle.\n\nVælg optimisme-biblioteket for at sende en billedkampagne fra optimisme-biblioteket.\n\nVælg YouTube for at sende en brugerdefineret YouTube-kampagne.";
+"customcampaign_help_android" = "Send en række brugerdefinerede kampagner til din sporgruppe.\n\nVælg galleriet for at sende en billedkampagne ved at bruge billeder fra din telefons galleri.\n\nVælg optimisme-biblioteket for at sende en billedkampagne fra optimisme-biblioteket.\n\nVælg YouTube for at sende en brugerdefineret YouTube-kampagne.";
+"customcampaign_noimageerror" = "Der opstod et problem med at vælge dit billede. Prøv igen.";
+"customcampaign_optimismdesc" = "Vælg et billede fra det daglige optimisme-bibliotek for at bruge det i kampagnen.";
+"customcampaign_optimismtitle" = "Optimisme-bibliotek";
+"customcampaign_title" = "Brugerdefineret kampagne";
+"customcampaign_virtualpagedesc" = "Bruge en virksomhedsbrugertilpasset virtuelt startside i en kampagne.";
+"customcampaign_virtualpagetitle" = "Virtuel startside";
+"customcampaign_youtubedesc" = "Indtast en YouTube-video for at bruge det i kampagnen.";
+"customcampaign_youtubetitle" = "YouTube";
+"customerconfirm_customerinfo" = "Kundeoplysninger";
+"customerconfirm_differentperson" = "Anden person";
+"customerconfirm_help" = "Hjælp os med at beslutte, om vi skal sammenflette en kundeindtastning med en af dine eksisterende leads, ved at sammenligne deres kontaktoplysninger. Tryk på \"Sammenflet alle\" knappen for at sammenflette alle kunder med eksisterende leads.";
+"customerconfirm_leadinfo" = "Leads info";
+"customerconfirm_mergeall" = "Sammenflet alle";
+"customerconfirm_mergeallsuccess" = "Alle kunder er sammenflettet!";
+"customerconfirm_mergefailed" = "Sammenfletning mislykkedes";
+"customerconfirm_sameperson" = "Samme person";
+"customerconfirm_title" = "Afventende sammenfletninger";
+"dailyoptimism_autodrip" = "Auto-Drip-indstillinger";
+"dailyoptimism_help" = "Se og del den daglige optimisme!\n\nTryk på \"Bibliotek\" for at vælge en tidligere optimisme at dele.";
+"dailyoptimism_library" = "Bibliotek";
+"dailyoptimism_share" = "Del dagens optimisme";
+"dailyoptimism_title" = "Daglig optimisme";
+"dashboard_help" = "Fra kontrolpanelet kan du se alle de seneste informationer om din forretning.\n\nTryk på tabulatorknappen for at skifte mellem fanerne.";
+"dashboard_home" = "Hjem";
+"dashboard_newsfeed" = "Nyheder";
+"dashboard_prospector" = "Prospektor";
+"dashboard_title" = "Kontrolpanel";
+"debugmenu_help" = "Fejlmenuen kan bruges til at teste forskellige funktioner, herunder miljøændringer og API\'er.";
+"debugmenu_notoken" = "Ingen token til rådighed";
+"debugmenu_title" = "Fejlfindingsmenu";
+"editlead_addressinfo" = "Adresseinfo";
+"editlead_basicinfo" = "Basisoplysninger";
+"editlead_contactinfo" = "Kontaktinfo";
+"editlead_help" = "Når du ser på kundeemnets informationer, kan du trykke på knappen \"Rediger\" for at redigere dem. Indtast nye data for kundeemnet og tryk på \"Gem\" for at gemme eventuelle ændringer.";
+"editlead_savesuccessful" = "Kundeemne gemt!";
+"editlead_title" = "Rediger kundeemne";
+"editlead_titleseemore" = "Se detaljer om kundeemne";
+"editmessage_help" = "Skriv en besked, der skal sendes til dine grupper.\n\nTryk på \"X\"-knappen for at slette din indtastede besked.\n\nTryk på \"Bruger\"-knappen for at tilføjet sporets navn i beskeden.\n\nTryk på \"Næste\"-knappen for at fortsætte.";
+"editmessage_instructions" = "Skriv sms-besked, der skal sendes til gruppen.";
+"editmessage_title" = "Rediger besked";
+"editprofile_cameraroll" = "Kamerarulle";
+"editprofile_displaynamevalidation" = "Du skal skrive et skærmnavn.";
+"editprofile_editprofilepic" = "Rediger profilbillede";
+"editprofile_editprofilepictitle" = "Vælg profilbillede fra";
+"editprofile_firstnamevalidation" = "Skriv først et fornavn.";
+"editprofile_gallery" = "Galleri";
+"editprofile_help" = "Rediger din profilinformation og læg et nyt profilbillede op.\n\nProfilbilleder kan lægges op fra din kamerarulle og sociale mediekonti. Du skal logge ind på dine konti, før du kan bruger deres tilknyttede profilbilleder.\n\nTryk på \"gem\"-knappen for at gemme ændringer, du har lavet.";
+"editprofile_help_android" = "Rediger din profilinformation og læg et nyt profilbillede op.\n\nProfilbilleder kan lægges op fra dit galleri og sociale mediekonti. Du skal logge ind på dine konti, før du kan bruger deres tilknyttede profilbilleder.\n\nTryk på \"gem\"-knappen for at gemme ændringer, du har lavet.";
+"editprofile_savefailure" = "Mobilprofilen kunne ikke opdateres. Prøv igen.";
+"editprofile_savesettings" = "Gem indstillinger";
+"editprofile_savesuccess" = "Mobilprofil opdateret!";
+"editprofile_title" = "Rediger profil";
+"emailcampaign_help" = "Vælg en kampagne til planlægning for det valgte kundeemne fra alle tilgængelige e-mail-kampagner. Tryk på en kampagne for straks at starte den for kundeemnet.";
+"emailcampaign_title" = "E-mail-kampagner";
+"emailmessages_help" = "Vælg en individual e-mail-besked at sende til det valgte kundeemne. Tryk på knappen \"Info (i)\" for at gennemse beskeden, før den sendes.";
+"emailmessages_title" = "E-mail-beskeder";
+"event_agenda" = "Dagsorden";
+"event_announcements" = "Meddelelser";
+"event_bio" = "Biografi";
+"event_castvote" = "Afgiv stemme";
+"event_materials" = "Materialer";
+"event_myschedule" = "Min tidsplan";
+"event_polls" = "Afstemninger";
+"event_session" = "Session";
+"event_sessions" = "Sessioner";
+"event_speakers" = "Gæstetaler";
+"event_sponsors" = "Sponsorer";
+"event_surveys" = "Surveys";
+"event_surveysandpolls" = "Surveys & afstemninger";
+"event_venuemap" = "Lokationskort";
+"eventagenda_help" = "Se en arrangement\'s dagsorden. Tryk på en dagsorden for at få flere detaljer. \n\nTryk på \"Følg\" knappen for at få notifikationer før en dagsorden begynder.";
+"eventagenda_title" = "Dagsorden";
+"eventagendaitem_help" = "Se detaljerne for et arrangements dagsorden. Tryk på \"Følg\" knappen for at få notifikationer før en dagsorden begynder. \n\nTryk på lokation \"Vis mig\" knappen for at se, hvor dagsordens emne finder sted. \n\nTryk på download knappen for at få vist materialer, der er knyttet til dagsordnen. \n\nTryk på \"Gæstetaler\" fanebladet for at se alle de gæstetalere, der er involveret i dagsordenen.";
+"eventagendaitem_title" = "Dagsorden emne";
+"eventannouncements_help" = "Se alle meddelelser for arrangementer. Vigtige oplysninger om tid og stedændringer findes her.";
+"eventannouncements_title" = "Meddelelser";
+"eventdashboard_happeningnow" = "Sker nu";
+"eventdashboard_nosessions" = "Ingen sessioner forekommer på nuværende tidspunkt.";
+"eventmaterials_help" = "Se alle materialer og ressourcer til arrangementet. Tryk på download knappen for at downloade og se materialet.";
+"eventmaterials_title" = "Materialer";
+"eventspeakerdetail_help" = "Se detaljerne for en gæstetaler til et arrangement. Tryk på \"Favorit\" knappen for at få notifikationer før en gæstetaler kommer på.\n\nTryk på \"Session\" fanebladet for at få vist alle de dagsordenspunkter, som gæstetaleren kommer med.";
+"eventspeakerdetail_title" = "Gæstetaler detajler";
+"eventspeakers_help" = "Se alle de mennesker, der er gæstetaler på et arrangement. Tryk på en gæstetaler for at se deres bio. \n\nTryk på \"Favorit\"  knappen for at få notifikationer når før en gæstetaler kommer på.";
+"eventspeakers_title" = "Gæstetaler";
+"eventsponsordetail_help" = "Se detaljer om sponsoren. Tryk på \"Mere info\" knappen for at få yderligere detaljer om sponsoren.";
+"eventsponsordetail_title" = "Sponsordetaljer";
+"eventsponsorlist_help" = "Se alle vores sponsorer. Tryk på en sponsor for at få flere oplysninger.";
+"eventsponsorlist_title" = "Sponsorer";
+"eventsurveydetail_help" = "Vælg et svar for hvert spørgsmål. Vælg \"Næste\" knappen for enten at afslutte undersøgelsen eller fortsætte til næste spørgsmål.";
+"eventsurveydetail_needanswer" = "Du skal besvare det aktuelle spørgsmål, inden du fortsætter.";
+"eventsurveydetail_surveycomplete" = "Tak fordi du gav dit input!";
+"eventsurveydetail_title" = "Survey detaljer";
+"eventsurveydetail_voteconfirm" = "Er du sikker på, at du vil stemme på dette svar?";
+"eventsurveylist_alreadycompleted" = "Du har allerede gennemført denne survey/afstemning.";
+"eventsurveylist_help" = "Se alle de survey og afstemninger, der aktuelt finder sted på arrangementet. Giv os dit input for at hjælpe os med at forbedre din oplevelses af arrangementet!";
+"eventsurveylist_title" = "Survey/afstemninger";
+"facebookpages_help" = "Når vi har din tilladelse, kan vi hjælpe dig med at sende indhold til dine Facebook sider. Vælg en side at sende dit indhold til. \n\nHvis du ikke ser nogen Facebook sider, har vi muligvis brug for at du giver os flere tilladelser. For at gøre det, skal du logge ud af Facebook fra profilskærmen og forsøge at sende igen.";
+"facebookpages_nopages" = "Ingen Facebook sider fundet";
+"facebookpages_publishconfirm" = "Er du sikker på, at du vil poste til denne Facebook side?";
+"facebookpages_publishfailed" = "Der opstod en fejl under udgivelsen til din Facebook side. Prøv igen senere.";
+"facebookpages_publishsuccess" = "Et indlæg er blevet postet til din Facebook side!";
+"facebookpages_title" = "Facebook sider";
+"genealogy_help" = "Se hele dit stamtræ.";
+"genealogy_title" = "Genealogi";
+"general_accept" = "Accepter";
+"general_add" = "Tilføj";
+"general_addnew" = "Tilføj ny +";
+"general_address" = "Adresse";
+"general_appversion" = "Appversion";
+"general_back" = "Tilbage";
+"general_cancel" = "Annuller";
+"general_cantmakecalls" = "Enheden kan ikke foretage opkald.";
+"general_cantsendemail" = "Enheden kan ikke sende e-mail. Tjek din e-mail-opsætning og prøv igen.";
+"general_cantsendsms" = "Enheden kan ikke sende sms-beskeder.";
+"general_categories" = "Kategorier";
+"general_cell" = "Mobil";
+"general_city" = "By";
+"general_closed" = "Lukket";
+"general_comingsoon" = "Kommer snart";
+"general_contact" = "Kontakt";
+"general_contactsaccess" = "Adgang til kontakter er begrænset. Aktiver adgang til kontakter i enhedens indstillinger.";
+"general_country" = "Land ";
+"general_create" = "Opret";
+"general_days" = "Dag(e)";
+"general_decline" = "Afvis";
+"general_delete" = "Slet";
+"general_details" = "Detaljer";
+"general_devicelanguage" = "Enhedssprog";
+"general_devicemodel" = "Enhedsmodel";
+"general_deviceos" = "Enhedsstyresystem";
+"general_displayname" = "Vist navn";
+"general_done" = "Færdig";
+"general_edit" = "Rediger";
+"general_email" = "E-mail";
+"general_error" = "Fejl";
+"general_exit" = "Forlad siden";
+"general_facebook" = "Facebook";
+"general_facebookrequired" = "Installer Facebook programmet for at bruge denne funktion.";
+"general_facebookurl" = "Facebook-URL";
+"general_filter" = "Filter";
+"general_filterby" = "Filtrér efter";
+"general_firstname" = "Fornavn";
+"general_forward" = "Frem";
+"general_friday" = "Fredag";
+"general_googleplus" = "Google+";
+"general_hours" = "Time(r)";
+"general_info" = "Info";
+"general_language" = "Sprog";
+"general_lastname" = "Efternavn";
+"general_lead" = "Kundeemne";
+"general_loading" = "Indlæser";
+"general_location" = "Lokation";
+"general_monday" = "Mandag";
+"general_more" = "Flere";
+"general_moreinfo" = "Mere info";
+"general_name" = "Navn";
+"general_needhelp" = "Brug for hjælp?";
+"general_next" = "Næste";
+"general_no" = "Nej";
+"general_noadditionalinfo" = "Ingen yderligere oplysninger til rådighed.";
+"general_nocontent" = "Indhold er ikke tilgængeligt på dit valgte sprog.";
+"general_nointernet" = "Kunne ikke forbinde til internettet. Tjek dine netværksindstillinger og prøv igen.";
+"general_none" = "Ingen";
+"general_notice" = "Bemærk";
+"general_off" = "FRA";
+"general_ok" = "Ok";
+"general_on" = "TIL";
+"general_open" = "Åben";
+"general_past" = "Tidligere";
+"general_phone" = "Telefon";
+"general_phonenumber" = "Telefonnummer";
+"general_post" = "Slå op";
+"general_postalcode" = "Postnummer";
+"general_preview" = "Forhåndsvisning";
+"general_previous" = "Tidligere";
+"general_province" = "Område";
+"general_question" = "Spørgsmål";
+"general_remove" = "Fjern";
+"general_removeall" = "Fjern alt";
+"general_reset" = "Nulstil";
+"general_responses" = "Svar";
+"general_saturday" = "Lørdag";
+"general_save" = "Gem";
+"general_saveconfirm" = "Would you like to save changes?";
+"general_search" = "Søg";
+"general_secondphone" = "Sekundær telefon";
+"general_seemore" = "Se mere";
+"general_send" = "Send";
+"general_settings" = "Indstillinger";
+"general_share" = "Del";
+"general_showme" = "Vis mig";
+"general_skypeusername" = "Skype-brugernavn";
+"general_state" = "Stat";
+"general_status" = "Status";
+"general_submit" = "Indsend";
+"general_success" = "Succes";
+"general_sunday" = "Søndag";
+"general_taphere" = "Tryk her";
+"general_thursday" = "Torsdag";
+"general_title" = "Titel";
+"general_tuesday" = "Tirsdag";
+"general_twitter" = "Twitter";
+"general_twitterhandle" = "Twitter-brugernavn";
+"general_unknownerror" = "En ukendt fejl er sket. Prøv igen.";
+"general_unknownname" = "Ukendt navn";
+"general_upcoming" = "Kommende";
+"general_username" = "Brugernavn";
+"general_webpageerror" = "Kunne ikke indlæse hjemmeside.";
+"general_wednesday" = "Onsdag";
+"general_work" = "Arbejde";
+"general_yes" = "Ja";
+"general_zip" = "Postnummer";
+"groupdetails_help" = "Se spor i den nuværende gruppe.\n\nTryk på \"Rediger (Blyant)-knappen for at slette et spor.\n\nTryk på \"Tilføj nyt +\"-knappen for at tilføje et spor til den nuværende gruppe.";
+"groupdetails_title" = "Gruppedetaljer";
+"helpcenter_help" = "Hjælp er kun et klik væk! Tryk på titlen i navigationsbaren på enhver side.\n\nHvis der er hjælp tilgængelig, vil det vises i et nyt vindue ligesom dette!\n\nPrøv at trykke på titlen på andre sider!";
+"helpcenter_instructions" = "Har du brug for hjælp? Tryk på titlen \"Hjælpecenter\" i navigationsbaren ovenover!\nGør det! Tryk på den!";
+"helpcenter_rateappdesc" = "Kan du lide, hvad du ser? Giv os 5 stjerner i App Store!";
+"helpcenter_rateapptitle" = "Vurdér app\'en";
+"helpcenter_supportdesc" = "Bed om hjælp eller meld et problem i app\'en til os.";
+"helpcenter_supporttitle" = "Anmod om support";
+"helpcenter_title" = "Hjælpecenter";
+"helpcenter_trainingdesc" = "Få nyttig træning i, hvordan du bruger app\'en bedst muligt!";
+"helpcenter_trainingtitle" = "Træningsvideoer";
+"language_select" = "Vælg sprog";
+"leadactions_cancelscheduledaction" = "Er du sikker på, at du vil annullere denne handling?";
+"leadactions_customemail" = "Brugerdefineret e-mail";
+"leadactions_doit" = "Gør det";
+"leadactions_emailcampaign" = "E-mail-kampagne";
+"leadactions_help" = "Se, start og annuller anbefalede og planlagte handlinger. Tryk på knappen \"Gør det\" for at udføre en anbefalet handling for et kundeemne. For at tilføje en ny planlagt handling trykkes på knappen \"Tilføj ny\". En planlagt handling kan annulleres ved at trykke på knappen \"Annuller\".";
+"leadactions_norecommendedactions" = "Ingen anbefalede handlinger fundet.";
+"leadactions_noscheduledactions" = "Ingen planlagte handlinger fundet.";
+"leadactions_recommendedactions" = "Anbefalede handlinger";
+"leadactions_reminder" = "Påmindelse";
+"leadactions_scheduledactions" = "Planlagte handlinger";
+"leadactions_singleemail" = "Enkelt e-mail";
+"leadactions_singleemailconfirm" = "Er du sikker på, at du vil sende denne e-mail?";
+"leadactions_title" = "Kundeemne handlinger";
+"leaddetails_abandonpath" = "Forlad sti";
+"leaddetails_abandonpathvalidation" = "Dette vil forlade dit leads aktuelle handlingsti. Ønsker du at fortsætte?";
+"leaddetails_actionpathtitle" = "Nuværende handlingssti";
+"leaddetails_actionstab" = "Handlinger";
+"leaddetails_assignnewpath" = "Tildel ny sti";
+"leaddetails_changeimagetitle" = "Ændre billede";
+"leaddetails_changepath" = "Skift billede";
+"leaddetails_completionprogress" = "Afslutningsproces";
+"leaddetails_deletelead" = "Slet kundeemne";
+"leaddetails_deleteleadmessage" = "Er du sikker på, at du vil slette dette kundeemne?";
+"leaddetails_deleteleadtitle" = "Slet aktuelle kundeemne";
+"leaddetails_emailoptedin" = "Valgt at modtage e-mails.";
+"leaddetails_emailoptedout" = "Ikke valgt at modtage e-mails.";
+"leaddetails_help" = "Se og rediger et enkelt kundeemne. Hold styr på logs, statistikker og noter. Tryk på knappen \"Handlinger\" for at planlægge e-mail-kampagner og påmindelser. Tryk på knappen \"Slet kundeemne\" for at slette det valgte kundeemne.";
+"leaddetails_logtab" = "Log";
+"leaddetails_nocameramessage" = "App\'en kunne ikke få adgang til kameraet på denne enhed.";
+"leaddetails_nocameratitle" = "Kamera ikke tilgængeligt";
+"leaddetails_nophotolibrarymessage" = "App\'en kunne ikke få adgang til fotobiblioteket.";
+"leaddetails_nophotolibrarytitle" = "Fotobibliotek ikke tilgængeligt";
+"leaddetails_notestab" = "Noter";
+"leaddetails_optinrequest" = "Please click here to opt in so I may continue to share valuable information with you!";
+"leaddetails_orderstab" = "Ordrer";
+"leaddetails_pathneedscontactinfo" = "Du kan ikke knytte dette lead til denne ati. Følgende oplysninger er nødvendige";
+"leaddetails_photolibrary" = "Fotobibliotek";
+"leaddetails_removeimage" = "Fjern nuværende billede";
+"leaddetails_smsoptedin" = "Valgt at modtage sms-beskeder.";
+"leaddetails_smsoptedout" = "Ikke valgt at modtage sms-beskeder.";
+"leaddetails_statstab" = "Statistik";
+"leaddetails_takepicture" = "Tag billede";
+"leaddetails_timetocomplete" = "Gennemsnitlig tid for at afslutte";
+"leaddetails_title" = "Spordetaljer";
+"leaddetails_viewfullpath" = "Se fuld sti";
+"leadlog_help" = "Se eventuelle tidligere handlinger eller begivenheder for det valgte kundeemne.";
+"leadlog_title" = "Kundeemne log";
+"leadnotes_help" = "Tilføj og se noter for det valgte kundeemne. Tryk på knappen \"Plus (+)\" for at tilføje en ny note.";
+"leadnotes_newnote" = "Ny note";
+"leadnotes_title" = "Kundeemne noter";
+"leadorderdetails_help" = "Se detaljerne for den valgte rækkefølge. Rul for at se alle de produkter, der er inkluderet i ordren.";
+"leadorderdetails_order" = "Ordre";
+"leadorderdetails_ordertype" = "Ordre type";
+"leadorderdetails_paid" = "Betalt";
+"leadorderdetails_paymenttype" = "Betalingstype";
+"leadorderdetails_price" = "Pris";
+"leadorderdetails_products" = "Produkter";
+"leadorderdetails_quantity" = "Antal";
+"leadorderdetails_shipped" = "Afsendt";
+"leadorderdetails_title" = "Ordre detaljer";
+"leadorderdetails_total" = "Total";
+"leadorders_help" = "Se en liste over ordrer fra den nuværende kunde. Tryk på en ordre for at se flere detaljer.";
+"leadorders_title" = "Ordrer";
+"leadstats_duration" = "Varighed";
+"leadstats_emailsnotread" = "E-mails ikke læst";
+"leadstats_emailsread" = "E-mails læst";
+"leadstats_emailstats" = "E-mail-statistik";
+"leadstats_help" = "Se alle e-mail- og videostatistikker for det valgte kundeemne.";
+"leadstats_secs" = "sekunder";
+"leadstats_times" = "gange";
+"leadstats_title" = "Kundeemne statistik";
+"leadstats_videostats" = "Videostatistik";
+"leadstats_watched" = "Set";
+"localdevice_addexistingcontact" = "Tilføj til eksisterende kontakt";
+"localdevice_createnewcontact" = "Opret nyt kontakt";
+"localdevice_sendmessage" = "Send besked";
+"login_help" = "Indtast dit brugernavn og adgangskode for at logge ind. \n\n Tryk på \"Hold mig logget ind\"-knappen for at lade app\'en huske dit brugernavn og adgangskode. App\'en vil ved åbning så forsøge at logge dig automatisk ind!";
+"login_keepmeconnected" = "Hold mig logget ind";
+"login_loading" = "Logger ind";
+"login_login" = "Log ind";
+"login_loginerror" = "Der skete en fejl under loginprocessen. Tjek dit brugernavn og adgangskode og prøv igen.";
+"login_loginmethodprompt" = "Fortæl os, hvordan vi skal forbinde dig.";
+"login_methodtouchid" = "Brug Touch ID";
+"login_methoduser" = "Husk kun brugernavn ";
+"login_methoduserandpass" = "Husk brugernavn & adgangskode";
+"login_password" = "Adgangskode";
+"login_title" = "Velkommen";
+"login_version" = "Version";
+"managegroups_contacts" = "Kontakter";
+"managegroups_groupname" = "Gruppenavn";
+"managegroups_help" = "Se og rediger grupper for spor for at gøre det lettere at sende kampagner hurtigt ud!\n\nTryk på \"Rediger (Blyant)\"-knappen for at slette en gruppe.\n\nTryk på \"Tilføj ny +\"-knappen for at oprette en ny gruppe.";
+"managegroups_namevalidation" = "En gruppe skal have et navn.";
+"managegroups_newgroup" = "Ny gruppe";
+"managegroups_newgroupname" = "Ny gruppenavn:";
+"managegroups_title" = "Grupper";
+"menu_adminevents" = "Administrer begivenheder";
+"menu_alerts" = "Beskeder";
+"menu_backoffice" = "Backoffice Web";
+"menu_campaignstats" = "Kampagnestatistikker";
+"menu_customcampaign" = "Brugerdefineret kampagne";
+"menu_dashboard" = "Kontrolpanel";
+"menu_genealogy" = "Genealogi";
+"menu_groupsms" = "Gruppe-sms";
+"menu_helpcenter" = "Hjælpecenter";
+"menu_home" = "Hjem";
+"menu_homeheader" = "HJEM";
+"menu_jofficeheader" = "JOFFICE™";
+"menu_leadmanagementheader" = "MINE SPOR";
+"menu_logout" = "Log ud";
+"menu_managegroups" = "Håndter grupper";
+"menu_messages" = "Beskeder";
+"menu_moreheader" = "FLERE";
+"menu_mybadges" = "Mine badges";
+"menu_myevents" = "Mine begivenheder";
+"menu_myleads" = "Mine spor";
+"menu_newsignup" = "Tilføj ny tilmelding";
+"menu_optimism" = "Optimisme";
+"menu_otherheader" = "ANDRE";
+"menu_peoplesponsored" = "Personer I Sponsor";
+"menu_profile" = "Profil";
+"menu_promotions" = "KAMPAGNER";
+"menu_reports" = "Rapporter";
+"menu_shoppingcart" = "Indkøbskurv";
+"menu_smartcloud" = "SmartCloud";
+"menu_sod" = "Success On Demand";
+"menu_trainingvideos" = "Træningsvideoer";
+"menu_videocampaign" = "Videokampagne";
+"messages_help" = "Se dine personlige kontobeskeder.\n\nSvirp til venstre på en besked for at kunne slette den.\n\nTryk på \"Mappe\"-knappen i bundbaren for at skifte mellem din indbakke og papirkurven.\n\nTryk på en besked for at se dens indhold.";
+"messages_inbox" = "Indbakke";
+"messages_title" = "Beskeder";
+"messages_trash" = "Papirkurv";
+"mybadges_getfailure" = "Kunne ikke downloade badges. Prøv igen.";
+"mybadges_help" = "Se alle de badges, du har optjent ved at deltage i begivenheder, sende kampagner ud, osv. Tryk på et badge for at se det i hele dets storhed!";
+"mybadges_multipleearned" = "Du har optjent nye badges!";
+"mybadges_notearned" = "Du har ikke optjent det her badge endnu!";
+"mybadges_points" = "Point";
+"mybadges_sharebadge" = "Del badge";
+"mybadges_singleearned" = "Du har optjent et badge";
+"mybadges_title" = "Mine badges";
+"myeventsdetail_downloadreminder" = "Nogle gange er der dårlig og/eller ingen internetforbindelse til begivenheder, så det er vigtigt at downloade den her QR-kode ved at trykke på \"Gem til kamerarulle\"-knappen.";
+"myeventsdetail_downloadreminder_android" = "Nogle gange er der dårlig og/eller ingen internetforbindelse til begivenheder, så det er vigtigt at downloade den her QR-kode ved at trykke på \"Gem til galleri\"-knappen.";
+"myeventsdetail_help" = "Det her er din QR-kode til den valgte begivenhed. Vis den til en begivenhedsadministrator for at få adgang.\n\nNogle gange er der dårlig og/eller ingen internetforbindelse til begivenheder, så det er vigtigt at downloade den her QR-kode ved at trykke på \"Gem til kamerarulle\"-knappen.";
+"myeventsdetail_help_android" = "Det her er din QR-kode til den valgte begivenhed. Vis den til en begivenhedsadministrator for at få adgang.\n\nNogle gange er der dårlig og/eller ingen internetforbindelse til begivenheder, så det er vigtigt at downloade den her QR-kode ved at trykke på \"Gem til galleri\"-knappen.";
+"myeventsdetail_qrcodesavefailure" = "QR-kode blev ikke gemt.";
+"myeventsdetail_qrcodesavesuccess" = "QR-kode gemt!";
+"myeventsdetail_savetocameraroll" = "Gem til kamerarulle";
+"myeventsdetail_savetogallery" = "Gem til galleri";
+"myeventsdetail_title" = "Min begivenheds QR-kode";
+"myeventslist_help" = "Se en lister over begivenheder, du er tilmeldt.\n\nTryk på en begivenhed for at se din kode til den.";
+"myeventslist_myevents" = "Mine arrangementer";
+"myeventslist_notregistered" = "Du er ikke registreret til nogen begivenheder i øjeblikket.";
+"myeventslist_title" = "Mine begivenheder";
+"myeventslist_upcomingevents" = "Kommende arrangementer";
+"myleads_addcontact" = "Tilføj fra kontakter";
+"myleads_addcontacterror" = "Der opstod en fejl, mens kontakten blev tilføjet.";
+"myleads_addcontactsuccess" = "Kontakt succesfuldt tilføjet!";
+"myleads_addlead" = "Tilføj spor";
+"myleads_addnewlead" = "Tilføj nyt spor";
+"myleads_ascending" = "Stigende";
+"myleads_changestatusto" = "Skift status til";
+"myleads_contacts" = "Kontakter";
+"myleads_customers" = "Kunder";
+"myleads_customertip1" = "Når vi registrer at et lead er blevet til en kunde, kan du sammenflette dette lead til en kunde her.";
+"myleads_descending" = "Faldende";
+"myleads_deviceview" = "Lokal enhedsvindue";
+"myleads_freesample" = "Send gratis prøve-link";
+"myleads_help" = "Se og rediger dine nuværende spor.\n\nTryk på \"Tilføj (+)\"-knappen for at tilføje spor fra enten dine kontakter eller manuel indtastning!\n\nTryk på et spor for at redigere detaljerne. Svirp et spor til venstre for at se yderligere muligheder.\n\nTryk på \"Sortér\"-knappen for at sortere din sporliste. Du kan sortere spor efter både stigende og faldende værdier.\n\nSpor kan også filtreres ved at bruge \"Filter\"-knappen og søgefeltet.";
+"myleads_leads" = "Leads";
+"myleads_nocontactinfo" = "Ingen kontaktinfo tilgængelig.";
+"myleads_nocustomersfound" = "Ingen kunder fundet";
+"myleads_noleademail" = "Ingen e-mail sat for det valgte spor.";
+"myleads_noleadphone" = "Intet telefonnummer sat for det valgte spor.";
+"myleads_sendoptinout" = "Send tilvælg/fravælg link";
+"myleads_signuplink" = "Send tilmeldingslink";
+"myleads_sort" = "Sortér";
+"myleads_sortby" = "Sortér efter";
+"myleads_statuscold" = "Kold";
+"myleads_statushot" = "Hot";
+"myleads_statusnew" = "Ny";
+"myleads_statusnextstep" = "Næste trin";
+"myleads_statuswarm" = "Varm";
+"myleads_title" = "Mine spor";
+"myleads_videoplayer" = "Send min videoafspiller";
+"newsignup_help" = "Tilføj en ny tilmelding ved at skrive dit brugernavn/sideurl og tryppe på \"tilmeld-\"knappen. Du vil blive bedt om at udfylde den nødvendige tilmeldingsinformation.";
+"newsignup_invalidmessage" = "Du skal skrive et valid brugernavn/sideurl.";
+"newsignup_signup" = "Tilmeld dig";
+"newsignup_sponsor" = "Sponsor sideurl";
+"newsignup_title" = "Ny tilmelding";
+"optimismlibrary_help" = "Vælg en optimisme fra biblioteket for at fortsætte med at dele.";
+"optimismlibrary_title" = "Bibliotek";
+"peopleisponsor_help" = "Se og kontakt folk, som du personligt sponsorerer. Tryk på en sponsor for at se flere detaljer.";
+"peopleisponsor_title" = "Personer I Sponsor";
+"peopleisponsordetail_help" = "Se kontaktinfo for den valgte sponsor. Tryk på e-mail- eller telefonknapperne for at kontakte sponsoren.";
+"peopleisponsordetail_title" = "Personer I Sponsor";
+"profile_autodripdesc" = "Planlæg og lav opslag til Auto-Drip til alle dine sociale mediekonti.";
+"profile_autodriptitle" = "Auto-Drip-indstillinger";
+"profile_editprofiledesc" = "Rediger dine mobilprofilindstillinger, deriblandt navn, kontaktinfo og profilbillede.";
+"profile_editprofiletitle" = "Rediger profil";
+"profile_help" = "Se din mobilprofil.\n\nVælg rediger profil for at redigere din profilinformation.\n\nVælg log ind på sociale medier for at logge ind på dine sociale mediekonti.\n\nVælg Auto-Drip-indstillinger for at redigere din personlige optimisme Auto-Drip opslagskalender.";
+"profile_mywebsite" = "Min hjemmeside";
+"profile_socialmediadesc" = "Log ind på sociale mediekonti for at bruge funktioner som Auto-Drip-kampagner.";
+"profile_socialmediatitle" = "Log ind på social medie";
+"profile_title" = "Mobilprofil";
+"prospector_actionpath" = "Handlingssti";
+"prospector_doit" = "Gør det";
+"prospector_generaltutorial" = "Anbefalede handlinger for alle lead bliver vist nedenfor. Handlinger anbefales baseret på handlingsstien, hvor du tildeler leads.";
+"prospector_norecommendedactions" = "Ingen anbefalede handlinger fundet.";
+"prospector_tip1" = "Tryk på menuen\"Mine leads \".";
+"prospector_tip2" = "Du skal vælge et lead, du vil overføre til en handlingsti.";
+"prospector_tip3" = "Tryk på\"Tilføj ny sti\" knappen for at tildele en sti til dette lead.";
+"prospector_tip4" = "Med tiden vil vi anbefale handlinger til dig, baseret på den sti du valgte. Du kan se disse handlinger ved at trykke på \"HANDLINGER\" knappen.";
+"prospector_tip5" = "Du kan også se anbefalede handlinger ved at vende tilbage til dit dashboard.";
+"prospector_upcomingactionmessage" = "Dette kommende handlingselement kan ikke fuldføres før den følgende dato";
+"rateappprompt_cancel" = "Ikke nu";
+"rateappprompt_message" = "Kan du lide app\'en? Vil du bedømme den nuværende version?";
+"rateappprompt_title" = "Bedøm app?";
+"reminder_help" = "Opret en påmindelse bestående af en titel og en kort besked. Brug datovælgeren til at vælge en dato, hvor påmindelsen skal planlægges.";
+"reminder_messagelabel" = "Besked";
+"reminder_messageneeded" = "Du skal indtaste en besked for påmindelsen.";
+"reminder_title" = "Opret påmindelse";
+"reminder_titlelabel" = "Titel";
+"reminder_titleneeded" = "Du skal indtaste en titel for påmindelsen.";
+"reportparams_help" = "Indtast og vælg de nødvendige parametre for at generere den valgte rapport.";
+"reportparams_title" = "Rapportparametre";
+"reportparams_viewreports" = "Se rapporter";
+"reportslist_help" = "Se alle dine forretningsrapporter direkte på din mobiltelefon! Tryk på en rapport for at se den.";
+"reportslist_title" = "Rapporter";
+"reportviewer_help" = "Se den genereret rapport fra de tidligere valgte parametre,";
+"reportviewer_title" = "Rapportlæser";
+"selectcontacts_addgroupleaderror" = "Der skete en fejl, mens sporet blev tilføjet til gruppen.";
+"selectcontacts_help" = "Vælg de kontakter, du vil bruge.\n\nKontakter fra din mobiltelefon vil fremstå med et telefonikon ved siden af dem. Backoffice-spor vil fremstå med et telefonbogikon.\n\nFiltrér kontakter ved at skrive i søgefeltet. Tryk på \"Skjul tastatur\"-knappen for at skjule tastaturet efter søgningen.\n\nKontakter valgt fra din mobiltelefon vil automatisk blive tilføjet til dine Backoffice-spor.";
+"selectcontacts_primary" = "primær";
+"selectcontacts_title" = "Vælg kontakter";
+"selectcontacts_uploadcontacterror" = "Der skete en fejl, mens kontakten blev uploadet.";
+"selectgroups_contactvalidation" = "Du skal vælge en gruppe(r) med et eller flere telefonnumre for at sende en besked.";
+"selectgroups_help" = "Vælg sporgrupperne, du vil sende kampagnerne til.";
+"selectgroups_instructions" = "Vælg grupper, du vil sende kampagnen til:";
+"selectgroups_newgroup" = "Ny gruppe";
+"selectgroups_selectcontacts" = "Vælg fra telefonbog";
+"selectgroups_title" = "Vælg gruppe";
+"sendmessage_help" = "Bekræft sporene, du vil sende din kampagne til og tryk på \"Send beskeder\"-knappen for at sende den.\n\nTryk på \"Annuller\"-knappen for at genstarte vælge-processen for kampagnen.";
+"sendmessage_instructions" = "Gennemlæs for at sende.";
+"sendmessage_messagesent" = "Besked sendt";
+"sendmessage_sendmessages" = "Send besked(er)";
+"sendmessage_sendsuccess" = "Besked(er) er sendt.";
+"sendmessage_title" = "Send besked";
+"shareoptimism_help" = "Se og del den optimisme, du har valgt fra biblioteket!!\n\nTryk på tilbage-knappen for at vende tilbage til biblioteket.";
+"shareoptimism_share" = "Del optimismen";
+"shareoptimism_title" = "Optimisme";
+"shoppingcart_added" = "Tilføjet";
+"shoppingcart_addtocart" = "Tilføj til kurv";
+"shoppingcart_checkout" = "Kassen";
+"shoppingcart_clearcart" = "Vil du fjerne alle varer fra din indkøbskurv?";
+"shoppingcart_price" = "Pris";
+"shoppingcart_removefromcart" = "Er du sikker på, at du vil fjerne dette produkt fra din indkøbskurv?";
+"shoppingcart_saleprice" = "Udsalgspris";
+"shoppingcart_subtotal" = "Subtotal";
+"smartcloud_downloading" = "Downloader";
+"smartcloud_help" = "Se alle filer og mapper i Cloud.\n\nTryk på download-knappen for at downloade en fil.\n\nHvis filen allerede er downloadet lokalt vil download-knappen ikke blive vist. Tryk på filen for at åbne og se den.\n\nFor at slette en lokalt downloadet fil, svirp på filen fra højre mod venstre for at vise slet-knappen.";
+"smartcloud_removelocal" = "Fjern lokal";
+"smartcloud_title" = "SmartCloud";
+"socialmedia_help" = "Log ind på dine sociale netværk. Ved at logge ind kan du bruger et socale medie-profilbillede på din mobilprofil og lave optimisme Auto-Drip-opslag.";
+"socialmedia_howeusetitle" = "Hvordan vi bruger sociale medie-konti:";
+"socialmedia_howweusedesc" = "- Få adgang til basal profilinformation (navn, skærmnavn, osv)\n- Få adgang til profilbilleder at vise i app\'en\n- Anmod om tilladelse til at lade dig lave opslag";
+"socialmedia_title" = "Sociale medier";
+"sod_help" = "Tilgå det fulde indhold af Success On Demand!";
+"sod_title" = "Success On Demand";
+"supportrequests_help" = "Tilgå de support-anmodninger, du har oprettet. Tryk på en anmodning for at se svarene.\n\nTryk på Tilføj (+)-knappen for at lave en ny anmodning.";
+"supportrequests_title" = "Support-anmodninger";
+"supportresponses_help" = "Se din support-anmodningsinfo udover vores supportholds svar.\n\nBrug beskedbaren i bunden til at svare.";
+"supportresponses_placeholdertext" = "Besked";
+"supportresponses_send" = "Send";
+"supportresponses_title" = "Svar fra support";
+"tos_help" = "Læs Servicevilkår-aftalen for brug af denne app. Accepter eller afvis aftalen. Hvis du afviser aftalen, kan du ikke bruge funktionerne i app\'en mere.";
+"tos_title" = "Servicevilkår";
+"trainingvideos_help" = "Se træningsvideoer.\n\nTryk på videorækken for at se videoen.";
+"trainingvideos_title" = "Træningsvideoer";
+"videocampaign_help" = "Vælg, se og send videokampagner.\n\nTryk på \"Info (i)\"-knappen for at se den.\n\nVælg en kampagne og tryk på \"Næste\"-knappen for at fortsætte.\n\nTryk på \"Muligheder\"-knappen i bundbaren efter at have valgt en kampagne for at dele den.";
+"videocampaign_nocategoriesfound" = "Ingen kategorier fundet";
+"videocampaign_novideosfound" = "Ingen videoer fundet";
+"videocampaign_previewtitle" = "Se videokampagne";
+"videocampaign_title" = "Videokampagne";
+"videoplaylist_addtoplaylist" = "Tilføj til afspilningsliste";
+"videoplaylist_allvideos" = "Alle videoer";
+"videoplaylist_emptyplaylist" = "Du har i øjeblikket ingen videoer i din afspilningsliste. Tilføj mindst én video for at se din afspilningsliste.";
+"videoplaylist_fullplaylist" = "Din afspilningsliste er fuld. Fjern venligst en video, før du tilføjer en anden.";
+"videoplaylist_languageerror" = "En eller flere af videoerne i din afspilningsliste er ikke tilgængelige i det valgte sprog.";
+"videoplaylist_myvideoplaylist" = "Min video afspilningsliste";
+"videoplaylist_removeallconfirm" = "Er du sikker på, at du vil fjerne alle videoer fra din afspilningsliste?";
+"videoplaylist_removefromplaylist" = "Fjern fra afspilningsliste";
+"videoplaylist_tip1" = "Vi introducerer den nye video afspilningsliste funktion! Vælg op til 6 af dine yndlingsvideoer for at dele med dine leads!";
+"videoplaylist_tip2" = "Tryk på en video afspilningsliste knap for at tilføje eller fjerne videoen fra din afspilningsliste.";
+"videoplaylist_tip3" = "Tryk på \"Min video afspilningsliste\"fanebladet for at se din afspilningsliste!";
+"videoplaylist_tip4" = "Tryk og træk dine afspilningsliste videoer for at sortere din afspilningsliste.";
+"videoplaylist_tip5" = "Tryk på \"Del\" knappen for at dele din afspilningsliste på de sociale medier.";
+"videoplaylist_tip6" = "Tryk på \"Næste\" knappen for at dele din afspilningsliste med dine leads og grupper.";
+"videoplaylist_tip7" = "Tryk på \"Fjern alle\" knappen for at fjerne alle videoer fra din afspilningsliste.";
+"videoplaylist_tip8" = "Tryk på \"Alle videoer\"fanen for at vende tilbage til den fulde videoliste og dele individuelle videoer.";
+"videoplaylist_title" = "Video afspilningsliste";
+"virtualpagecampaign_getfailure" = "Kunne ikke downloade virtuelle sider. Prøv igen.";
+"virtualpagecampaign_help" = "Vælg en virksomheds virtuel startside at bruge i en kampagne.\n\nTryk på \"Info (i)\"-knappen på en kampagne for at se den.\n\nTryk på action-knappen i bundbaren for at dele en kampagne gennem andre metoder end sms.";
+"virtualpagecampaign_previewtitle" = "Preview af virtuel side";
+"virtualpagecampaign_title" = "Startsidekampagner";
+"youtubecampaign_deletefailure" = "Kunne ikke slette kampagne.";
+"youtubecampaign_getfailure" = "Kunne ikke downloade YouTube-kampagner. Prøv igen.";
+"youtubecampaign_help" = "Lav og vælg dine brugerdefinerede YouTube-kampagner at sende til sporgrupper.\n\nTryk på \"Tilføj (+)\"-knappen for at lave en ny YouTube-kampagne.\n\nSvirp en kampagne til venstre for at redigere eller slette kampagnen.\n\nTryk på \"Info (i)\"-knappen for at redigere kampagnen.\n\nTryk på en kampagne og \"Næste\"-knappen for at fortsætte.";
+"youtubecampaign_title" = "YouTube-kampagner";
+"youtubeeditor_embedpreview" = "Dit YouTube-preview vil blive indlæst her. Opret videolink for at få se det.";
+"youtubeeditor_fewvalidation" = "Du skal skrive en værdi.";
+"youtubeeditor_help" = "Skriv informationen til en brugerdefineret YouTube-kampagne.\n\nDu SKAL udfylde ALLE felter for at lave kampagnen.\n\n- URL-sidenavn (100 tegn): Det her er, hvad spor vil se i URL.\n- Sidetitel (50 tegn): Det her vil være titlen, der vises i toppen af videosiden.\n- Videonavn (25 tegn): Det her vil være navnet, der står under videoafspilleren.\n- Videobeskrivelse (150 tegn): Det her vil være en kort beskrivelse af videoen, der står under videoens navn.\n- Videolink (100 tegn): Det her er linket til YouTube-videoen, der skal vises.\n\nEfter at have indsat videolinket kan du se videoafspilleren, der vil blive brugt på din brugerdefinerede videoside.\n\nTryk på \"Gem\"-knappen for at gemme din brugerdefinerede YouTube-kampagne.";
+"youtubeeditor_manyvalidation" = "Tekstfeltet skal have færre bogstaver. Korrekt antal bogstaver";
+"youtubeeditor_pagename" = "URL-sidenavn";
+"youtubeeditor_pagetitle" = "Sidetitel";
+"youtubeeditor_savefailure" = "Kunne ikke gemme kampagne.";
+"youtubeeditor_savesuccess" = "Kampagne gemt!";
+"youtubeeditor_title" = "Tilføj/rediger kampagne";
+"youtubeeditor_videodescription" = "Videobeskrivelse";
+"youtubeeditor_videolink" = "Videolink";
+"youtubeeditor_videoname" = "Videonavn";

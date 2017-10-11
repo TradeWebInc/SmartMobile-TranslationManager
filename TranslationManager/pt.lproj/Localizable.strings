@@ -1,2090 +1,629 @@
-// ============================================================================
-// * Android
-// ============================================================================
-
-"android_exitconfirm"				=	"Tem a certeza de que pretende sair?";
-"android_appnotfound"				=	"Não foi possível encontrar a aplicação no mercado.";
-"android_nogoogleplus"				=	"Tem de ter o Google+ instalado.";
-"android_notificatonssetting"		=	"Receber Notificações";
-
-
-// ============================================================================
-// * General
-// ============================================================================
-
-"general_yes"               = 	"Sim";
-"general_no"                =   "Não";
-"general_on"				= 	"LIGAR";
-"general_off"				=	"DESLIGAR";
-"general_accept"            =   "Aceitar";
-"general_decline"           =   "Recusar";
-"general_success"           =   "Êxito";
-"general_error"             = 	"Erro";
-"general_notice"            = 	"Aviso";
-"general_ok"                =   "Ok";
-"general_cancel"            = 	"Cancelar";
-"general_loading"           = 	"A carregar";
-"general_none"              = 	"Nenhum";
-"general_next"              = 	"Seguinte";
-"general_done"              = 	"Concluído";
-"general_save"              = 	"Guardar";
-"general_delete"            = 	"Eliminar";
-"general_addnew"            =   "Adicionar Novo +";
-"general_add"				=	"Adicionar";
-"general_create"            =   "Criar";
-"general_edit"              =   "Editar";
-"general_seemore"           =   "Ver Mais";
-"general_more"              =   "Mais";
-"general_reset"             = 	"Repor";
-"general_post"              = 	"Publicar";
-"general_submit"            =   "Submeter";
-"general_share"             =   "Partilhar";
-"general_exit"              =   "Sair";
-"general_settings"          =   "Definições";
-"general_info"              =   "Info.";
-"general_unknownerror"      =   "Ocorreu um erro desconhecido. Tente novamente.";
-"general_nointernet"		=	"Não foi possível ligar à internet. Verifique as definições da internet e tente novamente.";
-"general_cantmakecalls"     =   "Este dispositivo não permite fazer chamadas.";
-"general_cantsendsms"     	=   "Este dispositivo não permite enviar SMS.";
-"general_cantsendemail"     =   "Este dispositivo não permite enviar e-mail. Verifique a configuração de e-mail e tente novamente.";
-
-"general_back"              =   "Regressar";
-"general_forward"           =   "Avançar";
-"general_webpageerror"      =   "Não foi possível carregar a página web.";
-
-"general_unknownname"       =   "Nome Desconhecido";
-"general_username"          = 	"Nome de Utilizador";
-"general_firstname"         = 	"Nome Próprio";
-"general_lastname"          = 	"Apelido";
-"general_name"              =   "Nome";
-"general_language"          =   "Idioma";
-"general_address"           =   "Endereço";
-"general_city"              =   "Localidade";
-"general_state"             =   "Distrito";
-"general_zip"               =   "C. Postal";
-"general_province"          =   "Distrito";
-"general_postalcode"        =   "Código Postal";
-"general_country"           =   "País";
-"general_phonenumber"       = 	"Número de Telefone";
-"general_phone"             = 	"Telefone";
-"general_secondphone"       =   "Outro Telefone";
-"general_cell"              = 	"Telemóvel";
-"general_work"              = 	"Emprego";
-"general_email"             = 	"E-mail";
-"general_status"            = 	"Estado";
-"general_displayname"       = 	"Nome a Apresentar";
-"general_title"             = 	"Cargo";
-"general_contact"           =   "Contacto";
-"general_lead"              =   "Oportunidade Potencial";
-"general_facebookurl"       = 	"URL do Facebook";
-"general_twitterhandle"     = 	"Identificador do Twitter";
-"general_skypeusername"     = 	"Nome de Utilizador do Skype";
-"general_devicemodel"       =   "Modelo do Dispositivo";
-"general_devicelanguage"    =   "Idioma do Dispositivo";
-"general_deviceos"          =   "SO do Dispositivo";
-"general_appversion"        =   "Versão da Aplicação";
-
-"general_sunday"            = 	"Domingo";
-"general_monday"            =   "Segunda";
-"general_tuesday"           = 	"Terça";
-"general_wednesday"         = 	"Quarta";
-"general_thursday"          = 	"Quinta";
-"general_friday"            = 	"Sexta";
-"general_saturday"          = 	"Sábado";
-
-"general_days"              =   "Dia(s)";
-"general_hours"             =   "Hora(s)";
-
-"general_facebook"          = 	"Facebook";
-"general_twitter"           = 	"Twitter";
-"general_googleplus"        = 	"Google+";
-
-
-// ============================================================================
-// * Language Select
-// ============================================================================
-
-"language_select"           =   "Selecione Idioma";
-
-
-// ============================================================================
-// * App Rating
-// ============================================================================
-
-
-// The title of the prompt for app rating.
-"rateappprompt_title"   = 	"Classificar Aplicação?";
-
-// The message in the prompt for app rating.
-"rateappprompt_message" = 	"Gosta da aplicação? Gostaria de classificar a versão atual?";
-
-// The cancel text of the prompt for app rating.
-"rateappprompt_cancel"  = 	"Agora Não";
-
-
-// ============================================================================
-// * Login
-// ============================================================================
-
-// The title in the navigation bar of the login screen.
-"login_title"                   =	"Bem-vindo(a)";
-
-// The Help Text used by the login screen.
-"login_help"                    =   "Introduza o seu nome de utilizador e palavra-passe para iniciar sessão. \n\nToque no interruptor \"Manter-me ligado\" para que a aplicação recorde o seu nome de utilizador e palavra-passe. Ao abrir a aplicação, esta tentará automaticamente iniciar sessão!";
-
-// The placeholder text for the password text field.
-"login_password"                = 	"Palavra-passe";
-
-// The title of the Login Button, and any alert message box.
-"login_login"                   = 	"Iniciar Sessão";
-
-// The label for the Keep Me Connected Switch.
-"login_keepmeconnected"         =   "Manter-me ligado";
-
-// The Version label on indicating the app version.
-"login_version"                 = 	"Versão";
-
-// The text used in the loading indicator for the login screen.
-"login_loading"                 = 	"A Iniciar Sessão";
-
-// The login error/failure message.
-"login_loginerror"              = 	"Ocorreu um erro durante o processo de início de sessão. Verifique o seu nome de utilizador e palavra-passe e tente novamente.";
-
-
-// The title text of the login method prompt.
-"login_loginmethodprompt"       =   "Diga-nos como o podemos manter ligado.";
-
-// The title of the Use Touch ID button.
-"login_methodtouchid"           =   "Usar Touch ID";
-
-// The title of the Remember Username & Password button.
-"login_methoduserandpass"       =   "Recordar Nome de Utilizador e Palavra-passe";
-
-// The title of the Remember Username only button.
-"login_methoduser"              =   "Recordar apenas Nome de Utilizador";
-
-
-// ============================================================================
-// * Terms of Service
-// ============================================================================
-
-// The title in the navigation bar of the Terms of Service screen.
-"tos_title"             =   "Termos de Serviço";
-
-// The Help Text used by the login screen.
-"tos_help"              =   "Leia o contrato dos Termos de Serviço de utilização desta aplicação. Aceite ou recuse o contrato. Se recusar o contrato, não poderá utilizar quaisquer funcionalidades da aplicação.";
-
-
-// ============================================================================
-// * Menu
-// ============================================================================
-
-// The title of the Home menu option.
-"menu_home"             =   "Início";
-
-// The title of the Optimism menu option.
-"menu_optimism"         =   "Motivação";
-
-// The title of the My Leads menu option.
-"menu_myleads"          = 	"Minhas Oportunidades Potenciais";
-
-// The title of the Manage Groups menu option.
-"menu_managegroups"     = 	"Gerir Grupos";
-
-// The title of the Training Videos menu option.
-"menu_trainingvideos"   =   "Vídeos de Formação";
-
-// The title of the Video Campaign menu option.
-"menu_videocampaign"    = 	"Campanha de Vídeo";
-
-// The title of the Group SMS menu option.
-"menu_groupsms"         =   "SMS de Grupo";
-
-// The title of the Custom Campaign menu option.
-"menu_customcampaign"   =   "Campanha Personalizada";
-
-// The title of the Campaign Stats menu option.
-"menu_campaignstats"    = 	"Estatísticas da Campanha";
-
-// The title of the My Badges menu option.
-"menu_mybadges"         =   "Minhas Etiquetas";
-
-// The title of the Alerts menu option.
-"menu_alerts"           =   "Alertas";
-
-// The title of the Profile menu option.
-"menu_profile"          =   "Perfil";
-
-// The title of the SmartCloud menu option.
-"menu_smartcloud"           =   "SmartCloud";
-
-// The title of the Back Office menu option.
-"menu_backoffice"       =   "Web Backoffice";
-
-// The title of the Success On Demand menu option.
-"menu_sod"              =   "Sucesso a Pedido";
-
-// The title of the Help Center menu option.
-"menu_helpcenter"       = 	"Centro de Ajuda";
-
-// The title of the Logout menu option.
-"menu_logout"           =   "Encerrar Sessão";
-
-
-// The title of the menu section header for Home.
-"menu_homeheader"           =   "INÍCIO";
-
-// The title of the menu section header for Lead Management.
-"menu_leadmanagementheader" = 	"MINHAS OPORTUNIDADES POTENCIAIS";
-
-// The title of the menu section header for Promotions.
-"menu_promotions"           = 	"PROMOÇÕES";
-
-// The title of the menu section header for Other.
-"menu_otherheader"          = 	"OUTROS";
-
-// The title of the menu section header for More.
-"menu_moreheader"           = 	"MAIS";
-
-
-
-// ============================================================================
-// * Daily Optimism
-// ============================================================================
-
-// The title in the navigation bar of the daily optimism screen.
-"dailyoptimism_title"       = 	"Motivação Diária";
-
-// The Help Text used by the daily optimism screen.
-"dailyoptimism_help"        = 	"Veja e partilhe a Motivação diária!\n\nToque em \"Biblioteca\" para escolher uma das Motivações passadas para partilhar.";
-
-// The title of the Share Button.
-"dailyoptimism_share"       = 	"Partilhar a Motivação de Hoje";
-
-// The title of the Optimism Library Button.
-"dailyoptimism_library"     = 	"Biblioteca";
-
-// The title of the Auto-Drip Settings Button.
-"dailyoptimism_autodrip"    = 	"Definições de Publicação Automática";
-
-
-
-// ============================================================================
-// * Optimism Library
-// ============================================================================
-
-// The title in the navigation bar of the optimism library screen.
-"optimismlibrary_title"     = 	"Biblioteca";
-
-// The Help Text used by the optimism library screen.
-"optimismlibrary_help"      = 	"Selecione uma das Motivações da biblioteca para continuar a partilhar.";
-
-
-// ============================================================================
-// * Optimism Library
-// ============================================================================
-
-// The title in the navigation bar of the share optimism screen.
-"shareoptimism_title"   = 	"Motivação";
-
-// The Help Text used by the share optimism screen.
-"shareoptimism_help"    = 	"Veja e partilhe a Motivação que selecionou na biblioteca!\n\nToque no botão Regressar para voltar à biblioteca.";
-
-// The title of the Share This Optimism Button.
-"shareoptimism_share"   = 	"Partilhar Esta Motivação";
-
-
-// ============================================================================
-// * My Leads
-// ============================================================================
-
-// The title in the navigation bar of the my leads screen.
-"myleads_title"             =   "Minhas Oportunidades Potenciais";
-
-// The Help Text used by the my leads screen.
-"myleads_help"              =   "Veja e edite as suas oportunidades potenciais atuais.\n\n Toque no botão \"Adicionar (+)\" para adicionar oportunidades potenciais a partir dos seus contactos ou introduzindo-as rapidamente!\n\nToque numa oportunidade potencial para editar os respetivos detalhes. Deslize uma oportunidade potencial para a esquerda para ver mais opções.\n\nToque no botão \"Ordenar\" para ordenar a lista de oportunidades potenciais. Poderá ordená-las por ordem ascendente ou descendente dos valores.\n\nAs oportunidades potenciais também podem ser filtradas utilizando o botão \"Filtrar\" e a barra de pesquisa.";
-
-// The title of the Sort Button.
-"myleads_sort"              =   "Ordenar";
-
-// The title of the Sort Action Sheet Menu.
-"myleads_sortby"            =   "Ordenar por";
-
-// The title of the Ascending Segment Control Button.
-"myleads_ascending"         =   "Asc";
-
-// The title of the Descending Segment Control Button.
-"myleads_descending"        =   "Desc";
-
-// The title of the Change Status Action Menu.
-"myleads_changestatusto"    =   "Mudar estado para";
-
-// The title of the Hot option during Filtering.
-"myleads_statushot"         = 	"Quente";
-
-// The title of the Warm option during Filtering.
-"myleads_statuswarm"        = 	"Morno";
-
-// The title of the Cold option during Filtering.
-"myleads_statuscold"        = 	"Frio";
-
-// The title of the New option during Filtering.
-"myleads_statusnew"         = 	"Novo";
-
-// The title of the Add Lead Action Sheet Menu.
-"myleads_addlead"           = 	"Adicionar Oportunidade Potencial";
-
-// The title for the Add from Contacts option during Add Lead.
-"myleads_addcontact"        = 	"Adicionar dos Contactos";
-
-// The title for the Add New Lead option during Add Lead.
-"myleads_addnewlead"        = 	"Adicionar Nova Oportunidade Potencial";
-
-// The title of the alert message boxes for any Add Contact action.
-"myleads_contacts"          = 	"Contactos";
-
-// The message displayed when a contact is added successfully.
-"myleads_addcontactsuccess" =   "Contacto adicionado com êxito!";
-
-// The Add Contact error/failure message.
-"myleads_addcontacterror"   =   "Ocorreu um erro ao adicionar um contacto.";
-
-// Displayed in a My Leads table cell when no contact info is available. (phone and/or email).
-"myleads_nocontactinfo"     = 	"Nenhumas informações de contacto disponíveis.";
-
-// The title of the Send Opt In/Out Link option during Leads More Options.
-"myleads_sendoptinout"      =   "Enviar Ligação de Aceitação/Recusa";
-
-// The title of the Send Signup Link option during Leads More Options.
-"myleads_signuplink"        = 	"Enviar Ligação de Registo";
-
-// The title of the Send Free Sample Link option during Leads More Options.
-"myleads_freesample"        = 	"Enviar Ligação para Amostra Gratuita";
-
-// The title of the Send My Video Player option during Leads More Options.
-"myleads_videoplayer"       = 	"Enviar Meu Leitor de Vídeo";
-
-// The title of the Local Device View option during Leads More Options.
-"myleads_deviceview"        = 	"Vista do Dispositivo Local";
-
-// Error message when a lead has no phone number.
-"myleads_noleadphone"       =   "Nenhum número de telefone definido para a oportunidade potencial selecionada.";
-
-// Error message when a lead has no email address.
-"myleads_noleademail"       =   "Nenhum e-mail definido para a oportunidade potencial selecionada.";
-
-
-// Message for sending SMS displayed in the Local Device View Screen under My Leads
-"localdevice_sendmessage"			=	"Enviar Mensagem";
-
-// Message for create new device contact displayed in the Local Device View Screen under My Leads
-"localdevice_createnewcontact"		=	"Criar Novo Contacto";
-
-// Message for adding to existing contact displayed in the Local Device View Screen under My Leads
-"localdevice_addexistingcontact"	=	"Adicionar a Contacto Existente";
-
-
-// ============================================================================
-// * Add Lead
-// ============================================================================
-
-// The title in the navigation bar of the add lead screen.
-"addlead_title"             =   "Adicionar Oportunidade Potencial";
-
-// The Help Text used by the add lead screen.
-"addlead_help"              =   "Introduza as informações da nova oportunidade potencial que pretende adicionar.\n\nA nova oportunidade potencial TEM de ter um nome próprio.\n\nTambém TEM de fornecer pelo menos um método de contacto (Número de Telefone ou E-mail) para a nova oportunidade potencial.";
-
-// The title of the Add Lead Button.
-"addlead_addlead"           =   "Adicionar Oportunidade Potencial";
-
-// The message of the success alert.
-"addlead_addsuccessful"     =   "Oportunidade potencial adicionada com êxito!";
-
-// The message of the failure alert.
-"addlead_addfailure"        =   "Ocorreu um erro ao adicionar uma oportunidade potencial.";
-
-// The validation message for requiring a first name.
-"addlead_namevalidation"    =   "Tem de introduzir o nome próprio.";
-
-// The validation message for requiring at least one contact method.
-"addlead_contactvalidation" = 	"Tem de fornecer pelo menos um método de contacto (telefone ou e-mail).";
-
-
-// ============================================================================
-// * Lead Details
-// ============================================================================
-
-// The title in the navigation bar of the lead details screen.
-"leaddetails_title"                             = 	"Detalhes da Oportunidade Potencial";
-
-// The Help Text used by the lead details screen.
-"leaddetails_help"                              = 	"Veja e edite uma única oportunidade potencial. Controle os registos, estatísticas e notas. Toque no botão \"Ações\" para agendar campanhas de e-mail e lembretes. Toque no botão \"Eliminar Oportunidade Potencial\" para eliminar a oportunidade potencial selecionada.";
-
-// The title of the change image alert.
-"leaddetails_changeimagetitle"                  =   "Mudar Imagem";
-
-// The title of the Photo Library button.
-"leaddetails_photolibrary"                      =   "Biblioteca de Fotografias";
-
-// The title of the Take Picture button.
-"leaddetails_takepicture"                       =   "Tirar Fotografia";
-
-// The title of the Remove Current Image button.
-"leaddetails_removeimage"                       =   "Remover Imagem Atual";
-
-// The title of the Actions tab.
-"leaddetails_actionstab"                        =   "Ações";
-
-// The title of the Log tab.
-"leaddetails_logtab"                            =   "Registo";
-
-// The title of the Stats tab.
-"leaddetails_statstab"                          =   "Estatísticas";
-
-// The title of the Notes tab.
-"leaddetails_notestab"                          =   "Notas";
-
-// The title of the Photo Library Unavailable alert.
-"leaddetails_nophotolibrarytitle"               =   "Biblioteca de Fotografias Indisponível";
-
-// The message of the Photo Library Unavailable alert.
-"leaddetails_nophotolibrarymessage"             =   "A aplicação não consegue aceder à Biblioteca de Fotografias.";
-
-// The title of the Camera Unavailable alert.
-"leaddetails_nocameratitle"                     =   "Câmara Indisponível";
-
-// The message of the Camera Unavailable alert.
-"leaddetails_nocameramessage"                   =   "A aplicação não consegue aceder à Câmara deste dispositivo.";
-
-// The message displayed when a lead is opted in to receive emails.
-"leaddetails_emailoptedin"                      =   "Optou por receber e-mails.";
-
-// The message displayed when a lead is opted out to receive emails.
-"leaddetails_emailoptedout"                     =   "Optou por não receber e-mails.";
-
-// The message displayed when a lead is opted in to receive SMS messages.
-"leaddetails_smsoptedin"                        =   "Optou por receber mensagens SMS.";
-
-// The message displayed when a lead is opted out to receive SMS messages.
-"leaddetails_smsoptedout"                       =   "Optou por não receber mensagens SMS.";
-
-// The title of the Delete Lead button.
-"leaddetails_deletelead"                        =   "Eliminar Oportunidade Potencial";
-
-// The title of the delete lead confirmation alert.
-"leaddetails_deleteleadtitle"                   =   "Eliminar Oportunidade Potencial Atual";
-
-// The message of the delete lead confirmation alert.
-"leaddetails_deleteleadmessage"                 =   "Pretende eliminar esta oportunidade potencial?";
-
-
-// ============================================================================
-// * Edit Lead
-// ============================================================================
-
-// The title in the navigation bar of the Edit Lead screen.
-"editlead_title"                =   "Editar Oportunidade Potencial";
-
-// The title in the navigation bar of the See More version fo the Edit Lead screen.
-"editlead_titleseemore"         =   "Ver Detalhes da Oportunidade Potencial";
-
-// The Help Text used by the Edit Lead screen.
-"editlead_help"                 =   "Ao visualizar, toque no botão \"Editar\" para editar as informações da oportunidade potencial. Introduza os dados da oportunidade potencial e toque em \"Guardar\" para guardar as alterações efetuadas.";
-
-// The title of the Basic Info section.
-"editlead_basicinfo"            =   "Informações Básicas";
-
-// The title of the Contact Info section.
-"editlead_contactinfo"          =   "Informações de Contacto";
-
-// The title of the Address Info section.
-"editlead_addressinfo"          =   "Informações de Endereço";
-
-// The message of the success alert.
-"editlead_savesuccessful"       =   "Oportunidade potencial guardada com êxito!";
-
-
-// ============================================================================
-// * Lead Actions
-// ============================================================================
-
-// The title in the navigation bar of the lead actions screen.
-"leadactions_title"                     =   "Ações de Oportunidade Potencial";
-
-// The Help Text used by the lead actions screen.
-"leadactions_help"                      =   "Veja, inicie e cancele ações recomendadas e agendadas. Toque no botão \"Efetuar\" para processar uma ação recomendada para a oportunidade potencial. Para adicionar uma nova ação agendada, toque no botão \"Adicionar Novo\". Quaisquer ações agendadas podem ser canceladas tocando no botão \"Cancelar\".";
-
-// The title of the recommended actions section.
-"leadactions_recommendedactions"        =   "Ações Recomendadas";
-
-// The message shown when no recommended actions exist.
-"leadactions_norecommendedactions"      =   "Nenhumas ações recomendadas encontradas.";
-
-// The title of the scheduled actions section.
-"leadactions_scheduledactions"          =   "Ações Agendadas";
-
-// The message shown when no scheduled actions exist.
-"leadactions_noscheduledactions"        =   "Nenhumas ações agendadas encontradas.";
-
-// The message of the cancel scheduled action alert.
-"leadactions_cancelscheduledaction"     =   "Pretende cancelar esta ação?";
-
-// The title of the Do It button.
-"leadactions_doit"                      =   "Efetuar";
-
-// The title of the add new alert for email campaign.
-"leadactions_emailcampaign"             =   "Campanha de E-mail";
-
-// The title of the add new alert for single email.
-"leadactions_singleemail"               =   "E-mail Único";
-
-// The title of the add new alert for reminder.
-"leadactions_reminder"                  =   "Lembrete";
-
-
-
-// The title in the navigation bar of the reminder creation screen.
-"reminder_title"                        =   "Criar Lembrete";
-
-// The Help Text used by the reminder creation screen.
-"reminder_help"                         =   "Crie um lembrete composto por um título e uma mensagem breve. Utilize o seletor de datas para selecionar uma data para agendar o lembrete.";
-
-// The label used in the title text field.
-"reminder_titlelabel"                   =   "Cargo";
-
-// The label used in the message text field.
-"reminder_messagelabel"                 =   "Mensagem";
-
-// The error message shown when a user doesn't enter a title.
-"reminder_titleneeded"                  =   "Tem de introduzir o título do lembrete.";
-
-// The error message shown when a user doesn't enter a message.
-"reminder_messageneeded"                =   "Tem de introduzir a mensagem do lembrete.";
-
-
-
-// The title in the navigation bar of the email campaign picker screen.
-"emailcampaign_title"                   =   "Campanhas de E-mail";
-
-// The Help Text used by the email campaign picker screen.
-"emailcampaign_help"                    =   "Selecione uma campanha para agendar para a oportunidade potencial selecionada de entre todas as campanhas de e-mail disponíveis. Toque numa campanha para a iniciar de imediato para a oportunidade potencial.";
-
-
-// The title in the navigation bar of the email messages picker screen.
-"emailmessages_title"                   =   "Mensagens de E-mail";
-
-// The Help Text used by the email messages picker screen.
-"emailmessages_help"                    =   "Selecione uma mensagem de e-mail específica para enviar para a oportunidade potencial selecionada. Toque no botão \"Info. (i)\" para pré-visualizar a mensagem antes de a enviar.";
-
-
-// ============================================================================
-// * Lead Log
-// ============================================================================
-
-// The title in the navigation bar of the lead log screen.
-"leadlog_title"             =   "Registo da Oportunidade Potencial";
-
-// The Help Text used by the lead log screen.
-"leadlog_help"              =   "Veja ações ou eventos anteriores que tenham ocorrido para a oportunidade potencial selecionada.";
-
-
-// ============================================================================
-// * Lead Stats
-// ============================================================================
-
-// The title in the navigation bar of the lead stats screen.
-"leadstats_title"               =   "Estatísticas da Oportunidade Potencial";
-
-// The Help Text used by the lead stats screen.
-"leadstats_help"                =   "Veja todas as estatísticas de e-mail e vídeo da oportunidade potencial selecionada.";
-
-// The title shown for the email stats section.
-"leadstats_emailstats"          =   "Estatísticas de E-mail";
-
-// The title shown for the video stats section.
-"leadstats_videostats"          =   "Estatísticas de Vídeo";
-
-// The key label for emails read.
-"leadstats_emailsread"          =   "E-mails Lidos";
-
-// The key label for emails not read.
-"leadstats_emailsnotread"       =   "E-mails Não Lidos";
-
-// The label for how many times a video was watched.
-"leadstats_watched"             =   "Visto";
-
-// The label for how long a video was watched.
-"leadstats_duration"            =   "Duração";
-
-// The unit label for the number of times a video was watched.
-"leadstats_times"               =   "vezes";
-
-// The unit label for the duration time in seconds.
-"leadstats_secs"                =   "segs";
-
-
-// ============================================================================
-// * Lead Notes
-// ============================================================================
-
-// The title in the navigation bar of the lead notes screen.
-"leadnotes_title"               =   "Notas da Oportunidade Potencial";
-
-// The Help Text used by the lead notes screen.
-"leadnotes_help"                =   "Adicione e visualize notas para a oportunidade potencial selecionada. Toque no botão \"Mais (+)\" para adicionar uma nova nota.";
-
-// The title of the new note alert.
-"leadnotes_newnote"             =   "Nova Nota";
-
-
-// ============================================================================
-// * Manage Groups
-// ============================================================================
-
-// The title in the navigation bar of the manage groups screen.
-"managegroups_title"            = 	"Grupos";
-
-// The Help Text used by the manage groups screen.
-"managegroups_help"             = 	"Veja e edite Grupos de oportunidades potenciais para facilitar e acelerar o envio de campanhas!\n\nToque no botão \"Editar (Lápis)\" para eliminar um grupo.\n\nToque no botão \"Adicionar Novo +\" para criar um novo grupo.";
-
-// Label to indicate the number of contacts in a group.
-"managegroups_contacts"         = 	"Contactos";
-
-// The title used in the new group alert.
-"managegroups_newgroup"         = 	"Novo Grupo";
-
-// The message used in the new group alert.
-"managegroups_newgroupname"     = 	"Nome do novo grupo:";
-
-// The placeholder text in the group name text field.
-"managegroups_groupname"        = 	"Nome do Grupo";
-
-// The validation message for requiring a group name.
-"managegroups_namevalidation"   =   "O grupo tem de ter um nome.";
-
-
-// ============================================================================
-// * Group Details
-// ============================================================================
-
-// The title in the navigation bar of the group details screen. (Overwritten by group name).
-"groupdetails_title"    = 	"Detalhes do Grupo";
-
-// The Help Text used by the lead details screen.
-"groupdetails_help"     = 	"Veja as oportunidades potenciais do grupo atual.\n\nToque no botão \"Editar (Lápis)\" para eliminar uma oportunidade potencial.\n\nToque no botão \"Adicionar Novo +\" para adicionar uma oportunidade potencial ao grupo atual.";
-
-
-// ============================================================================
-// * Multi-use Promotions
-// ============================================================================
-
-// Select Groups
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the Select Groups screen.
-"selectgroups_title"                =   "Selecionar Grupo";
-
-// The Help Text used by the Select Groups screen.
-"selectgroups_help"                 =   "Selecione os grupos de oportunidades potenciais a que pretende enviar campanhas.";
-
-// The instruction text above groups table.
-"selectgroups_instructions"         =   "Selecione os grupos para enviar esta campanha:";
-
-// The title of the New Group option in the Action Sheet menu.
-"selectgroups_newgroup"             =   "Novo Grupo";
-
-// The title of the Select from Phonebook option in the Action Sheet menu.
-"selectgroups_selectcontacts"       = 	"Selecionar na Lista Telefónica";
-
-// The validation message for requiring at least one contact.
-"selectgroups_contactvalidation"    = 	"Tem de selecionar um ou vários grupos com um ou mais números de telefone para enviar uma mensagem.";
-
-
-// Select Contacts
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the Select Contacts screen.
-"selectcontacts_title"              = 	"Selecionar Contactos";
-
-// The Help Text used by the Select Contacts screen.
-"selectcontacts_help"               = 	"Selecione os contactos que pretende utilizar.\n\nÉ apresentado um ícone de telefone junto dos contactos do seu dispositivo móvel. As Oportunidades Potenciais do Backoffice são apresentadas com um ícone de livro de endereços.\n\nFiltre os contactos escrevendo na barra de pesquisa. Toque no botão \"Ocultar Teclado\" para ocultar o teclado após a pesquisa.\n\nOs contactos selecionados no seu dispositivo móvel serão adicionados automaticamente às suas Oportunidades Potenciais do Backoffice.";
-
-// The primary phone label. (Other labels are handled by OS.)
-"selectcontacts_primary"            =   "principal";
-
-// The message of the alert displayed when a contact fails to be added as a lead or to a group.
-"selectcontacts_uploadcontacterror" =   "Erro ao carregar o contacto.";
-
-// The message of the alert displayed when a lead fails to be added to a group.
-"selectcontacts_addgroupleaderror"  =   "Erro ao adicionar oportunidade potencial ao grupo.";
-
-
-// Edit Message
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the Edit Message screen.
-"editmessage_title"         =   "Editar Mensagem";
-
-// The Help Text used by the Edit Message screen.
-"editmessage_help"          =   "Introduza uma mensagem para enviar aos seus grupos.\n\nToque no botão \"X\" para limpar a mensagem introduzida.\n\nToque no botão \"Utilizador\" para adicionar o nome da oportunidade potencial à mensagem.\n\nToque no botão \"Seguinte\" para continuar.";
-
-// The instruction text above the message text field.
-"editmessage_instructions"  =   "Introduza a mensagem SMS a enviar ao grupo.";
-
-
-// Send Message
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the Send Message screen.
-"sendmessage_title"         =   "Enviar Mensagem";
-
-// The Help Text used by the Send Message screen.
-"sendmessage_help"          =   "Verifique as oportunidades potenciais a que pretende enviar a sua campanha e toque no botão \"Enviar Mensagens\" para a enviar.\n\nToque no botão \"Cancelar\" para reiniciar o processo de seleção da campanha.";
-
-// The instruction text above the contacts table.
-"sendmessage_instructions"  = 	"Reveja para enviar.";
-
-// The title of the Send Messages button.
-"sendmessage_sendmessages"  =   "Enviar Mensagen(s)";
-
-// The message that is displayed upon successfully sending an SMS message.
-"sendmessage_sendsuccess"   = 	"Mensagem(s) enviada(s).";
-
-// Toasted when an SMS message is sent. (Android Only)
-"sendmessage_messagesent"   =	"Mensagem Enviada";
-
-
-// ============================================================================
-// * Training Videos Select
-// ============================================================================
-
-// The title in the navigation bar of the training videos screen.
-"trainingvideos_title"  =   "Vídeos de Formação";
-
-// The Help Text used by the training videos screen.
-"trainingvideos_help"   =   "Ver Vídeos de Formação.\n\nToque na fila do vídeo para ver o vídeo.";
-
-
-// ============================================================================
-// * Video Campaign Select
-// ============================================================================
-
-// The title in the navigation bar of the video campaign screen.
-"videocampaign_title"                   =   "Campanha de Vídeo";
-
-// The Help Text used by the video campaign screen.
-"videocampaign_help"                    =   "Selecione, veja e envie Campanhas de Vídeo.\n\nToque no botão \"Info. (i)\" numa campanha para a pré-visualizar.\n\nSelecione uma campanha e Toque no botão \"Seguinte\" para continuar. \n\nToque no botão \"Opções\" na barra inferior após selecionar uma campanha para a partilhar.";
-
-// The title in the navigation bar of the video campaign preview webview screen.
-"videocampaign_previewtitle"            = 	"Pré-visualizar Campanha de Vídeo";
-
-// The text for the no videos found label.
-"videocampaign_novideosfound"           = 	"Nenhum vídeo encontrado";
-
-// The text for the no categories found label.
-"videocampaign_nocategoriesfound"       =   "Nenhuma categoria encontrada";
-
-
-// ============================================================================
-// * Custom Campaign Select
-// ============================================================================
-
-// The title in the navigation bar of the Custom Campaign screen.
-"customcampaign_title"              = 	"Campanha Personalizada";
-
-// The Help Text used by the Custom Campaign screen.
-"customcampaign_help"               = 	"Envie um conjunto de campanhas personalizadas aos seus grupos de oportunidades potenciais.\n\nEscolha a opção Rolo da Câmara para enviar uma campanha fotográfica utilizando fotografias do Rolo da Câmara do seu telefone.\n\nEscolha a opção Biblioteca de Motivações para enviar uma campanha fotográfica a partir da Biblioteca de Motivações.\n\nEscolha a opção YouTube para enviar uma campanha personalizada do YouTube.";
-
-// The Help Text used by the Custom Campaign screen. (Android Only)
-"customcampaign_help_android"       = 	"Envie um conjunto de campanhas personalizadas aos seus grupos de oportunidades potenciais.\n\nEscolha a opção Galeria para enviar uma campanha fotográfica utilizando fotografias da Galeria do seu telefone.\n\nEscolha a opção Biblioteca de Motivações para enviar uma campanha fotográfica a partir da Biblioteca de Motivações.\n\nEscolha a opção YouTube para enviar uma campanha personalizada do YouTube.";
-
-// The title of the Camera Roll Campaign option.
-"customcampaign_camerarolltitle"    = 	"Rolo da Câmara";
-
-// The description of the Camera Roll Campaign option.
-"customcampaign_camerarolldesc"     = 	"Selecione uma imagem do rolo da câmara do seu dispositivo móvel para utilizar na campanha.";
-
-// The title of the Gallery Campaign option. (Android Only)
-"customcampaign_gallerytitle"       = 	"Galeria";
-
-// The description of the Gallery Campaign option. (Android Only)
-"customcampaign_gallerydesc"        = 	"Selecione uma imagem da galeria do seu dispositivo móvel para utilizar na campanha.";
-
-// The title of the Optimism Library Campaign option.
-"customcampaign_optimismtitle"      = 	"Biblioteca de Motivações";
-
-// The description of the Optimism Library Campaign option.
-"customcampaign_optimismdesc"       = 	"Selecione uma imagem da Biblioteca de Motivações diárias para utilizar na campanha.";
-
-// The title of the YouTube Campaign option.
-"customcampaign_youtubetitle"       = 	"YouTube";
-
-// The description of the YouTube Campaign option.
-"customcampaign_youtubedesc"        =   "Introduza um vídeo personalizado do YouTube para utilizar na campanha.";
-
-// The title of the Virtual Landing Page Campaign option.
-"customcampaign_virtualpagetitle"   =   "Página de Destino Virtual";
-
-// The description of the Virtual Landing PageCampaign option.
-"customcampaign_virtualpagedesc"    = 	"Utilize uma Página de Destino Virtual empresarial personalizada numa campanha.";
-
-// The alert message displayed when an image couldn't be found to continue.
-"customcampaign_noimageerror"       =   "Ocorreu um problema ao selecionar a sua imagem. Tente novamente.";
-
-
-// YouTube Select
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the YouTube Campaigns screen.
-"youtubecampaign_title"             =   "Campanhas do YouTube";
-
-// The Help Text used by the YouTube Campaigns screen.
-"youtubecampaign_help"              =   "Crie e selecione as suas campanhas personalizadas do YouTube para enviar aos seus grupos de oportunidades potenciais.\n\nToque no botão \"Adicionar (+)\" para criar uma nova campanha do YouTube.\n\nDeslize uma campanha para a esquerda para a editar ou eliminar.\n\nToque no botão \"Info. (i)\" para editar a campanha.\n\nToque numa campanha e no botão Seguinte para continuar.";
-
-// The message displayed when campaign downloads fail.
-"youtubecampaign_getfailure"        =   "Falha ao transferir Campanhas do YouTube. Tente novamente.";
-
-// The message displayed when campaign deletion fails.
-"youtubecampaign_deletefailure"     =	"Não foi possível eliminar a campanha.";
-
-
-// YouTube Add/Update
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the YouTube Campaign Editor screen.
-"youtubeeditor_title"               =   "Adicionar/Editar Campanha";
-
-// The Help Text used by the YouTube Campaign Editor screen.
-"youtubeeditor_help"                =   "Introduza as informações de uma campanha personalizada do YouTube.\n\nTEM de preencher TODOS os campos para criar uma campanha.\n\n- URL do Nome da Página (100 carateres): O que as oportunidades potenciais verão no URL.\n- Título da Página (50 carateres): O título apresentado na parte superior da página do vídeo.\n- Nome do Vídeo (25 carateres): O nome listado sob o leitor de vídeo.\n- Descrição do Vídeo (150 carateres): Uma breve descrição do vídeo, listada sob o Nome do Vídeo.\n- Ligação do Vídeo (100 carateres): A ligação para o vídeo do YouTube a apresentar.\n\nApós introduzir a Ligação do Vídeo, poderá pré-visualizar o leitor de vídeo incorporado que será utilizado na sua página de vídeo personalizada.\n\nToque no botão \"Guardar\" para guardar a sua campanha personalizada do YouTube.";
-
-// The text used to indicate where the embed preview will appear.
-"youtubeeditor_embedpreview"        = 	"A Pré-visualização da Incorporação do YouTube será carregada aqui. Defina a Ligação do Vídeo para pré-visualizar.";
-
-// The title and placeholder text used in the URL Page Name text field.
-"youtubeeditor_pagename"            =   "URL do Nome da Página";
-
-// The title and placeholder text used in the Page Title text field.
-"youtubeeditor_pagetitle"           = 	"Título da Página";
-
-// The title and placeholder text used in the Video Name text field.
-"youtubeeditor_videoname"           = 	"Nome do Vídeo";
-
-// The title and placeholder text used in the Video Description text field.
-"youtubeeditor_videodescription"    = 	"Descrição do Vídeo";
-
-// The title and placeholder text used in the Video Link text field.
-"youtubeeditor_videolink"           =   "Ligação do Vídeo";
-
-// The message displayed when a campaign is saved successfully.
-"youtubeeditor_savesuccess"         =   "Campanha guardada com êxito!";
-
-// The message displayed when a campaign fails to save.
-"youtubeeditor_savefailure"         =   "Não foi possível guardar a campanha.";
-
-// The too many characters validation message.
-/*
- "{0} - {1}: {2}/{3}"
- Where:
- {0} = Field Name
- {1} = The Translated Text
- {2} = Current Number of Letters
- {3} = Max Limit of Letters
- */
-"youtubeeditor_manyvalidation"     = 	"O campo de texto tem de ter menos letras. Número de letras atual";
-
-// The too few characters validation message.
-/*
- "{0} - {1}"
- Where:
- {0} = Field Name
- {1} = The Translated Text
- */
-"youtubeeditor_fewvalidation"       =   "Tem de introduzir um valor.";
-
-
-// Virtual Landing Page Campaign Select
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the Virtual Landing Page Campaigns screen.
-"virtualpagecampaign_title"         =   "Campanhas da Página de Destino";
-
-// The Help Text used by the Virtual Landing Page Campaigns screen.
-"virtualpagecampaign_help"          =   "Selecione uma Página de Destino Virtual empresarial a utilizar numa campanha.\n\nToque no botão \"Info. (i)\" numa campanha para a pré-visualizar.\n\nToque no botão Ação na barra de ferramentas inferior para partilhar uma campanha através de outros métodos que não SMS.";
-
-// The message displayed when campaign downloads fail.
-"virtualpagecampaign_getfailure"    =   "Não foi possível transferir as Páginas Virtuais. Tente novamente.";
-
-// The title in the navigation bar of the Virtual Landing Pages Campaign preview webview screen.
-"virtualpagecampaign_previewtitle"  = 	"Pré-visualização de Página Virtual";
-
-
-// ============================================================================
-// * Campaign Stats
-// ============================================================================
-
-// The title in the navigation bar of the Campaign Stats screen.
-"campaignstats_title"   =   "Estatísticas da Campanha";
-
-// The Help Text used by the Campaign Stats screen.
-"campaignstats_help"    =   "Veja todas as estatísticas da sua campanha móvel!";
-
-
-// ============================================================================
-// * My Badges
-// ============================================================================
-
-// The title in the navigation bar of the My Badges screen.
-"mybadges_title"            =   "Minhas Etiquetas";
-
-// The Help Text used by the My Badges screen.
-"mybadges_help"             =   "Veja todas as etiquetas que ganhou por participar em eventos, enviar campanhas, etc. Toque numa etiqueta para ver todos os seus detalhes!";
-
-// The points label text.
-"mybadges_points"           =   "Pontos";
-
-// The message displayed in the alert shown when a badge is not earned but is selected.
-"mybadges_notearned"        =   "Ainda não ganhou esta etiqueta!";
-
-// The message displayed when badge downloads fail.
-"mybadges_getfailure"       =   "Não foi possível transferir as etiquetas. Tente novamente.";
-
-// The message displayed when sharing a badge. (Android Only)
-"mybadges_sharebadge"       =	"Partilhar Etiqueta";
-
-// The message displayed when a single badge is earned.
-/*
- "{0}: {1}"
- Where:
- {0} = The Translated Text
- {1} = Badge Name
- */
-"mybadges_singleearned"     =   "Ganhou uma etiqueta";
-
-// The message displayed when multiple badges are earned.
-"mybadges_multipleearned"   =   "Ganhou novas etiquetas!";
-
-
-// ============================================================================
-// * Badge Details
-// ============================================================================
-
-// The title in the navigation bar of the Badge Detail screen. (Overridden by Badge name).
-"badgedetails_title"    =   "Detalhes da Etiqueta";
-
-// The Help Text used by the Badge Detail screen.
-"badgedetails_help"     =   "Maravilhe-se com a sua etiqueta! Mereceu-a! A sério!!";
-
-// The message to share when sharing a badge.
-/*
- "{0}: {1}"
- Where:
- {0} = The Translated Text
- {1} = Badge Name
- */
-"badgedetails_share"    =   "Ganhei uma etiqueta";
-
-
-// ============================================================================
-// * Alerts
-// ============================================================================
-
-// The title in the navigation bar of the Alerts screen.
-"alerts_title"              =   "Alertas";
-
-// The Help Text used by the Alerts screen.
-"alerts_help"               =   "Veja todos os alertas associados à sua conta.\n\nToque no botão \"Lixo\" para eliminar todos os alertas.";
-
-// The message displayed when deleting all alerts.
-"alerts_deletealerts"       =   "Eliminar todos os alertas?";
-
-// The title in the navigation bar of the Alerts Preview screen.
-"alerts_previewdetailtitle" = 	"Detalhes do Alerta";
-
-// The Help Text used by the Alerts Preview screen.
-"alerts_previewdetailhelp"  = 	"Ver todos os detalhes associados a um alerta específico.";
-
-
-// ============================================================================
-// * Profile
-// ============================================================================
-
-// The title in the navigation bar of the Profile screen.
-"profile_title"     =   "Perfil Móvel";
-
-// The Help Text used by the Profile screen.
-"profile_help"      =   "Veja o seu Perfil Móvel.\n\nSelecione Editar Perfil para modificar as informações do seu perfil.\n\nSelecione a opção Iniciar Sessão nas Redes Sociais para iniciar sessão nas suas contas nas redes sociais.\n\nSelecione Definições de Publicação Automática para editar o seu calendário pessoal de Publicação Automática de Motivações.";
-
-// Used to link to a user's profile website. (Android Only)
-"profile_mywebsite"         =   "O Meu Website";
-
-
-// The title of the Edit Profile option.
-"profile_editprofiletitle"  = 	"Editar Perfil";
-
-// The description of the Edit Profile option.
-"profile_editprofiledesc"   = 	"Modifique as definições do seu perfil móvel, incluindo o nome, informações de contacto e imagem de perfil.";
-
-// The title of the Login to Social Media option.
-"profile_socialmediatitle"  = 	"Iniciar Sessão nas Redes Sociais";
-
-// The description of the Login to Social Media option.
-"profile_socialmediadesc"   = 	"Inicie sessão nas contas nas redes sociais para utilização de funcionalidades como as Campanhas de Publicação Automática.";
-
-// The title of the Auto-Drip Settings option.
-"profile_autodriptitle"     = 	"Definições de Publicação Automática";
-
-// The description of the Auto-Drip Settings option.
-"profile_autodripdesc"      = 	"Agende e crie publicações para Publicação Automática em todas as suas contas nas redes sociais.";
-
-
-// ============================================================================
-// * Edit Profile
-// ============================================================================
-
-// The title in the navigation bar of the Edit Profile screen.
-"editprofile_title"                 =   "Editar Perfil";
-
-// The Help Text used by the Edit Profile screen.
-"editprofile_help"                  =   "Edite as suas informações de perfil e carregue uma nova imagem de perfil.\n\nAs imagens de perfil podem ser carregadas a partir do Rolo da Câmara e das contas nas redes sociais. Terá de iniciar sessão nas suas contas para poder utilizar as respetivas imagens de perfil.\n\nToque no botão \"Guardar\" para guardar as alterações que tenha efetuado.";
-
-// The Help Text used by the Edit Profile screen. (Android Only)
-"editprofile_help_android"          =   "Edite as suas informações de perfil e carregue uma nova imagem de perfil.\n\nAs imagens de perfil podem ser carregadas a partir da Galeria e das contas nas redes sociais. Terá de iniciar sessão nas suas contas para poder utilizar as respetivas imagens de perfil.\n\nToque no botão \"Guardar\" para guardar as alterações que tenha efetuado.";
-
-// The title of the Edit Profile Picture Button.
-"editprofile_editprofilepic"        =   "Editar Imagem de Perfil";
-
-// The title of the Edit Profile Picture Action Sheet menu.
-"editprofile_editprofilepictitle"   =   "Selecionar Imagem de Perfil de";
-
-// The title of the Camera Roll option in the edit profile Action Sheet menu.
-"editprofile_cameraroll"            =   "Rolo da Câmara";
-
-// The title of the Gallery option in the edit profile Action Sheet menu. (Android Only)
-"editprofile_gallery"               =   "Galeria";
-
-// The title of the Save Settings Button.
-"editprofile_savesettings"          =   "Guardar Definições";
-
-// The validation message for requiring a first name to be entered.
-"editprofile_firstnamevalidation"   =   "Tem de introduzir o nome próprio.";
-
-// The validation message for requiring a display name to be entered.
-"editprofile_displaynamevalidation" =   "Tem de introduzir o nome a apresentar.";
-
-// The message displayed when saving a profile successfully.
-"editprofile_savesuccess"           =   "Perfil móvel guardado com êxito!";
-
-// The message displayed when saving a profile fails.
-"editprofile_savefailure"           = 	"Não foi possível atualizar o perfil móvel. Tente novamente.";
-
-
-// ============================================================================
-// * Social Media Login
-// ============================================================================
-
-// The title in the navigation bar of the Social Media screen.
-"socialmedia_title"         =   "Redes Sociais";
-
-// The Help Text used by the Social Media screen.
-"socialmedia_help"          =   "Inicie sessão nas suas redes sociais. O início de sessão permite carregar a imagem de perfil de uma rede social para o seu Perfil Móvel e efetuar Publicação Automática de Motivações.";
-
-// The text for the How we use your Social Media Accounts label.
-"socialmedia_howeusetitle"  = 	"Como utilizamos as suas contas nas redes sociais:";
-
-// The text description for How we user Social Media.
-"socialmedia_howweusedesc"  = 	"- Obtenção de informações básicas de perfil (nome, pseudónimo, etc.)\n- Obtenção de imagem de perfil para apresentação na aplicação\n- Solicitação de permissões para lhe permitir efetuar publicações";
-
-
-// ============================================================================
-// * Auto-Drip Schedule
-// ============================================================================
-
-// The title in the navigation bar of the Auto-Drip Schedules screen.
-"autodrip_title"        =   "Calendários de Publicação Automática";
-
-// The Help Text used by the Auto-Drip Schedules screen.
-"autodrip_help"         =   "Defina um Calendário de Publicação Automática. Escolha a hora e os dias da semana em que pretende ser lembrado de efetuar publicações.\n\nToque no botão \"Guardar\" para guardar o seu calendário.\n\nToque no botão \"Publicar Agora\" para efetuar uma publicação agora!\n\nAo publicar, é possível escolher uma imagem personalizada para publicar, definir uma mensagem personalizada e escolher as redes sociais em que efetuar a publicação.";
-
-// The title of the Make Post Now Button.
-"autodrip_makepostnow"  =   "Publicar Agora";
-
-// The text of the schedule label.
-"autodrip_schedule"     =   "Calendário";
-
-// The message displayed in the alert when a schedule is saved successfully.
-"autodrip_savesuccess"  =   "O seu calendário foi guardado com êxito!";
-
-// The message displayed in the alert when a schedule fails to save.
-"autodrip_savefailure"  =   "Ocorreu um problema ao guardar o seu calendário. Tente novamente.";
-
-
-// The title to the Refresh Button.
-"autodrip_refreshoption"    = 	"Atualizar";
-
-// The title to the Library Button.
-"autodrip_library"          = 	"Biblioteca";
-
-// The title to the Camera Roll Button.
-"autodrip_cameraroll"       = 	"Rolo da Câmara";
-
-// The title to the Gallery Button. (Android Only)
-"autodrip_gallery"          = 	"Galeria";
-
-// The text of the instructions label.
-"autodrip_instructions"     = 	"Introduza a mensagem da publicação acima.";
-
-// The text of the Social Networks label.
-"autodrip_socialnetworks"   = 	"Redes Sociais";
-
-// The validation message displayed to require at least one social network selected.
-"autodrip_socialvalidation" = 	"Tem de selecionar pelo menos uma rede social em que publicar.";
-
-// The validation message to require login.
-/*
- "{0} - {1}"
- Where:
- {0} = Social Network Name
- {1} = The Translated Text
- */
-"autodrip_loginvalidation"  = 	"Tem de ter sessão iniciada para publicar.";
-
-// The title used in Auto-Drip push notifications. (Android Only)
-"autodrip_autodrip"         =   "Publicação Automática";
-
-// Message added to local notification for auto-dripping.
-"autodrip_timetopost"       =	"Publicação Automática - Está na altura de publicar!";
-
-
-
-// ============================================================================
-// * Success On Demand
-// ============================================================================
-
-// The title in the navigation bar of the Success On Demand screen.
-"sod_title"     =   "Sucesso a Pedido";
-
-// The Help Text used by the Success On Demand screen.
-"sod_help"      =   "Aceda ao conteúdo completo de Sucesso a Pedido!";
-
-
-// ============================================================================
-// * Help Center
-// ============================================================================
-
-// Help Center
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the Help Center screen.
-"helpcenter_title"          =   "Centro de Ajuda";
-
-// The Help Text used by the Help Center screen.
-"helpcenter_help"           =   "A ajuda está sempre a um toque de distância! Toque no título da Barra de Navegação em qualquer ecrã.\n\nSe houver informação de ajuda disponível, será apresentada numa nova janela como esta!\n\nExperimente tocar no título de outros ecrãs!";
-
-// The text used to instruct users to tap the title to view help tips.
-"helpcenter_instructions"   = 	"Precisa de ajuda? Toque no título que diz \"Centro de Ajuda\" na Barra de Navegação acima!\nForça! Experimente!";
-
-// The title of the Request Support option.
-"helpcenter_supporttitle"   = 	"Pedir Suporte";
-
-// The description of the Request Support option.
-"helpcenter_supportdesc"    =   "Solicite assistência ou reporte um problema com a aplicação.";
-
-// The title of the Training Videos option.
-"helpcenter_trainingtitle"  = 	"Vídeos de Formação";
-
-// The description of the Training Videos option.
-"helpcenter_trainingdesc"   = 	"Obtenha formação útil sobre como aproveitar todo o potencial desta aplicação!";
-
-// The title of the Rate the App option.
-"helpcenter_rateapptitle"   = 	"Classificar a Aplicação";
-
-// The description of the Rate the App option.
-"helpcenter_rateappdesc"    =   "Gosta do que vê? Dê-nos uma classificação de 5 estrelas na App Store!";
-
-
-// Support Request
-// ----------------------------------------------------------------------------
-
-// The title in the Navigation bar of the Support Requests screen.
-"supportrequests_title"                 =   "Pedidos de Suporte";
-
-// The Help Text used by the Support Requests screen.
-"supportrequests_help"                  =   "Aceda a eventuais pedidos de suporte que tenha criado. Toque num pedido de suporte para ver as eventuais respostas ao pedido.\n\nToque no botão Adicionar (+) para criar um novo pedido de suporte.";
-
-
-// The title in the Navigation bar of the Add Support Request screen.
-"addsupportrequest_title"               =   "Pedido de Suporte";
-
-// The Help Text used by the Add Support Request screen.
-"addsupportrequest_help"                =   "Envie-nos um pedido direto de suporte. Introduza a sua mensagem na caixa de texto e toque em Submeter.";
-
-// The text used to instruct users to create a support request.
-"addsupportrequest_instructions"        =   "Introduza abaixo uma mensagem para o pedido de suporte";
-
-// The message used when sending a support request is successful.
-"addsupportrequest_success"             =   "Recebemos o seu pedido de suporte!";
-
-// The validation message for requiring a message.
-"addsupportrequest_textvalidation"      =   "Tem de introduzir uma mensagem.";
-
-
-// The title in the Navigation bar of the Support Responses screen.
-"supportresponses_title"                =   "Respostas do Suporte";
-
-// The Help Text used by the Support Responses screen.
-"supportresponses_help"                 =   "Veja as informações do seu pedido de suporte, além de eventuais respostas das nossas equipas de suporte.\n\nUtilize a barra de mensagens abaixo para responder.";
-
-// The title text of the Send button.
-"supportresponses_send"                 =   "Enviar";
-
-// The placeholder text in the message bar text view.
-"supportresponses_placeholdertext"      =   "Mensagem";
-
-
-// ============================================================================
-// * Jeunesse Only
-// ============================================================================
-
-// The title of the Dashboard menu option.
-"menu_dashboard"                =   "Painel de Controlo";
-
-// The title of the My Events menu option.
-"menu_myevents"                 =   "Os Meus Eventos";
-
-// The title of the Admin Events menu option.
-"menu_adminevents"              =   "Administrar Eventos";
-
-// The title of the People I Sponsor menu option.
-"menu_peoplesponsored"          =   "Pessoas que Patrocino";
-
-// The title of the Genealogy menu option.
-"menu_genealogy"                =   "Genealogia";
-
-// The title of the Add New Signup menu option.
-"menu_newsignup"                =   "Adicionar Novo Registo";
-
-// The title of the Messages menu option.
-"menu_messages"                 =   "Mensagens";
-
-// The title of the Reports menu option.
-"menu_reports"                  =   "Relatórios";
-
-
-// The title of the menu section header for JOffice.
-"menu_jofficeheader"            =   "JOFFICE™";
-
-
-// ============================================================================
-// * Jeunesse Dashboard
-// ============================================================================
-
-// The title in the navigation bar of the Dashboard screen.
-"dashboard_title"                   =   "Painel de Controlo";
-
-// The Help Text used by the Dashboard screen.
-"dashboard_help"                    =   "No painel de controlo pode encontrar as informações mais recentes relativas aos seus negócios.\n\nToque nos botões dos separadores para mudar de separador.";
-
-// The title of the Home tab.
-"dashboard_home"                    =   "Início";
-
-// The title of the News Feed tab.
-"dashboard_newsfeed"                =   "Feed de Notícias";
-
-// The title of the Prospector tab.
-"dashboard_prospector"              =   "Prospector";
-
-
-// ============================================================================
-// * People I Sponsor
-// ============================================================================
-
-// The title in the navigation bar of the People I Sponsor screen.
-"peopleisponsor_title"                  =   "Pessoas que Patrocino";
-
-// The Help Text used by the People I Sponsor screen.
-"peopleisponsor_help"                   =   "Veja e contacte as pessoas que patrocina pessoalmente. Toque num patrocinador para ver mais detalhes.";
-
-
-// The title in the navigation bar of the People I Sponsor Detail screen. (Replaced by sponsor displayname)
-"peopleisponsordetail_title"            =   "Pessoas que Patrocino";
-
-// The Help Text used by the People I Sponsor Detail screen.
-"peopleisponsordetail_help"             =   "Veja as informações de contacto do patrocinador selecionado. Toque num dos botões de e-mail ou telefone para contactar o patrocinador.";
-
-
-// ============================================================================
-// * Genealogy
-// ============================================================================
-
-// The title in the navigation bar of the Genealogy screen.
-"genealogy_title"                  =   "Genealogia";
-
-// The Help Text used by the Genealogy screen.
-"genealogy_help"                   =   "Veja a sua árvore genealógica completa.";
-
-
-// ============================================================================
-// * Add New Signup
-// ============================================================================
-
-// The title in the navigation bar of the New Signup screen.
-"newsignup_title"                   =   "Novo Registo";
-
-// The Help Text used by the New Signup screen.
-"newsignup_help"                    =   "Adicione um novo registo introduzindo o seu nome de utilizador/URL do site e tocando no botão \"Registar\". Será solicitado que preencha as informações necessárias para o registo.";
-
-// The label text for the sponsor text field.
-"newsignup_sponsor"                 =   "URL do Site do Patrocinador";
-
-// The title text for the Signup button.
-"newsignup_signup"                  =   "Registar";
-
-// The warning message that appears when an invalid value is entered.
-"newsignup_invalidmessage"          =   "Tem de introduzir um nome de utilizador/URL de site válido.";
-
-
-// ============================================================================
-// * Messages
-// ============================================================================
-
-// The title in the navigation bar of the Messages screen.
-"messages_title"            =   "Mensagens";
-
-// The Help Text used by the Messages screen.
-"messages_help"             =   "Veja as mensagens pessoais da sua conta.\n\nDeslizar para a esquerda numa mensagem permite eliminá-la.\n\nToque no botão \"Pasta\" na barra inferior para alternar entre as pastas A Receber e Lixo.\n\nToque numa mensagem para ver o respetivo conteúdo.";
-
-
-// The title of the Inbox Message Folder.
-"messages_inbox"            =   "A Receber";
-
-// The title of the Trash Message Folder.
-"messages_trash"            =   "Lixo";
-
-
-// ============================================================================
-// * Reports
-// ============================================================================
-
-// The title in the navigation bar of the Reports List screen.
-"reportslist_title"            =   "Relatórios";
-
-// The Help Text used by the Reports List screen.
-"reportslist_help"             =   "Veja todos os seus relatórios de negócios no seu dispositivo móvel! Toque num relatório para o visualizar.";
-
-
-// The title in the navigation bar of the Report Parameters screen.
-"reportparams_title"            =   "Parâmetros do Relatório";
-
-// The Help Text used by the Report Parameters screen.
-"reportparams_help"             =   "Introduza e selecione os parâmetros necessários para gerar o relatório selecionado.";
-
-// The title used by the View Reports button.
-"reportparams_viewreports"      =   "Ver Relatórios";
-
-
-// The title in the navigation bar of the Report Viewer screen.
-"reportviewer_title"            =   "Visualizador de Relatórios";
-
-// The Help Text used by the Report Viewer screen.
-"reportviewer_help"             =   "Visualize o relatório gerado pelos parâmetros selecionados anteriormente.";
-
-
-// ============================================================================
-// * SmartCloud
-// ============================================================================
-
-// The title in the navigation bar of the SmartCloud screen.
-"smartcloud_title"                          =   "SmartCloud";
-
-// The Help Text used by the SmartCloud screen.
-"smartcloud_help"                           =   "Visualize todos os ficheiros e diretórios na Nuvem.\n\nToque no botão de transferência de um ficheiro para o transferir.\n\nSe o ficheiro já tiver sido transferido localmente, o botão de transferência não será apresentado. Bastará tocar no ficheiro para o abrir e visualizar.\n\nPara eliminar um ficheiro transferido localmente, basta deslizar o ficheiro da direita para a esquerda para revelar o botão de remoção.";
-
-// The title used in the Remove Local button.
-"smartcloud_removelocal"                    =   "Remover Local";
-
-// The title in the navigation bar of the SmartCloud screen when downloading a file.
-"smartcloud_downloading"                    =   "A transferir";
-
-
-// ============================================================================
-// * My Events
-// ============================================================================
-
-// The title in the navigation bar of the My Events List screen.
-"myeventslist_title"                        =   "Os Meus Eventos";
-
-// The Help Text used by the My Events List screen.
-"myeventslist_help"                         =   "Visualize a lista dos eventos para os quais se encontra registado. \n\nToque num evento para ver o seu código de acesso a esse evento.";
-
-// The notice for not being registered for any events.
-"myeventslist_notregistered"                =   "De momento não se encontra registado para quaisquer eventos.";
-
-
-// The title in the navigation bar of the My Events Detail screen. (Replaced by event name)
-"myeventsdetail_title"                      =   "QRCode do Meu Evento";
-
-// The Help Text used by the My Events Detail screen.
-"myeventsdetail_help"                       =   "Este é o seu código QR de acesso ao evento selecionado. Apresente-o a um administrador do evento para obter acesso.\n\nPor vezes não há ligação à internet ou há uma ligação fraca nos eventos, pelo que é importante transferir este código QR tocando no botão \"Guardar no Rolo da Câmara\".";
-
-// The Help Text used by the My Events Detail screen. (Android Only)
-"myeventsdetail_help_android"                       =   "Este é o seu código QR de acesso ao evento selecionado. Apresente-o a um administrador do evento para obter acesso.\n\nPor vezes não há ligação à internet ou há uma ligação fraca nos eventos, pelo que é importante transferir este código QR tocando no botão \"Guardar na Galeria\".";
-
-// The title in the Save to Camera Roll button.
-"myeventsdetail_savetocameraroll"           =   "Guardar no Rolo da Câmara";
-
-// The title in the Save to Gallery button. (Android Only)
-"myeventsdetail_savetogallery"              =   "Guardar na Galeria";
-
-// The alert text for reminding users to download an event QR Code.
-"myeventsdetail_downloadreminder"           =   "Por vezes não há ligação à internet ou há uma ligação fraca nos eventos, pelo que é importante transferir este código QR tocando no botão \"Guardar no Rolo da Câmara\".";
-
-// The alert text for reminding users to download an event QR Code. (Android Only)
-"myeventsdetail_downloadreminder_android"   =   "Por vezes não há ligação à internet ou há uma ligação fraca nos eventos, pelo que é importante transferir este código QR tocando no botão \"Guardar na Galeria\".";
-
-// The alert text verifying a QR code was saved successfully.
-"myeventsdetail_qrcodesavesuccess"          =   "Código QR guardado com êxito!";
-
-// The alert text notifying the user that a QR code failed to save.
-"myeventsdetail_qrcodesavefailure"          =   "Não foi possível guardar o código QR.";
-
-
-// ============================================================================
-// * Admin Events
-// ============================================================================
-
-// The title in the navigation bar of the Admin Events List screen.
-"admineventslist_title"         =   "Administrar Eventos";
-
-// The Help Text used by the Admin Events List screen.
-"admineventslist_help"          =   "Veja todos os eventos futuros e o número de registos/participantes.";
-
-// The text used to indicate the number of signups for an event.
-"admineventslist_signups"       =   "Registos";
-
-"actionitemdetail_alreadycompleted"="Já completou esta ação?";
-"actionitemdetail_help"="Veja os detalhes de uma ação recomendada. As informações adicionais fornecidas podem ajudá-lo a completar a ação. Se você já completou a ação e não foi registrado, toque o botão \"Tap Here\" para prosseguir.";
-"actionitemdetail_meetingconfirm"="Você completou a reunião?";
-"actionitemdetail_pathcomplete"="Este Lider completou seu caminho atual. ";
-"actionitemdetail_splitwarning"="Este item de ação é parte de uma divisão no caminho. Tomar esta ação pode impedir você de completar outros.";
-"actionitemdetail_takeaction"="Tome uma atitude";
-"actionitemdetail_title"="Ação recomendada";
-"actionpathpicker_help"="Selecione um Caminho de Ação para atribuir a um lider. Você pode visualizar um caminho de ação tocando no botão \"(i)\".";
-"actionpathpicker_title"="Caminhos de Ação";
-"actionpathviewer_help"="Veja a estrutura completa do caminho de ação. Você pode apertar para aumentar ou diminuir o zoom";
-"actionpathviewer_title"="Visualizador do caminho de ação";
-"addlead_addfailure"="Ocorreu um erro ao adicionar uma acao. ";
-"addlead_addlead"="Adicionar acao";
-"addlead_addsuccessful"="Acao adicionada com sucesso";
-"addlead_contactvalidation"="Você deve inserir pelo menos um método de contato (telefone ou email).";
-"addlead_help"="Digite as informações para a nova ligação que você gostaria de adicionar. \n \nA nova ligação DEVE receber um primeiro nome. \n \nVocê DEVE também fornecer pelo menos um método de contato (número de telefone ou e-mail) para o novo líder.";
-"addlead_namevalidation"="Você deve inserir um primeiro nome.";
-"addlead_title"="Adicionar Acao";
-"addsupportrequest_help"="Envie-nos uma solicitação direta ao suporte. Digite sua mensagem na caixa de texto e click em enviar.";
-"addsupportrequest_instructions"="Insira uma mensagem de solicitação ao suporte abaixo";
-"addsupportrequest_success"="Recebemos seu pedido de suporte!";
-"addsupportrequest_textvalidation"="Você deve inserir uma mensagem.";
-"addsupportrequest_title"="Solicitação ao suporte";
-"admineventdetail_help"="Veja os detalhes do evento selecionado";
-"admineventdetail_title"="Detalhes do Evento";
-"admineventdetail_totalcheckins"="Total Check Ins";
-"admineventdetail_totalregistrants"="Total Registrados";
-"admineventslist_help"="Veja todos os próximos eventos e o número de inscrições / registrados nos eventos";
-"admineventslist_signups"="Assinaturas";
-"admineventslist_title"="Administrar Eventos";
-"alerts_deletealerts"="Deletar todos os Alertas?";
-"alerts_help"="Veja todos os alertas associados à sua conta. \n\nclick no botão \"Trash\" para excluir todos os alertas";
-"alerts_previewdetailhelp"="Veja todos os detalhes associados a um alerta específico.";
-"alerts_previewdetailtitle"="Detalhes dos Alertas";
-"alerts_title"="Alertas";
-"android_appnotfound"="Não foi possível encontrar um aplicativo no mercado.";
-"android_exitconfirm"="Voce tem certeza que deseja sair?";
-"android_nogoogleplus"="Você deve ter o Googleplus instalado.";
-"android_notificatonssetting"="Receber Notificacoes";
-"apitestdetail_help"="Visualize uma solicitação de API específica para ver por que falhou.";
-"apitestdetail_title"="Detalhes API";
-"autodrip_autodrip"="Auto-Drip";
-"autodrip_cameraroll"="Rolo da câmera";
-"autodrip_gallery"="galeria";
-"autodrip_help"="Defina um cronograma de gotejamento automático. Defina uma hora e os dias da semana que você gostaria de ser lembrado para fazer postagens. \n\nclick no botão \"Salvar\" para salvar sua agenda. \n\nclick botão \"Fazer postar agora\" para fazer uma postagem agora ! \n \nNa postagem é possível escolher uma imagem personalizada para postar, definir uma mensagem personalizada e selecionar redes sociais para publicar";
-"autodrip_instructions"="Entre com a mensagem acima.";
-"autodrip_library"="livraria";
-"autodrip_loginvalidation"="Você precisa estar logado para postar.";
-"autodrip_makepostnow"="Faça o poste agora";
-"autodrip_refreshoption"="Atualize";
-"autodrip_savefailure"="Houve um problema ao salvar sua agenda. Por favor, tente novamente.";
-"autodrip_savesuccess"="A sua agenda foi salva com sucesso. ";
-"autodrip_schedule"="Agenda";
-"autodrip_socialnetworks"="Redes sociais";
-"autodrip_socialvalidation"="Você deve selecionar pelo menos uma rede social para publicar.";
-"autodrip_timetopost"="Auto-Drip - Itâ€™s time to post!";
-"autodrip_title"="Horários de gotejamento automático";
-"badgedetails_help"="Maravilha no seu cracha! Você ganhou! Não mesmo!!";
-"badgedetails_share"="Ganhei um crachá";
-"badgedetails_title"="Detalhes do Cracha";
-"campaignstats_help"="Veja todas as suas estatísticas da campanha móvel";
-"campaignstats_title"="Estatísticas da campanha";
-"cart_help"="Revise e modifique seu carrinho. \n\nclick no botão \"Remover tudo\" para remover todos os produtos do carrinho. \n\nclick no  botão \"Checkout\" para concluir o processo de checkout.";
-"cart_numberincart"="Produtos em seu carrinho";
-"cart_title"="Carrinhos de compras";
-"cartcategories_help"="Selecione uma categoria para ver todos os produtos associados.";
-"cartcategories_title"="Categorias";
-"cartcheckout_confirmation"="Confirmacao";
-"cartcheckout_help"="Revise o seu carrinho e preencha todas as entradas do formulário para concluir o processo de compra.";
-"cartcheckout_ordercomplete"="Ordem Completa";
-"cartcheckout_title"="Checkout";
-"cartproductdetail_help"="Veja os detalhes sobre um produto específico. \n\nclick no botão \"Adicionar ao carrinho\" para adicionar o produto ao seu carrinho";
-"cartproductdetail_title"="Detalhes do Produto";
-"cartproducts_help"="Selecione um produto para ver mais detalhes. \n\nclick no botão \"Adicionar ao carrinho\" para adicionar o produto ao seu carrinho de compras";
-"cartproducts_title"="Produtos";
-"carttype_help"="Escolha entre fazer um varejo de compra por atacado de produtos, selecionando o botão de tipo";
-"carttype_retail"="varejo";
-"carttype_title"="Produtos em seu carrinho";
-"carttype_wholesale"="Loja Joffice";
-"carttype_wholesaleunavailable"="Estamos trabalhando arduamente para levar as compras por atacado ao aplicativo!";
-"customcampaign_camerarolldesc"="Selecione uma imagem de seu aparelho celular para usar na campanha";
-"customcampaign_camerarolltitle"="sequencia de fotos";
-"customcampaign_gallerydesc"="Selecione uma imagem de seu aparelho celular para usar na campanha";
-"customcampaign_gallerytitle"="Galeria";
-"customcampaign_help"="Envie uma variedade de campanhas personalizadas para seus grupos principais. \n \n Escolha a opção transmitir da câmera para enviar uma campanha fotográfica usando fotos  da câmera do seu telefone. \n \n Escolha a opção Biblioteca compartilhável para enviar uma sequencia de fotos a partir do Biblioteca compartilhável \n \n Escolha a opção do YouTube para enviar uma campanha do YouTube personalizada";
-"customcampaign_help_android"="Envie uma variedade de campanhas personalizadas para seus grupos principais. \n \n Escolha a opção transmitir da câmera para enviar uma campanha fotográfica usando fotos  da câmera do seu telefone. \n \n Escolha a opção Biblioteca compartilhável para enviar uma sequencia de fotos a partir do Biblioteca compartilhável \n \n Escolha a opção do YouTube para enviar uma campanha do YouTube personalizada";
-"customcampaign_noimageerror"="Ocorreu um problema ao selecionar sua imagem. Por favor, tente novamente.";
-"customcampaign_optimismdesc"="Selecione uma imagem da Biblioteca compartilhável diária para usar na campanha.";
-"customcampaign_optimismtitle"="Biblioteca Compartilhavel";
-"customcampaign_title"="Campanha personalizada";
-"customcampaign_virtualpagedesc"="Use uma página corporativa personalizado em uma campanha.";
-"customcampaign_virtualpagetitle"="Página virtual";
-"customcampaign_youtubedesc"="Digite um vídeo do YouTube personalizado para usar na campanha.";
-"customcampaign_youtubetitle"="YouTube";
-"customerconfirm_customerinfo"="Informacao do Consumidor";
-"customerconfirm_differentperson"="Pessoa Diferente";
-"customerconfirm_help"="Ajude-nos a decidir se devemos fundir uma entrada de cliente com uma das suas ligações existentes, comparando suas informações de contato. Click no botão \"Merge All\" para mesclar todos os clientes com leads existentes.";
-"customerconfirm_leadinfo"="Informação principal";
-"customerconfirm_mergeall"="Combinar tudo";
-"customerconfirm_mergeallsuccess"="Todos os clientes cadastraram com sucesso!";
-"customerconfirm_mergefailed"="Falha no Cadastro";
-"customerconfirm_sameperson"="Mesma Pessoa";
-"customerconfirm_title"="Cadastro Pendente";
-"dailyoptimism_autodrip"="Auto-Drip Settings";
-"dailyoptimism_help"="Visualize e compartilhe o Diariamente compartilhável! \n \nTap \"Biblioteca\" para escolher qualquer um dos compartilháveis anteriores para compartilhar.";
-"dailyoptimism_library"="livraria";
-"dailyoptimism_share"="Compartilhe hoje, Compartilhavel.";
-"dailyoptimism_title"="Daily Shareable";
-"dashboard_help"="No painel de controle você pode visualizar todas as informações mais recentes relacionadas ao seu negócio. \n\nClick nos botões das abas para alternar entre as abas";
-"dashboard_home"="Business Snapshot";
-"dashboard_newsfeed"="Jnews";
-"dashboard_prospector"="Prospecto";
-"dashboard_title"="Painel de Controle";
-"debugmenu_help"="O menu de depuração pode ser usado para testar vários recursos, incluindo mudanças de ambiente e APIs.";
-"debugmenu_notoken"="Nenhum Token Disponivel";
-"debugmenu_title"="Menu";
-"editlead_addressinfo"="Informacoes de Endereco";
-"editlead_basicinfo"="Informacoes Basicas";
-"editlead_contactinfo"="Informacoes de Contato";
-"editlead_help"="Ao visualizar, Click no botão \"Editar\" para editar as informações do lead. Insira os dados para o lead e click em \"Salvar\" para salvar as alterações feitas.";
-"editlead_savesuccessful"="A liderança foi salva com sucesso!";
-"editlead_title"="Editar Lider";
-"editlead_titleseemore"="Verificar detalhes dos Lideres";
-"editmessage_help"="Digite uma mensagem para enviar para seus grupos. \n\nclick no botão \"X\" para limpar sua mensagem digitada. \n\nclick no botão \"Usuário\" para adicionar o nome dos leads na mensagem. \n\nclick no botão \"Next\" para continuar.";
-"editmessage_instructions"="Digite a mensagem SMS a ser enviada para o grupo.";
-"editmessage_title"="Editar a mensagem";
-"editprofile_cameraroll"="Sequencia de Imagens";
-"editprofile_displaynamevalidation"="Você deve inserir um nome para exibição.";
-"editprofile_editprofilepic"="Editar a Foto no Perfil";
-"editprofile_editprofilepictitle"="Selecione a imagem no perfil ";
-"editprofile_firstnamevalidation"="Você deve inserir um primeiro nome.";
-"editprofile_gallery"="Galeria";
-"editprofile_help"="Edite as informações do seu perfil e faça o upload de uma nova imagem de perfil. \n \nAs imagens do arquivo pode ser carregada a partir de suas imagens e Social Media. Você deve entrar em suas contas antes de poder usar suas imagens de perfil associadas. \n\nclick no botão \"Salvar\" para salvar as alterações que você fez.";
-"editprofile_help_android"="Edite as informações do seu perfil e faça o upload de uma nova imagem de perfil. \n \nAs imagens do arquivo pode ser carregada a partir de suas imagens e Social Media. Você deve entrar em suas contas antes de poder usar suas imagens de perfil associadas. \n\nclick no botão \"Salvar\" para salvar as alterações que você fez.";
-"editprofile_savefailure"="O perfil do celular não pôde ser atualizado. Por favor, tente novamente.";
-"editprofile_savesettings"="Salvar configurações";
-"editprofile_savesuccess"="O perfil móvel foi salvo com sucesso!";
-"editprofile_title"="Editar Perfil";
-"emailcampaign_help"="Selecione uma campanha para agendar o lead selecionado de todas as campanhas de e-mail disponíveis. Atingir uma campanha começará imediatamente para a liderança";
-"emailcampaign_title"="Email de Campanha";
-"emailmessages_help"="Selecione uma mensagem de e-mail individual para enviar para o lead selecionado. Click no botão \"Info (i)\" para visualizar a mensagem antes de enviar.";
-"emailmessages_title"="Menssagens de Email";
-"event_agenda"="Agenda";
-"event_announcements"="Anuncios";
-"event_bio"="Biografia";
-"event_castvote"="voto proferido";
-"event_materials"="Materiais";
-"event_myschedule"="Minha Agenda";
-"event_polls"="Enquetes";
-"event_session"="sessao";
-"event_sessions"="sessoes";
-"event_speakers"="palestrantes";
-"event_sponsors"="patrocinador";
-"event_surveys"="pesquisas";
-"event_surveysandpolls"="pesquisas & enquetes";
-"event_venuemap"="Mapa do Local";
-"eventagenda_help"="Veja a agenda de um evento. Clickem um item da agenda para obter mais detalhes. \n\nclick no botão \"Siga\" para obter alertas antes que um item da agenda comece.";
-"eventagenda_title"="agenda";
-"eventagendaitem_help"="Veja os detalhes de um item de agenda de eventos. Click no botão \"Siga\" para obter alertas antes que um item da agenda comece. \n\nclick o botão localização \"Mostrar me\" para ver onde o item da agenda ocorre. \n \Click no botão de download para visualizar materiais associados ao item da agenda. \n\nclick a aba \"Alto-falantes\" para visualizar todos os falantes envolvidos com o item da agenda.";
-"eventagendaitem_title"="Item na Agenda";
-"eventannouncements_help"="Veja todos os anúncios de eventos. Informações importantes sobre qualquer alteração de tempo e localização podem ser encontradas aqui.";
-"eventannouncements_title"="anuncios";
-"eventdashboard_happeningnow"="Acontecendo agora";
-"eventdashboard_nosessions"="Nenhuma sessão ocorrendo neste momento.";
-"eventmaterials_help"="Veja todos os materiais e recursos para o evento. Click no botão de download para baixar e visualizar um material.";
-"eventmaterials_title"="Materiais";
-"eventspeakerdetail_help"="Veja os detalhes de um Palestrante do evento. Click no botão \"Favorito\" para obter alertas antes de apresentar um orador. \n\nClick na aba \"Sessões\" para visualizar todos os itens da agenda em que o apresentador está apresentando.";
-"eventspeakerdetail_title"="Detalhe dos Palestrantes";
-"eventspeakers_help"="Veja todos os Palestrantes que vao falar no evento. Click em um palestrante para ver sua biografia. \n\nclick no botão \"Favorito\" para obter alertas quando um orador estiver apresentando";
-"eventspeakers_title"="Palestrantes";
-"eventsponsordetail_help"="Veja os detalhes do patrocinador. Click no botão \"Mais informações\" para obter detalhes adicionais sobre o patrocinador";
-"eventsponsordetail_title"="Detalhes do Patrocinador";
-"eventsponsorlist_help"="Veja todos os nossos patrocinadores de eventos. Click em um patrocinador para obter mais informações";
-"eventsponsorlist_title"="Patrocinadores";
-"eventsurveydetail_help"="Selecione uma resposta para cada pergunta. Selecione o botão \"Next\" para completar a pesquisa ou passar para a próxima pergunta.";
-"eventsurveydetail_needanswer"="Você deve responder a pergunta atual antes de prosseguir.";
-"eventsurveydetail_surveycomplete"="Obrigado por fornecer sua contribuição!";
-"eventsurveydetail_title"="Detalhes da pesquisa";
-"eventsurveydetail_voteconfirm"="Tem certeza de que deseja votar nesta resposta?";
-"eventsurveylist_alreadycompleted"="Você já completou esta pesquisa / pesquisa.";
-"eventsurveylist_help"="Veja todas as  pesquisas que estão ocorrendo no evento. Dê-nos a sua opinião para nos ajudar a melhorar a sua experiência de evento!";
-"eventsurveylist_title"="Pesquisas e Pesquisas";
-"facebookpages_help"="Depois de ter sua permissão, podemos ajudá-lo a publicar conteúdo em suas Páginas do Facebook. Selecione uma página para publicar seu conteúdo. \n\nSe você não ver nenhuma Páginas do Facebook, talvez possamos que você nos dê mais permissões. Para fazer isso, faça o login no Facebook a partir da tela do Perfil e tente publicar novamente";
-"facebookpages_nopages"="Não foram encontradas páginas do Facebook";
-"facebookpages_publishconfirm"="Tem certeza de que deseja publicar esta página do Facebook?";
-"facebookpages_publishfailed"="Ocorreu um erro ao publicar  sua Página do Facebook. Por favor, tente novamente mais tarde";
-"facebookpages_publishsuccess"="Um post foi feito com sucesso como sua página do Facebook!";
-"facebookpages_title"="Paginas do Facebook";
-"genealogy_help"="Veja sua Genealogia por completo";
-"genealogy_title"="Genealogia";
-"general_accept"="Aceito";
-"general_add"="Adicionar";
-"general_addnew"="Adicionar mais";
-"general_address"="Endereco";
-"general_appversion"="Versao aplicatico";
-"general_back"="Voltar";
-"general_cancel"="Cancelar";
-"general_cantmakecalls"="Este dispositivo não pode fazer chamadas.";
-"general_cantsendemail"="Este dispositivo não pode enviar e-mails. Verifique sua configuração de e-mail e tente novamente";
-"general_cantsendsms"="Este dispositivo não pode enviar mensagens SMS.";
-"general_categories"="Categorias";
-"general_cell"="Celular";
-"general_city"="Cidade";
-"general_closed"="Fechado";
-"general_comingsoon"="Inaugurando";
-"general_contact"="Contato";
-"general_contactsaccess"="O acesso aos contatos é restrito. Ative o acesso aos contatos nas configurações do seu dispositivo.";
-"general_country"="País";
-"general_create"="Criar";
-"general_days"="Dia(s)";
-"general_decline"="Recusar";
-"general_delete"="Deletar ";
-"general_details"="Detalhes";
-"general_devicelanguage"="Idioma do dispositivo";
-"general_devicemodel"="Dispositivo Movel";
-"general_deviceos"="Dispositivo OS";
-"general_displayname"="Mostrar nome";
-"general_done"="Feito";
-"general_edit"="Editar";
-"general_email"="Email ";
-"general_error"="Erro";
-"general_exit"="Saida";
-"general_facebook"="Facebook";
-"general_facebookrequired"="Instale o aplicativo do Facebook para usar esse recurso.";
-"general_facebookurl"="Facebook URL";
-"general_filter"="Filtro";
-"general_filterby"="Filtrar por";
-"general_firstname"="Primeiro Nome";
-"general_forward"="Compartilhar";
-"general_friday"="Sexta-Feira";
-"general_googleplus"="Google plus";
-"general_hours"="Hora(s)";
-"general_info"="Informacoes";
-"general_language"="Idioma";
-"general_lastname"="Ultimo Nome";
-"general_lead"="Lider";
-"general_loading"="Carregando";
-"general_location"="Localidade";
-"general_monday"="Segunda-Feira";
-"general_more"="Mais";
-"general_moreinfo"="Mais Informacao";
-"general_name"="Nome";
-"general_needhelp"="Precisa de ajuda?";
-"general_next"="Proximo";
-"general_no"="Nao";
-"general_noadditionalinfo"="Nenhuma informação adicional fornecida.";
-"general_nocontent"="O conteúdo não está disponível no idioma selecionado.";
-"general_nointernet"="Não foi possível conectar-se à internet. Verifique as configurações da internet e tente novamente.";
-"general_none"="Nenhum";
-"general_notice"="Noticia";
-"general_off"="OFF";
-"general_ok"="OK";
-"general_on"="ON";
-"general_open"="Abrir";
-"general_past"="Passado";
-"general_phone"="Telefone";
-"general_phonenumber"="Numero de Telefone";
-"general_post"="Post";
-"general_postalcode"="Codigo Postal";
-"general_preview"="Visualização";
-"general_previous"="Previa";
-"general_province"="Provincia";
-"general_question"="Questao";
-"general_remove"="Remover";
-"general_removeall"="Remover tudo";
-"general_reset"="Resetar";
-"general_responses"="Resposta";
-"general_saturday"="Sabado";
-"general_save"="Salvar ";
-"general_search"="Pesquisar";
-"general_secondphone"="Segundo Telefone";
-"general_seemore"="Veja Mais";
-"general_send"="Enviar";
-"general_settings"="Configuracoes";
-"general_share"="Compartilhar";
-"general_showme"="Mostre ";
-"general_skypeusername"="Nome no skype";
-"general_state"="Estado";
-"general_status"="Status";
-"general_submit"="Submeter";
-"general_success"="Sucesso";
-"general_sunday"="Domingo";
-"general_taphere"="Click aqui";
-"general_thursday"="Quinta-Feira";
-"general_title"="Titulo";
-"general_tuesday"="Terca-Feira";
-"general_twitter"="Twitter";
-"general_twitterhandle"="Twitter Handle";
-"general_unknownerror"="Um erro desconhecido ocorreu. Por favor, tente novamente";
-"general_unknownname"="Nome Desconhecido";
-"general_upcoming"="próximos";
-"general_username"="Nome de usuario";
-"general_webpageerror"="Não foi possível carregar a página da Web.";
-"general_wednesday"="Quarta-Feira";
-"general_work"="Trabalho";
-"general_yes"="Sim";
-"general_zip"="CEP";
-"groupdetails_help"="Visualize as derivações no grupo atual. \n\nClick no botão \"Editar (Lápis)\" para excluir uma ligação. \n\nClick no botão \"Adicionar Novo +\" para adicionar uma ligação ao grupo atual.";
-"groupdetails_title"="Detalhes do Grupo";
-"helpcenter_help"="A ajuda é sempre apenas uma vez! Click no título da Barra de Navegação em qualquer tela. \n \n Se houver informações de ajuda disponíveis, ele será exibido em uma nova janela como essa! \n\nTente clicando o título em outras telas!";
-"helpcenter_instructions"="Preciso de ajuda? Click no título que diz \"Centro de ajuda\" na barra de navegação acima! \nGo adiante! Click nele!";
-"helpcenter_rateappdesc"="Amor o que você vê? Dê-nos uma classificação de 5 estrelas na loja de aplicativo.";
-"helpcenter_rateapptitle"="Avalie o aplicativo";
-"helpcenter_supportdesc"="Peça assistência ou informe um problema sobre o aplicativo para nós.";
-"helpcenter_supporttitle"="Solicite Suporte";
-"helpcenter_title"="Centro de Ajuda";
-"helpcenter_trainingdesc"="Obtenha treinamento útil sobre como usar este aplicativo para o seu potencial máximo!";
-"helpcenter_trainingtitle"="Videos de Treinamento";
-"language_select"="Selecione o Idioma";
-"leadactions_cancelscheduledaction"="Tem certeza de que deseja cancelar esta ação?";
-"leadactions_customemail"="Email personalizado";
-"leadactions_doit"="Faca";
-"leadactions_emailcampaign"="Campanha de email";
-"leadactions_help"="Visualize, comece e cancele as ações recomendadas e agendadas. Click no botão \"Do It\" para processar uma ação recomendada para o lead. Para adicionar uma nova ação agendada, Click no botão \"Adicionar Novo\". Qualquer ação agendada pode ser cancelada tocando no botão \"Cancelar\".";
-"leadactions_norecommendedactions"="Não foram encontradas ações recomendadas.";
-"leadactions_noscheduledactions"="Nenhuma ação programada encontrada.";
-"leadactions_recommendedactions"="ações recomendadas.";
-"leadactions_reminder"="Relembrando";
-"leadactions_scheduledactions"="Agenda de acoes";
-"leadactions_singleemail"="Email unico";
-"leadactions_singleemailconfirm"="Tem certeza de que deseja enviar esse e-mail?";
-"leadactions_title"="Acoes da Lideranca";
-"leaddetails_abandonpath"="Abandonar caminho";
-"leaddetails_abandonpathvalidation"="Isso irá abandonar o caminho de ação atual do líder. Você deseja continuar?";
-"leaddetails_actionpathtitle"="Caminho de ação atual";
-"leaddetails_actionstab"="Acoes";
-"leaddetails_assignnewpath"="Atribuir novo caminho";
-"leaddetails_changeimagetitle"="Mude a Imagem";
-"leaddetails_changepath"="Mudar Caminho";
-"leaddetails_completionprogress"="Progresso Comcluido";
-"leaddetails_deletelead"="Apagar Lider";
-"leaddetails_deleteleadmessage"="Tem certeza de que deseja excluir esse lead?";
-"leaddetails_deleteleadtitle"="Eliminar o Lead Atual";
-"leaddetails_emailoptedin"="Optou por receber e-mails.";
-"leaddetails_emailoptedout"="Não optou por receber e-mails.";
-"leaddetails_help"="Visualize e edite uma única ligação. Acompanhe logs, estatísticas e notas. Click no botão \"Ações\" para agendar campanhas e lembretes de e-mail. Click no botão \"Apagar liderar\" para excluir o lead selecionado.";
-"leaddetails_logtab"="Log";
-"leaddetails_nocameramessage"="O aplicativo não consegue acessar a câmera neste dispositivo.";
-"leaddetails_nocameratitle"="Camera Indisponivel";
-"leaddetails_nophotolibrarymessage"="O aplicativo não consegue acessar as fotos na biblioteca.";
-"leaddetails_nophotolibrarytitle"="Foto na Biblioteca indisponivel";
-"leaddetails_notestab"="Notas";
-"leaddetails_orderstab"="Pedidos";
-"leaddetails_pathneedscontactinfo"="Você não pode atribuir essa liderança a esse caminho. A seguinte informação é necessária";
-"leaddetails_photolibrary"="Foto  na Biblioteca";
-"leaddetails_removeimage"="Remover imagem Atual";
-"leaddetails_smsoptedin"="Optou por receber mensagens de texto.";
-"leaddetails_smsoptedout"="Não optou por receber mensagens SMS";
-"leaddetails_statstab"="status";
-"leaddetails_takepicture"="Tire uma foto";
-"leaddetails_timetocomplete"="Tempo médio para completar";
-"leaddetails_title"="Detalhes do Lead";
-"leaddetails_viewfullpath"="Veja caminho por completo";
-"leadlog_help"="Visualize quaisquer ações ou eventos anteriores que tenham ocorrido com o lead selecionado.";
-"leadlog_title"="Lead Log";
-"leadnotes_help"="Adicione e veja as notas para o lead selecionado. Click no botão \"Plus (+)\" para adicionar uma nova nota.";
-"leadnotes_newnote"="Nova nota";
-"leadnotes_title"="Notas em leads";
-"leadorderdetails_help"="Veja os detalhes do pedido escolhido. Desloque-se para ver todos os produtos incluídos na ordem";
-"leadorderdetails_order"="Pedido";
-"leadorderdetails_ordertype"="Tipo de pedido";
-"leadorderdetails_paid"="pago";
-"leadorderdetails_paymenttype"="tipo de pagamento";
-"leadorderdetails_price"="preco";
-"leadorderdetails_products"="produtos";
-"leadorderdetails_quantity"="quantidade";
-"leadorderdetails_shipped"="Entregue";
-"leadorderdetails_title"="Detalhes do Pedido";
-"leadorderdetails_total"="Total";
-"leadorders_help"="Veja uma lista de pedidos pelo cliente atual. Click em um pedido para ver mais detalhes.";
-"leadorders_title"="Pedidos";
-"leadstats_duration"="Duracao";
-"leadstats_emailsnotread"="Emails nao verificados";
-"leadstats_emailsread"="Emails verificado";
-"leadstats_emailstats"="Estado do email";
-"leadstats_help"="Veja todas as estatísticas de e-mail e vídeo para o lead selecionado.";
-"leadstats_secs"="Sessoes";
-"leadstats_times"="tempos";
-"leadstats_title"="estatus leads";
-"leadstats_videostats"="estatus do Video";
-"leadstats_watched"="Assista";
-"localdevice_addexistingcontact"="Adicione um contato existente";
-"localdevice_createnewcontact"="Crie um novo Contato";
-"localdevice_sendmessage"="Envie a Menssagem";
-"login_help"="Digite seu nome de usuário e senha para entrar. \n\nClick a opção \"Mantenha-me conectado\" para que o aplicativo lembra seu nome de usuário e senha. Quando aberto, o aplicativo tentará logar-se automaticamente.";
-"login_keepmeconnected"="Manter Conectado";
-"login_loading"="Loggin in";
-"login_login"="Login";
-"login_loginerror"="Ocorreu um erro durante o processo de login. Por favor, verifique o seu nome de usuário e senha e tente novamente";
-"login_loginmethodprompt"="Diga-nos como mantê-lo conectado.";
-"login_methodtouchid"="Usar ID de toque";
-"login_methoduser"="Relembrar usuario apenas";
-"login_methoduserandpass"="Relembrar usuarios e senha";
-"login_password"="Senha";
-"login_title"="Bem Vindo";
-"login_version"="Versao ";
-"managegroups_contacts"="Contatos";
-"managegroups_groupname"="Nome do Grupo";
-"managegroups_help"="Veja e edite Grupos de leads para fazer o envio de campanhas rápida e fácil! \n\nClick o botão \"Editar (Lápis)\" para excluir um grupo. \n\nCLick o botão \"Adicionar Novo +\" para criar um novo grupo.";
-"managegroups_namevalidation"="Um grupo deve ter um nome.";
-"managegroups_newgroup"="Novo Grupo";
-"managegroups_newgroupname"="Novo nome do Grupo";
-"managegroups_title"="Grupos";
-"menu_adminevents"="Adiministrar Eventos";
-"menu_alerts"="Alertas";
-"menu_backoffice"="Backoffice Web";
-"menu_campaignstats"="Estatus de Campanha";
-"menu_customcampaign"="Campanha Personalizada";
-"menu_dashboard"="Painel de Controle";
-"menu_genealogy"="Genealogia";
-"menu_groupsms"="SMS de grupo";
-"menu_helpcenter"="Centro de Ajuda";
-"menu_home"="home";
-"menu_homeheader"="home";
-"menu_jofficeheader"="JOFFICEâ„¢";
-"menu_leadmanagementheader"="MY LEADS";
-"menu_logout"="sair";
-"menu_managegroups"="Gerenciar Grupos";
-"menu_messages"="Caixa de email";
-"menu_moreheader"="mais";
-"menu_mybadges"="Meus Crachas";
-"menu_myevents"="Meus Eventos";
-"menu_myleads"="Meus Lideres";
-"menu_newsignup"="Adicionar novo assinante";
-"menu_optimism"="Shareables";
-"menu_otherheader"="outro";
-"menu_peoplesponsored"="Pessoas que eu patrocinei";
-"menu_profile"="perfil";
-"menu_promotions"="promocoes";
-"menu_reports"="reportes";
-"menu_shoppingcart"="carrinho de compras";
-"menu_smartcloud"="JCloud";
-"menu_sod"="Sucesso na demanda";
-"menu_trainingvideos"="Videos de treinamento";
-"menu_videocampaign"="Videos de campanha";
-"messages_help"="Veja as mensagens da sua conta pessoal. \n \n A remoção da esquerda em uma mensagem permitirá que você exclua a mensagem. \n\nClick o botão \"Pasta\" na barra inferior para alternar entre suas pastas de caixa de entrada e lixeira. \n\nclick em uma mensagem para visualizar o seu conteúdo.";
-"messages_inbox"="inbox";
-"messages_title"="caixa de email";
-"messages_trash"="lixo";
-"mybadges_getfailure"="Não foi possível baixar os crachás. Por favor, tente novamente.";
-"mybadges_help"="Veja todos os crachás que você ganhou de participar de eventos, enviar campanhas, etc. Click em um crachá para vê-lo em sua \"glória total\"!";
-"mybadges_multipleearned"="Voce ganhou novos crachas";
-"mybadges_notearned"="Voce nao ganhou este cracha";
-"mybadges_points"="pontos";
-"mybadges_sharebadge"="Compartilhar cracha";
-"mybadges_singleearned"="Voce ganhou o cracha";
-"mybadges_title"="Meus crachas";
-"myeventsdetail_downloadreminder"="Às vezes, há uma conexão de internet ruim e / ou não nos eventos por isso é importante baixar este código QR clicando no botão \"Salvar no botão da câmera\".";
-"myeventsdetail_downloadreminder_android"="Às vezes, há uma conexão de internet ruim e / ou não nos eventos por isso é importante baixar este código QR click no botão \"Salvar em Galeria\"";
-"myeventsdetail_help"="Este é o seu código QR de acesso para o evento selecionado. Mostre isso a um administrador de eventos para obter acesso. \n \n Às vezes, há uma conexão de internet ruim e / ou não em eventos, por isso é importante baixar este código QR clicando no botão \"Salvar no botão da câmera\".";
-"myeventsdetail_help_android"="Este é o seu código QR de acesso para o evento selecionado. Mostre isso a um administrador de eventos para obter acesso. \n \n Às vezes, há uma conexão de internet ruim e / ou não em eventos, por isso é importante baixar este código QR clicando no botão \"Salvar no botão da câmera\".";
-"myeventsdetail_qrcodesavefailure"="QR code falhou ao salvar";
-"myeventsdetail_qrcodesavesuccess"="QR code foi salvo com sucesso";
-"myeventsdetail_savetocameraroll"="Salvo em sua camera";
-"myeventsdetail_savetogallery"="Salve em sua Galeria";
-"myeventsdetail_title"="Meu QR code do evento";
-"myeventslist_help"="Veja uma lista de eventos para os quais você está registrado. \n\nclique um evento para ver seu código de acesso para esse evento.";
-"myeventslist_myevents"="Meus eventos";
-"myeventslist_notregistered"="Voce nao esta registrado para nenhum evento";
-"myeventslist_title"="Meus eventos";
-"myeventslist_upcomingevents"="Proximos eventos";
-"myleads_addcontact"="Adicionar aos Contatos";
-"myleads_addcontacterror"="Ocorreu um erro ao adicionar um contato.";
-"myleads_addcontactsuccess"="Contato adicionado com sucesso";
-"myleads_addlead"="adicionar lead";
-"myleads_addnewlead"="adicionar novo lead";
-"myleads_ascending"="Asc";
-"myleads_changestatusto"="Mudar status para";
-"myleads_contacts"="contatos";
-"myleads_customers"="consumidores";
-"myleads_customertip1"="Quando detectamos um lead tornou-se um cliente, você pode juntar a liderança para um cliente aqui";
-"myleads_descending"="";
-"myleads_deviceview"="Veja Dispositivo Local";
-"myleads_freesample"="Enviar link de exemplo grátis";
-"myleads_help"="Visualize e edite suas ligações atuais. \n\nclick no botão \"Adicionar (+)\" para adicionar pistas de seus contatos ou entrada manual sobre a marcha! \n\nclick uma ligação para editar seus detalhes. Deslize um cabo para a esquerda para visualizar as opções adicionais. \n\nclick o botão \"Classificar\" para classificar sua lista de leads. Você pode classificar leads por valores ascendentes e descendentes. \n \nLeads também podem ser filtrados usando o botão \"Filter\" e usando a barra de pesquisa.";
-"myleads_leads"="leads";
-"myleads_nocontactinfo"="nenhum contato ou informacao disponivel";
-"myleads_nocustomersfound"="Nao encontrado nenhum consumidor";
-"myleads_noleademail"="Nenhum conjunto de e-mail para o lead selecionado.";
-"myleads_noleadphone"="Nenhum número de telefone definido para o lead selecionado.";
-"myleads_sendoptinout"="Send Opt In/Out Link";
-"myleads_signuplink"="enviar link de assinatura";
-"myleads_sort"="ordenar";
-"myleads_sortby"="ordenar para";
-"myleads_statuscold"="frio";
-"myleads_statushot"="quente";
-"myleads_statusnew"="novo";
-"myleads_statusnextstep"="proximo passo";
-"myleads_statuswarm"="caloroso";
-"myleads_title"="Meu Leads";
-"myleads_videoplayer"="envie meu video";
-"newsignup_help"="Adicione uma nova inscrição digitando seu nome de usuário / siteurl e clicando no botão \"Assinar\". Você será solicitado a preencher as informações de inscrição necessárias.";
-"newsignup_invalidmessage"="Você deve inserir um nome de usuário / siteurl válido.";
-"newsignup_signup"="Assine aqui";
-"newsignup_sponsor"="Site url do patrocinador";
-"newsignup_title"="Nova assinatura";
-"optimismlibrary_help"="Selecione um dos arquivos da biblioteca para continuar compartilhando.";
-"optimismlibrary_title"="Biblioteca Compartilhavel";
-"peopleisponsor_help"="Veja e entre em contato com pessoas que você patrocinou pessoalmente. Click em um patrocinador para ver mais detalhes";
-"peopleisponsor_title"="Pessoas que eu patrocinei";
-"peopleisponsordetail_help"="Veja as informações de contato para o patrocinador selecionado. Click em qualquer um dos botões de e-mail ou telefone para entrar em contato com o patrocinador";
-"peopleisponsordetail_title"="Pessoas que eu patrocinei";
-"profile_autodripdesc"="Agende e crie postagens no Auto-drip para todas as suas contas de redes sociais";
-"profile_autodriptitle"="Configuracoes Auto-Drip ";
-"profile_editprofiledesc"="Modifique as configurações do seu perfil móvel, incluindo nome, informações de contato e imagem de perfil.";
-"profile_editprofiletitle"="Editar seu Perfil";
-"profile_help"="Visualize o seu Perfil do celular. \n \nSelecione Editar perfil para modificar as informações em seu perfil. \n \nSelecione a opção Login para redes sociais para fazer login nas suas contas de redes sociais. \n \nSelecione Configurações de gotejamento automático para editar seu compartilhamento pessoal Cronograma de postagem automática.";
-"profile_mywebsite"="Meu website";
-"profile_socialmediadesc"="Faça login nas contas de redes sociais para o uso de recursos como Auto-Drip Campanha.";
-"profile_socialmediatitle"="Login para midia social";
-"profile_title"="Perfil movel";
-"prospector_actionpath"="Action Path";
-"prospector_doit"="Faça";
-"prospector_generaltutorial"="As ações recomendadas para todos os leads aparecerão abaixo. As ações são recomendadas com base no Caminho de ação no qual você atribui leads.";
-"prospector_norecommendedactions"="Não foram encontradas ações recomendadas.";
-"prospector_tip1"="Click em meu leads para menu opcoes";
-"prospector_tip2"="Você precisará selecionar uma liderança que você deseja atribuir a um Caminho de Ação";
-"prospector_tip3"="Click no botão \"Atribuir novo caminho\" para atribuir um caminho ao lead.";
-"prospector_tip4"="Com o tempo, recomendamos ações para você com base no caminho escolhido. Você pode visualizar essas ações clicando no botão \"AÇÕES\".";
-"prospector_tip5"="Você também pode visualizar as ações recomendadas ao retornar ao Painel de Controle";
-"prospector_upcomingactionmessage"="Este próximo item de ação não pode ser concluído antes da próxima data";
-"rateappprompt_cancel"="Nao agora";
-"rateappprompt_message"="Gostando  do  aplicativo? Gostaria de avaliar a versão atual?";
-"rateappprompt_title"="Avaliar o aplicativo?";
-"reminder_help"="Crie um lembrete consistindo em um título e uma breve mensagem. Use o selecionador de data para selecionar uma data para a qual agendar o lembrete.";
-"reminder_messagelabel"="menssagem";
-"reminder_messageneeded"="Você deve inserir uma mensagem para o lembrete.";
-"reminder_title"="Criar lembrete";
-"reminder_titlelabel"="Titulo";
-"reminder_titleneeded"="Você deve inserir um título para o lembrete.";
-"reportparams_help"="Digite e selecione os parâmetros necessários para gerar o relatório selecionado.";
-"reportparams_title"="reportar paramentros";
-"reportparams_viewreports"="Veja as anotacoes";
-"reportslist_help"="Veja todos os seus relatórios comerciais diretamente no seu dispositivo móvel! Toque em um relatório para visualizá-lo.";
-"reportslist_title"="notas";
-"reportviewer_help"="Veja o relatório gerado a partir dos parâmetros selecionados anteriormente.";
-"reportviewer_title"="Veja as notificacoes";
-"selectcontacts_addgroupleaderror"="Erro ao adicionar o lead ao grupo.";
-"selectcontacts_help"="Selecione os contatos que você gostaria de usar. \n \nContactos do seu dispositivo móvel aparecerão com um ícone do telefone ao lado deles. Backoffice Leads aparecerá com um ícone de catálogo de endereços. \n \nFiltrar contatos digitando na barra de pesquisa. Click no botão \"Teclado Ocultar\" para ocultar o teclado depois de pesquisar. \n \nContactos selecionados de seu dispositivo móvel serão automaticamente adicionados aos Backoffice Leads.";
-"selectcontacts_primary"="primario";
-"selectcontacts_title"="selecione os contatos  ";
-"selectcontacts_uploadcontacterror"="erro em carregar contato";
-"selectgroups_contactvalidation"="Você deve selecionar um grupo (s) com um ou mais números de telefone para enviar uma mensagem";
-"selectgroups_help"="Selecione os grupos de clientes potenciais que você gostaria de enviar campanhas para.";
-"selectgroups_instructions"="Selecione grupos para enviar esta campanha:";
-"selectgroups_newgroup"="Novo grupo";
-"selectgroups_selectcontacts"="Selecione da lista telefônica";
-"selectgroups_title"="selecione grupo  ";
-"sendmessage_help"="Verifique as ligações às quais você deseja enviar sua campanha e click no botão \"Enviar mensagens\" para enviá-lo. \n\nclick o botão \"Cancelar\" para reiniciar o processo de seleção da campanha";
-"sendmessage_instructions"="Reveja para enviar";
-"sendmessage_messagesent"="Menssagem enviada";
-"sendmessage_sendmessages"="Enviar mensagens)";
-"sendmessage_sendsuccess"="Mensagem (s) enviada (s)";
-"sendmessage_title"="enviar mensagem";
-"shareoptimism_help"="Visualize e compartilhe o Shareable que você selecionou na biblioteca! \n\nclick o botão Voltar para retornar à biblioteca.";
-"shareoptimism_share"="Compartilhe isso, compartilhável";
-"shareoptimism_title"="compartilhavel";
-"shoppingcart_added"="adicionado";
-"shoppingcart_addtocart"="adicionar ao carrinho";
-"shoppingcart_checkout"="Checkout";
-"shoppingcart_clearcart"="Gostaria de remover todos os itens do seu carrinho?";
-"shoppingcart_price"="preco";
-"shoppingcart_removefromcart"="Voce tem certezza que deseja remover este produto de seu carrinho?";
-"shoppingcart_saleprice"="preco de venda";
-"shoppingcart_subtotal"="subtotal";
-"smartcloud_downloading"="Downloading";
-"smartcloud_help"="Veja todos os arquivos e diretórios na Nuvem. \n\nClick no botão de download para um arquivo para baixá-lo. \n \nSe o arquivo já for baixado localmente, o botão de download não aparecerá. Basta tocar no arquivo para abri-lo e visualizá-lo. \n \nPara excluir um arquivo baixado localmente, simplesmente deslize o arquivo da direita para a esquerda para revelar o botão de remoção.";
-"smartcloud_removelocal"="Remover o local";
-"smartcloud_title"="Jcloud";
-"socialmedia_help"="Faça login em sua redes sociais. A inscrição permite que você envie uma imagem de perfil de mídia social para o seu Perfil do celular e faça as postagens do Shareable Auto Drip.";
-"socialmedia_howeusetitle"="Como usamos suas contas de mídia social:";
-"socialmedia_howweusedesc"="Obter informações básicas do perfil (nome etc.) \n- Obter uma imagem de perfil para exibir na aplicação \n- Solicitar permissões para permitir que você faça posts";
-"socialmedia_title"="Media social";
-"sod_help"="Acesse o conteúdo completo do sucesso na demanda!";
-"sod_title"="sucesso na demanda";
-"supportrequests_help"="Acesse quaisquer solicitações de suporte que você criou. Click em uma solicitação de suporte para visualizar as respostas feitas nesse pedido. \n\nClick o botão Adicionar (+) para criar uma nova solicitação de suporte.";
-"supportrequests_title"="solicitacao de suporte";
-"supportresponses_help"="Veja as informações do seu pedido de suporte além de quaisquer respostas feitas nossas equipes de suporte. \n \nUse a barra de mensagens na parte inferior para responder.";
-"supportresponses_placeholdertext"="menssagem";
-"supportresponses_send"="enviar";
-"supportresponses_title"="Respostas do suporte";
-"tos_help"="Leia o contrato de Termos de Serviço para uso com este aplicativo. Aceite ou recuse o acordo. A diminuição do acordo impedirá que você use outros recursos do aplicativo.";
-"tos_title"="termos de servico";
-"trainingvideos_help"="Veja Vídeos de Treinamento. \n\nClick a linha de vídeo para ver o vídeo.";
-"trainingvideos_title"="videos de treinamento";
-"videocampaign_help"="Selecione, visualize e envie campanhas de vídeo. \n\nClick o botão \"Info (i)\" em uma campanha para visualizá-lo. \n \nSelecione uma campanha e click no botão \"Next\" para continuar. \n \click o botão \"Opções\" na barra inferior depois de selecionar uma campanha para compartilhá-lo.";
-"videocampaign_nocategoriesfound"="nenhum categoria encontrada";
-"videocampaign_novideosfound"="nenhum video encontrado";
-"videocampaign_previewtitle"="Visualização da campanha em vídeo";
-"videocampaign_title"="campanha de video";
-"videoplaylist_addtoplaylist"="Adicionar a playlist";
-"videoplaylist_allvideos"="todos os videos";
-"videoplaylist_emptyplaylist"="Atualmente, você não possui vídeos na sua lista de reprodução. Adicione pelo menos um vídeo para visualizar sua lista de reprodução.";
-"videoplaylist_fullplaylist"="Sua lista de reprodução está cheia. Remova um vídeo antes de adicionar outro.";
-"videoplaylist_languageerror"="Um ou mais dos vídeos na sua lista de reprodução não estão disponíveis no idioma atualmente selecionado";
-"videoplaylist_myvideoplaylist"="Minha lista de videos";
-"videoplaylist_removeallconfirm"="Voce tem certeze que deseja remover todos os videos de sua playlist?";
-"videoplaylist_removefromplaylist"="Remover de minha playlist";
-"videoplaylist_tip1"="Apresentando o novo recurso de lista de reprodução de vídeo! Escolha até 6 de seus vídeos favoritos para compartilhar suas ligações!";
-"videoplaylist_tip2"="click no botão da lista de reprodução de um vídeo para adicionar ou remover o vídeo da sua lista de reprodução.";
-"videoplaylist_tip3"="Toque na guia \"My Video Playlist\" para visualizar sua lista de reprodução!";
-"videoplaylist_tip4"="Click e arraste seus vídeos de lista de reprodução para reordenar sua lista de reprodução.";
-"videoplaylist_tip5"="Click no botão \"Compartilhar\" para compartilhar sua lista de reprodução para as mídias sociais.";
-"videoplaylist_tip6"="click no botão \"Next\" para compartilhar sua lista de reprodução com seus leads e grupos.";
-"videoplaylist_tip7"="Click no botão \"Remover tudo\" para remover todos os vídeos da sua lista de reprodução";
-"videoplaylist_tip8"="Click na guia \"Todos os Vídeos\" para retornar à lista de vídeos completa e compartilhar vídeos individuais";
-"videoplaylist_title"="video playlist";
-"virtualpagecampaign_getfailure"="Não foi possível baixar as Páginas Virtuais. Por favor, tente novamente.";
-"virtualpagecampaign_help"="Selecione uma página corporativa de aterragem virtual para usar em uma campanha. \n\nclick o botão \"Info (i)\" em uma campanha para visualizá-lo. \n\nclick o botão Ação na barra de ferramentas inferior para compartilhar uma campanha através de métodos além de SMS";
-"virtualpagecampaign_previewtitle"="Visualização da Página Virtual";
-"virtualpagecampaign_title"="Campanhas da página de destino";
-"youtubecampaign_deletefailure"="Não foi possível excluir a campanha.";
-"youtubecampaign_getfailure"="Falha ao baixar campanhas do YouTube. Por favor, tente novamente.";
-"youtubecampaign_help"="Faça e selecione suas campanhas personalizadas do YouTube para enviar para seus grupos principais. \n\nclick o botão \"Adicionar (+)\" para criar uma nova campanha do YouTube. \n \nSalte uma campanha à esquerda para editar ou excluir a campanha. \n \nToque o botão \"Info (i)\" para editar a campanha. \n\nclick uma campanha e o botão Avançar para continuar.";
-"youtubecampaign_title"="campanha no youtube";
-"youtubeeditor_embedpreview"="A Visualização de Incorporação do YouTube será carregada aqui. Defina o link de vídeo para visualizar";
-"youtubeeditor_fewvalidation"="Você deve inserir um valor.";
-"youtubeeditor_help"="Digite as informações de uma campanha do YouTube personalizada. \n \nVocê DEVE preencher TODOS os campos para criar uma campanha. \n \n- Nome da página URL (100 caracteres): isto é o que os leads verão no URL. \n- Título da página (50 caracteres): Este será o título exibido na parte superior da página de vídeo. \n- Nome do vídeo (25 caracteres): este será o nome listado abaixo do player de vídeo. \n- Descrição do vídeo (150 caracteres ): Esta será uma breve descrição do vídeo listado no Nome do Vídeo. \n- Link de Vídeo (100 caracteres): Este é o link para o vídeo do YouTube a ser exibido. \n \n Depois de entrar no Vídeo Link, você pode Visualize o player de vídeo incorporado que será usado na sua página de vídeo personalizada. \n \nToque o botão \"Salvar\" para salvar sua campanha do YouTube personalizada.";
-"youtubeeditor_manyvalidation"="O campo de texto deve ter menos letras. Número atual de letras";
-"youtubeeditor_pagename"="Nome da pagina e URL";
-"youtubeeditor_pagetitle"="titulo da pagina";
-"youtubeeditor_savefailure"="nao desejo salvar a campanha";
-"youtubeeditor_savesuccess"="campanha salva com sucesso";
-"youtubeeditor_title"="adicionar/editar campanha";
-"youtubeeditor_videodescription"="descricao do video";
-"youtubeeditor_videolink"="link do video";
-"youtubeeditor_videoname"="nome do video";
+"actionitemdetail_alreadycompleted" = "Já completou esta ação?";
+"actionitemdetail_help" = "Veja os detalhes de uma ação recomendada. As informações adicionais fornecidas podem ajudá-lo a completar a ação. Se você já completou a ação e não foi registrado, toque o botão \"Tap Here\" para prosseguir.";
+"actionitemdetail_meetingconfirm" = "Você completou a reunião?";
+"actionitemdetail_pathcomplete" = "Este Lider completou seu caminho atual. ";
+"actionitemdetail_splitwarning" = "Este item de ação é parte de uma divisão no caminho. Tomar esta ação pode impedir você de completar outros.";
+"actionitemdetail_takeaction" = "Tome uma atitude";
+"actionitemdetail_title" = "Ação recomendada";
+"actionpathpicker_help" = "Selecione um Caminho de Ação para atribuir a um lider. Você pode visualizar um caminho de ação tocando no botão \"(i)\".";
+"actionpathpicker_title" = "Caminhos de Ação";
+"actionpathviewer_help" = "Veja a estrutura completa do caminho de ação. Você pode apertar para aumentar ou diminuir o zoom";
+"actionpathviewer_title" = "Visualizador do caminho de ação";
+"addlead_addfailure" = "Ocorreu um erro ao adicionar uma acao. ";
+"addlead_addlead" = "Adicionar acao";
+"addlead_addsuccessful" = "Acao adicionada com sucesso";
+"addlead_contactvalidation" = "Você deve inserir pelo menos um método de contato (telefone ou email).";
+"addlead_help" = "Digite as informações para a nova ligação que você gostaria de adicionar. \n \nA nova ligação DEVE receber um primeiro nome. \n \nVocê DEVE também fornecer pelo menos um método de contato (número de telefone ou e-mail) para o novo líder.";
+"addlead_namevalidation" = "Você deve inserir um primeiro nome.";
+"addlead_title" = "Adicionar Acao";
+"addsupportrequest_help" = "Envie-nos uma solicitação direta ao suporte. Digite sua mensagem na caixa de texto e click em enviar.";
+"addsupportrequest_instructions" = "Insira uma mensagem de solicitação ao suporte abaixo";
+"addsupportrequest_success" = "Recebemos seu pedido de suporte!";
+"addsupportrequest_textvalidation" = "Você deve inserir uma mensagem.";
+"addsupportrequest_title" = "Solicitação ao suporte";
+"admineventdetail_help" = "Veja os detalhes do evento selecionado";
+"admineventdetail_title" = "Detalhes do Evento";
+"admineventdetail_totalcheckins" = "Total Check Ins";
+"admineventdetail_totalregistrants" = "Total Registrados";
+"admineventslist_help" = "Veja todos os próximos eventos e o número de inscrições / registrados nos eventos";
+"admineventslist_signups" = "Assinaturas";
+"admineventslist_title" = "Administrar Eventos";
+"alerts_deletealerts" = "Deletar todos os Alertas?";
+"alerts_help" = "Veja todos os alertas associados à sua conta. \n\nclick no botão \"Trash\" para excluir todos os alertas";
+"alerts_previewdetailhelp" = "Veja todos os detalhes associados a um alerta específico.";
+"alerts_previewdetailtitle" = "Detalhes dos Alertas";
+"alerts_title" = "Alertas";
+"android_appnotfound" = "Não foi possível encontrar um aplicativo no mercado.";
+"android_exitconfirm" = "Voce tem certeza que deseja sair?";
+"android_nogoogleplus" = "Você deve ter o Googleplus instalado.";
+"android_notificatonssetting" = "Receber Notificacoes";
+"apitestdetail_help" = "Visualize uma solicitação de API específica para ver por que falhou.";
+"apitestdetail_title" = "Detalhes API";
+"autodrip_autodrip" = "Auto-Drip";
+"autodrip_cameraroll" = "Rolo da câmera";
+"autodrip_gallery" = "galeria";
+"autodrip_help" = "Defina um cronograma de gotejamento automático. Defina uma hora e os dias da semana que você gostaria de ser lembrado para fazer postagens. \n\nclick no botão \"Salvar\" para salvar sua agenda. \n\nclick botão \"Fazer postar agora\" para fazer uma postagem agora ! \n \nNa postagem é possível escolher uma imagem personalizada para postar, definir uma mensagem personalizada e selecionar redes sociais para publicar";
+"autodrip_instructions" = "Entre com a mensagem acima.";
+"autodrip_library" = "livraria";
+"autodrip_loginvalidation" = "Você precisa estar logado para postar.";
+"autodrip_makepostnow" = "Faça o poste agora";
+"autodrip_refreshoption" = "Atualize";
+"autodrip_savefailure" = "Houve um problema ao salvar sua agenda. Por favor, tente novamente.";
+"autodrip_savesuccess" = "A sua agenda foi salva com sucesso. ";
+"autodrip_schedule" = "Agenda";
+"autodrip_socialnetworks" = "Redes sociais";
+"autodrip_socialvalidation" = "Você deve selecionar pelo menos uma rede social para publicar.";
+"autodrip_timetopost" = "Auto-Drip - Itâ€™s time to post!";
+"autodrip_title" = "Horários de gotejamento automático";
+"badgedetails_help" = "Maravilha no seu cracha! Você ganhou! Não mesmo!!";
+"badgedetails_share" = "Ganhei um crachá";
+"badgedetails_title" = "Detalhes do Cracha";
+"campaignstats_help" = "Veja todas as suas estatísticas da campanha móvel";
+"campaignstats_title" = "Estatísticas da campanha";
+"cart_help" = "Revise e modifique seu carrinho. \n\nclick no botão \"Remover tudo\" para remover todos os produtos do carrinho. \n\nclick no  botão \"Checkout\" para concluir o processo de checkout.";
+"cart_numberincart" = "Produtos em seu carrinho";
+"cart_title" = "Carrinhos de compras";
+"cartcategories_help" = "Selecione uma categoria para ver todos os produtos associados.";
+"cartcategories_title" = "Categorias";
+"cartcheckout_confirmation" = "Confirmacao";
+"cartcheckout_help" = "Revise o seu carrinho e preencha todas as entradas do formulário para concluir o processo de compra.";
+"cartcheckout_ordercomplete" = "Ordem Completa";
+"cartcheckout_title" = "Checkout";
+"cartproductdetail_help" = "Veja os detalhes sobre um produto específico. \n\nclick no botão \"Adicionar ao carrinho\" para adicionar o produto ao seu carrinho";
+"cartproductdetail_title" = "Detalhes do Produto";
+"cartproducts_help" = "Selecione um produto para ver mais detalhes. \n\nclick no botão \"Adicionar ao carrinho\" para adicionar o produto ao seu carrinho de compras";
+"cartproducts_title" = "Produtos";
+"carttype_help" = "Escolha entre fazer um varejo de compra por atacado de produtos, selecionando o botão de tipo";
+"carttype_retail" = "varejo";
+"carttype_title" = "Produtos em seu carrinho";
+"carttype_wholesale" = "Loja Joffice";
+"carttype_wholesaleunavailable" = "Estamos trabalhando arduamente para levar as compras por atacado ao aplicativo!";
+"customcampaign_camerarolldesc" = "Selecione uma imagem de seu aparelho celular para usar na campanha";
+"customcampaign_camerarolltitle" = "sequencia de fotos";
+"customcampaign_gallerydesc" = "Selecione uma imagem de seu aparelho celular para usar na campanha";
+"customcampaign_gallerytitle" = "Galeria";
+"customcampaign_help" = "Envie uma variedade de campanhas personalizadas para seus grupos principais. \n \n Escolha a opção transmitir da câmera para enviar uma campanha fotográfica usando fotos  da câmera do seu telefone. \n \n Escolha a opção Biblioteca compartilhável para enviar uma sequencia de fotos a partir do Biblioteca compartilhável \n \n Escolha a opção do YouTube para enviar uma campanha do YouTube personalizada";
+"customcampaign_help_android" = "Envie uma variedade de campanhas personalizadas para seus grupos principais. \n \n Escolha a opção transmitir da câmera para enviar uma campanha fotográfica usando fotos  da câmera do seu telefone. \n \n Escolha a opção Biblioteca compartilhável para enviar uma sequencia de fotos a partir do Biblioteca compartilhável \n \n Escolha a opção do YouTube para enviar uma campanha do YouTube personalizada";
+"customcampaign_noimageerror" = "Ocorreu um problema ao selecionar sua imagem. Por favor, tente novamente.";
+"customcampaign_optimismdesc" = "Selecione uma imagem da Biblioteca compartilhável diária para usar na campanha.";
+"customcampaign_optimismtitle" = "Biblioteca Compartilhavel";
+"customcampaign_title" = "Campanha personalizada";
+"customcampaign_virtualpagedesc" = "Use uma página corporativa personalizado em uma campanha.";
+"customcampaign_virtualpagetitle" = "Página virtual";
+"customcampaign_youtubedesc" = "Digite um vídeo do YouTube personalizado para usar na campanha.";
+"customcampaign_youtubetitle" = "YouTube";
+"customerconfirm_customerinfo" = "Informacao do Consumidor";
+"customerconfirm_differentperson" = "Pessoa Diferente";
+"customerconfirm_help" = "Ajude-nos a decidir se devemos fundir uma entrada de cliente com uma das suas ligações existentes, comparando suas informações de contato. Click no botão \"Merge All\" para mesclar todos os clientes com leads existentes.";
+"customerconfirm_leadinfo" = "Informação principal";
+"customerconfirm_mergeall" = "Combinar tudo";
+"customerconfirm_mergeallsuccess" = "Todos os clientes cadastraram com sucesso!";
+"customerconfirm_mergefailed" = "Falha no Cadastro";
+"customerconfirm_sameperson" = "Mesma Pessoa";
+"customerconfirm_title" = "Cadastro Pendente";
+"dailyoptimism_autodrip" = "Auto-Drip Settings";
+"dailyoptimism_help" = "Visualize e compartilhe o Diariamente compartilhável! \n \nTap \"Biblioteca\" para escolher qualquer um dos compartilháveis anteriores para compartilhar.";
+"dailyoptimism_library" = "livraria";
+"dailyoptimism_share" = "Compartilhe hoje, Compartilhavel.";
+"dailyoptimism_title" = "Daily Shareable";
+"dashboard_help" = "No painel de controle você pode visualizar todas as informações mais recentes relacionadas ao seu negócio. \n\nClick nos botões das abas para alternar entre as abas";
+"dashboard_home" = "Business Snapshot";
+"dashboard_newsfeed" = "Jnews";
+"dashboard_prospector" = "Prospecto";
+"dashboard_title" = "Painel de Controle";
+"debugmenu_help" = "O menu de depuração pode ser usado para testar vários recursos, incluindo mudanças de ambiente e APIs.";
+"debugmenu_notoken" = "Nenhum Token Disponivel";
+"debugmenu_title" = "Menu";
+"editlead_addressinfo" = "Informacoes de Endereco";
+"editlead_basicinfo" = "Informacoes Basicas";
+"editlead_contactinfo" = "Informacoes de Contato";
+"editlead_help" = "Ao visualizar, Click no botão \"Editar\" para editar as informações do lead. Insira os dados para o lead e click em \"Salvar\" para salvar as alterações feitas.";
+"editlead_savesuccessful" = "A liderança foi salva com sucesso!";
+"editlead_title" = "Editar Lider";
+"editlead_titleseemore" = "Verificar detalhes dos Lideres";
+"editmessage_help" = "Digite uma mensagem para enviar para seus grupos. \n\nclick no botão \"X\" para limpar sua mensagem digitada. \n\nclick no botão \"Usuário\" para adicionar o nome dos leads na mensagem. \n\nclick no botão \"Next\" para continuar.";
+"editmessage_instructions" = "Digite a mensagem SMS a ser enviada para o grupo.";
+"editmessage_title" = "Editar a mensagem";
+"editprofile_cameraroll" = "Sequencia de Imagens";
+"editprofile_displaynamevalidation" = "Você deve inserir um nome para exibição.";
+"editprofile_editprofilepic" = "Editar a Foto no Perfil";
+"editprofile_editprofilepictitle" = "Selecione a imagem no perfil ";
+"editprofile_firstnamevalidation" = "Você deve inserir um primeiro nome.";
+"editprofile_gallery" = "Galeria";
+"editprofile_help" = "Edite as informações do seu perfil e faça o upload de uma nova imagem de perfil. \n \nAs imagens do arquivo pode ser carregada a partir de suas imagens e Social Media. Você deve entrar em suas contas antes de poder usar suas imagens de perfil associadas. \n\nclick no botão \"Salvar\" para salvar as alterações que você fez.";
+"editprofile_help_android" = "Edite as informações do seu perfil e faça o upload de uma nova imagem de perfil. \n \nAs imagens do arquivo pode ser carregada a partir de suas imagens e Social Media. Você deve entrar em suas contas antes de poder usar suas imagens de perfil associadas. \n\nclick no botão \"Salvar\" para salvar as alterações que você fez.";
+"editprofile_savefailure" = "O perfil do celular não pôde ser atualizado. Por favor, tente novamente.";
+"editprofile_savesettings" = "Salvar configurações";
+"editprofile_savesuccess" = "O perfil móvel foi salvo com sucesso!";
+"editprofile_title" = "Editar Perfil";
+"emailcampaign_help" = "Selecione uma campanha para agendar o lead selecionado de todas as campanhas de e-mail disponíveis. Atingir uma campanha começará imediatamente para a liderança";
+"emailcampaign_title" = "Email de Campanha";
+"emailmessages_help" = "Selecione uma mensagem de e-mail individual para enviar para o lead selecionado. Click no botão \"Info (i)\" para visualizar a mensagem antes de enviar.";
+"emailmessages_title" = "Menssagens de Email";
+"event_agenda" = "Agenda";
+"event_announcements" = "Anuncios";
+"event_bio" = "Biografia";
+"event_castvote" = "voto proferido";
+"event_materials" = "Materiais";
+"event_myschedule" = "Minha Agenda";
+"event_polls" = "Enquetes";
+"event_session" = "sessao";
+"event_sessions" = "sessoes";
+"event_speakers" = "palestrantes";
+"event_sponsors" = "patrocinador";
+"event_surveys" = "pesquisas";
+"event_surveysandpolls" = "pesquisas & enquetes";
+"event_venuemap" = "Mapa do Local";
+"eventagenda_help" = "Veja a agenda de um evento. Clickem um item da agenda para obter mais detalhes. \n\nclick no botão \"Siga\" para obter alertas antes que um item da agenda comece.";
+"eventagenda_title" = "agenda";
+"eventagendaitem_help" = "Veja os detalhes de um item de agenda de eventos. Click no botão \"Siga\" para obter alertas antes que um item da agenda comece. \n\nclick o botão localização \"Mostrar me\" para ver onde o item da agenda ocorre. \n Click no botão de download para visualizar materiais associados ao item da agenda. \n\nclick a aba \"Alto-falantes\" para visualizar todos os falantes envolvidos com o item da agenda.";
+"eventagendaitem_title" = "Item na Agenda";
+"eventannouncements_help" = "Veja todos os anúncios de eventos. Informações importantes sobre qualquer alteração de tempo e localização podem ser encontradas aqui.";
+"eventannouncements_title" = "anuncios";
+"eventdashboard_happeningnow" = "Acontecendo agora";
+"eventdashboard_nosessions" = "Nenhuma sessão ocorrendo neste momento.";
+"eventmaterials_help" = "Veja todos os materiais e recursos para o evento. Click no botão de download para baixar e visualizar um material.";
+"eventmaterials_title" = "Materiais";
+"eventspeakerdetail_help" = "Veja os detalhes de um Palestrante do evento. Click no botão \"Favorito\" para obter alertas antes de apresentar um orador. \n\nClick na aba \"Sessões\" para visualizar todos os itens da agenda em que o apresentador está apresentando.";
+"eventspeakerdetail_title" = "Detalhe dos Palestrantes";
+"eventspeakers_help" = "Veja todos os Palestrantes que vao falar no evento. Click em um palestrante para ver sua biografia. \n\nclick no botão \"Favorito\" para obter alertas quando um orador estiver apresentando";
+"eventspeakers_title" = "Palestrantes";
+"eventsponsordetail_help" = "Veja os detalhes do patrocinador. Click no botão \"Mais informações\" para obter detalhes adicionais sobre o patrocinador";
+"eventsponsordetail_title" = "Detalhes do Patrocinador";
+"eventsponsorlist_help" = "Veja todos os nossos patrocinadores de eventos. Click em um patrocinador para obter mais informações";
+"eventsponsorlist_title" = "Patrocinadores";
+"eventsurveydetail_help" = "Selecione uma resposta para cada pergunta. Selecione o botão \"Next\" para completar a pesquisa ou passar para a próxima pergunta.";
+"eventsurveydetail_needanswer" = "Você deve responder a pergunta atual antes de prosseguir.";
+"eventsurveydetail_surveycomplete" = "Obrigado por fornecer sua contribuição!";
+"eventsurveydetail_title" = "Detalhes da pesquisa";
+"eventsurveydetail_voteconfirm" = "Tem certeza de que deseja votar nesta resposta?";
+"eventsurveylist_alreadycompleted" = "Você já completou esta pesquisa / pesquisa.";
+"eventsurveylist_help" = "Veja todas as  pesquisas que estão ocorrendo no evento. Dê-nos a sua opinião para nos ajudar a melhorar a sua experiência de evento!";
+"eventsurveylist_title" = "Pesquisas e Pesquisas";
+"facebookpages_help" = "Depois de ter sua permissão, podemos ajudá-lo a publicar conteúdo em suas Páginas do Facebook. Selecione uma página para publicar seu conteúdo. \n\nSe você não ver nenhuma Páginas do Facebook, talvez possamos que você nos dê mais permissões. Para fazer isso, faça o login no Facebook a partir da tela do Perfil e tente publicar novamente";
+"facebookpages_nopages" = "Não foram encontradas páginas do Facebook";
+"facebookpages_publishconfirm" = "Tem certeza de que deseja publicar esta página do Facebook?";
+"facebookpages_publishfailed" = "Ocorreu um erro ao publicar  sua Página do Facebook. Por favor, tente novamente mais tarde";
+"facebookpages_publishsuccess" = "Um post foi feito com sucesso como sua página do Facebook!";
+"facebookpages_title" = "Paginas do Facebook";
+"genealogy_help" = "Veja sua Genealogia por completo";
+"genealogy_title" = "Genealogia";
+"general_accept" = "Aceito";
+"general_add" = "Adicionar";
+"general_addnew" = "Adicionar mais";
+"general_address" = "Endereco";
+"general_appversion" = "Versao aplicatico";
+"general_back" = "Voltar";
+"general_cancel" = "Cancelar";
+"general_cantmakecalls" = "Este dispositivo não pode fazer chamadas.";
+"general_cantsendemail" = "Este dispositivo não pode enviar e-mails. Verifique sua configuração de e-mail e tente novamente";
+"general_cantsendsms" = "Este dispositivo não pode enviar mensagens SMS.";
+"general_categories" = "Categorias";
+"general_cell" = "Celular";
+"general_city" = "Cidade";
+"general_closed" = "Fechado";
+"general_comingsoon" = "Inaugurando";
+"general_contact" = "Contato";
+"general_contactsaccess" = "O acesso aos contatos é restrito. Ative o acesso aos contatos nas configurações do seu dispositivo.";
+"general_country" = "País";
+"general_create" = "Criar";
+"general_days" = "Dia(s)";
+"general_decline" = "Recusar";
+"general_delete" = "Deletar ";
+"general_details" = "Detalhes";
+"general_devicelanguage" = "Idioma do dispositivo";
+"general_devicemodel" = "Dispositivo Movel";
+"general_deviceos" = "Dispositivo OS";
+"general_displayname" = "Mostrar nome";
+"general_done" = "Feito";
+"general_edit" = "Editar";
+"general_email" = "Email ";
+"general_error" = "Erro";
+"general_exit" = "Saida";
+"general_facebook" = "Facebook";
+"general_facebookrequired" = "Instale o aplicativo do Facebook para usar esse recurso.";
+"general_facebookurl" = "Facebook URL";
+"general_filter" = "Filtro";
+"general_filterby" = "Filtrar por";
+"general_firstname" = "Primeiro Nome";
+"general_forward" = "Compartilhar";
+"general_friday" = "Sexta-Feira";
+"general_googleplus" = "Google plus";
+"general_hours" = "Hora(s)";
+"general_info" = "Informacoes";
+"general_language" = "Idioma";
+"general_lastname" = "Ultimo Nome";
+"general_lead" = "Lider";
+"general_loading" = "Carregando";
+"general_location" = "Localidade";
+"general_monday" = "Segunda-Feira";
+"general_more" = "Mais";
+"general_moreinfo" = "Mais Informacao";
+"general_name" = "Nome";
+"general_needhelp" = "Precisa de ajuda?";
+"general_next" = "Proximo";
+"general_no" = "Nao";
+"general_noadditionalinfo" = "Nenhuma informação adicional fornecida.";
+"general_nocontent" = "O conteúdo não está disponível no idioma selecionado.";
+"general_nointernet" = "Não foi possível conectar-se à internet. Verifique as configurações da internet e tente novamente.";
+"general_none" = "Nenhum";
+"general_notice" = "Noticia";
+"general_off" = "OFF";
+"general_ok" = "OK";
+"general_on" = "ON";
+"general_open" = "Abrir";
+"general_past" = "Passado";
+"general_phone" = "Telefone";
+"general_phonenumber" = "Numero de Telefone";
+"general_post" = "Post";
+"general_postalcode" = "Codigo Postal";
+"general_preview" = "Visualização";
+"general_previous" = "Previa";
+"general_province" = "Provincia";
+"general_question" = "Questao";
+"general_remove" = "Remover";
+"general_removeall" = "Remover tudo";
+"general_reset" = "Resetar";
+"general_responses" = "Resposta";
+"general_saturday" = "Sabado";
+"general_save" = "Salvar ";
+"general_saveconfirm" = "Would you like to save changes?";
+"general_search" = "Pesquisar";
+"general_secondphone" = "Segundo Telefone";
+"general_seemore" = "Veja Mais";
+"general_send" = "Enviar";
+"general_settings" = "Configuracoes";
+"general_share" = "Compartilhar";
+"general_showme" = "Mostre ";
+"general_skypeusername" = "Nome no skype";
+"general_state" = "Estado";
+"general_status" = "Status";
+"general_submit" = "Submeter";
+"general_success" = "Sucesso";
+"general_sunday" = "Domingo";
+"general_taphere" = "Click aqui";
+"general_thursday" = "Quinta-Feira";
+"general_title" = "Titulo";
+"general_tuesday" = "Terca-Feira";
+"general_twitter" = "Twitter";
+"general_twitterhandle" = "Twitter Handle";
+"general_unknownerror" = "Um erro desconhecido ocorreu. Por favor, tente novamente";
+"general_unknownname" = "Nome Desconhecido";
+"general_upcoming" = "próximos";
+"general_username" = "Nome de usuario";
+"general_webpageerror" = "Não foi possível carregar a página da Web.";
+"general_wednesday" = "Quarta-Feira";
+"general_work" = "Trabalho";
+"general_yes" = "Sim";
+"general_zip" = "CEP";
+"groupdetails_help" = "Visualize as derivações no grupo atual. \n\nClick no botão \"Editar (Lápis)\" para excluir uma ligação. \n\nClick no botão \"Adicionar Novo +\" para adicionar uma ligação ao grupo atual.";
+"groupdetails_title" = "Detalhes do Grupo";
+"helpcenter_help" = "A ajuda é sempre apenas uma vez! Click no título da Barra de Navegação em qualquer tela. \n \n Se houver informações de ajuda disponíveis, ele será exibido em uma nova janela como essa! \n\nTente clicando o título em outras telas!";
+"helpcenter_instructions" = "Preciso de ajuda? Click no título que diz \"Centro de ajuda\" na barra de navegação acima! \nGo adiante! Click nele!";
+"helpcenter_rateappdesc" = "Amor o que você vê? Dê-nos uma classificação de 5 estrelas na loja de aplicativo.";
+"helpcenter_rateapptitle" = "Avalie o aplicativo";
+"helpcenter_supportdesc" = "Peça assistência ou informe um problema sobre o aplicativo para nós.";
+"helpcenter_supporttitle" = "Solicite Suporte";
+"helpcenter_title" = "Centro de Ajuda";
+"helpcenter_trainingdesc" = "Obtenha treinamento útil sobre como usar este aplicativo para o seu potencial máximo!";
+"helpcenter_trainingtitle" = "Videos de Treinamento";
+"language_select" = "Selecione o Idioma";
+"leadactions_cancelscheduledaction" = "Tem certeza de que deseja cancelar esta ação?";
+"leadactions_customemail" = "Email personalizado";
+"leadactions_doit" = "Faca";
+"leadactions_emailcampaign" = "Campanha de email";
+"leadactions_help" = "Visualize, comece e cancele as ações recomendadas e agendadas. Click no botão \"Do It\" para processar uma ação recomendada para o lead. Para adicionar uma nova ação agendada, Click no botão \"Adicionar Novo\". Qualquer ação agendada pode ser cancelada tocando no botão \"Cancelar\".";
+"leadactions_norecommendedactions" = "Não foram encontradas ações recomendadas.";
+"leadactions_noscheduledactions" = "Nenhuma ação programada encontrada.";
+"leadactions_recommendedactions" = "ações recomendadas.";
+"leadactions_reminder" = "Relembrando";
+"leadactions_scheduledactions" = "Agenda de acoes";
+"leadactions_singleemail" = "Email unico";
+"leadactions_singleemailconfirm" = "Tem certeza de que deseja enviar esse e-mail?";
+"leadactions_title" = "Acoes da Lideranca";
+"leaddetails_abandonpath" = "Abandonar caminho";
+"leaddetails_abandonpathvalidation" = "Isso irá abandonar o caminho de ação atual do líder. Você deseja continuar?";
+"leaddetails_actionpathtitle" = "Caminho de ação atual";
+"leaddetails_actionstab" = "Acoes";
+"leaddetails_assignnewpath" = "Atribuir novo caminho";
+"leaddetails_changeimagetitle" = "Mude a Imagem";
+"leaddetails_changepath" = "Mudar Caminho";
+"leaddetails_completionprogress" = "Progresso Comcluido";
+"leaddetails_deletelead" = "Apagar Lider";
+"leaddetails_deleteleadmessage" = "Tem certeza de que deseja excluir esse lead?";
+"leaddetails_deleteleadtitle" = "Eliminar o Lead Atual";
+"leaddetails_emailoptedin" = "Optou por receber e-mails.";
+"leaddetails_emailoptedout" = "Não optou por receber e-mails.";
+"leaddetails_help" = "Visualize e edite uma única ligação. Acompanhe logs, estatísticas e notas. Click no botão \"Ações\" para agendar campanhas e lembretes de e-mail. Click no botão \"Apagar liderar\" para excluir o lead selecionado.";
+"leaddetails_logtab" = "Log";
+"leaddetails_nocameramessage" = "O aplicativo não consegue acessar a câmera neste dispositivo.";
+"leaddetails_nocameratitle" = "Camera Indisponivel";
+"leaddetails_nophotolibrarymessage" = "O aplicativo não consegue acessar as fotos na biblioteca.";
+"leaddetails_nophotolibrarytitle" = "Foto na Biblioteca indisponivel";
+"leaddetails_notestab" = "Notas";
+"leaddetails_optinrequest" = "Please click here to opt in so I may continue to share valuable information with you!";
+"leaddetails_orderstab" = "Pedidos";
+"leaddetails_pathneedscontactinfo" = "Você não pode atribuir essa liderança a esse caminho. A seguinte informação é necessária";
+"leaddetails_photolibrary" = "Foto  na Biblioteca";
+"leaddetails_removeimage" = "Remover imagem Atual";
+"leaddetails_smsoptedin" = "Optou por receber mensagens de texto.";
+"leaddetails_smsoptedout" = "Não optou por receber mensagens SMS";
+"leaddetails_statstab" = "status";
+"leaddetails_takepicture" = "Tire uma foto";
+"leaddetails_timetocomplete" = "Tempo médio para completar";
+"leaddetails_title" = "Detalhes do Lead";
+"leaddetails_viewfullpath" = "Veja caminho por completo";
+"leadlog_help" = "Visualize quaisquer ações ou eventos anteriores que tenham ocorrido com o lead selecionado.";
+"leadlog_title" = "Lead Log";
+"leadnotes_help" = "Adicione e veja as notas para o lead selecionado. Click no botão \"Plus (+)\" para adicionar uma nova nota.";
+"leadnotes_newnote" = "Nova nota";
+"leadnotes_title" = "Notas em leads";
+"leadorderdetails_help" = "Veja os detalhes do pedido escolhido. Desloque-se para ver todos os produtos incluídos na ordem";
+"leadorderdetails_order" = "Pedido";
+"leadorderdetails_ordertype" = "Tipo de pedido";
+"leadorderdetails_paid" = "pago";
+"leadorderdetails_paymenttype" = "tipo de pagamento";
+"leadorderdetails_price" = "preco";
+"leadorderdetails_products" = "produtos";
+"leadorderdetails_quantity" = "quantidade";
+"leadorderdetails_shipped" = "Entregue";
+"leadorderdetails_title" = "Detalhes do Pedido";
+"leadorderdetails_total" = "Total";
+"leadorders_help" = "Veja uma lista de pedidos pelo cliente atual. Click em um pedido para ver mais detalhes.";
+"leadorders_title" = "Pedidos";
+"leadstats_duration" = "Duracao";
+"leadstats_emailsnotread" = "Emails nao verificados";
+"leadstats_emailsread" = "Emails verificado";
+"leadstats_emailstats" = "Estado do email";
+"leadstats_help" = "Veja todas as estatísticas de e-mail e vídeo para o lead selecionado.";
+"leadstats_secs" = "Sessoes";
+"leadstats_times" = "tempos";
+"leadstats_title" = "estatus leads";
+"leadstats_videostats" = "estatus do Video";
+"leadstats_watched" = "Assista";
+"localdevice_addexistingcontact" = "Adicione um contato existente";
+"localdevice_createnewcontact" = "Crie um novo Contato";
+"localdevice_sendmessage" = "Envie a Menssagem";
+"login_help" = "Digite seu nome de usuário e senha para entrar. \n\nClick a opção \"Mantenha-me conectado\" para que o aplicativo lembra seu nome de usuário e senha. Quando aberto, o aplicativo tentará logar-se automaticamente.";
+"login_keepmeconnected" = "Manter Conectado";
+"login_loading" = "Loggin in";
+"login_login" = "Login";
+"login_loginerror" = "Ocorreu um erro durante o processo de login. Por favor, verifique o seu nome de usuário e senha e tente novamente";
+"login_loginmethodprompt" = "Diga-nos como mantê-lo conectado.";
+"login_methodtouchid" = "Usar ID de toque";
+"login_methoduser" = "Relembrar usuario apenas";
+"login_methoduserandpass" = "Relembrar usuarios e senha";
+"login_password" = "Senha";
+"login_title" = "Bem Vindo";
+"login_version" = "Versao ";
+"managegroups_contacts" = "Contatos";
+"managegroups_groupname" = "Nome do Grupo";
+"managegroups_help" = "Veja e edite Grupos de leads para fazer o envio de campanhas rápida e fácil! \n\nClick o botão \"Editar (Lápis)\" para excluir um grupo. \n\nCLick o botão \"Adicionar Novo +\" para criar um novo grupo.";
+"managegroups_namevalidation" = "Um grupo deve ter um nome.";
+"managegroups_newgroup" = "Novo Grupo";
+"managegroups_newgroupname" = "Novo nome do Grupo";
+"managegroups_title" = "Grupos";
+"menu_adminevents" = "Adiministrar Eventos";
+"menu_alerts" = "Alertas";
+"menu_backoffice" = "Backoffice Web";
+"menu_campaignstats" = "Estatus de Campanha";
+"menu_customcampaign" = "Campanha Personalizada";
+"menu_dashboard" = "Painel de Controle";
+"menu_genealogy" = "Genealogia";
+"menu_groupsms" = "SMS de grupo";
+"menu_helpcenter" = "Centro de Ajuda";
+"menu_home" = "home";
+"menu_homeheader" = "home";
+"menu_jofficeheader" = "JOFFICEâ„¢";
+"menu_leadmanagementheader" = "MY LEADS";
+"menu_logout" = "sair";
+"menu_managegroups" = "Gerenciar Grupos";
+"menu_messages" = "Caixa de email";
+"menu_moreheader" = "mais";
+"menu_mybadges" = "Meus Crachas";
+"menu_myevents" = "Meus Eventos";
+"menu_myleads" = "Meus Lideres";
+"menu_newsignup" = "Adicionar novo assinante";
+"menu_optimism" = "Shareables";
+"menu_otherheader" = "outro";
+"menu_peoplesponsored" = "Pessoas que eu patrocinei";
+"menu_profile" = "perfil";
+"menu_promotions" = "promocoes";
+"menu_reports" = "reportes";
+"menu_shoppingcart" = "carrinho de compras";
+"menu_smartcloud" = "JCloud";
+"menu_sod" = "Sucesso na demanda";
+"menu_trainingvideos" = "Videos de treinamento";
+"menu_videocampaign" = "Videos de campanha";
+"messages_help" = "Veja as mensagens da sua conta pessoal. \n \n A remoção da esquerda em uma mensagem permitirá que você exclua a mensagem. \n\nClick o botão \"Pasta\" na barra inferior para alternar entre suas pastas de caixa de entrada e lixeira. \n\nclick em uma mensagem para visualizar o seu conteúdo.";
+"messages_inbox" = "inbox";
+"messages_title" = "caixa de email";
+"messages_trash" = "lixo";
+"mybadges_getfailure" = "Não foi possível baixar os crachás. Por favor, tente novamente.";
+"mybadges_help" = "Veja todos os crachás que você ganhou de participar de eventos, enviar campanhas, etc. Click em um crachá para vê-lo em sua \"glória total\"!";
+"mybadges_multipleearned" = "Voce ganhou novos crachas";
+"mybadges_notearned" = "Voce nao ganhou este cracha";
+"mybadges_points" = "pontos";
+"mybadges_sharebadge" = "Compartilhar cracha";
+"mybadges_singleearned" = "Voce ganhou o cracha";
+"mybadges_title" = "Meus crachas";
+"myeventsdetail_downloadreminder" = "Às vezes, há uma conexão de internet ruim e / ou não nos eventos por isso é importante baixar este código QR clicando no botão \"Salvar no botão da câmera\".";
+"myeventsdetail_downloadreminder_android" = "Às vezes, há uma conexão de internet ruim e / ou não nos eventos por isso é importante baixar este código QR click no botão \"Salvar em Galeria\"";
+"myeventsdetail_help" = "Este é o seu código QR de acesso para o evento selecionado. Mostre isso a um administrador de eventos para obter acesso. \n \n Às vezes, há uma conexão de internet ruim e / ou não em eventos, por isso é importante baixar este código QR clicando no botão \"Salvar no botão da câmera\".";
+"myeventsdetail_help_android" = "Este é o seu código QR de acesso para o evento selecionado. Mostre isso a um administrador de eventos para obter acesso. \n \n Às vezes, há uma conexão de internet ruim e / ou não em eventos, por isso é importante baixar este código QR clicando no botão \"Salvar no botão da câmera\".";
+"myeventsdetail_qrcodesavefailure" = "QR code falhou ao salvar";
+"myeventsdetail_qrcodesavesuccess" = "QR code foi salvo com sucesso";
+"myeventsdetail_savetocameraroll" = "Salvo em sua camera";
+"myeventsdetail_savetogallery" = "Salve em sua Galeria";
+"myeventsdetail_title" = "Meu QR code do evento";
+"myeventslist_help" = "Veja uma lista de eventos para os quais você está registrado. \n\nclique um evento para ver seu código de acesso para esse evento.";
+"myeventslist_myevents" = "Meus eventos";
+"myeventslist_notregistered" = "Voce nao esta registrado para nenhum evento";
+"myeventslist_title" = "Meus eventos";
+"myeventslist_upcomingevents" = "Proximos eventos";
+"myleads_addcontact" = "Adicionar aos Contatos";
+"myleads_addcontacterror" = "Ocorreu um erro ao adicionar um contato.";
+"myleads_addcontactsuccess" = "Contato adicionado com sucesso";
+"myleads_addlead" = "adicionar lead";
+"myleads_addnewlead" = "adicionar novo lead";
+"myleads_ascending" = "Asc";
+"myleads_changestatusto" = "Mudar status para";
+"myleads_contacts" = "contatos";
+"myleads_customers" = "consumidores";
+"myleads_customertip1" = "Quando detectamos um lead tornou-se um cliente, você pode juntar a liderança para um cliente aqui";
+"myleads_descending" = "Desc";
+"myleads_deviceview" = "Veja Dispositivo Local";
+"myleads_freesample" = "Enviar link de exemplo grátis";
+"myleads_help" = "Visualize e edite suas ligações atuais. \n\nclick no botão \"Adicionar (+)\" para adicionar pistas de seus contatos ou entrada manual sobre a marcha! \n\nclick uma ligação para editar seus detalhes. Deslize um cabo para a esquerda para visualizar as opções adicionais. \n\nclick o botão \"Classificar\" para classificar sua lista de leads. Você pode classificar leads por valores ascendentes e descendentes. \n \nLeads também podem ser filtrados usando o botão \"Filter\" e usando a barra de pesquisa.";
+"myleads_leads" = "leads";
+"myleads_nocontactinfo" = "nenhum contato ou informacao disponivel";
+"myleads_nocustomersfound" = "Nao encontrado nenhum consumidor";
+"myleads_noleademail" = "Nenhum conjunto de e-mail para o lead selecionado.";
+"myleads_noleadphone" = "Nenhum número de telefone definido para o lead selecionado.";
+"myleads_sendoptinout" = "Send Opt In/Out Link";
+"myleads_signuplink" = "enviar link de assinatura";
+"myleads_sort" = "ordenar";
+"myleads_sortby" = "ordenar para";
+"myleads_statuscold" = "frio";
+"myleads_statushot" = "quente";
+"myleads_statusnew" = "novo";
+"myleads_statusnextstep" = "proximo passo";
+"myleads_statuswarm" = "caloroso";
+"myleads_title" = "Meu Leads";
+"myleads_videoplayer" = "envie meu video";
+"newsignup_help" = "Adicione uma nova inscrição digitando seu nome de usuário / siteurl e clicando no botão \"Assinar\". Você será solicitado a preencher as informações de inscrição necessárias.";
+"newsignup_invalidmessage" = "Você deve inserir um nome de usuário / siteurl válido.";
+"newsignup_signup" = "Assine aqui";
+"newsignup_sponsor" = "Site url do patrocinador";
+"newsignup_title" = "Nova assinatura";
+"optimismlibrary_help" = "Selecione um dos arquivos da biblioteca para continuar compartilhando.";
+"optimismlibrary_title" = "Biblioteca Compartilhavel";
+"peopleisponsor_help" = "Veja e entre em contato com pessoas que você patrocinou pessoalmente. Click em um patrocinador para ver mais detalhes";
+"peopleisponsor_title" = "Pessoas que eu patrocinei";
+"peopleisponsordetail_help" = "Veja as informações de contato para o patrocinador selecionado. Click em qualquer um dos botões de e-mail ou telefone para entrar em contato com o patrocinador";
+"peopleisponsordetail_title" = "Pessoas que eu patrocinei";
+"profile_autodripdesc" = "Agende e crie postagens no Auto-drip para todas as suas contas de redes sociais";
+"profile_autodriptitle" = "Configuracoes Auto-Drip ";
+"profile_editprofiledesc" = "Modifique as configurações do seu perfil móvel, incluindo nome, informações de contato e imagem de perfil.";
+"profile_editprofiletitle" = "Editar seu Perfil";
+"profile_help" = "Visualize o seu Perfil do celular. \n \nSelecione Editar perfil para modificar as informações em seu perfil. \n \nSelecione a opção Login para redes sociais para fazer login nas suas contas de redes sociais. \n \nSelecione Configurações de gotejamento automático para editar seu compartilhamento pessoal Cronograma de postagem automática.";
+"profile_mywebsite" = "Meu website";
+"profile_socialmediadesc" = "Faça login nas contas de redes sociais para o uso de recursos como Auto-Drip Campanha.";
+"profile_socialmediatitle" = "Login para midia social";
+"profile_title" = "Perfil movel";
+"prospector_actionpath" = "Action Path";
+"prospector_doit" = "Faça";
+"prospector_generaltutorial" = "As ações recomendadas para todos os leads aparecerão abaixo. As ações são recomendadas com base no Caminho de ação no qual você atribui leads.";
+"prospector_norecommendedactions" = "Não foram encontradas ações recomendadas.";
+"prospector_tip1" = "Click em meu leads para menu opcoes";
+"prospector_tip2" = "Você precisará selecionar uma liderança que você deseja atribuir a um Caminho de Ação";
+"prospector_tip3" = "Click no botão \"Atribuir novo caminho\" para atribuir um caminho ao lead.";
+"prospector_tip4" = "Com o tempo, recomendamos ações para você com base no caminho escolhido. Você pode visualizar essas ações clicando no botão \"AÇÕES\".";
+"prospector_tip5" = "Você também pode visualizar as ações recomendadas ao retornar ao Painel de Controle";
+"prospector_upcomingactionmessage" = "Este próximo item de ação não pode ser concluído antes da próxima data";
+"rateappprompt_cancel" = "Nao agora";
+"rateappprompt_message" = "Gostando  do  aplicativo? Gostaria de avaliar a versão atual?";
+"rateappprompt_title" = "Avaliar o aplicativo?";
+"reminder_help" = "Crie um lembrete consistindo em um título e uma breve mensagem. Use o selecionador de data para selecionar uma data para a qual agendar o lembrete.";
+"reminder_messagelabel" = "menssagem";
+"reminder_messageneeded" = "Você deve inserir uma mensagem para o lembrete.";
+"reminder_title" = "Criar lembrete";
+"reminder_titlelabel" = "Titulo";
+"reminder_titleneeded" = "Você deve inserir um título para o lembrete.";
+"reportparams_help" = "Digite e selecione os parâmetros necessários para gerar o relatório selecionado.";
+"reportparams_title" = "reportar paramentros";
+"reportparams_viewreports" = "Veja as anotacoes";
+"reportslist_help" = "Veja todos os seus relatórios comerciais diretamente no seu dispositivo móvel! Toque em um relatório para visualizá-lo.";
+"reportslist_title" = "notas";
+"reportviewer_help" = "Veja o relatório gerado a partir dos parâmetros selecionados anteriormente.";
+"reportviewer_title" = "Veja as notificacoes";
+"selectcontacts_addgroupleaderror" = "Erro ao adicionar o lead ao grupo.";
+"selectcontacts_help" = "Selecione os contatos que você gostaria de usar. \n \nContactos do seu dispositivo móvel aparecerão com um ícone do telefone ao lado deles. Backoffice Leads aparecerá com um ícone de catálogo de endereços. \n \nFiltrar contatos digitando na barra de pesquisa. Click no botão \"Teclado Ocultar\" para ocultar o teclado depois de pesquisar. \n \nContactos selecionados de seu dispositivo móvel serão automaticamente adicionados aos Backoffice Leads.";
+"selectcontacts_primary" = "primario";
+"selectcontacts_title" = "selecione os contatos  ";
+"selectcontacts_uploadcontacterror" = "erro em carregar contato";
+"selectgroups_contactvalidation" = "Você deve selecionar um grupo (s) com um ou mais números de telefone para enviar uma mensagem";
+"selectgroups_help" = "Selecione os grupos de clientes potenciais que você gostaria de enviar campanhas para.";
+"selectgroups_instructions" = "Selecione grupos para enviar esta campanha:";
+"selectgroups_newgroup" = "Novo grupo";
+"selectgroups_selectcontacts" = "Selecione da lista telefônica";
+"selectgroups_title" = "selecione grupo  ";
+"sendmessage_help" = "Verifique as ligações às quais você deseja enviar sua campanha e click no botão \"Enviar mensagens\" para enviá-lo. \n\nclick o botão \"Cancelar\" para reiniciar o processo de seleção da campanha";
+"sendmessage_instructions" = "Reveja para enviar";
+"sendmessage_messagesent" = "Menssagem enviada";
+"sendmessage_sendmessages" = "Enviar mensagens)";
+"sendmessage_sendsuccess" = "Mensagem (s) enviada (s)";
+"sendmessage_title" = "enviar mensagem";
+"shareoptimism_help" = "Visualize e compartilhe o Shareable que você selecionou na biblioteca! \n\nclick o botão Voltar para retornar à biblioteca.";
+"shareoptimism_share" = "Compartilhe isso, compartilhável";
+"shareoptimism_title" = "compartilhavel";
+"shoppingcart_added" = "adicionado";
+"shoppingcart_addtocart" = "adicionar ao carrinho";
+"shoppingcart_checkout" = "Checkout";
+"shoppingcart_clearcart" = "Gostaria de remover todos os itens do seu carrinho?";
+"shoppingcart_price" = "preco";
+"shoppingcart_removefromcart" = "Voce tem certezza que deseja remover este produto de seu carrinho?";
+"shoppingcart_saleprice" = "preco de venda";
+"shoppingcart_subtotal" = "subtotal";
+"smartcloud_downloading" = "Downloading";
+"smartcloud_help" = "Veja todos os arquivos e diretórios na Nuvem. \n\nClick no botão de download para um arquivo para baixá-lo. \n \nSe o arquivo já for baixado localmente, o botão de download não aparecerá. Basta tocar no arquivo para abri-lo e visualizá-lo. \n \nPara excluir um arquivo baixado localmente, simplesmente deslize o arquivo da direita para a esquerda para revelar o botão de remoção.";
+"smartcloud_removelocal" = "Remover o local";
+"smartcloud_title" = "Jcloud";
+"socialmedia_help" = "Faça login em sua redes sociais. A inscrição permite que você envie uma imagem de perfil de mídia social para o seu Perfil do celular e faça as postagens do Shareable Auto Drip.";
+"socialmedia_howeusetitle" = "Como usamos suas contas de mídia social:";
+"socialmedia_howweusedesc" = "Obter informações básicas do perfil (nome etc.) \n- Obter uma imagem de perfil para exibir na aplicação \n- Solicitar permissões para permitir que você faça posts";
+"socialmedia_title" = "Media social";
+"sod_help" = "Acesse o conteúdo completo do sucesso na demanda!";
+"sod_title" = "sucesso na demanda";
+"supportrequests_help" = "Acesse quaisquer solicitações de suporte que você criou. Click em uma solicitação de suporte para visualizar as respostas feitas nesse pedido. \n\nClick o botão Adicionar (+) para criar uma nova solicitação de suporte.";
+"supportrequests_title" = "solicitacao de suporte";
+"supportresponses_help" = "Veja as informações do seu pedido de suporte além de quaisquer respostas feitas nossas equipes de suporte. \n \nUse a barra de mensagens na parte inferior para responder.";
+"supportresponses_placeholdertext" = "menssagem";
+"supportresponses_send" = "enviar";
+"supportresponses_title" = "Respostas do suporte";
+"tos_help" = "Leia o contrato de Termos de Serviço para uso com este aplicativo. Aceite ou recuse o acordo. A diminuição do acordo impedirá que você use outros recursos do aplicativo.";
+"tos_title" = "termos de servico";
+"trainingvideos_help" = "Veja Vídeos de Treinamento. \n\nClick a linha de vídeo para ver o vídeo.";
+"trainingvideos_title" = "videos de treinamento";
+"videocampaign_help" = "Selecione, visualize e envie campanhas de vídeo. \n\nClick o botão \"Info (i)\" em uma campanha para visualizá-lo. \n \nSelecione uma campanha e click no botão \"Next\" para continuar. \n click o botão \"Opções\" na barra inferior depois de selecionar uma campanha para compartilhá-lo.";
+"videocampaign_nocategoriesfound" = "nenhum categoria encontrada";
+"videocampaign_novideosfound" = "nenhum video encontrado";
+"videocampaign_previewtitle" = "Visualização da campanha em vídeo";
+"videocampaign_title" = "campanha de video";
+"videoplaylist_addtoplaylist" = "Adicionar a playlist";
+"videoplaylist_allvideos" = "todos os videos";
+"videoplaylist_emptyplaylist" = "Atualmente, você não possui vídeos na sua lista de reprodução. Adicione pelo menos um vídeo para visualizar sua lista de reprodução.";
+"videoplaylist_fullplaylist" = "Sua lista de reprodução está cheia. Remova um vídeo antes de adicionar outro.";
+"videoplaylist_languageerror" = "Um ou mais dos vídeos na sua lista de reprodução não estão disponíveis no idioma atualmente selecionado";
+"videoplaylist_myvideoplaylist" = "Minha lista de videos";
+"videoplaylist_removeallconfirm" = "Voce tem certeze que deseja remover todos os videos de sua playlist?";
+"videoplaylist_removefromplaylist" = "Remover de minha playlist";
+"videoplaylist_tip1" = "Apresentando o novo recurso de lista de reprodução de vídeo! Escolha até 6 de seus vídeos favoritos para compartilhar suas ligações!";
+"videoplaylist_tip2" = "click no botão da lista de reprodução de um vídeo para adicionar ou remover o vídeo da sua lista de reprodução.";
+"videoplaylist_tip3" = "Toque na guia \"My Video Playlist\" para visualizar sua lista de reprodução!";
+"videoplaylist_tip4" = "Click e arraste seus vídeos de lista de reprodução para reordenar sua lista de reprodução.";
+"videoplaylist_tip5" = "Click no botão \"Compartilhar\" para compartilhar sua lista de reprodução para as mídias sociais.";
+"videoplaylist_tip6" = "click no botão \"Next\" para compartilhar sua lista de reprodução com seus leads e grupos.";
+"videoplaylist_tip7" = "Click no botão \"Remover tudo\" para remover todos os vídeos da sua lista de reprodução";
+"videoplaylist_tip8" = "Click na guia \"Todos os Vídeos\" para retornar à lista de vídeos completa e compartilhar vídeos individuais";
+"videoplaylist_title" = "video playlist";
+"virtualpagecampaign_getfailure" = "Não foi possível baixar as Páginas Virtuais. Por favor, tente novamente.";
+"virtualpagecampaign_help" = "Selecione uma página corporativa de aterragem virtual para usar em uma campanha. \n\nclick o botão \"Info (i)\" em uma campanha para visualizá-lo. \n\nclick o botão Ação na barra de ferramentas inferior para compartilhar uma campanha através de métodos além de SMS";
+"virtualpagecampaign_previewtitle" = "Visualização da Página Virtual";
+"virtualpagecampaign_title" = "Campanhas da página de destino";
+"youtubecampaign_deletefailure" = "Não foi possível excluir a campanha.";
+"youtubecampaign_getfailure" = "Falha ao baixar campanhas do YouTube. Por favor, tente novamente.";
+"youtubecampaign_help" = "Faça e selecione suas campanhas personalizadas do YouTube para enviar para seus grupos principais. \n\nclick o botão \"Adicionar (+)\" para criar uma nova campanha do YouTube. \n \nSalte uma campanha à esquerda para editar ou excluir a campanha. \n \nToque o botão \"Info (i)\" para editar a campanha. \n\nclick uma campanha e o botão Avançar para continuar.";
+"youtubecampaign_title" = "campanha no youtube";
+"youtubeeditor_embedpreview" = "A Visualização de Incorporação do YouTube será carregada aqui. Defina o link de vídeo para visualizar";
+"youtubeeditor_fewvalidation" = "Você deve inserir um valor.";
+"youtubeeditor_help" = "Digite as informações de uma campanha do YouTube personalizada. \n \nVocê DEVE preencher TODOS os campos para criar uma campanha. \n \n- Nome da página URL (100 caracteres): isto é o que os leads verão no URL. \n- Título da página (50 caracteres): Este será o título exibido na parte superior da página de vídeo. \n- Nome do vídeo (25 caracteres): este será o nome listado abaixo do player de vídeo. \n- Descrição do vídeo (150 caracteres ): Esta será uma breve descrição do vídeo listado no Nome do Vídeo. \n- Link de Vídeo (100 caracteres): Este é o link para o vídeo do YouTube a ser exibido. \n \n Depois de entrar no Vídeo Link, você pode Visualize o player de vídeo incorporado que será usado na sua página de vídeo personalizada. \n \nToque o botão \"Salvar\" para salvar sua campanha do YouTube personalizada.";
+"youtubeeditor_manyvalidation" = "O campo de texto deve ter menos letras. Número atual de letras";
+"youtubeeditor_pagename" = "Nome da pagina e URL";
+"youtubeeditor_pagetitle" = "titulo da pagina";
+"youtubeeditor_savefailure" = "nao desejo salvar a campanha";
+"youtubeeditor_savesuccess" = "campanha salva com sucesso";
+"youtubeeditor_title" = "adicionar/editar campanha";
+"youtubeeditor_videodescription" = "descricao do video";
+"youtubeeditor_videolink" = "link do video";
+"youtubeeditor_videoname" = "nome do video";

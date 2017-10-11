@@ -1,1462 +1,629 @@
-// ============================================================================
-// * Android
-// ============================================================================
-
-"android_exitconfirm"				=	"Adakah anda pasti mahu keluar?";
-"android_appnotfound"				=	"Tidak jumpa app di pasaran.";
-"android_nogoogleplus"				=	"Anda mesti sudah ada Google+ terpasang.";
-"android_notificatonssetting"		=	"Terima Pemberitahuan";
-
-
-// ============================================================================
-// * General
-// ============================================================================
-
-"general_yes"               = 	"Ya";
-"general_no"                =   "Tidak";
-"general_on"				= 	"ON";
-"general_off"				=	"OFF";
-"general_accept"            =   "Terima";
-"general_decline"           =   "Tolak";
-"general_success"           =   "Berjaya";
-"general_error"             = 	"Ralat";
-"general_notice"            = 	"Notis";
-"general_ok"                =   "Ok";
-"general_cancel"            = 	"Batal";
-"general_loading"           = 	"Memuat";
-"general_none"              = 	"Tiada";
-"general_next"              = 	"Selepas";
-"general_done"              = 	"Selesai";
-"general_save"              = 	"Simpan";
-"general_delete"            = 	"Hapus";
-"general_addnew"            =   "Tambah Baru +";
-"general_add"				=	"Tambah";
-"general_create"            =   "Cipta";
-"general_edit"              =   "Sunting";
-"general_seemore"           =   "Lihat Lagi";
-"general_more"              =   "Lagi";
-"general_reset"             = 	"Reset";
-"general_post"              = 	"Catat";
-"general_submit"            =   "Hantar";
-"general_share"             =   "Kongsi";
-"general_exit"              =   "Keluar";
-"general_settings"          =   "Tetapan";
-"general_info"              =   "Maklumat";
-"general_unknownerror"      =   "Ralat tidak diketahui telah berlaku. Sila cuba lagi.";
-"general_nointernet"		=	"Tidak dapat menyambung ke Internet. Sila periksa tetapan internet anda dan cuba semula.";
-"general_cantmakecalls"     =   "Peranti ini tidak boleh membuat panggilan.";
-"general_cantsendsms"     	=   "Peranti ini tidak boleh menghantar mesej SMS.";
-"general_cantsendemail"     =   "Peranti ini tidak boleh menghantar e-mel. Sila periksa konfigurasi e-mel anda dan cuba semula.";
-
-"general_back"              =   "Undur";
-"general_forward"           =   "Maju";
-"general_webpageerror"      =   "Tidak dapat memuatkan laman web.";
-
-"general_unknownname"       =   "Nama Tidak Diketahui";
-"general_username"          = 	"Nama Pengguna";
-"general_firstname"         = 	"Nama Sendiri";
-"general_lastname"          = 	"Nama Keluarga";
-"general_name"              =   "Nama";
-"general_language"          =   "Bahasa";
-"general_address"           =   "Alamat";
-"general_city"              =   "Bandar";
-"general_state"             =   "Negeri";
-"general_zip"               =   "Poskod";
-"general_province"          =   "Wilayah";
-"general_postalcode"        =   "Poskod";
-"general_country"           =   "Negara";
-"general_phonenumber"       = 	"Nombor Telefon";
-"general_phone"             = 	"Telefon";
-"general_secondphone"       =   "Telefon Kedua";
-"general_cell"              = 	"Telefon Bimbit";
-"general_work"              = 	"Telefon Kerja";
-"general_email"             = 	"E-mel";
-"general_status"            = 	"Status";
-"general_displayname"       = 	"Nama Paparan";
-"general_title"             = 	"Jawatan";
-"general_contact"           =   "Hubungan";
-"general_lead"              =   "Lead";
-"general_facebookurl"       = 	"URL Facebook:";
-"general_twitterhandle"     = 	"Handle Twitter";
-"general_skypeusername"     = 	"Nama Pengguna Skype";
-"general_devicemodel"       =   "Model Peranti";
-"general_devicelanguage"    =   "Bahasa Peranti";
-"general_deviceos"          =   "OS Peranti";
-"general_appversion"        =   "Versi App";
-
-"general_sunday"            = 	"Ahad";
-"general_monday"            =   "Isnin";
-"general_tuesday"           = 	"Selasa";
-"general_wednesday"         = 	"Rabu";
-"general_thursday"          = 	"Khamis";
-"general_friday"            = 	"Jumaat";
-"general_saturday"          = 	"Sabtu";
-
-"general_days"              =   "Hari";
-"general_hours"             =   "Jam";
-
-"general_facebook"          = 	"Facebook";
-"general_twitter"           = 	"Twitter";
-"general_googleplus"        = 	"Google+";
-
-
-// ============================================================================
-// * Language Select
-// ============================================================================
-
-"language_select"           =   "Pilih Bahasa";
-
-
-// ============================================================================
-// * App Rating
-// ============================================================================
-
-
-// The title of the prompt for app rating.
-"rateappprompt_title"   = 	"Tarafkan App?";
-
-// The message in the prompt for app rating.
-"rateappprompt_message" = 	"Sukakan app? Adakah anda ingin tarafkan versi semasa?";
-
-// The cancel text of the prompt for app rating.
-"rateappprompt_cancel"  = 	"Lain Kali";
-
-
-// ============================================================================
-// * Login
-// ============================================================================
-
-// The title in the navigation bar of the login screen.
-"login_title"                   =	"Selamat Datang";
-
-// The Help Text used by the login screen.
-"login_help"                    =   "Masukkan nama pengguna dan kata laluan anda untuk log masuk. \n\nKetik suis \"Kekalkan sambungan saya\" agar app ini ingat nama pengguna dan kata laluan anda. Apabila dibuka app akan cuba mendaftar masuk anda secara automatik!";
-
-// The placeholder text for the password text field.
-"login_password"                = 	"Kata Laluan";
-
-// The title of the Login Button, and any alert message box.
-"login_login"                   = 	"Log masuk";
-
-// The label for the Keep Me Connected Switch.
-"login_keepmeconnected"         =   "Kekalkan sambungan saya";
-
-// The Version label on indicating the app version.
-"login_version"                 = 	"Versi";
-
-// The text used in the loading indicator for the login screen.
-"login_loading"                 = 	"Sedang Log Masuk";
-
-// The login error/failure message.
-"login_loginerror"              = 	"Ralat berlaku ketika sedang log masuk. Sila periksa nama pengguna dan kata laluan anda dan cuba semula.";
-
-
-// The title text of the login method prompt.
-"login_loginmethodprompt"       =   "Beritahu kami cara mengekalkan sambungan dengan anda.";
-
-// The title of the Use Touch ID button.
-"login_methodtouchid"           =   "Gunakan Touch ID";
-
-// The title of the Remember Username & Password button.
-"login_methoduserandpass"       =   "Ingat Nama Pengguna & Kata Laluan";
-
-// The title of the Remember Username only button.
-"login_methoduser"              =   " Ingat Nama Pengguna sahaja";
-
-
-// ============================================================================
-// * Terms of Service
-// ============================================================================
-
-// The title in the navigation bar of the Terms of Service screen.
-"tos_title"             =   "Terma Perkhidmatan";
-
-// The Help Text used by the login screen.
-"tos_help"              =   "Sila baca perjanjian Terma Perkhidmatan untuk menggunakan ap ini. Anda boleh terima atau tolak perjanjian. Menolak perjanjian akan mencegah anda daripada menggunakan mana-mana ciri ap ini.";
-
-
-// ============================================================================
-// * Menu
-// ============================================================================
-
-// The title of the Home menu option.
-"menu_home"             =   "Laman Utama";
-
-// The title of the Optimism menu option.
-"menu_optimism"         =   "Optimism";
-
-// The title of the My Leads menu option.
-"menu_myleads"          = 	"Lead Saya";
-
-// The title of the Manage Groups menu option.
-"menu_managegroups"     = 	"Urus Kumpulan";
-
-// The title of the Training Videos menu option.
-"menu_trainingvideos"   =   "Video Latihan";
-
-// The title of the Video Campaign menu option.
-"menu_videocampaign"    = 	"Kempen Video";
-
-// The title of the Group SMS menu option.
-"menu_groupsms"         =   "SMS Kumpulan";
-
-// The title of the Custom Campaign menu option.
-"menu_customcampaign"   =   "Kempen Tersuai";
-
-// The title of the Campaign Stats menu option.
-"menu_campaignstats"    = 	"Stat Kempen";
-
-// The title of the My Badges menu option.
-"menu_mybadges"         =   "Lencana Saya";
-
-// The title of the Alerts menu option.
-"menu_alerts"           =   "Amaran";
-
-// The title of the Profile menu option.
-"menu_profile"          =   "Profil";
-
-// The title of the SmartCloud menu option.
-"menu_smartcloud"           =   "SmartCloud";
-
-// The title of the Back Office menu option.
-"menu_backoffice"       =   "Web BackOffice";
-
-// The title of the Success On Demand menu option.
-"menu_sod"              =   "Success On Demand";
-
-// The title of the Help Center menu option.
-"menu_helpcenter"       = 	"Pusat Bantuan";
-
-// The title of the Logout menu option.
-"menu_logout"           =   "Log Keluar";
-
-
-// The title of the menu section header for Home.
-"menu_homeheader"           =   "LAMAN UTAMA";
-
-// The title of the menu section header for Lead Management.
-"menu_leadmanagementheader" = 	"LEAD SAYA";
-
-// The title of the menu section header for Promotions.
-"menu_promotions"           = 	"PROMOSI";
-
-// The title of the menu section header for Other.
-"menu_otherheader"          = 	"LAIN-LAIN";
-
-// The title of the menu section header for More.
-"menu_moreheader"           = 	"LEBIH BANYAK";
-
-
-
-// ============================================================================
-// * Daily Optimism
-// ============================================================================
-
-// The title in the navigation bar of the daily optimism screen.
-"dailyoptimism_title"       = 	"Optimism Harian";
-
-// The Help Text used by the daily optimism screen.
-"dailyoptimism_help"        = 	"Lihat dan kongsi Optimism harian!\n\nKetik \"Perpustakaan\" untuk memilih mana-mana Optimism lalu untuk dikongsi.";
-
-// The title of the Share Button.
-"dailyoptimism_share"       = 	"Kongsi Optimism Hari Ini";
-
-// The title of the Optimism Library Button.
-"dailyoptimism_library"     = 	"Perpustakaan";
-
-// The title of the Auto-Drip Settings Button.
-"dailyoptimism_autodrip"    = 	"Tetapan Auto-Drip";
-
-
-
-// ============================================================================
-// * Optimism Library
-// ============================================================================
-
-// The title in the navigation bar of the optimism library screen.
-"optimismlibrary_title"     = 	"Perpustakaan";
-
-// The Help Text used by the optimism library screen.
-"optimismlibrary_help"      = 	"Pilih mana-mana Optimism dari perpustakaan untuk terus berkongsi.";
-
-
-// ============================================================================
-// * Optimism Library
-// ============================================================================
-
-// The title in the navigation bar of the share optimism screen.
-"shareoptimism_title"   = 	"Optimism";
-
-// The Help Text used by the share optimism screen.
-"shareoptimism_help"    = 	"Lihat dan kongsi Optimism yang anda pilih daripada perpustakaan!\n\nKetik butang kembali untuk kembali ke perpustakaan.";
-
-// The title of the Share This Optimism Button.
-"shareoptimism_share"   = 	"Kongsi Optimism Ini";
-
-
-// ============================================================================
-// * My Leads
-// ============================================================================
-
-// The title in the navigation bar of the my leads screen.
-"myleads_title"             =   "Lead Saya";
-
-// The Help Text used by the my leads screen.
-"myleads_help"              =   "Lihat dan sunting lead semasa anda.\n\n Ketik butang \"Tambah (+)\" untuk menambah lead sama ada daripada kenalan anda atau input manual serta merta!\n\nKetik lead untuk menyunting butirannya. Kuis lead ke kiri untuk melihat pilihan tambahan.\n\nKetik butang \"Isih\" untuk mengisih senarai lead anda. Anda boleh mengisih lead secara nilai menaik dan menurun.\n\nLead juga boleh ditapis menggunakan butang \"Tapis\" dan dengan menggunakan palang carian.";
-
-// The title of the Sort Button.
-"myleads_sort"              =   "Isih";
-
-// The title of the Sort Action Sheet Menu.
-"myleads_sortby"            =   "Isih mengikut";
-
-// The title of the Ascending Segment Control Button.
-"myleads_ascending"         =   "Menaik";
-
-// The title of the Descending Segment Control Button.
-"myleads_descending"        =   "Menurun";
-
-// The title of the Change Status Action Menu.
-"myleads_changestatusto"    =   "Tukar status kepada";
-
-// The title of the Hot option during Filtering.
-"myleads_statushot"         = 	"Panas";
-
-// The title of the Warm option during Filtering.
-"myleads_statuswarm"        = 	"Suam";
-
-// The title of the Cold option during Filtering.
-"myleads_statuscold"        = 	"Sejuk";
-
-// The title of the New option during Filtering.
-"myleads_statusnew"         = 	"Baru";
-
-// The title of the Add Lead Action Sheet Menu.
-"myleads_addlead"           = 	"Tambah Lead";
-
-// The title for the Add from Contacts option during Add Lead.
-"myleads_addcontact"        = 	"Tambah daripada Kenalan";
-
-// The title for the Add New Lead option during Add Lead.
-"myleads_addnewlead"        = 	"Tambah Lead Baru";
-
-// The title of the alert message boxes for any Add Contact action.
-"myleads_contacts"          = 	"Kenalan";
-
-// The message displayed when a contact is added successfully.
-"myleads_addcontactsuccess" =   "Kenalan berjaya ditambah!";
-
-// The Add Contact error/failure message.
-"myleads_addcontacterror"   =   "Ralat berlaku semasa menambah kenalan.";
-
-// Displayed in a My Leads table cell when no contact info is available. (phone and/or email).
-"myleads_nocontactinfo"     = 	"Maklumat hubungan tidak tersedia.";
-
-// The title of the Send Opt In/Out Link option during Leads More Options.
-"myleads_sendoptinout"      =   "Hantar Pautan Pilih Masuk/Keluar";
-
-// The title of the Send Signup Link option during Leads More Options.
-"myleads_signuplink"        = 	"Hantar Pautan Mendaftar";
-
-// The title of the Send Free Sample Link option during Leads More Options.
-"myleads_freesample"        = 	"Hantar Pautan Sampel Percuma";
-
-// The title of the Send My Video Player option during Leads More Options.
-"myleads_videoplayer"       = 	"Hantar Pemain Video Saya";
-
-// The title of the Local Device View option during Leads More Options.
-"myleads_deviceview"        = 	"Paparan Peranti Tempatan";
-
-// Error message when a lead has no phone number.
-"myleads_noleadphone"       =   "Nombor telefon tidak ditetapkan untuk lead yang dipilih.";
-
-// Error message when a lead has no email address.
-"myleads_noleademail"       =   "Tiada e-mel ditetapkan untuk lead yang dipilih.";
-
-
-// Message for sending SMS displayed in the Local Device View Screen under My Leads
-"localdevice_sendmessage"			=	"Hantar Mesej";
-
-// Message for create new device contact displayed in the Local Device View Screen under My Leads
-"localdevice_createnewcontact"		=	"Cipta Kenalan Baru";
-
-// Message for adding to existing contact displayed in the Local Device View Screen under My Leads
-"localdevice_addexistingcontact"	=	"Tambah Kepada Kenalan Sedia Ada";
-
-
-// ============================================================================
-// * Add Lead
-// ============================================================================
-
-// The title in the navigation bar of the add lead screen.
-"addlead_title"             =   "Tambah Lead";
-
-// The Help Text used by the add lead screen.
-"addlead_help"              =   "Masukkan maklumat untuk lead baru yang anda ingin tambah.\n\nLead baru MESTI diberi nama sendiri.\n\nAnda juga MESTI menyediakan sekurang-kurangnya satu kaedah hubungan (Nombor Telefon atau E-mel) untuk lead baru ini.";
-
-// The title of the Add Lead Button.
-"addlead_addlead"           =   "Tambah Lead";
-
-// The message of the success alert.
-"addlead_addsuccessful"     =   "Lead berjaya ditambah!";
-
-// The message of the failure alert.
-"addlead_addfailure"        =   "Ralat berlaku semasa menambah lead.";
-
-// The validation message for requiring a first name.
-"addlead_namevalidation"    =   "Anda mesti masukkan nama sendiri.";
-
-// The validation message for requiring at least one contact method.
-"addlead_contactvalidation" = 	"Anda mesti masukkan sekurang-kurangnya satu kaedah hubungan (telefon atau e-mel).";
-
-
-// ============================================================================
-// * Lead Details
-// ============================================================================
-
-// The title in the navigation bar of the lead details screen.
-"leaddetails_title"                             = 	"Butir-butir Lead";
-
-// The Help Text used by the lead details screen.
-"leaddetails_help"                              = 	"Lihat dan sunting lead. Perhatikan log, statistik dan nota. Ketik butang \"Tindakan\" untuk menjadualkan kempen dan peringatan e-mel. Ketik butang \"Hapuskan Lead\" untuk menghapuskan lead yang dipilih.";
-
-// The title of the change image alert.
-"leaddetails_changeimagetitle"                  =   "Tukar Imej";
-
-// The title of the Photo Library button.
-"leaddetails_photolibrary"                      =   "Pustaka Foto";
-
-// The title of the Take Picture button.
-"leaddetails_takepicture"                       =   "Rakam Gambar";
-
-// The title of the Remove Current Image button.
-"leaddetails_removeimage"                       =   "Buang Imej Semasa";
-
-// The title of the Actions tab.
-"leaddetails_actionstab"                        =   "Tindakan";
-
-// The title of the Log tab.
-"leaddetails_logtab"                            =   "Log";
-
-// The title of the Stats tab.
-"leaddetails_statstab"                          =   "Statistik";
-
-// The title of the Notes tab.
-"leaddetails_notestab"                          =   "Nota";
-
-// The title of the Photo Library Unavailable alert.
-"leaddetails_nophotolibrarytitle"               =   "Pustaka Foto Tidak Tersedia";
-
-// The message of the Photo Library Unavailable alert.
-"leaddetails_nophotolibrarymessage"             =   "Ap tidak dapat mengakses Pustaka Foto.";
-
-// The title of the Camera Unavailable alert.
-"leaddetails_nocameratitle"                     =   "Kamera Tidak Tersedia";
-
-// The message of the Camera Unavailable alert.
-"leaddetails_nocameramessage"                   =   "Ap tidak dapat mengakses Kamera pada peranti ini.";
-
-// The message displayed when a lead is opted in to receive emails.
-"leaddetails_emailoptedin"                      =   "Memilih masuk untuk menerima e-mel.";
-
-// The message displayed when a lead is opted out to receive emails.
-"leaddetails_emailoptedout"                     =   "Tidak memilih masuk untuk menerima e-mel.";
-
-// The message displayed when a lead is opted in to receive SMS messages.
-"leaddetails_smsoptedin"                        =   "Memilih masuk untuk menerima SMS.";
-
-// The message displayed when a lead is opted out to receive SMS messages.
-"leaddetails_smsoptedout"                       =   "Tidak memilih masuk untuk menerima SMS.";
-
-// The title of the Delete Lead button.
-"leaddetails_deletelead"                        =   "Hapuskan Lead";
-
-// The title of the delete lead confirmation alert.
-"leaddetails_deleteleadtitle"                   =   "Hapuskan Lead Semasa";
-
-// The message of the delete lead confirmation alert.
-"leaddetails_deleteleadmessage"                 =   "Anda pasti ingin hapuskan lead ini?";
-
-
-// ============================================================================
-// * Edit Lead
-// ============================================================================
-
-// The title in the navigation bar of the Edit Lead screen.
-"editlead_title"                =   "Sunting Lead";
-
-// The title in the navigation bar of the See More version fo the Edit Lead screen.
-"editlead_titleseemore"         =   "Lihat Perincian Lead";
-
-// The Help Text used by the Edit Lead screen.
-"editlead_help"                 =   "Apabila melihat, ketik butang \"Edit\" untuk menyunting maklumat lead. Masukkan data untuk lead dan ketik \"Simpan\" untuk menyimpan sebarang perubahan.";
-
-// The title of the Basic Info section.
-"editlead_basicinfo"            =   "Maklumat Asas";
-
-// The title of the Contact Info section.
-"editlead_contactinfo"          =   "Maklumat Hubungan";
-
-// The title of the Address Info section.
-"editlead_addressinfo"          =   "Maklumat Alamat";
-
-// The message of the success alert.
-"editlead_savesuccessful"       =   "Lead Berjaya Disimpan!";
-
-
-// ============================================================================
-// * Lead Actions
-// ============================================================================
-
-// The title in the navigation bar of the lead actions screen.
-"leadactions_title"                     =   "Tindakan Lead";
-
-// The Help Text used by the lead actions screen.
-"leadactions_help"                      =   "Lihat, mula dan batalkan tindakan disyorkan dan dijadualkan. Ketik butang \"Lakukannya\" untuk memproses tindakan disyorkan untuk lead. Untuk menambah tindakan dijadualkan, ketik butang \"Tambah yang Baru\". Sebarang tindakan dijadualkan akan dibatalkan dengan mengetik butang \"Batalkan\"";
-
-// The title of the recommended actions section.
-"leadactions_recommendedactions"        =   "Tindakan Disyorkan";
-
-// The message shown when no recommended actions exist.
-"leadactions_norecommendedactions"      =   "Tindakan disyorkan tidak ditemui.";
-
-// The title of the scheduled actions section.
-"leadactions_scheduledactions"          =   "Tindakan Dijadualkan";
-
-// The message shown when no scheduled actions exist.
-"leadactions_noscheduledactions"        =   "Tindakan dijadualkan tidak dijumpai.";
-
-// The message of the cancel scheduled action alert.
-"leadactions_cancelscheduledaction"     =   "Anda pasti anda ingin membatalkan tindakan ini?";
-
-// The title of the Do It button.
-"leadactions_doit"                      =   "Teruskan";
-
-// The title of the add new alert for email campaign.
-"leadactions_emailcampaign"             =   "Kempen E-mel";
-
-// The title of the add new alert for single email.
-"leadactions_singleemail"               =   "Satu E-mel";
-
-// The title of the add new alert for reminder.
-"leadactions_reminder"                  =   "Peringatan";
-
-
-
-// The title in the navigation bar of the reminder creation screen.
-"reminder_title"                        =   "Cipta Peringatan";
-
-// The Help Text used by the reminder creation screen.
-"reminder_help"                         =   "Cipta peringatan yang mengandungi tajuk dan mesej ringkas. Gunakan pemilih tarikh untuk memilih haribulan untuk menjadualkan peringatan.";
-
-// The label used in the title text field.
-"reminder_titlelabel"                   =   "Jawatan";
-
-// The label used in the message text field.
-"reminder_messagelabel"                 =   "Mesej";
-
-// The error message shown when a user doesn't enter a title.
-"reminder_titleneeded"                  =   "Anda mesti masukkan tajuk untuk peringatan.";
-
-// The error message shown when a user doesn't enter a message.
-"reminder_messageneeded"                =   "Anda mesti masukkan mesej untuk peringatan.";
-
-
-
-// The title in the navigation bar of the email campaign picker screen.
-"emailcampaign_title"                   =   "Kempen E-mel";
-
-// The Help Text used by the email campaign picker screen.
-"emailcampaign_help"                    =   "Pilih kempen yang ingin dijadualkan untuk lead dipilih daripada semua kempen e-mel. Mengetik kempen akan terus memulakannya untuk lead.";
-
-
-// The title in the navigation bar of the email messages picker screen.
-"emailmessages_title"                   =   "E-mel Mesej";
-
-// The Help Text used by the email messages picker screen.
-"emailmessages_help"                    =   "Pilih mesej emel individu untuk menghantar kepada lead terpilih. Ketik butang \"Info (i)\" untuk pratonton mesej sebelum menghantarnya.";
-
-
-// ============================================================================
-// * Lead Log
-// ============================================================================
-
-// The title in the navigation bar of the lead log screen.
-"leadlog_title"             =   "Log Lead";
-
-// The Help Text used by the lead log screen.
-"leadlog_help"              =   "Lihat tindakan atau acara lalu yang telah berlaku dengan lead terpilih.";
-
-
-// ============================================================================
-// * Lead Stats
-// ============================================================================
-
-// The title in the navigation bar of the lead stats screen.
-"leadstats_title"               =   "Statistik Lead";
-
-// The Help Text used by the lead stats screen.
-"leadstats_help"                =   "Lihat semua statistik e-mel dan video untuk lead terpilih.";
-
-// The title shown for the email stats section.
-"leadstats_emailstats"          =   "Statistik E-mel";
-
-// The title shown for the video stats section.
-"leadstats_videostats"          =   "Stats Video";
-
-// The key label for emails read.
-"leadstats_emailsread"          =   "E-mel Telah DIbaca";
-
-// The key label for emails not read.
-"leadstats_emailsnotread"       =   "E-mel Tidak Dibaca";
-
-// The label for how many times a video was watched.
-"leadstats_watched"             =   "Diperhati";
-
-// The label for how long a video was watched.
-"leadstats_duration"            =   "Tempoh";
-
-// The unit label for the number of times a video was watched.
-"leadstats_times"               =   "Item";
-
-// The unit label for the duration time in seconds.
-"leadstats_secs"                =   "saat";
-
-
-// ============================================================================
-// * Lead Notes
-// ============================================================================
-
-// The title in the navigation bar of the lead notes screen.
-"leadnotes_title"               =   "Nota Lead";
-
-// The Help Text used by the lead notes screen.
-"leadnotes_help"                =   "Tambah dan lihat nota untuk lead terpilih. Ketik butang \"Campur (+)\" untuk menambah nota baru.";
-
-// The title of the new note alert.
-"leadnotes_newnote"             =   "Nota Baru";
-
-
-// ============================================================================
-// * Manage Groups
-// ============================================================================
-
-// The title in the navigation bar of the manage groups screen.
-"managegroups_title"            = 	"Kumpulan";
-
-// The Help Text used by the manage groups screen.
-"managegroups_help"             = 	"Lihat dan sunting Kumpulan lead untuk menghantar kempen dengan cepat dan mudah! \n\nKetik butang \"Sunting (Pensil)\" untuk menghapuskan kumpulan.\n\nKetik butang \"Tambah Baru +\" untuk mencipta kumpulan baru.";
-
-// Label to indicate the number of contacts in a group.
-"managegroups_contacts"         = 	"Kenalan";
-
-// The title used in the new group alert.
-"managegroups_newgroup"         = 	"Kumpulan Baru";
-
-// The message used in the new group alert.
-"managegroups_newgroupname"     = 	"Nama kumpulan baru:";
-
-// The placeholder text in the group name text field.
-"managegroups_groupname"        = 	"Nama Kumpulan";
-
-// The validation message for requiring a group name.
-"managegroups_namevalidation"   =   "Kumpulan mesti mempunyai nama.";
-
-
-// ============================================================================
-// * Group Details
-// ============================================================================
-
-// The title in the navigation bar of the group details screen. (Overwritten by group name).
-"groupdetails_title"    = 	"Butiran Kumpulan";
-
-// The Help Text used by the lead details screen.
-"groupdetails_help"     = 	"Lihat lead di dalam kumpulan semasa.\n\nKetik \"Sunting (Pensil)\" untuk menghapuskan lead.\n\nKetik butang \"Tambah Baru +\" untuk menambah lead kepada kumpulan semasa.";
-
-
-// ============================================================================
-// * Multi-use Promotions
-// ============================================================================
-
-// Select Groups
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the Select Groups screen.
-"selectgroups_title"                =   "Pilih Kumpulan";
-
-// The Help Text used by the Select Groups screen.
-"selectgroups_help"                 =   "Pilih kumpulan lead yang anda ingin hantar kempen.";
-
-// The instruction text above groups table.
-"selectgroups_instructions"         =   "Pilih kumpulan untuk menghantar kempen ini:";
-
-// The title of the New Group option in the Action Sheet menu.
-"selectgroups_newgroup"             =   "Kumpulan Baru";
-
-// The title of the Select from Phonebook option in the Action Sheet menu.
-"selectgroups_selectcontacts"       = 	"Pilih daripada Buku Telefon";
-
-// The validation message for requiring at least one contact.
-"selectgroups_contactvalidation"    = 	"Anda hendaklah memilih kumpulan yang ada sekurang-kurangnya satu nombor telefon untuk menghantar mesej.";
-
-
-// Select Contacts
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the Select Contacts screen.
-"selectcontacts_title"              = 	"Pilih Kenalan";
-
-// The Help Text used by the Select Contacts screen.
-"selectcontacts_help"               = 	"Pilih kenalan yang anda ingin gunakan.\n\nKenalan daripada peranti mudah alih anda akan ditunjukkan dengan ikon telefon di sebelahnya. Lead Backoffice akan kelihatan dengan ikon buku alamat.\n\nTapis kenalan dengan menaip ke dalam palang carian. Ketik butang \"Sembunyi Papan Kekunci\" untuk menyembunyikan papan kekunci selepas mencari.\n\nKenalan yang dipilih daripada peranti mudah alih anda akan ditambah secara automatik kepada Lead Backoffice anda.";
-
-// The primary phone label. (Other labels are handled by OS.)
-"selectcontacts_primary"            =   "utama";
-
-// The message of the alert displayed when a contact fails to be added as a lead or to a group.
-"selectcontacts_uploadcontacterror" =   "Ralat memuat naik kenalan";
-
-// The message of the alert displayed when a lead fails to be added to a group.
-"selectcontacts_addgroupleaderror"  =   "Ralat menambah lead kepada kumpulan.";
-
-
-// Edit Message
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the Edit Message screen.
-"editmessage_title"         =   "Sunting Mesej";
-
-// The Help Text used by the Edit Message screen.
-"editmessage_help"          =   "Masukkan mesej untuk menghantar kepada kumpulan anda.\n\nKetik butang \"X\" untuk mengosongkan mesej yang anda taip.\n\nKetik butang \"Pengguna\" untuk menambah nama lead ke dalam mesej.\n\nKetik butang \"Seterusnya\" untuk meneruskan.\"";
-
-// The instruction text above the message text field.
-"editmessage_instructions"  =   "Masukkan mesej SMS untuk dihantar kepada kumpulan.";
-
-
-// Send Message
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the Send Message screen.
-"sendmessage_title"         =   "Hantar Mesej";
-
-// The Help Text used by the Send Message screen.
-"sendmessage_help"          =   "Sahkan lead yang anda ingin hantar kempen anda dan ketik butang \"Hantar Mesej\" untuk menghantarnya.\n\nKetik butang \"Batal\" untuk memulakan semula proses pemilihan kempen.";
-
-// The instruction text above the contacts table.
-"sendmessage_instructions"  = 	"Semak sebelum hantar.";
-
-// The title of the Send Messages button.
-"sendmessage_sendmessages"  =   "Hantar Mesej";
-
-// The message that is displayed upon successfully sending an SMS message.
-"sendmessage_sendsuccess"   = 	"Mesej telah dihantar.";
-
-// Toasted when an SMS message is sent. (Android Only)
-"sendmessage_messagesent"   =	"Mesej Dihantar";
-
-
-// ============================================================================
-// * Training Videos Select
-// ============================================================================
-
-// The title in the navigation bar of the training videos screen.
-"trainingvideos_title"  =   "Video Latihan";
-
-// The Help Text used by the training videos screen.
-"trainingvideos_help"   =   "Lihat Video Latihan.\n\nKetik baris video untuk melihat video.";
-
-
-// ============================================================================
-// * Video Campaign Select
-// ============================================================================
-
-// The title in the navigation bar of the video campaign screen.
-"videocampaign_title"                   =   "Kempen Video";
-
-// The Help Text used by the video campaign screen.
-"videocampaign_help"                    =   "Pilih, melihat, dan hantar Kempen Video.\n\nKetik butang \"Maklumat (i)\" pada kempen untuk melihat pratonton.\n\nPilih kempen dan Ketik butang \"Teruskan\" untuk meneruskan. \n\nKetik butang \"Pilihan\" di palang bawah selepas memilih kempen untuk dikongsi.";
-
-// The title in the navigation bar of the video campaign preview webview screen.
-"videocampaign_previewtitle"            = 	"Pratonton Kempen Video";
-
-// The text for the no videos found label.
-"videocampaign_novideosfound"           = 	"Tiada video dijumpai";
-
-// The text for the no categories found label.
-"videocampaign_nocategoriesfound"       =   "Tiada kategori dijumpai";
-
-
-// ============================================================================
-// * Custom Campaign Select
-// ============================================================================
-
-// The title in the navigation bar of the Custom Campaign screen.
-"customcampaign_title"              = 	"Kempen Tersuai";
-
-// The Help Text used by the Custom Campaign screen.
-"customcampaign_help"               = 	"Hantar pelbagai kempen tersuai untuk kumpulan lead anda.\n\nPilih Gulungan Kamera untuk menghantar kempen gambar menggunakan gambar daripada Gulungan Kamera telefon anda.\n\nPilih Perpustakaan Optimism untuk menghantar gambar kempen daripada Perpustakaan Optimism\n\nPilih YouTube untuk menghantar kempen tersuai YouTube.";
-
-// The Help Text used by the Custom Campaign screen. (Android Only)
-"customcampaign_help_android"       = 	"Hantar pelbagai kempen tersuai untuk kumpulan lead anda.\n\nPilih Galeri untuk menghantar kempen gambar menggunakan gambar daripada Galeri telefon anda.\n\nPilih Perpustakaan Optimism untuk menghantar gambar kempen daripada Perpustakaan Optimism\n\nPilih YouTube untuk menghantar kempen tersuai YouTube.";
-
-// The title of the Camera Roll Campaign option.
-"customcampaign_camerarolltitle"    = 	"Gulungan Kamera";
-
-// The description of the Camera Roll Campaign option.
-"customcampaign_camerarolldesc"     = 	"Pilih imej daripada gulungan kamera peranti mudah alih anda untuk digunakan dalam kempen.";
-
-// The title of the Gallery Campaign option. (Android Only)
-"customcampaign_gallerytitle"       = 	"Galeri";
-
-// The description of the Gallery Campaign option. (Android Only)
-"customcampaign_gallerydesc"        = 	"Pilih imej daripada galeri peranti mudah alih anda untuk digunakan dalam kempen.";
-
-// The title of the Optimism Library Campaign option.
-"customcampaign_optimismtitle"      = 	"Perpustakaan Optimism";
-
-// The description of the Optimism Library Campaign option.
-"customcampaign_optimismdesc"       = 	"Pilih imej daripada Perpustakaan Optimism Harian untuk digunakan di dalam kempen.";
-
-// The title of the YouTube Campaign option.
-"customcampaign_youtubetitle"       = 	"YouTube";
-
-// The description of the YouTube Campaign option.
-"customcampaign_youtubedesc"        =   "Masukkan video YouTube tersuai untuk digunakan dalam kempen.";
-
-// The title of the Virtual Landing Page Campaign option.
-"customcampaign_virtualpagetitle"   =   "Laman Mendarat Maya";
-
-// The description of the Virtual Landing PageCampaign option.
-"customcampaign_virtualpagedesc"    = 	"Gunakan Laman Mendarat Maya korporat yagn disesuaikan dalam kempen.";
-
-// The alert message displayed when an image couldn't be found to continue.
-"customcampaign_noimageerror"       =   "Ada masalah memilih imej anda. Sila cuba lagi.";
-
-
-// YouTube Select
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the YouTube Campaigns screen.
-"youtubecampaign_title"             =   "Kempen YouTube";
-
-// The Help Text used by the YouTube Campaigns screen.
-"youtubecampaign_help"              =   "Buat dan pilih kempen tersuai YouTube anda untuk menghantar kepada kumpulan lead anda.\n\nKetik butang \"Tambah (+)\" untuk mencipta kempen YouTube yang baru.\n\nKuis kempen ke kiri untuk menyunting atau menghapuskan kempen.\n\nKetik butang \"Maklumat (i)\" untuk menyunting kempen.\n\nKetik kempen dan butang Teruskan untuk meneruskan.";
-
-// The message displayed when campaign downloads fail.
-"youtubecampaign_getfailure"        =   "Gagal memuat turun Kempen Youtube. Sila cuba lagi.";
-
-// The message displayed when campaign deletion fails.
-"youtubecampaign_deletefailure"     =	"Tidak dapat menghapuskan kempen.";
-
-
-// YouTube Add/Update
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the YouTube Campaign Editor screen.
-"youtubeeditor_title"               =   "Tambah/Sunting Kempen";
-
-// The Help Text used by the YouTube Campaign Editor screen.
-"youtubeeditor_help"                =   "Masukkan maklumat untuk kempen tersuai YouTube.\n\nAnda HENDAKLAH mengisi SEMUA medan untuk mencipta kempen.\n\n- URL Nama Halaman (100 aksara): Ini yang lead akan lihat di dalam URL.\n- Tajuk Halaman (50 aksara): Ini akan dipaparkan sebagai tajuk di bahagian atas halaman video.\n- Nama Video (25 aksara): Ini ialah nama yang disenaraikan di bawah pemain video.\n- Ketrangan Video (150 aksara): Ini akan menjadi keterangan ringkas mengenai video yang disenaraikan di bawah Nama Video.\n- Pautan Video (100 aksara): Ini pautan kepada video YouTube yang akan dipaparkan.\n\nSelepas memasukkan Pautan Video, anda boleh melihat pratonton pemain video terbenam yang akan digunakan pada halaman video tersuai anda.\n\nKetik butang \"Simpan\" untuk menyimpan kempen YouTube tersuai anda.";
-
-// The text used to indicate where the embed preview will appear.
-"youtubeeditor_embedpreview"        = 	"Pratonton terbenam YouTube akan memuat di sini. Tetapkan Pautan Video kepada pratonton.";
-
-// The title and placeholder text used in the URL Page Name text field.
-"youtubeeditor_pagename"            =   "Nama Halaman URL";
-
-// The title and placeholder text used in the Page Title text field.
-"youtubeeditor_pagetitle"           = 	"Tajuk Halaman";
-
-// The title and placeholder text used in the Video Name text field.
-"youtubeeditor_videoname"           = 	"Nama Video";
-
-// The title and placeholder text used in the Video Description text field.
-"youtubeeditor_videodescription"    = 	"Keterangan Video";
-
-// The title and placeholder text used in the Video Link text field.
-"youtubeeditor_videolink"           =   "Pautan Video";
-
-// The message displayed when a campaign is saved successfully.
-"youtubeeditor_savesuccess"         =   "Kempen berjaya disimpan!";
-
-// The message displayed when a campaign fails to save.
-"youtubeeditor_savefailure"         =   "Tidak dapat menyimpan kempen.";
-
-// The too many characters validation message.
-/*
- "{0} - {1}: {2}/{3}"
- Where:
- {0} = Field Name
- {1} = The Translated Text
- {2} = Current Number of Letters
- {3} = Max Limit of Letters
- */
-"youtubeeditor_manyvalidation"     = 	"Medan teks hendaklah kurang hurufnya. Bilangan huruf semasa";
-
-// The too few characters validation message.
-/*
- "{0} - {1}"
- Where:
- {0} = Field Name
- {1} = The Translated Text
- */
-"youtubeeditor_fewvalidation"       =   "Anda hendaklah memasukkan nilai.";
-
-
-// Virtual Landing Page Campaign Select
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the Virtual Landing Page Campaigns screen.
-"virtualpagecampaign_title"         =   "Kempen Laman Mendarat";
-
-// The Help Text used by the Virtual Landing Page Campaigns screen.
-"virtualpagecampaign_help"          =   "Pilih Halaman Pendaratan Maya korporat yang akan digunakan dalam kempen.\n\nKetik butang \"Maklumat (i)\" pada kempen untuk melihat pratonton.\n\nKetik butang Tindakan pada toolbar bawah untuk berkongsi kempen melalui kaedah selain daripada SMS.";
-
-// The message displayed when campaign downloads fail.
-"virtualpagecampaign_getfailure"    =   "Tidak dapat memuat turun Halaman Maya. Sila cuba lagi.";
-
-// The title in the navigation bar of the Virtual Landing Pages Campaign preview webview screen.
-"virtualpagecampaign_previewtitle"  = 	"Pratonton Laman Maya";
-
-
-// ============================================================================
-// * Campaign Stats
-// ============================================================================
-
-// The title in the navigation bar of the Campaign Stats screen.
-"campaignstats_title"   =   "Stat Kempen";
-
-// The Help Text used by the Campaign Stats screen.
-"campaignstats_help"    =   "Lihat semua statistik kempen mudah alih anda!";
-
-
-// ============================================================================
-// * My Badges
-// ============================================================================
-
-// The title in the navigation bar of the My Badges screen.
-"mybadges_title"            =   "Lencana Saya";
-
-// The Help Text used by the My Badges screen.
-"mybadges_help"             =   "Lihat semua lencana yang anda perolehi daripada menghadiri acara, menghantar kempen, dan lain-lain. Ketik lencana untuk melihatnya dalam secara penuh!";
-
-// The points label text.
-"mybadges_points"           =   "Mata";
-
-// The message displayed in the alert shown when a badge is not earned but is selected.
-"mybadges_notearned"        =   "Anda belum memperoleh lencana ini lagi!";
-
-// The message displayed when badge downloads fail.
-"mybadges_getfailure"       =   "Tidak dapat memuat turun lencana. Sila cuba lagi.";
-
-// The message displayed when sharing a badge. (Android Only)
-"mybadges_sharebadge"       =	"Kongsi Lencana";
-
-// The message displayed when a single badge is earned.
-/*
- "{0}: {1}"
- Where:
- {0} = The Translated Text
- {1} = Badge Name
- */
-"mybadges_singleearned"     =   "Anda telah memperoleh lencana";
-
-// The message displayed when multiple badges are earned.
-"mybadges_multipleearned"   =   "Anda telah memperoleh lencana baru!";
-
-
-// ============================================================================
-// * Badge Details
-// ============================================================================
-
-// The title in the navigation bar of the Badge Detail screen. (Overridden by Badge name).
-"badgedetails_title"    =   "Butiran Lencana";
-
-// The Help Text used by the Badge Detail screen.
-"badgedetails_help"     =   "Kagumi lencana anda! Ini hasil usaha anda! Sungguh!!";
-
-// The message to share when sharing a badge.
-/*
- "{0}: {1}"
- Where:
- {0} = The Translated Text
- {1} = Badge Name
- */
-"badgedetails_share"    =   "Saya telah mendapat lencana";
-
-
-// ============================================================================
-// * Alerts
-// ============================================================================
-
-// The title in the navigation bar of the Alerts screen.
-"alerts_title"              =   "Amaran";
-
-// The Help Text used by the Alerts screen.
-"alerts_help"               =   "Lihat semua amaran yang dikaitkan dengan akaun anda.\n\nKetik butang \"Sampah\" untuk menghapuskan semua amaran.";
-
-// The message displayed when deleting all alerts.
-"alerts_deletealerts"       =   "Hapuskan semua amaran?";
-
-// The title in the navigation bar of the Alerts Preview screen.
-"alerts_previewdetailtitle" = 	"Butiran Amaran";
-
-// The Help Text used by the Alerts Preview screen.
-"alerts_previewdetailhelp"  = 	"Lihat butiran berkaitan amaran tertentu.";
-
-
-// ============================================================================
-// * Profile
-// ============================================================================
-
-// The title in the navigation bar of the Profile screen.
-"profile_title"     =   "Profil Mudah Alih";
-
-// The Help Text used by the Profile screen.
-"profile_help"      =   "Lihat Profil Mudah Alih anda.\n\nPilih Sunting Profil untuk mengubahsuai maklumat pada profil anda.\n\nPilih Log Masuk ke Media Sosial untuk log masuk ke akaun media sosial anda.\n\nPilih Tetapan Auto-Drip untuk menyunting jadual catatan Auto-Drip.";
-
-// Used to link to a user's profile website. (Android Only)
-"profile_mywebsite"         =   "Tapak Web Saya";
-
-
-// The title of the Edit Profile option.
-"profile_editprofiletitle"  = 	"Sunting Profil";
-
-// The description of the Edit Profile option.
-"profile_editprofiledesc"   = 	"Ubah tetapan profil mudah alih anda termasuk nama, maklumat hubungan dan gambar profil.";
-
-// The title of the Login to Social Media option.
-"profile_socialmediatitle"  = 	"Log Masuk ke Media Sosial";
-
-// The description of the Login to Social Media option.
-"profile_socialmediadesc"   = 	"Log masuk ke akaun media sosial untuk menggunakan ciri-ciri seperti Kempen Auto-Drip.";
-
-// The title of the Auto-Drip Settings option.
-"profile_autodriptitle"     = 	"Tetapan Auto-Drip";
-
-// The description of the Auto-Drip Settings option.
-"profile_autodripdesc"      = 	"Jadualkan dan catat ke Auto-Drip kepada semua akaun media sosial anda.";
-
-
-// ============================================================================
-// * Edit Profile
-// ============================================================================
-
-// The title in the navigation bar of the Edit Profile screen.
-"editprofile_title"                 =   "Sunting Profil";
-
-// The Help Text used by the Edit Profile screen.
-"editprofile_help"                  =   "Sunting maklumat profil anda dan muat naik gambar profil baru.\n\nGambar profil boleh dimuat naik daripada Gulungan Kamera dan akaun Media Sosial anda. Anda mesti log masuk ke akaun anda sebelum boleh menggunakan gambar profil yang dikaitkan.\n\nKetik butang \"Simpan\" untuk menyimpan sebarang perubahan yang anda telah buat.";
-
-// The Help Text used by the Edit Profile screen. (Android Only)
-"editprofile_help_android"          =   "Sunting maklumat profil anda dan muat naik gambar profil baru.\n\nGambar profil boleh dimuat naik daripada Galeri dan akaun Media Sosial anda. Anda mesti log masuk ke akaun anda sebelum boleh menggunakan gambar profil yang dikaitkan.\n\nKetik butang \"Simpan\" untuk menyimpan sebarang perubahan yang anda telah buat.";
-
-// The title of the Edit Profile Picture Button.
-"editprofile_editprofilepic"        =   "Sunting Gambar Profil";
-
-// The title of the Edit Profile Picture Action Sheet menu.
-"editprofile_editprofilepictitle"   =   "Pilih Gambar Profil Daripada";
-
-// The title of the Camera Roll option in the edit profile Action Sheet menu.
-"editprofile_cameraroll"            =   "Gulungan Kamera";
-
-// The title of the Gallery option in the edit profile Action Sheet menu. (Android Only)
-"editprofile_gallery"               =   "Galeri";
-
-// The title of the Save Settings Button.
-"editprofile_savesettings"          =   "Simpan Tetapan";
-
-// The validation message for requiring a first name to be entered.
-"editprofile_firstnamevalidation"   =   "Anda mesti masukkan nama sendiri.";
-
-// The validation message for requiring a display name to be entered.
-"editprofile_displaynamevalidation" =   "Anda hendaklah memasukkan nama paparan.";
-
-// The message displayed when saving a profile successfully.
-"editprofile_savesuccess"           =   "Profil mudah alih berjaya disimpan!";
-
-// The message displayed when saving a profile fails.
-"editprofile_savefailure"           = 	"Profil mudah alih tidak dapat dikemaskini. Sila cuba lagi.";
-
-
-// ============================================================================
-// * Social Media Login
-// ============================================================================
-
-// The title in the navigation bar of the Social Media screen.
-"socialmedia_title"         =   "Media Sosial";
-
-// The Help Text used by the Social Media screen.
-"socialmedia_help"          =   "Daftar masuk ke media sosial anda. Log masuk akan membolehkan anda memuat naik gambar profil media sosial ke Profil Mudah Alih anda dan membuat catatan AutoDrip Optimism.";
-
-// The text for the How we use your Social Media Accounts label.
-"socialmedia_howeusetitle"  = 	"Cara kami menggunakan Akaun Media Sosial anda:";
-
-// The text description for How we user Social Media.
-"socialmedia_howweusedesc"  = 	"- Dapatkan maklumat profil asas (nama, nama skrin, dan lain-lain)\n- Dapatkan gambar profil untuk dipaparkan di dalam app\n- Minta izin untuk membolehkan anda membuat catatan";
-
-
-// ============================================================================
-// * Auto-Drip Schedule
-// ============================================================================
-
-// The title in the navigation bar of the Auto-Drip Schedules screen.
-"autodrip_title"        =   "Jadual Auto-Drip";
-
-// The Help Text used by the Auto-Drip Schedules screen.
-"autodrip_help"         =   "Tetapkan jadual Auto-Drip. Tetapkan masa dan hari biasa yang anda ingin diingatkan untuk membuat catatan. \n\nKetik butang \"Simpan\" untuk menyimpan jadual anda. Ketik butang \n\n\"Catatkan Sekarang\" untuk mencatat sekarang!\n\nApabila mencatat, anda boleh memilih imej tersuai untuk mencatat, menetapkan mesej tersuai, dan mengambil Rangkaian Sosial untuk dihantar.";
-
-// The title of the Make Post Now Button.
-"autodrip_makepostnow"  =   "Buat Catatan Sekarang";
-
-// The text of the schedule label.
-"autodrip_schedule"     =   "Jadual";
-
-// The message displayed in the alert when a schedule is saved successfully.
-"autodrip_savesuccess"  =   "Jadual anda telah berjaya disimpan!";
-
-// The message displayed in the alert when a schedule fails to save.
-"autodrip_savefailure"  =   "Ada masalah menyimpan jadual anda. Sila cuba lagi.";
-
-
-// The title to the Refresh Button.
-"autodrip_refreshoption"    = 	"Segarkan semula";
-
-// The title to the Library Button.
-"autodrip_library"          = 	"Perpustakaan";
-
-// The title to the Camera Roll Button.
-"autodrip_cameraroll"       = 	"Gulungan Kamera";
-
-// The title to the Gallery Button. (Android Only)
-"autodrip_gallery"          = 	"Galeri";
-
-// The text of the instructions label.
-"autodrip_instructions"     = 	"Masukkan mesej catatan di atas.";
-
-// The text of the Social Networks label.
-"autodrip_socialnetworks"   = 	"Rangkaian Sosial";
-
-// The validation message displayed to require at least one social network selected.
-"autodrip_socialvalidation" = 	"Anda mesti memilih sekurang-kurangnya 1 rangkaian sosial untuk dicatat.";
-
-// The validation message to require login.
-/*
- "{0} - {1}"
- Where:
- {0} = Social Network Name
- {1} = The Translated Text
- */
-"autodrip_loginvalidation"  = 	"Anda mesti log masuk untuk mencatat.";
-
-// The title used in Auto-Drip push notifications. (Android Only)
-"autodrip_autodrip"         =   "Auto-Drip";
-
-// Message added to local notification for auto-dripping.
-"autodrip_timetopost"       =	"Auto-Drip - Masa untuk mencatat!";
-
-
-
-// ============================================================================
-// * Success On Demand
-// ============================================================================
-
-// The title in the navigation bar of the Success On Demand screen.
-"sod_title"     =   "Success On Demand";
-
-// The Help Text used by the Success On Demand screen.
-"sod_help"      =   "Akses kandungan penuh Success On Demand!";
-
-
-// ============================================================================
-// * Help Center
-// ============================================================================
-
-// Help Center
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the Help Center screen.
-"helpcenter_title"          =   "Pusat Bantuan";
-
-// The Help Text used by the Help Center screen.
-"helpcenter_help"           =   "Bantuan sentiasa ada tidak jauh dari sini! Ketik tajuk Palang Navigasi pada mana-mana skrin.\n\nJika maklumat bantuan tersedia, ia akan dipaparkan di dalam tetingkap baru seperti ini!\n\nCuba ketik tajuk pada skrin lain!";
-
-// The text used to instruct users to tap the title to view help tips.
-"helpcenter_instructions"   = 	"Perlu bantuan? Ketik tajuk yang tertulis \"Pusat Bantuan\" di Palang Navigasi di atas!\nSilakan! Hanya ketik!";
-
-// The title of the Request Support option.
-"helpcenter_supporttitle"   = 	"Minta Sokongan";
-
-// The description of the Request Support option.
-"helpcenter_supportdesc"    =   "Minta bantuan atau laporkan masalah mengenai app kepada kami.";
-
-// The title of the Training Videos option.
-"helpcenter_trainingtitle"  = 	"Video Latihan";
-
-// The description of the Training Videos option.
-"helpcenter_trainingdesc"   = 	"Dapatkan latihan berguna cara menggunakan app ini sepenuhnya!";
-
-// The title of the Rate the App option.
-"helpcenter_rateapptitle"   = 	"Tarafkan App";
-
-// The description of the Rate the App option.
-"helpcenter_rateappdesc"    =   "Sukakan yang anda lihat? Berikan kami penarafan 5 Bintang di App Store!";
-
-
-// Support Request
-// ----------------------------------------------------------------------------
-
-// The title in the Navigation bar of the Support Requests screen.
-"supportrequests_title"                 =   "Permintaan Sokongan";
-
-// The Help Text used by the Support Requests screen.
-"supportrequests_help"                  =   "Akses mana-mana permintaan sokongan yang anda pernah buat. Ketik permintaan sokongan untuk melihat sebarang jawapan terhadap permintaan tersebut.\n\nKetik butang Tambah (+) untuk mencipta permintaan sokongan baru.";
-
-
-// The title in the Navigation bar of the Add Support Request screen.
-"addsupportrequest_title"               =   "Permintaan Sokongan";
-
-// The Help Text used by the Add Support Request screen.
-"addsupportrequest_help"                =   "Hantar permintaan sokongan terus kepada kami. Masukkan mesej anda ke dalam kotak teks dan ketik hantar.";
-
-// The text used to instruct users to create a support request.
-"addsupportrequest_instructions"        =   "Sertakan mesej permintaan sokongan di bawah";
-
-// The message used when sending a support request is successful.
-"addsupportrequest_success"             =   "Kami telah menerima permintaan sokongan anda!";
-
-// The validation message for requiring a message.
-"addsupportrequest_textvalidation"      =   "Anda perlu memasukkan mesej.";
-
-
-// The title in the Navigation bar of the Support Responses screen.
-"supportresponses_title"                =   "Jawapan Sokongan";
-
-// The Help Text used by the Support Responses screen.
-"supportresponses_help"                 =   "Lihat permintaan maklumat sokongan anda sebagai tambahan kepada sebarang jawapan yang dibuat oleh pasukan sokongan kami.\n\nGunakan palang mesej di bahagian bawah untuk membalas.";
-
-// The title text of the Send button.
-"supportresponses_send"                 =   "Hantar";
-
-// The placeholder text in the message bar text view.
-"supportresponses_placeholdertext"      =   "Mesej";
-
-
-// ============================================================================
-// * Jeunesse Only
-// ============================================================================
-
-// The title of the Dashboard menu option.
-"menu_dashboard"                =   "Papan Pemuka";
-
-// The title of the My Events menu option.
-"menu_myevents"                 =   "Acara Saya";
-
-// The title of the Admin Events menu option.
-"menu_adminevents"              =   "Acara Pentadbir";
-
-// The title of the People I Sponsor menu option.
-"menu_peoplesponsored"          =   "Orang Saya Taja";
-
-// The title of the Genealogy menu option.
-"menu_genealogy"                =   "Genealogi";
-
-// The title of the Add New Signup menu option.
-"menu_newsignup"                =   "Tambah Ahli Baru";
-
-// The title of the Messages menu option.
-"menu_messages"                 =   "Mesej";
-
-// The title of the Reports menu option.
-"menu_reports"                  =   "Laporan";
-
-
-// The title of the menu section header for JOffice.
-"menu_jofficeheader"            =   "JOFFICE™";
-
-
-// ============================================================================
-// * Jeunesse Dashboard
-// ============================================================================
-
-// The title in the navigation bar of the Dashboard screen.
-"dashboard_title"                   =   "Papan Pemuka";
-
-// The Help Text used by the Dashboard screen.
-"dashboard_help"                    =   "Dari papan pemuka anda boleh lihat semua maklumat terkini berkenaan perniagaan anda.\n\nKetik butang tab untuk beralih kepada tab lain.";
-
-// The title of the Home tab.
-"dashboard_home"                    =   "Laman Utama";
-
-// The title of the News Feed tab.
-"dashboard_newsfeed"                =   "Suapan Berita";
-
-// The title of the Prospector tab.
-"dashboard_prospector"              =   "Prospektor";
-
-
-// ============================================================================
-// * People I Sponsor
-// ============================================================================
-
-// The title in the navigation bar of the People I Sponsor screen.
-"peopleisponsor_title"                  =   "Orang Saya Taja";
-
-// The Help Text used by the People I Sponsor screen.
-"peopleisponsor_help"                   =   "Lihat dan hubungi orang yang anda taja secara peribadi. Ketik pada penaja untuk melihat maklumat lanjut.";
-
-
-// The title in the navigation bar of the People I Sponsor Detail screen. (Replaced by sponsor displayname)
-"peopleisponsordetail_title"            =   "Orang Saya Taja";
-
-// The Help Text used by the People I Sponsor Detail screen.
-"peopleisponsordetail_help"             =   "Lihat maklumat hubungan bagi penaja yang dipilih. Ketik mana-mana e-mel atau butang telefon untuk menghubungi penaja.";
-
-
-// ============================================================================
-// * Genealogy
-// ============================================================================
-
-// The title in the navigation bar of the Genealogy screen.
-"genealogy_title"                  =   "Genealogi";
-
-// The Help Text used by the Genealogy screen.
-"genealogy_help"                   =   "Lihat seluruh pokok genealogi anda.";
-
-
-// ============================================================================
-// * Add New Signup
-// ============================================================================
-
-// The title in the navigation bar of the New Signup screen.
-"newsignup_title"                   =   "Ahli Baru";
-
-// The Help Text used by the New Signup screen.
-"newsignup_help"                    =   "Tambah ahli baru dengan memasukkan nama pengguna/siteurl anda dan mengetik butang \"Daftar\". Anda akan diminta untuk mengisi maklumat pendaftaran yang diperlukan.";
-
-// The label text for the sponsor text field.
-"newsignup_sponsor"                 =   "Siteurl Penaja";
-
-// The title text for the Signup button.
-"newsignup_signup"                  =   "Daftar";
-
-// The warning message that appears when an invalid value is entered.
-"newsignup_invalidmessage"          =   "Anda perlu memasukkan nama/siteurl yang sah.";
-
-
-// ============================================================================
-// * Messages
-// ============================================================================
-
-// The title in the navigation bar of the Messages screen.
-"messages_title"            =   "Mesej";
-
-// The Help Text used by the Messages screen.
-"messages_help"             =   "Lihat mesej akaun peribadi anda.\n\nMenguis kiri pada mesej akan membolehkan anda menghapuskan mesej.\n\nKetik butang \"Folder\" pada palang bawah untuk bertukar-tukar antara folder Peti Masuk dan Sampah anda.\n\nKetik mesej untuk melihat kandungannya.";
-
-
-// The title of the Inbox Message Folder.
-"messages_inbox"            =   "Peti Masuk";
-
-// The title of the Trash Message Folder.
-"messages_trash"            =   "Sampah";
-
-
-// ============================================================================
-// * Reports
-// ============================================================================
-
-// The title in the navigation bar of the Reports List screen.
-"reportslist_title"            =   "Laporan";
-
-// The Help Text used by the Reports List screen.
-"reportslist_help"             =   "Lihat semua laporan perniagaan anda di peranti mudah alih anda! Ketik pada laporan untuk melihatnya.";
-
-
-// The title in the navigation bar of the Report Parameters screen.
-"reportparams_title"            =   "Parameter Laporan";
-
-// The Help Text used by the Report Parameters screen.
-"reportparams_help"             =   "Masukkan dan pilih parameter yang diperlukan untuk menjana laporan yang dipilih.";
-
-// The title used by the View Reports button.
-"reportparams_viewreports"      =   "Lihat Laporan";
-
-
-// The title in the navigation bar of the Report Viewer screen.
-"reportviewer_title"            =   "Penayang Laporan";
-
-// The Help Text used by the Report Viewer screen.
-"reportviewer_help"             =   "Lihat laporan yang dijana daripada parameter yang dipilih sebelum ini.";
-
-
-// ============================================================================
-// * SmartCloud
-// ============================================================================
-
-// The title in the navigation bar of the SmartCloud screen.
-"smartcloud_title"                          =   "SmartCloud";
-
-// The Help Text used by the SmartCloud screen.
-"smartcloud_help"                           =   "Lihat semua fail dan direktori di Awan.\n\nKetik butang muat turun fail untuk memuat turun.\n\nJika fail telah dimuat turun secara tempatan, butang muat turun tidak akan kelihatan. Hanya sentuh fail yang hendak dibuka dan lihat ia.\n\nUntuk menghapuskan fail yang dimuat turun secara tempatan, hanya kuis fail dari kanan ke kiri untuk mendedahkan butang penyingkiran.";
-
-// The title used in the Remove Local button.
-"smartcloud_removelocal"                    =   "Buang Tempatan";
-
-// The title in the navigation bar of the SmartCloud screen when downloading a file.
-"smartcloud_downloading"                    =   "Memuat turun";
-
-
-// ============================================================================
-// * My Events
-// ============================================================================
-
-// The title in the navigation bar of the My Events List screen.
-"myeventslist_title"                        =   "Acara Saya";
-
-// The Help Text used by the My Events List screen.
-"myeventslist_help"                         =   "Lihat senarai acara yang anda berdaftar.\n\nKetik sesuatu acara untuk melihat kod akses anda ke acara tersebut.";
-
-// The notice for not being registered for any events.
-"myeventslist_notregistered"                =   "Buat masa ini, anda tidak didaftarkan untuk mana-mana acara.";
-
-
-// The title in the navigation bar of the My Events Detail screen. (Replaced by event name)
-"myeventsdetail_title"                      =   "Kod QR Acara Saya";
-
-// The Help Text used by the My Events Detail screen.
-"myeventsdetail_help"                       =   "Ini kod QR akses anda untuk acara yang dipilih. Tunjukkan ini kepada pentadbir acara untuk mendapatkan akses.\n\nKadang-kadang, sambungan internet tidak bermutu dan/atau tiada di acara-acara tertentu jadi adalah penting untuk memuat turun kod QR ini dengan mengetik butang \"Simpan ke dalam Gulungan Kamera\".";
-
-// The Help Text used by the My Events Detail screen. (Android Only)
-"myeventsdetail_help_android"                       =   "Ini kod QR akses anda untuk acara yang dipilih. Tunjukkan ini kepada pentadbir acara untuk mendapatkan akses.\n\nKadang-kadang, sambungan internet tidak bermutu dan/atau tiada di acara-acara tertentu jadi adalah penting untuk memuat turun kod QR ini dengan mengetik butang \"Simpan ke dalam Galeri\".";
-
-// The title in the Save to Camera Roll button.
-"myeventsdetail_savetocameraroll"           =   "Simpan ke Gulungan Kamera";
-
-// The title in the Save to Gallery button. (Android Only)
-"myeventsdetail_savetogallery"              =   "Simpan ke Galeri";
-
-// The alert text for reminding users to download an event QR Code.
-"myeventsdetail_downloadreminder"           =   "Kadang-kadang, sambungan internet tidak bermutu dan/atau tiada di acara-acara tertentu jadi adalah penting untuk memuat turun kod QR ini dengan mengetik butang \"Simpan ke dalam Gulungan Kamera\".";
-
-// The alert text for reminding users to download an event QR Code. (Android Only)
-"myeventsdetail_downloadreminder_android"   =   "\"Kadang-kadang, sambungan internet tidak bermutu dan/atau tiada di acara-acara tertentu jadi adalah penting untuk memuat turun kod QR ini dengan mengetik butang \"\"Simpan ke dalam Galeri\"\".\"";
-
-// The alert text verifying a QR code was saved successfully.
-"myeventsdetail_qrcodesavesuccess"          =   "Kod QR berjaya disimpan!";
-
-// The alert text notifying the user that a QR code failed to save.
-"myeventsdetail_qrcodesavefailure"          =   "Kod QR gagal disimpan.";
-
-
-// ============================================================================
-// * Admin Events
-// ============================================================================
-
-// The title in the navigation bar of the Admin Events List screen.
-"admineventslist_title"         =   "Acara Pentadbir";
-
-// The Help Text used by the Admin Events List screen.
-"admineventslist_help"          =   "Lihat semua acara akan datang dan bilangan orang yang mendaftar dan menghadirinya.";
-
-// The text used to indicate the number of signups for an event.
-"admineventslist_signups"       =   "Ahli Berdaftar";
+"actionitemdetail_alreadycompleted" = "Already completed this action?";
+"actionitemdetail_help" = "View the details of a recommended action. The additional info provided can help you complete the action. If you have already completed the action and it was not registered, tap the \"Tap Here\" button to proceed.";
+"actionitemdetail_meetingconfirm" = "Have you completed the meeting?";
+"actionitemdetail_pathcomplete" = "This lead has now completed their current path!";
+"actionitemdetail_splitwarning" = "This action item is part of a split in the path. Taking this action may prevent you from completing others.";
+"actionitemdetail_takeaction" = "Take Action";
+"actionitemdetail_title" = "Recommended Action";
+"actionpathpicker_help" = "Select an Action Path to assign to a lead. You can preview an action path by tapping the \"(i)\" button.";
+"actionpathpicker_title" = "Action Paths";
+"actionpathviewer_help" = "View an action path\'s full structure. You can pinch to zoom in or out.";
+"actionpathviewer_title" = "Action Path Viewer";
+"addlead_addfailure" = "Ralat berlaku semasa menambah lead.";
+"addlead_addlead" = "Tambah Lead";
+"addlead_addsuccessful" = "Lead berjaya ditambah!";
+"addlead_contactvalidation" = "Anda mesti masukkan sekurang-kurangnya satu kaedah hubungan (telefon atau e-mel).";
+"addlead_help" = "Masukkan maklumat untuk lead baru yang anda ingin tambah.\n\nLead baru MESTI diberi nama sendiri.\n\nAnda juga MESTI menyediakan sekurang-kurangnya satu kaedah hubungan (Nombor Telefon atau E-mel) untuk lead baru ini.";
+"addlead_namevalidation" = "Anda mesti masukkan nama sendiri.";
+"addlead_title" = "Tambah Lead";
+"addsupportrequest_help" = "Hantar permintaan sokongan terus kepada kami. Masukkan mesej anda ke dalam kotak teks dan ketik hantar.";
+"addsupportrequest_instructions" = "Sertakan mesej permintaan sokongan di bawah";
+"addsupportrequest_success" = "Kami telah menerima permintaan sokongan anda!";
+"addsupportrequest_textvalidation" = "Anda perlu memasukkan mesej.";
+"addsupportrequest_title" = "Permintaan Sokongan";
+"admineventdetail_help" = "View the details of the selected event.";
+"admineventdetail_title" = "Event Detail";
+"admineventdetail_totalcheckins" = "Total Check Ins";
+"admineventdetail_totalregistrants" = "Total Registrants";
+"admineventslist_help" = "Lihat semua acara akan datang dan bilangan orang yang mendaftar dan menghadirinya.";
+"admineventslist_signups" = "Ahli Berdaftar";
+"admineventslist_title" = "Acara Pentadbir";
+"alerts_deletealerts" = "Hapuskan semua amaran?";
+"alerts_help" = "Lihat semua amaran yang dikaitkan dengan akaun anda.\n\nKetik butang \"Sampah\" untuk menghapuskan semua amaran.";
+"alerts_previewdetailhelp" = "Lihat butiran berkaitan amaran tertentu.";
+"alerts_previewdetailtitle" = "Butiran Amaran";
+"alerts_title" = "Amaran";
+"android_appnotfound" = "Tidak jumpa app di pasaran.";
+"android_exitconfirm" = "Adakah anda pasti mahu keluar?";
+"android_nogoogleplus" = "Anda mesti sudah ada Google+ terpasang.";
+"android_notificatonssetting" = "Terima Pemberitahuan";
+"apitestdetail_help" = "Preview a specific API request to see why it has failed.";
+"apitestdetail_title" = "API Detail";
+"autodrip_autodrip" = "Auto-Drip";
+"autodrip_cameraroll" = "Gulungan Kamera";
+"autodrip_gallery" = "Galeri";
+"autodrip_help" = "Tetapkan jadual Auto-Drip. Tetapkan masa dan hari biasa yang anda ingin diingatkan untuk membuat catatan. \n\nKetik butang \"Simpan\" untuk menyimpan jadual anda. Ketik butang \n\n\"Catatkan Sekarang\" untuk mencatat sekarang!\n\nApabila mencatat, anda boleh memilih imej tersuai untuk mencatat, menetapkan mesej tersuai, dan mengambil Rangkaian Sosial untuk dihantar.";
+"autodrip_instructions" = "Masukkan mesej catatan di atas.";
+"autodrip_library" = "Perpustakaan";
+"autodrip_loginvalidation" = "Anda mesti log masuk untuk mencatat.";
+"autodrip_makepostnow" = "Buat Catatan Sekarang";
+"autodrip_refreshoption" = "Segarkan semula";
+"autodrip_savefailure" = "Ada masalah menyimpan jadual anda. Sila cuba lagi.";
+"autodrip_savesuccess" = "Jadual anda telah berjaya disimpan!";
+"autodrip_schedule" = "Jadual";
+"autodrip_socialnetworks" = "Rangkaian Sosial";
+"autodrip_socialvalidation" = "Anda mesti memilih sekurang-kurangnya 1 rangkaian sosial untuk dicatat.";
+"autodrip_timetopost" = "Auto-Drip - Masa untuk mencatat!";
+"autodrip_title" = "Jadual Auto-Drip";
+"badgedetails_help" = "Kagumi lencana anda! Ini hasil usaha anda! Sungguh!!";
+"badgedetails_share" = "Saya telah mendapat lencana";
+"badgedetails_title" = "Butiran Lencana";
+"campaignstats_help" = "Lihat semua statistik kempen mudah alih anda!";
+"campaignstats_title" = "Stat Kempen";
+"cart_help" = "Review and modify your cart. \n\nTap the \"Remove All\" button to remove all products from the cart. \n\nTap the \"Checkout\" button to complete the checkout process.";
+"cart_numberincart" = "Products in your cart";
+"cart_title" = "Shopping Cart";
+"cartcategories_help" = "Select a category to view all the associated products.";
+"cartcategories_title" = "Categories";
+"cartcheckout_confirmation" = "Confirmation";
+"cartcheckout_help" = "Review your cart and fill out all of the form inputs to complete the checkout process.";
+"cartcheckout_ordercomplete" = "Order Complete";
+"cartcheckout_title" = "Checkout";
+"cartproductdetail_help" = "View the details about a particular product. \n\nTap the \"Add to Cart\" button to add the product to your cart.";
+"cartproductdetail_title" = "Product Details";
+"cartproducts_help" = "Select a product to view more details. \n\nTap the \"Add to Cart\" button to add the product to your shopping cart.";
+"cartproducts_title" = "Products";
+"carttype_help" = "Choose between making a retail of wholesale product purchase by selecting the a type button.";
+"carttype_retail" = "Retail";
+"carttype_title" = "Cart Selection";
+"carttype_wholesale" = "Wholesale";
+"carttype_wholesaleunavailable" = "We are working hard to bring Wholesale purchases to the app!";
+"customcampaign_camerarolldesc" = "Pilih imej daripada gulungan kamera peranti mudah alih anda untuk digunakan dalam kempen.";
+"customcampaign_camerarolltitle" = "Gulungan Kamera";
+"customcampaign_gallerydesc" = "Pilih imej daripada galeri peranti mudah alih anda untuk digunakan dalam kempen.";
+"customcampaign_gallerytitle" = "Galeri";
+"customcampaign_help" = "Hantar pelbagai kempen tersuai untuk kumpulan lead anda.\n\nPilih Gulungan Kamera untuk menghantar kempen gambar menggunakan gambar daripada Gulungan Kamera telefon anda.\n\nPilih Perpustakaan Optimism untuk menghantar gambar kempen daripada Perpustakaan Optimism\n\nPilih YouTube untuk menghantar kempen tersuai YouTube.";
+"customcampaign_help_android" = "Hantar pelbagai kempen tersuai untuk kumpulan lead anda.\n\nPilih Galeri untuk menghantar kempen gambar menggunakan gambar daripada Galeri telefon anda.\n\nPilih Perpustakaan Optimism untuk menghantar gambar kempen daripada Perpustakaan Optimism\n\nPilih YouTube untuk menghantar kempen tersuai YouTube.";
+"customcampaign_noimageerror" = "Ada masalah memilih imej anda. Sila cuba lagi.";
+"customcampaign_optimismdesc" = "Pilih imej daripada Perpustakaan Optimism Harian untuk digunakan di dalam kempen.";
+"customcampaign_optimismtitle" = "Perpustakaan Optimism";
+"customcampaign_title" = "Kempen Tersuai";
+"customcampaign_virtualpagedesc" = "Gunakan Laman Mendarat Maya korporat yagn disesuaikan dalam kempen.";
+"customcampaign_virtualpagetitle" = "Laman Mendarat Maya";
+"customcampaign_youtubedesc" = "Masukkan video YouTube tersuai untuk digunakan dalam kempen.";
+"customcampaign_youtubetitle" = "YouTube";
+"customerconfirm_customerinfo" = "Customer Info";
+"customerconfirm_differentperson" = "Different Person";
+"customerconfirm_help" = "Help us decide if we should merge a customer entry with one of your existing leads by comparing their contact information. Tap the \"Merge All\" button to merge all customers with existing leads.";
+"customerconfirm_leadinfo" = "Lead Info";
+"customerconfirm_mergeall" = "Merge All";
+"customerconfirm_mergeallsuccess" = "All customers merged successfully!";
+"customerconfirm_mergefailed" = "Merge Failed";
+"customerconfirm_sameperson" = "Same Person";
+"customerconfirm_title" = "Pending Merges";
+"dailyoptimism_autodrip" = "Tetapan Auto-Drip";
+"dailyoptimism_help" = "Lihat dan kongsi Optimism harian!\n\nKetik \"Perpustakaan\" untuk memilih mana-mana Optimism lalu untuk dikongsi.";
+"dailyoptimism_library" = "Perpustakaan";
+"dailyoptimism_share" = "Kongsi Optimism Hari Ini";
+"dailyoptimism_title" = "Optimism Harian";
+"dashboard_help" = "Dari papan pemuka anda boleh lihat semua maklumat terkini berkenaan perniagaan anda.\n\nKetik butang tab untuk beralih kepada tab lain.";
+"dashboard_home" = "Laman Utama";
+"dashboard_newsfeed" = "Suapan Berita";
+"dashboard_prospector" = "Prospektor";
+"dashboard_title" = "Papan Pemuka";
+"debugmenu_help" = "The debug menu can be used to test various features including environment changes and APIs.";
+"debugmenu_notoken" = "No token available";
+"debugmenu_title" = "Debug Menu";
+"editlead_addressinfo" = "Maklumat Alamat";
+"editlead_basicinfo" = "Maklumat Asas";
+"editlead_contactinfo" = "Maklumat Hubungan";
+"editlead_help" = "Apabila melihat, ketik butang \"Edit\" untuk menyunting maklumat lead. Masukkan data untuk lead dan ketik \"Simpan\" untuk menyimpan sebarang perubahan.";
+"editlead_savesuccessful" = "Lead Berjaya Disimpan!";
+"editlead_title" = "Sunting Lead";
+"editlead_titleseemore" = "Lihat Perincian Lead";
+"editmessage_help" = "Masukkan mesej untuk menghantar kepada kumpulan anda.\n\nKetik butang \"X\" untuk mengosongkan mesej yang anda taip.\n\nKetik butang \"Pengguna\" untuk menambah nama lead ke dalam mesej.\n\nKetik butang \"Seterusnya\" untuk meneruskan.\"";
+"editmessage_instructions" = "Masukkan mesej SMS untuk dihantar kepada kumpulan.";
+"editmessage_title" = "Sunting Mesej";
+"editprofile_cameraroll" = "Gulungan Kamera";
+"editprofile_displaynamevalidation" = "Anda hendaklah memasukkan nama paparan.";
+"editprofile_editprofilepic" = "Sunting Gambar Profil";
+"editprofile_editprofilepictitle" = "Pilih Gambar Profil Daripada";
+"editprofile_firstnamevalidation" = "Anda mesti masukkan nama sendiri.";
+"editprofile_gallery" = "Galeri";
+"editprofile_help" = "Sunting maklumat profil anda dan muat naik gambar profil baru.\n\nGambar profil boleh dimuat naik daripada Gulungan Kamera dan akaun Media Sosial anda. Anda mesti log masuk ke akaun anda sebelum boleh menggunakan gambar profil yang dikaitkan.\n\nKetik butang \"Simpan\" untuk menyimpan sebarang perubahan yang anda telah buat.";
+"editprofile_help_android" = "Sunting maklumat profil anda dan muat naik gambar profil baru.\n\nGambar profil boleh dimuat naik daripada Galeri dan akaun Media Sosial anda. Anda mesti log masuk ke akaun anda sebelum boleh menggunakan gambar profil yang dikaitkan.\n\nKetik butang \"Simpan\" untuk menyimpan sebarang perubahan yang anda telah buat.";
+"editprofile_savefailure" = "Profil mudah alih tidak dapat dikemaskini. Sila cuba lagi.";
+"editprofile_savesettings" = "Simpan Tetapan";
+"editprofile_savesuccess" = "Profil mudah alih berjaya disimpan!";
+"editprofile_title" = "Sunting Profil";
+"emailcampaign_help" = "Pilih kempen yang ingin dijadualkan untuk lead dipilih daripada semua kempen e-mel. Mengetik kempen akan terus memulakannya untuk lead.";
+"emailcampaign_title" = "Kempen E-mel";
+"emailmessages_help" = "Pilih mesej emel individu untuk menghantar kepada lead terpilih. Ketik butang \"Info (i)\" untuk pratonton mesej sebelum menghantarnya.";
+"emailmessages_title" = "E-mel Mesej";
+"event_agenda" = "Agenda";
+"event_announcements" = "Announcements";
+"event_bio" = "Biography";
+"event_castvote" = "Cast Vote";
+"event_materials" = "Materials";
+"event_myschedule" = "My Schedule";
+"event_polls" = "Polls";
+"event_session" = "Session";
+"event_sessions" = "Sessions";
+"event_speakers" = "Speakers";
+"event_sponsors" = "Sponsors";
+"event_surveys" = "Surveys";
+"event_surveysandpolls" = "Surveys & Polls";
+"event_venuemap" = "Venue Map";
+"eventagenda_help" = "View an event\'s agenda. Tap on an agenda item to get more details. \n\nTap on the \"Follow\" button to get alerts before an agenda item begins.";
+"eventagenda_title" = "Agenda";
+"eventagendaitem_help" = "View the details of an event agenda item. Tap on the \"Follow\" button to get alerts before an agenda item begins. \n\nTap the location \"Show Me\" button to view where the agenda item takes place. \n\nTap on a download button to view materials associated with the agenda item. \n\nTap the \"Speakers\" tab to view all of the speakers involved with the agenda item.";
+"eventagendaitem_title" = "Agenda Item";
+"eventannouncements_help" = "View all of the event announcements. Important information about any time and location changes can be found here.";
+"eventannouncements_title" = "Announcements";
+"eventdashboard_happeningnow" = "Happening Now";
+"eventdashboard_nosessions" = "No sessions occurring at this time.";
+"eventmaterials_help" = "View all of the materials and resources for the event. Tap the download button to download and view a material.";
+"eventmaterials_title" = "Materials";
+"eventspeakerdetail_help" = "View the details of an event speaker. Tap the \"Favorite\" button to get alerts when before a speaker is presenting. \n\nTap the \"Sessions\" tab to view all of the agenda items in which the speaker is presenting.";
+"eventspeakerdetail_title" = "Speaker Details";
+"eventspeakers_help" = "View all of the people speaking at the event. Tap a speaker to view their bio. \n\nTap the \"Favorite\" button to get alerts when before a speaker is presenting.";
+"eventspeakers_title" = "Speakers";
+"eventsponsordetail_help" = "View the details of the sponsor. Tap the \"More Info\" button to get additional details on the sponsor.";
+"eventsponsordetail_title" = "Sponsor Details";
+"eventsponsorlist_help" = "View all of our event sponsors. Tap on a sponsor to get more information.";
+"eventsponsorlist_title" = "Sponsors";
+"eventsurveydetail_help" = "Select an answer for each question. Select the \"Next\" button to either complete the survey or proceed to the next question.";
+"eventsurveydetail_needanswer" = "You must answer the current question before proceeding.";
+"eventsurveydetail_surveycomplete" = "Thank you for providing your input!";
+"eventsurveydetail_title" = "Survey Details";
+"eventsurveydetail_voteconfirm" = "Are you sure you want to vote for this answer?";
+"eventsurveylist_alreadycompleted" = "You have already completed this survey/poll.";
+"eventsurveylist_help" = "View all of the surveys and polls currently taking place at the event. Give us your input to help us improve your event experience!";
+"eventsurveylist_title" = "Surveys & Polls";
+"facebookpages_help" = "Once we have your permission we can help you post content to your Facebook Pages. Select a Page to post your content. \n\nIf you don\'t see any Facebook Pages we may need you to give us more permissions. To do so, please log out of Facebook from the Profile screen and try to post again.";
+"facebookpages_nopages" = "No Facebook Pages Found";
+"facebookpages_publishconfirm" = "Are you sure you want to post as this Facebook Page?";
+"facebookpages_publishfailed" = "An error occurred while publishing as your Facebook Page. Please try again later.";
+"facebookpages_publishsuccess" = "A post has successfully been made as your Facebook Page!";
+"facebookpages_title" = "Facebook Pages";
+"genealogy_help" = "Lihat seluruh pokok genealogi anda.";
+"genealogy_title" = "Genealogi";
+"general_accept" = "Terima";
+"general_add" = "Tambah";
+"general_addnew" = "Tambah Baru +";
+"general_address" = "Alamat";
+"general_appversion" = "Versi App";
+"general_back" = "Undur";
+"general_cancel" = "Batal";
+"general_cantmakecalls" = "Peranti ini tidak boleh membuat panggilan.";
+"general_cantsendemail" = "Peranti ini tidak boleh menghantar e-mel. Sila periksa konfigurasi e-mel anda dan cuba semula.";
+"general_cantsendsms" = "Peranti ini tidak boleh menghantar mesej SMS.";
+"general_categories" = "Categories";
+"general_cell" = "Telefon Bimbit";
+"general_city" = "Bandar";
+"general_closed" = "Closed";
+"general_comingsoon" = "Coming Soon";
+"general_contact" = "Hubungan";
+"general_contactsaccess" = "Access to contacts is restricted. Please enable access to contacts in your device settings.";
+"general_country" = "Negara";
+"general_create" = "Cipta";
+"general_days" = "Hari";
+"general_decline" = "Tolak";
+"general_delete" = "Hapus";
+"general_details" = "Details";
+"general_devicelanguage" = "Bahasa Peranti";
+"general_devicemodel" = "Model Peranti";
+"general_deviceos" = "OS Peranti";
+"general_displayname" = "Nama Paparan";
+"general_done" = "Selesai";
+"general_edit" = "Sunting";
+"general_email" = "E-mel";
+"general_error" = "Ralat";
+"general_exit" = "Keluar";
+"general_facebook" = "Facebook";
+"general_facebookrequired" = "Please install the Facebook application to use this feature.";
+"general_facebookurl" = "URL Facebook:";
+"general_filter" = "Penapis";
+"general_filterby" = "Tapis mengikut";
+"general_firstname" = "Nama Sendiri";
+"general_forward" = "Maju";
+"general_friday" = "Jumaat";
+"general_googleplus" = "Google+";
+"general_hours" = "Jam";
+"general_info" = "Maklumat";
+"general_language" = "Bahasa";
+"general_lastname" = "Nama Keluarga";
+"general_lead" = "Lead";
+"general_loading" = "Memuat";
+"general_location" = "Location";
+"general_monday" = "Isnin";
+"general_more" = "Lagi";
+"general_moreinfo" = "More Info";
+"general_name" = "Nama";
+"general_needhelp" = "Need help?";
+"general_next" = "Selepas";
+"general_no" = "Tidak";
+"general_noadditionalinfo" = "No additional information provided.";
+"general_nocontent" = "Content is not available in your selected language.";
+"general_nointernet" = "Tidak dapat menyambung ke Internet. Sila periksa tetapan internet anda dan cuba semula.";
+"general_none" = "Tiada";
+"general_notice" = "Notis";
+"general_off" = "OFF";
+"general_ok" = "Ok";
+"general_on" = "ON";
+"general_open" = "Open";
+"general_past" = "Past";
+"general_phone" = "Telefon";
+"general_phonenumber" = "Nombor Telefon";
+"general_post" = "Catat";
+"general_postalcode" = "Poskod";
+"general_preview" = "Preview";
+"general_previous" = "Previous";
+"general_province" = "Wilayah";
+"general_question" = "Question";
+"general_remove" = "Remove";
+"general_removeall" = "Remove All";
+"general_reset" = "Reset";
+"general_responses" = "Responses";
+"general_saturday" = "Sabtu";
+"general_save" = "Simpan";
+"general_saveconfirm" = "Would you like to save changes?";
+"general_search" = "Search";
+"general_secondphone" = "Telefon Kedua";
+"general_seemore" = "Lihat Lagi";
+"general_send" = "Send";
+"general_settings" = "Tetapan";
+"general_share" = "Kongsi";
+"general_showme" = "Show Me";
+"general_skypeusername" = "Nama Pengguna Skype";
+"general_state" = "Negeri";
+"general_status" = "Status";
+"general_submit" = "Hantar";
+"general_success" = "Berjaya";
+"general_sunday" = "Ahad";
+"general_taphere" = "Tap Here";
+"general_thursday" = "Khamis";
+"general_title" = "Jawatan";
+"general_tuesday" = "Selasa";
+"general_twitter" = "Twitter";
+"general_twitterhandle" = "Handle Twitter";
+"general_unknownerror" = "Ralat tidak diketahui telah berlaku. Sila cuba lagi.";
+"general_unknownname" = "Nama Tidak Diketahui";
+"general_upcoming" = "Upcoming";
+"general_username" = "Nama Pengguna";
+"general_webpageerror" = "Tidak dapat memuatkan laman web.";
+"general_wednesday" = "Rabu";
+"general_work" = "Telefon Kerja";
+"general_yes" = "Ya";
+"general_zip" = "Poskod";
+"groupdetails_help" = "Lihat lead di dalam kumpulan semasa.\n\nKetik \"Sunting (Pensil)\" untuk menghapuskan lead.\n\nKetik butang \"Tambah Baru +\" untuk menambah lead kepada kumpulan semasa.";
+"groupdetails_title" = "Butiran Kumpulan";
+"helpcenter_help" = "Bantuan sentiasa ada tidak jauh dari sini! Ketik tajuk Palang Navigasi pada mana-mana skrin.\n\nJika maklumat bantuan tersedia, ia akan dipaparkan di dalam tetingkap baru seperti ini!\n\nCuba ketik tajuk pada skrin lain!";
+"helpcenter_instructions" = "Perlu bantuan? Ketik tajuk yang tertulis \"Pusat Bantuan\" di Palang Navigasi di atas!\nSilakan! Hanya ketik!";
+"helpcenter_rateappdesc" = "Sukakan yang anda lihat? Berikan kami penarafan 5 Bintang di App Store!";
+"helpcenter_rateapptitle" = "Tarafkan App";
+"helpcenter_supportdesc" = "Minta bantuan atau laporkan masalah mengenai app kepada kami.";
+"helpcenter_supporttitle" = "Minta Sokongan";
+"helpcenter_title" = "Pusat Bantuan";
+"helpcenter_trainingdesc" = "Dapatkan latihan berguna cara menggunakan app ini sepenuhnya!";
+"helpcenter_trainingtitle" = "Video Latihan";
+"language_select" = "Pilih Bahasa";
+"leadactions_cancelscheduledaction" = "Anda pasti anda ingin membatalkan tindakan ini?";
+"leadactions_customemail" = "Custom Email";
+"leadactions_doit" = "Teruskan";
+"leadactions_emailcampaign" = "Kempen E-mel";
+"leadactions_help" = "Lihat, mula dan batalkan tindakan disyorkan dan dijadualkan. Ketik butang \"Lakukannya\" untuk memproses tindakan disyorkan untuk lead. Untuk menambah tindakan dijadualkan, ketik butang \"Tambah yang Baru\". Sebarang tindakan dijadualkan akan dibatalkan dengan mengetik butang \"Batalkan\"";
+"leadactions_norecommendedactions" = "Tindakan disyorkan tidak ditemui.";
+"leadactions_noscheduledactions" = "Tindakan dijadualkan tidak dijumpai.";
+"leadactions_recommendedactions" = "Tindakan Disyorkan";
+"leadactions_reminder" = "Peringatan";
+"leadactions_scheduledactions" = "Tindakan Dijadualkan";
+"leadactions_singleemail" = "Satu E-mel";
+"leadactions_singleemailconfirm" = "Are you sure you want to send this email?";
+"leadactions_title" = "Tindakan Lead";
+"leaddetails_abandonpath" = "Abandon Path";
+"leaddetails_abandonpathvalidation" = "This will abandon the lead\'s current action path. Do you wish to continue?";
+"leaddetails_actionpathtitle" = "Current Action Path";
+"leaddetails_actionstab" = "Tindakan";
+"leaddetails_assignnewpath" = "Assign New Path";
+"leaddetails_changeimagetitle" = "Tukar Imej";
+"leaddetails_changepath" = "Change Path";
+"leaddetails_completionprogress" = "Completion Progress";
+"leaddetails_deletelead" = "Hapuskan Lead";
+"leaddetails_deleteleadmessage" = "Anda pasti ingin hapuskan lead ini?";
+"leaddetails_deleteleadtitle" = "Hapuskan Lead Semasa";
+"leaddetails_emailoptedin" = "Memilih masuk untuk menerima e-mel.";
+"leaddetails_emailoptedout" = "Tidak memilih masuk untuk menerima e-mel.";
+"leaddetails_help" = "Lihat dan sunting lead. Perhatikan log, statistik dan nota. Ketik butang \"Tindakan\" untuk menjadualkan kempen dan peringatan e-mel. Ketik butang \"Hapuskan Lead\" untuk menghapuskan lead yang dipilih.";
+"leaddetails_logtab" = "Log";
+"leaddetails_nocameramessage" = "Ap tidak dapat mengakses Kamera pada peranti ini.";
+"leaddetails_nocameratitle" = "Kamera Tidak Tersedia";
+"leaddetails_nophotolibrarymessage" = "Ap tidak dapat mengakses Pustaka Foto.";
+"leaddetails_nophotolibrarytitle" = "Pustaka Foto Tidak Tersedia";
+"leaddetails_notestab" = "Nota";
+"leaddetails_optinrequest" = "Please click here to opt in so I may continue to share valuable information with you!";
+"leaddetails_orderstab" = "Orders";
+"leaddetails_pathneedscontactinfo" = "You can not assign this lead to this path. The following information is needed";
+"leaddetails_photolibrary" = "Pustaka Foto";
+"leaddetails_removeimage" = "Buang Imej Semasa";
+"leaddetails_smsoptedin" = "Memilih masuk untuk menerima SMS.";
+"leaddetails_smsoptedout" = "Tidak memilih masuk untuk menerima SMS.";
+"leaddetails_statstab" = "Statistik";
+"leaddetails_takepicture" = "Rakam Gambar";
+"leaddetails_timetocomplete" = "Average Time to Complete";
+"leaddetails_title" = "Butir-butir Lead";
+"leaddetails_viewfullpath" = "View Full Path";
+"leadlog_help" = "Lihat tindakan atau acara lalu yang telah berlaku dengan lead terpilih.";
+"leadlog_title" = "Log Lead";
+"leadnotes_help" = "Tambah dan lihat nota untuk lead terpilih. Ketik butang \"Campur (+)\" untuk menambah nota baru.";
+"leadnotes_newnote" = "Nota Baru";
+"leadnotes_title" = "Nota Lead";
+"leadorderdetails_help" = "View the details of the chosen order. Scroll to view all of the products included in the order.";
+"leadorderdetails_order" = "Order";
+"leadorderdetails_ordertype" = "Order Type";
+"leadorderdetails_paid" = "Paid";
+"leadorderdetails_paymenttype" = "Payment Type";
+"leadorderdetails_price" = "Price";
+"leadorderdetails_products" = "Products";
+"leadorderdetails_quantity" = "Quantity";
+"leadorderdetails_shipped" = "Shipped";
+"leadorderdetails_title" = "Order Details";
+"leadorderdetails_total" = "Total";
+"leadorders_help" = "View a list of orders by the current customer. Tap on an order to see more details.";
+"leadorders_title" = "Orders";
+"leadstats_duration" = "Tempoh";
+"leadstats_emailsnotread" = "E-mel Tidak Dibaca";
+"leadstats_emailsread" = "E-mel Telah DIbaca";
+"leadstats_emailstats" = "Statistik E-mel";
+"leadstats_help" = "Lihat semua statistik e-mel dan video untuk lead terpilih.";
+"leadstats_secs" = "saat";
+"leadstats_times" = "Item";
+"leadstats_title" = "Statistik Lead";
+"leadstats_videostats" = "Stats Video";
+"leadstats_watched" = "Diperhati";
+"localdevice_addexistingcontact" = "Tambah Kepada Kenalan Sedia Ada";
+"localdevice_createnewcontact" = "Cipta Kenalan Baru";
+"localdevice_sendmessage" = "Hantar Mesej";
+"login_help" = "Masukkan nama pengguna dan kata laluan anda untuk log masuk. \n\nKetik suis \"Kekalkan sambungan saya\" agar app ini ingat nama pengguna dan kata laluan anda. Apabila dibuka app akan cuba mendaftar masuk anda secara automatik!";
+"login_keepmeconnected" = "Kekalkan sambungan saya";
+"login_loading" = "Sedang Log Masuk";
+"login_login" = "Log masuk";
+"login_loginerror" = "Ralat berlaku ketika sedang log masuk. Sila periksa nama pengguna dan kata laluan anda dan cuba semula.";
+"login_loginmethodprompt" = "Beritahu kami cara mengekalkan sambungan dengan anda.";
+"login_methodtouchid" = "Gunakan Touch ID";
+"login_methoduser" = " Ingat Nama Pengguna sahaja";
+"login_methoduserandpass" = "Ingat Nama Pengguna & Kata Laluan";
+"login_password" = "Kata Laluan";
+"login_title" = "Selamat Datang";
+"login_version" = "Versi";
+"managegroups_contacts" = "Kenalan";
+"managegroups_groupname" = "Nama Kumpulan";
+"managegroups_help" = "Lihat dan sunting Kumpulan lead untuk menghantar kempen dengan cepat dan mudah! \n\nKetik butang \"Sunting (Pensil)\" untuk menghapuskan kumpulan.\n\nKetik butang \"Tambah Baru +\" untuk mencipta kumpulan baru.";
+"managegroups_namevalidation" = "Kumpulan mesti mempunyai nama.";
+"managegroups_newgroup" = "Kumpulan Baru";
+"managegroups_newgroupname" = "Nama kumpulan baru:";
+"managegroups_title" = "Kumpulan";
+"menu_adminevents" = "Acara Pentadbir";
+"menu_alerts" = "Amaran";
+"menu_backoffice" = "Web BackOffice";
+"menu_campaignstats" = "Stat Kempen";
+"menu_customcampaign" = "Kempen Tersuai";
+"menu_dashboard" = "Papan Pemuka";
+"menu_genealogy" = "Genealogi";
+"menu_groupsms" = "SMS Kumpulan";
+"menu_helpcenter" = "Pusat Bantuan";
+"menu_home" = "Laman Utama";
+"menu_homeheader" = "LAMAN UTAMA";
+"menu_jofficeheader" = "JOFFICE™";
+"menu_leadmanagementheader" = "LEAD SAYA";
+"menu_logout" = "Log Keluar";
+"menu_managegroups" = "Urus Kumpulan";
+"menu_messages" = "Mesej";
+"menu_moreheader" = "LEBIH BANYAK";
+"menu_mybadges" = "Lencana Saya";
+"menu_myevents" = "Acara Saya";
+"menu_myleads" = "Lead Saya";
+"menu_newsignup" = "Tambah Ahli Baru";
+"menu_optimism" = "Optimism";
+"menu_otherheader" = "LAIN-LAIN";
+"menu_peoplesponsored" = "Orang Saya Taja";
+"menu_profile" = "Profil";
+"menu_promotions" = "PROMOSI";
+"menu_reports" = "Laporan";
+"menu_shoppingcart" = "Shopping Cart";
+"menu_smartcloud" = "SmartCloud";
+"menu_sod" = "Success On Demand";
+"menu_trainingvideos" = "Video Latihan";
+"menu_videocampaign" = "Kempen Video";
+"messages_help" = "Lihat mesej akaun peribadi anda.\n\nMenguis kiri pada mesej akan membolehkan anda menghapuskan mesej.\n\nKetik butang \"Folder\" pada palang bawah untuk bertukar-tukar antara folder Peti Masuk dan Sampah anda.\n\nKetik mesej untuk melihat kandungannya.";
+"messages_inbox" = "Peti Masuk";
+"messages_title" = "Mesej";
+"messages_trash" = "Sampah";
+"mybadges_getfailure" = "Tidak dapat memuat turun lencana. Sila cuba lagi.";
+"mybadges_help" = "Lihat semua lencana yang anda perolehi daripada menghadiri acara, menghantar kempen, dan lain-lain. Ketik lencana untuk melihatnya dalam secara penuh!";
+"mybadges_multipleearned" = "Anda telah memperoleh lencana baru!";
+"mybadges_notearned" = "Anda belum memperoleh lencana ini lagi!";
+"mybadges_points" = "Mata";
+"mybadges_sharebadge" = "Kongsi Lencana";
+"mybadges_singleearned" = "Anda telah memperoleh lencana";
+"mybadges_title" = "Lencana Saya";
+"myeventsdetail_downloadreminder" = "Kadang-kadang, sambungan internet tidak bermutu dan/atau tiada di acara-acara tertentu jadi adalah penting untuk memuat turun kod QR ini dengan mengetik butang \"Simpan ke dalam Gulungan Kamera\".";
+"myeventsdetail_downloadreminder_android" = "\"Kadang-kadang, sambungan internet tidak bermutu dan/atau tiada di acara-acara tertentu jadi adalah penting untuk memuat turun kod QR ini dengan mengetik butang \"\"Simpan ke dalam Galeri\"\".\"";
+"myeventsdetail_help" = "Ini kod QR akses anda untuk acara yang dipilih. Tunjukkan ini kepada pentadbir acara untuk mendapatkan akses.\n\nKadang-kadang, sambungan internet tidak bermutu dan/atau tiada di acara-acara tertentu jadi adalah penting untuk memuat turun kod QR ini dengan mengetik butang \"Simpan ke dalam Gulungan Kamera\".";
+"myeventsdetail_help_android" = "Ini kod QR akses anda untuk acara yang dipilih. Tunjukkan ini kepada pentadbir acara untuk mendapatkan akses.\n\nKadang-kadang, sambungan internet tidak bermutu dan/atau tiada di acara-acara tertentu jadi adalah penting untuk memuat turun kod QR ini dengan mengetik butang \"Simpan ke dalam Galeri\".";
+"myeventsdetail_qrcodesavefailure" = "Kod QR gagal disimpan.";
+"myeventsdetail_qrcodesavesuccess" = "Kod QR berjaya disimpan!";
+"myeventsdetail_savetocameraroll" = "Simpan ke Gulungan Kamera";
+"myeventsdetail_savetogallery" = "Simpan ke Galeri";
+"myeventsdetail_title" = "Kod QR Acara Saya";
+"myeventslist_help" = "Lihat senarai acara yang anda berdaftar.\n\nKetik sesuatu acara untuk melihat kod akses anda ke acara tersebut.";
+"myeventslist_myevents" = "My Events";
+"myeventslist_notregistered" = "Buat masa ini, anda tidak didaftarkan untuk mana-mana acara.";
+"myeventslist_title" = "Acara Saya";
+"myeventslist_upcomingevents" = "Upcoming Events";
+"myleads_addcontact" = "Tambah daripada Kenalan";
+"myleads_addcontacterror" = "Ralat berlaku semasa menambah kenalan.";
+"myleads_addcontactsuccess" = "Kenalan berjaya ditambah!";
+"myleads_addlead" = "Tambah Lead";
+"myleads_addnewlead" = "Tambah Lead Baru";
+"myleads_ascending" = "Menaik";
+"myleads_changestatusto" = "Tukar status kepada";
+"myleads_contacts" = "Kenalan";
+"myleads_customers" = "Customers";
+"myleads_customertip1" = "When we detect a Lead has become a customer, you can merge the lead to a customer here.";
+"myleads_descending" = "Menurun";
+"myleads_deviceview" = "Paparan Peranti Tempatan";
+"myleads_freesample" = "Hantar Pautan Sampel Percuma";
+"myleads_help" = "Lihat dan sunting lead semasa anda.\n\n Ketik butang \"Tambah (+)\" untuk menambah lead sama ada daripada kenalan anda atau input manual serta merta!\n\nKetik lead untuk menyunting butirannya. Kuis lead ke kiri untuk melihat pilihan tambahan.\n\nKetik butang \"Isih\" untuk mengisih senarai lead anda. Anda boleh mengisih lead secara nilai menaik dan menurun.\n\nLead juga boleh ditapis menggunakan butang \"Tapis\" dan dengan menggunakan palang carian.";
+"myleads_leads" = "Leads";
+"myleads_nocontactinfo" = "Maklumat hubungan tidak tersedia.";
+"myleads_nocustomersfound" = "No Customers Found";
+"myleads_noleademail" = "Tiada e-mel ditetapkan untuk lead yang dipilih.";
+"myleads_noleadphone" = "Nombor telefon tidak ditetapkan untuk lead yang dipilih.";
+"myleads_sendoptinout" = "Hantar Pautan Pilih Masuk/Keluar";
+"myleads_signuplink" = "Hantar Pautan Mendaftar";
+"myleads_sort" = "Isih";
+"myleads_sortby" = "Isih mengikut";
+"myleads_statuscold" = "Sejuk";
+"myleads_statushot" = "Panas";
+"myleads_statusnew" = "Baru";
+"myleads_statusnextstep" = "Next Step";
+"myleads_statuswarm" = "Suam";
+"myleads_title" = "Lead Saya";
+"myleads_videoplayer" = "Hantar Pemain Video Saya";
+"newsignup_help" = "Tambah ahli baru dengan memasukkan nama pengguna/siteurl anda dan mengetik butang \"Daftar\". Anda akan diminta untuk mengisi maklumat pendaftaran yang diperlukan.";
+"newsignup_invalidmessage" = "Anda perlu memasukkan nama/siteurl yang sah.";
+"newsignup_signup" = "Daftar";
+"newsignup_sponsor" = "Siteurl Penaja";
+"newsignup_title" = "Ahli Baru";
+"optimismlibrary_help" = "Pilih mana-mana Optimism dari perpustakaan untuk terus berkongsi.";
+"optimismlibrary_title" = "Perpustakaan";
+"peopleisponsor_help" = "Lihat dan hubungi orang yang anda taja secara peribadi. Ketik pada penaja untuk melihat maklumat lanjut.";
+"peopleisponsor_title" = "Orang Saya Taja";
+"peopleisponsordetail_help" = "Lihat maklumat hubungan bagi penaja yang dipilih. Ketik mana-mana e-mel atau butang telefon untuk menghubungi penaja.";
+"peopleisponsordetail_title" = "Orang Saya Taja";
+"profile_autodripdesc" = "Jadualkan dan catat ke Auto-Drip kepada semua akaun media sosial anda.";
+"profile_autodriptitle" = "Tetapan Auto-Drip";
+"profile_editprofiledesc" = "Ubah tetapan profil mudah alih anda termasuk nama, maklumat hubungan dan gambar profil.";
+"profile_editprofiletitle" = "Sunting Profil";
+"profile_help" = "Lihat Profil Mudah Alih anda.\n\nPilih Sunting Profil untuk mengubahsuai maklumat pada profil anda.\n\nPilih Log Masuk ke Media Sosial untuk log masuk ke akaun media sosial anda.\n\nPilih Tetapan Auto-Drip untuk menyunting jadual catatan Auto-Drip.";
+"profile_mywebsite" = "Tapak Web Saya";
+"profile_socialmediadesc" = "Log masuk ke akaun media sosial untuk menggunakan ciri-ciri seperti Kempen Auto-Drip.";
+"profile_socialmediatitle" = "Log Masuk ke Media Sosial";
+"profile_title" = "Profil Mudah Alih";
+"prospector_actionpath" = "Action Path";
+"prospector_doit" = "Do It";
+"prospector_generaltutorial" = "Recommended actions for all leads will appear below. Actions are recommended based on the Action Path in which you assign leads.";
+"prospector_norecommendedactions" = "No recommended actions found.";
+"prospector_tip1" = "Tap on the \"My Leads\" menu option.";
+"prospector_tip2" = "You will need to select a lead you\'d like to assign to an Action Path.";
+"prospector_tip3" = "Tap the \"Assign New Path\" button to assign a path to the lead.";
+"prospector_tip4" = "Over time, we will recommend actions to you based on the path you chose. You can view these actions by tapping the \"ACTIONS\" button.";
+"prospector_tip5" = "You can also view recommended actions by returning to the Dashboard.";
+"prospector_upcomingactionmessage" = "This upcoming action item cannot be completed before the following date";
+"rateappprompt_cancel" = "Lain Kali";
+"rateappprompt_message" = "Sukakan app? Adakah anda ingin tarafkan versi semasa?";
+"rateappprompt_title" = "Tarafkan App?";
+"reminder_help" = "Cipta peringatan yang mengandungi tajuk dan mesej ringkas. Gunakan pemilih tarikh untuk memilih haribulan untuk menjadualkan peringatan.";
+"reminder_messagelabel" = "Mesej";
+"reminder_messageneeded" = "Anda mesti masukkan mesej untuk peringatan.";
+"reminder_title" = "Cipta Peringatan";
+"reminder_titlelabel" = "Jawatan";
+"reminder_titleneeded" = "Anda mesti masukkan tajuk untuk peringatan.";
+"reportparams_help" = "Masukkan dan pilih parameter yang diperlukan untuk menjana laporan yang dipilih.";
+"reportparams_title" = "Parameter Laporan";
+"reportparams_viewreports" = "Lihat Laporan";
+"reportslist_help" = "Lihat semua laporan perniagaan anda di peranti mudah alih anda! Ketik pada laporan untuk melihatnya.";
+"reportslist_title" = "Laporan";
+"reportviewer_help" = "Lihat laporan yang dijana daripada parameter yang dipilih sebelum ini.";
+"reportviewer_title" = "Penayang Laporan";
+"selectcontacts_addgroupleaderror" = "Ralat menambah lead kepada kumpulan.";
+"selectcontacts_help" = "Pilih kenalan yang anda ingin gunakan.\n\nKenalan daripada peranti mudah alih anda akan ditunjukkan dengan ikon telefon di sebelahnya. Lead Backoffice akan kelihatan dengan ikon buku alamat.\n\nTapis kenalan dengan menaip ke dalam palang carian. Ketik butang \"Sembunyi Papan Kekunci\" untuk menyembunyikan papan kekunci selepas mencari.\n\nKenalan yang dipilih daripada peranti mudah alih anda akan ditambah secara automatik kepada Lead Backoffice anda.";
+"selectcontacts_primary" = "utama";
+"selectcontacts_title" = "Pilih Kenalan";
+"selectcontacts_uploadcontacterror" = "Ralat memuat naik kenalan";
+"selectgroups_contactvalidation" = "Anda hendaklah memilih kumpulan yang ada sekurang-kurangnya satu nombor telefon untuk menghantar mesej.";
+"selectgroups_help" = "Pilih kumpulan lead yang anda ingin hantar kempen.";
+"selectgroups_instructions" = "Pilih kumpulan untuk menghantar kempen ini:";
+"selectgroups_newgroup" = "Kumpulan Baru";
+"selectgroups_selectcontacts" = "Pilih daripada Buku Telefon";
+"selectgroups_title" = "Pilih Kumpulan";
+"sendmessage_help" = "Sahkan lead yang anda ingin hantar kempen anda dan ketik butang \"Hantar Mesej\" untuk menghantarnya.\n\nKetik butang \"Batal\" untuk memulakan semula proses pemilihan kempen.";
+"sendmessage_instructions" = "Semak sebelum hantar.";
+"sendmessage_messagesent" = "Mesej Dihantar";
+"sendmessage_sendmessages" = "Hantar Mesej";
+"sendmessage_sendsuccess" = "Mesej telah dihantar.";
+"sendmessage_title" = "Hantar Mesej";
+"shareoptimism_help" = "Lihat dan kongsi Optimism yang anda pilih daripada perpustakaan!\n\nKetik butang kembali untuk kembali ke perpustakaan.";
+"shareoptimism_share" = "Kongsi Optimism Ini";
+"shareoptimism_title" = "Optimism";
+"shoppingcart_added" = "Added";
+"shoppingcart_addtocart" = "Add to Cart";
+"shoppingcart_checkout" = "Checkout";
+"shoppingcart_clearcart" = "Would you like to remove all items from your cart?";
+"shoppingcart_price" = "Price";
+"shoppingcart_removefromcart" = "Are you sure you want to remove this product from your cart?";
+"shoppingcart_saleprice" = "Sale Price";
+"shoppingcart_subtotal" = "Subtotal";
+"smartcloud_downloading" = "Memuat turun";
+"smartcloud_help" = "Lihat semua fail dan direktori di Awan.\n\nKetik butang muat turun fail untuk memuat turun.\n\nJika fail telah dimuat turun secara tempatan, butang muat turun tidak akan kelihatan. Hanya sentuh fail yang hendak dibuka dan lihat ia.\n\nUntuk menghapuskan fail yang dimuat turun secara tempatan, hanya kuis fail dari kanan ke kiri untuk mendedahkan butang penyingkiran.";
+"smartcloud_removelocal" = "Buang Tempatan";
+"smartcloud_title" = "SmartCloud";
+"socialmedia_help" = "Daftar masuk ke media sosial anda. Log masuk akan membolehkan anda memuat naik gambar profil media sosial ke Profil Mudah Alih anda dan membuat catatan AutoDrip Optimism.";
+"socialmedia_howeusetitle" = "Cara kami menggunakan Akaun Media Sosial anda:";
+"socialmedia_howweusedesc" = "- Dapatkan maklumat profil asas (nama, nama skrin, dan lain-lain)\n- Dapatkan gambar profil untuk dipaparkan di dalam app\n- Minta izin untuk membolehkan anda membuat catatan";
+"socialmedia_title" = "Media Sosial";
+"sod_help" = "Akses kandungan penuh Success On Demand!";
+"sod_title" = "Success On Demand";
+"supportrequests_help" = "Akses mana-mana permintaan sokongan yang anda pernah buat. Ketik permintaan sokongan untuk melihat sebarang jawapan terhadap permintaan tersebut.\n\nKetik butang Tambah (+) untuk mencipta permintaan sokongan baru.";
+"supportrequests_title" = "Permintaan Sokongan";
+"supportresponses_help" = "Lihat permintaan maklumat sokongan anda sebagai tambahan kepada sebarang jawapan yang dibuat oleh pasukan sokongan kami.\n\nGunakan palang mesej di bahagian bawah untuk membalas.";
+"supportresponses_placeholdertext" = "Mesej";
+"supportresponses_send" = "Hantar";
+"supportresponses_title" = "Jawapan Sokongan";
+"tos_help" = "Sila baca perjanjian Terma Perkhidmatan untuk menggunakan ap ini. Anda boleh terima atau tolak perjanjian. Menolak perjanjian akan mencegah anda daripada menggunakan mana-mana ciri ap ini.";
+"tos_title" = "Terma Perkhidmatan";
+"trainingvideos_help" = "Lihat Video Latihan.\n\nKetik baris video untuk melihat video.";
+"trainingvideos_title" = "Video Latihan";
+"videocampaign_help" = "Pilih, melihat, dan hantar Kempen Video.\n\nKetik butang \"Maklumat (i)\" pada kempen untuk melihat pratonton.\n\nPilih kempen dan Ketik butang \"Teruskan\" untuk meneruskan. \n\nKetik butang \"Pilihan\" di palang bawah selepas memilih kempen untuk dikongsi.";
+"videocampaign_nocategoriesfound" = "Tiada kategori dijumpai";
+"videocampaign_novideosfound" = "Tiada video dijumpai";
+"videocampaign_previewtitle" = "Pratonton Kempen Video";
+"videocampaign_title" = "Kempen Video";
+"videoplaylist_addtoplaylist" = "Add to Playlist";
+"videoplaylist_allvideos" = "All Videos";
+"videoplaylist_emptyplaylist" = "You currently have no videos in your playlist. Add at least one video to view your playlist.";
+"videoplaylist_fullplaylist" = "Your playlist is full. Please remove a video before adding another.";
+"videoplaylist_languageerror" = "One or more of the videos in your playlist are not available in the currently selected language.";
+"videoplaylist_myvideoplaylist" = "My Video Playlist";
+"videoplaylist_removeallconfirm" = "Are you sure you want to remove all of the videos from your playlist?";
+"videoplaylist_removefromplaylist" = "Remove from Playlist";
+"videoplaylist_tip1" = "Introducing the new video playlist feature! Choose up to 6 of your favorite videos to share to your leads!";
+"videoplaylist_tip2" = "Tap a video\'s playlist button to add or remove the video from your playlist.";
+"videoplaylist_tip3" = "Tap the \"My Video Playlist\" tab to view your playlist!";
+"videoplaylist_tip4" = "Tap and drag your playlist videos to reorder your playlist.";
+"videoplaylist_tip5" = "Tap the \"Share\" button to share your playlist to social media.";
+"videoplaylist_tip6" = "Tap the \"Next\" button to share your playlist with your leads and groups.";
+"videoplaylist_tip7" = "Tap the \"Remove All\" button to remove all videos from your playlist.";
+"videoplaylist_tip8" = "Tap the \"All Videos\" tab to return back to the full video list and share individual videos.";
+"videoplaylist_title" = "Video Playlist";
+"virtualpagecampaign_getfailure" = "Tidak dapat memuat turun Halaman Maya. Sila cuba lagi.";
+"virtualpagecampaign_help" = "Pilih Halaman Pendaratan Maya korporat yang akan digunakan dalam kempen.\n\nKetik butang \"Maklumat (i)\" pada kempen untuk melihat pratonton.\n\nKetik butang Tindakan pada toolbar bawah untuk berkongsi kempen melalui kaedah selain daripada SMS.";
+"virtualpagecampaign_previewtitle" = "Pratonton Laman Maya";
+"virtualpagecampaign_title" = "Kempen Laman Mendarat";
+"youtubecampaign_deletefailure" = "Tidak dapat menghapuskan kempen.";
+"youtubecampaign_getfailure" = "Gagal memuat turun Kempen Youtube. Sila cuba lagi.";
+"youtubecampaign_help" = "Buat dan pilih kempen tersuai YouTube anda untuk menghantar kepada kumpulan lead anda.\n\nKetik butang \"Tambah (+)\" untuk mencipta kempen YouTube yang baru.\n\nKuis kempen ke kiri untuk menyunting atau menghapuskan kempen.\n\nKetik butang \"Maklumat (i)\" untuk menyunting kempen.\n\nKetik kempen dan butang Teruskan untuk meneruskan.";
+"youtubecampaign_title" = "Kempen YouTube";
+"youtubeeditor_embedpreview" = "Pratonton terbenam YouTube akan memuat di sini. Tetapkan Pautan Video kepada pratonton.";
+"youtubeeditor_fewvalidation" = "Anda hendaklah memasukkan nilai.";
+"youtubeeditor_help" = "Masukkan maklumat untuk kempen tersuai YouTube.\n\nAnda HENDAKLAH mengisi SEMUA medan untuk mencipta kempen.\n\n- URL Nama Halaman (100 aksara): Ini yang lead akan lihat di dalam URL.\n- Tajuk Halaman (50 aksara): Ini akan dipaparkan sebagai tajuk di bahagian atas halaman video.\n- Nama Video (25 aksara): Ini ialah nama yang disenaraikan di bawah pemain video.\n- Ketrangan Video (150 aksara): Ini akan menjadi keterangan ringkas mengenai video yang disenaraikan di bawah Nama Video.\n- Pautan Video (100 aksara): Ini pautan kepada video YouTube yang akan dipaparkan.\n\nSelepas memasukkan Pautan Video, anda boleh melihat pratonton pemain video terbenam yang akan digunakan pada halaman video tersuai anda.\n\nKetik butang \"Simpan\" untuk menyimpan kempen YouTube tersuai anda.";
+"youtubeeditor_manyvalidation" = "Medan teks hendaklah kurang hurufnya. Bilangan huruf semasa";
+"youtubeeditor_pagename" = "Nama Halaman URL";
+"youtubeeditor_pagetitle" = "Tajuk Halaman";
+"youtubeeditor_savefailure" = "Tidak dapat menyimpan kempen.";
+"youtubeeditor_savesuccess" = "Kempen berjaya disimpan!";
+"youtubeeditor_title" = "Tambah/Sunting Kempen";
+"youtubeeditor_videodescription" = "Keterangan Video";
+"youtubeeditor_videolink" = "Pautan Video";
+"youtubeeditor_videoname" = "Nama Video";
