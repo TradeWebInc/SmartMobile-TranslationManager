@@ -1758,6 +1758,9 @@
 // The message shown when no device token can be displayed.
 "debugmenu_notoken"                 =   "No token available";
 
+// The warning message shown on the Debug Menu and the alert after an environment is changed.
+"debugmenu_environmentrestart"      =   "All environment changes require a full app restart.";
+
 
 // The title in the Navigation bar of the API Test Detail screen.
 "apitestdetail_title"               =   "API Detail";
