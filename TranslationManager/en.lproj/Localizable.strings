@@ -520,6 +520,15 @@
 // The title of the Local Device View option during Leads More Options.
 "myleads_deviceview"        =     "Local Device View";
 
+// The title of the Add to Contacts option during Leads More Options.
+"myleads_addtocontacts"     =     "Add to Contacts";
+
+// The title of the Add as New Contact option during Leads Add to Contacts Options.
+"myleads_addasnewcontact"   =     "Add as New Contact";
+
+// The title of the Update Existing Contact option during Leads Add to Contacts Options.
+"myleads_updatecontact"     =     "Update Existing Contact";
+
 // Error message when a lead has no phone number.
 "myleads_noleadphone"       =   "No phone number set for the selected lead.";
 
