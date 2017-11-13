@@ -12,120 +12,126 @@
 // * General
 // ============================================================================
 
-"general_yes"               =     "Yes";
-"general_no"                =   "No";
-"general_on"                =     "ON";
-"general_off"                =    "OFF";
-"general_accept"            =   "Accept";
-"general_decline"           =   "Decline";
-"general_success"           =   "Success";
-"general_error"             =     "Error";
-"general_notice"            =     "Notice";
-"general_ok"                =   "OK";
-"general_cancel"            =     "Cancel";
-"general_loading"           =     "Loading";
-"general_none"              =     "None";
-"general_open"              =   "Open";
-"general_closed"            =   "Closed";
-"general_previous"          =   "Previous";
-"general_next"              =     "Next";
-"general_done"              =     "Done";
-"general_save"              =     "Save";
-"general_saveconfirm"       =   "Would you like to save changes?";
-"general_delete"            =     "Delete";
-"general_remove"            =   "Remove";
-"general_removeall"         =   "Remove All";
-"general_search"            =   "Search";
-"general_addnew"            =   "Add New +";
-"general_add"                =    "Add";
-"general_create"            =   "Create";
-"general_edit"              =   "Edit";
-"general_seemore"           =   "See More";
-"general_more"              =   "More";
-"general_reset"             =     "Reset";
-"general_post"              =     "Post";
-"general_submit"            =   "Submit";
-"general_send"              =   "Send";
-"general_share"             =   "Share";
-"general_preview"           =   "Preview";
-"general_filter"            =     "Filter";
-"general_filterby"          =   "Filter by";
-"general_exit"              =   "Exit";
-"general_settings"          =   "Settings";
-"general_details"           =   "Details";
-"general_categories"        =   "Categories";
-"general_question"          =   "Question";
-"general_responses"         =   "Responses";
-"general_location"          =   "Location";
-"general_info"              =   "Info";
-"general_moreinfo"          =   "More Info";
-"general_showme"            =   "Show Me";
-"general_taphere"           =   "Tap Here";
-"general_needhelp"          =   "Need help?";
-"general_noadditionalinfo"  =   "No additional information provided.";
-"general_unknownerror"      =   "An unknown error has occurred. Please try again.";
-"general_nointernet"        =    "Could not connect to the internet. Please check your internet settings and try again.";
-"general_cantmakecalls"     =   "This device cannot make calls.";
-"general_cantsendsms"         =   "This device cannot send SMS messages.";
-"general_cantsendemail"     =   "This device cannot send email. Please check your email configuration and try again.";
-"general_contactsaccess"    =   "Access to contacts is restricted. Please enable access to contacts in your device settings.";
-"general_nocontent"         =   "Content is not available in your selected language.";
-"general_comingsoon"        =   "Coming Soon";
-"general_upcoming"          =   "Upcoming";
+"general_yes"                       =   "Yes";
+"general_no"                        =   "No";
+"general_on"                        =   "ON";
+"general_off"                       =   "OFF";
+"general_accept"                    =   "Accept";
+"general_decline"                   =   "Decline";
+"general_success"                   =   "Success";
+"general_error"                     =   "Error";
+"general_notice"                    =   "Notice";
+"general_ok"                        =   "OK";
+"general_cancel"                    =   "Cancel";
+"general_loading"                   =   "Loading";
+"general_none"                      =   "None";
+"general_open"                      =   "Open";
+"general_closed"                    =   "Closed";
+"general_previous"                  =   "Previous";
+"general_next"                      =   "Next";
+"general_done"                      =   "Done";
+"general_save"                      =   "Save";
+"general_saveconfirm"               =   "Would you like to save changes?";
+"general_delete"                    =   "Delete";
+"general_remove"                    =   "Remove";
+"general_removeall"                 =   "Remove All";
+"general_search"                    =   "Search";
+"general_addnew"                    =   "Add New +";
+"general_add"                       =   "Add";
+"general_create"                    =   "Create";
+"general_edit"                      =   "Edit";
+"general_seemore"                   =   "See More";
+"general_more"                      =   "More";
+"general_reset"                     =   "Reset";
+"general_post"                      =   "Post";
+"general_submit"                    =   "Submit";
+"general_send"                      =   "Send";
+"general_share"                     =   "Share";
+"general_preview"                   =   "Preview";
+"general_filter"                    =   "Filter";
+"general_filterby"                  =   "Filter by";
+"general_exit"                      =   "Exit";
+"general_settings"                  =   "Settings";
+"general_details"                   =   "Details";
+"general_categories"                =   "Categories";
+"general_question"                  =   "Question";
+"general_responses"                 =   "Responses";
+"general_location"                  =   "Location";
+"general_info"                      =   "Info";
+"general_moreinfo"                  =   "More Info";
+"general_showme"                    =   "Show Me";
+"general_taphere"                   =   "Tap Here";
+"general_needhelp"                  =   "Need help?";
+"general_noadditionalinfo"          =   "No additional information provided.";
+"general_unknownerror"              =   "An unknown error has occurred. Please try again.";
+"general_nointernet"                =   "Could not connect to the internet. Please check your internet settings and try again.";
+"general_cantmakecalls"             =   "This device cannot make calls.";
+"general_cantsendsms"               =   "This device cannot send SMS messages.";
+"general_cantsendemail"             =   "This device cannot send email. Please check your email configuration and try again.";
+"general_contactsaccess"            =   "Access to contacts is restricted. Please enable access to contacts in your device settings.";
+"general_requestlocationaccess"     =   "We want to improve your event experience using Bluetooth beacon technology. In order to do this we need Location permissions. Please note that we never use your GPS location. You can always change this later in your device settings.";
+"general_nocontent"                 =   "Content is not available in your selected language.";
+"general_comingsoon"                =   "Coming Soon";
+"general_upcoming"                  =   "Upcoming";
 
-"general_back"              =   "Back";
-"general_forward"           =   "Forward";
-"general_webpageerror"      =   "Could not load webpage.";
+"general_unknown"                   =   "Unknown";
+"general_immediate"                 =   "Immediate";
+"general_near"                      =   "Near";
+"general_far"                       =   "Far";
 
-"general_unknownname"       =   "Unknown Name";
-"general_username"          =     "Username";
-"general_firstname"         =     "First Name";
-"general_lastname"          =     "Last Name";
-"general_name"              =   "Name";
-"general_language"          =   "Language";
-"general_address"           =   "Address";
-"general_city"              =   "City";
-"general_state"             =   "State";
-"general_zip"               =   "Zip";
-"general_province"          =   "Province";
-"general_postalcode"        =   "Postal Code";
-"general_country"           =   "Country";
-"general_phonenumber"       =     "Phone Number";
-"general_phone"             =     "Phone";
-"general_secondphone"       =   "Second Phone";
-"general_cell"              =     "Cell";
-"general_work"              =     "Work";
-"general_email"             =     "Email";
-"general_status"            =     "Status";
-"general_displayname"       =     "Display Name";
-"general_title"             =     "Title";
-"general_contact"           =   "Contact";
-"general_lead"              =   "Lead";
-"general_facebookurl"       =     "Facebook URL";
-"general_twitterhandle"     =     "Twitter Handle";
-"general_skypeusername"     =     "Skype Username";
-"general_devicemodel"       =   "Device Model";
-"general_devicelanguage"    =   "Device Language";
-"general_deviceos"          =   "Device OS";
-"general_appversion"        =   "App Version";
+"general_back"                      =   "Back";
+"general_forward"                   =   "Forward";
+"general_webpageerror"              =   "Could not load webpage.";
 
-"general_sunday"            =     "Sunday";
-"general_monday"            =   "Monday";
-"general_tuesday"           =     "Tuesday";
-"general_wednesday"         =     "Wednesday";
-"general_thursday"          =     "Thursday";
-"general_friday"            =     "Friday";
-"general_saturday"          =     "Saturday";
+"general_unknownname"               =   "Unknown Name";
+"general_username"                  =   "Username";
+"general_firstname"                 =   "First Name";
+"general_lastname"                  =   "Last Name";
+"general_name"                      =   "Name";
+"general_language"                  =   "Language";
+"general_address"                   =   "Address";
+"general_city"                      =   "City";
+"general_state"                     =   "State";
+"general_zip"                       =   "Zip";
+"general_province"                  =   "Province";
+"general_postalcode"                =   "Postal Code";
+"general_country"                   =   "Country";
+"general_phonenumber"               =   "Phone Number";
+"general_phone"                     =   "Phone";
+"general_secondphone"               =   "Second Phone";
+"general_cell"                      =   "Cell";
+"general_work"                      =   "Work";
+"general_email"                     =   "Email";
+"general_status"                    =   "Status";
+"general_displayname"               =   "Display Name";
+"general_title"                     =   "Title";
+"general_contact"                   =   "Contact";
+"general_lead"                      =   "Lead";
+"general_facebookurl"               =   "Facebook URL";
+"general_twitterhandle"             =   "Twitter Handle";
+"general_skypeusername"             =   "Skype Username";
+"general_devicemodel"               =   "Device Model";
+"general_devicelanguage"            =   "Device Language";
+"general_deviceos"                  =   "Device OS";
+"general_appversion"                =   "App Version";
 
-"general_days"              =   "Day(s)";
-"general_hours"             =   "Hour(s)";
-"general_upcoming"          =   "Upcoming";
-"general_past"              =   "Past";
+"general_sunday"                    =   "Sunday";
+"general_monday"                    =   "Monday";
+"general_tuesday"                   =   "Tuesday";
+"general_wednesday"                 =   "Wednesday";
+"general_thursday"                  =   "Thursday";
+"general_friday"                    =   "Friday";
+"general_saturday"                  =   "Saturday";
 
-"general_facebook"          =   "Facebook";
-"general_facebookrequired"  =   "Please install the Facebook application to use this feature.";
-"general_twitter"           =   "Twitter";
-"general_googleplus"        =   "Google+";
+"general_days"                      =   "Day(s)";
+"general_hours"                     =   "Hour(s)";
+"general_upcoming"                  =   "Upcoming";
+"general_past"                      =   "Past";
+
+"general_facebook"                  =   "Facebook";
+"general_facebookrequired"          =   "Please install the Facebook application to use this feature.";
+"general_twitter"                   =   "Twitter";
+"general_googleplus"                =   "Google+";
 
 
 // ============================================================================
@@ -1770,12 +1776,31 @@
 // The warning message shown on the Debug Menu and the alert after an environment is changed.
 "debugmenu_environmentrestart"      =   "All environment changes require a full app restart.";
 
+// The title of the Run API Test button.
+"debugmenu_runapitest"              =   "Run API Test";
+
+// The title of the Events button.
+"debugmenu_events"                  =   "Events";
+
+// The title of the Beacons button.
+"debugmenu_beacons"                 =   "Beacons";
+
 
 // The title in the Navigation bar of the API Test Detail screen.
 "apitestdetail_title"               =   "API Detail";
 
 // The Help Text used by the API Test Detail screen.
 "apitestdetail_help"                =   "Preview a specific API request to see why it has failed.";
+
+
+// The title in the Navigation bar of the Beacon Debug Menu screen.
+"beacondebugmenu_title"             =   "Beacon Debug Menu";
+
+// The Help Text used by the API Test Detail screen.
+"beacondebugmenu_help"              =   "View all currently active beacons. Debug notifications can be enabled to get notifications whenever entering and leaving a beacon. Beacons can also be removed from being monitored for debug purposes.";
+
+// The title of the debug notifications label.
+"beacondebugmenu_notifications"     =   "Debug Notifications";
 
 
 // ============================================================================
