@@ -27,6 +27,7 @@
 "general_none"                      =   "None";
 "general_open"                      =   "Open";
 "general_closed"                    =   "Closed";
+"general_invalid"                   =   "Invalid";
 "general_previous"                  =   "Previous";
 "general_next"                      =   "Next";
 "general_done"                      =   "Done";
