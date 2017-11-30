@@ -49,6 +49,7 @@
 "general_send"                      =   "Send";
 "general_share"                     =   "Share";
 "general_preview"                   =   "Preview";
+"general_viewmore"                  =   "View More";
 "general_filter"                    =   "Filter";
 "general_filterby"                  =   "Filter by";
 "general_exit"                      =   "Exit";
