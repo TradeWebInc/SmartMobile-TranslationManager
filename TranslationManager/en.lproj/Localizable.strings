@@ -988,8 +988,16 @@
 // The Help Text used by the lead notes screen.
 "leadnotes_help"                =   "Add and view notes for the selected lead. Tap the \"Plus (+)\" button to add a new note.";
 
-// The title of the new note alert.
-"leadnotes_newnote"             =   "New Note";
+
+// ============================================================================
+// * Lead Note Detail
+// ============================================================================
+
+// The title in the navigation bar of the lead notes screen.
+"leadnotedetail_title"          =   "Note Detail";
+
+// The Help Text used by the lead notes screen.
+"leadnotedetail_help"           =   "Type a note you want to attach to the current lead. Tap the \"Done\" button to save the note. Tap the \"Cancel\" button to discard changes to the note.";
 
 
 // ============================================================================
