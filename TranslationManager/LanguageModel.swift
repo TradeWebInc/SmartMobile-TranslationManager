@@ -9,11 +9,15 @@
 import UIKit
 
 class LanguageModel: NSObject {
+    
     var name:String = "";
     var cultureName:String = "";
+    var uploadCultureName:String? = nil;
     
-    init(name:String, cultureName:String) {
+    init(name:String, cultureName:String, uploadCultureName:String? = nil) {
         self.name = name;
         self.cultureName = cultureName;
+        self.uploadCultureName = uploadCultureName;
     }
+    
 }

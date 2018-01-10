@@ -58,7 +58,7 @@ class SettingsViewController: UIViewController {
                     title: "\(language.name) (\(language.cultureName))",
                     style: .default,
                     handler: { (action:UIAlertAction) in
-                        AppManager.sharedInstance.loadTranslations(cultureName: language.cultureName);
+                        AppManager.sharedInstance.loadTranslations(language: language);
                         self.refreshView();
                     }
                 )
@@ -92,8 +92,12 @@ class SettingsViewController: UIViewController {
     // ============================================================================
     
     func refreshView() {
-        self.languageTextFieldLinked.text = AppManager.sharedInstance.currentCultureName;
+        if let language:LanguageModel = AppManager.sharedInstance.languages.first(where: { ($0.cultureName == AppManager.sharedInstance.currentLanguage.cultureName); }) {
+            self.languageTextFieldLinked.text = "\(language.name) \(language.uploadCultureName ?? language.cultureName) (\(AppManager.sharedInstance.translations.count))";
+        }
+        
     }
+    
     
     // ============================================================================
     // MARK: - Helper Methods

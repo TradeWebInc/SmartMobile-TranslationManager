@@ -44,9 +44,9 @@ class ReviewViewController: UIViewController {
         super.viewDidLoad();
         // Do any additional setup after loading the view.
         
-        self.languageValuesLabelLinked.text = AppManager.sharedInstance.currentCultureName;
+        self.languageValuesLabelLinked.text = AppManager.sharedInstance.currentLanguage.uploadCultureName ?? AppManager.sharedInstance.currentLanguage.cultureName;
         self.clientValuesLabelLinked.text = AppManager.sharedInstance.clients.filter{$0.isActive == true}.flatMap({$0.tag}).joined(separator: ", ");
-        self.environmentValuesLabelLinked.text = AppManager.sharedInstance.environments.filter{$0.isActive == true}.flatMap({$0.tag}).joined(separator: ", ");
+        self.environmentValuesLabelLinked.text = AppManager.sharedInstance.environments.filter({ $0.isActive == true }).flatMap({$0.tag}).joined(separator: ", ");
         self.translationsValueLabelLinked.text = "\(AppManager.sharedInstance.translations.count)";
         
     }
@@ -84,9 +84,10 @@ class ReviewViewController: UIViewController {
                             
                             for translation in AppManager.sharedInstance.translations {
                                 
+                                let language:LanguageModel = AppManager.sharedInstance.currentLanguage;
                                 let params:[String:String] = [
                                     "TranslationKey": translation.key,
-                                    "CultureName": AppManager.sharedInstance.currentCultureName,
+                                    "CultureName": language.uploadCultureName ?? language.cultureName,
                                     "Text": translation.text
                                 ]
                                 

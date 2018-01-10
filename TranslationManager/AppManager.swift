@@ -21,9 +21,9 @@ class AppManager : NSObject {
     // Singleton Property
     static let sharedInstance = AppManager();
 
-    var currentCultureName:String = "en";
+    var currentLanguage:LanguageModel = LanguageModel(name:"English", cultureName:"en", uploadCultureName:"en-US");
     var languages:[LanguageModel] = [
-        LanguageModel(name: "English", cultureName: "en"),
+        LanguageModel(name: "English", cultureName: "en", uploadCultureName: "en-US"),
         LanguageModel(name: "Czech", cultureName: "cs"),
         LanguageModel(name: "Danish", cultureName: "da"),
         LanguageModel(name: "German", cultureName: "de"),
@@ -91,14 +91,15 @@ class AppManager : NSObject {
     override init() {
         super.init();
         
-        self.loadTranslations(cultureName: self.currentCultureName);
+        self.loadTranslations(language: self.currentLanguage);
     }
     
-    func loadTranslations(cultureName:String) {
+    func loadTranslations(language:LanguageModel) {
         
         self.translations = [];
         self.organizedTranslations = [];
-        self.currentCultureName = cultureName;
+        self.currentLanguage = language;
+        let cultureName:String = language.cultureName;
         
         // Get .strings filepath
         if let path:String = Bundle.main.path(forResource: "Localizable", ofType: "strings", inDirectory: nil, forLocalization: cultureName) {

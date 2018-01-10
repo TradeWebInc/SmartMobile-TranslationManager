@@ -664,6 +664,9 @@
 // The message of the Camera Unavailable alert.
 "leaddetails_nocameramessage"                   =   "The app is unable to access the Camera on this device.";
 
+// The message of the alert displayed when a lead can not be found.
+"leaddetails_couldnotbefound"                   =   "The lead could not be found.";
+
 // The message displayed when a lead is opted in to receive emails.
 "leaddetails_emailoptedin"                      =   "Opted in to receive emails.";
 
