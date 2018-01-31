@@ -21,9 +21,9 @@ class AppManager : NSObject {
     // Singleton Property
     static let sharedInstance = AppManager();
 
-    var currentLanguage:LanguageModel = LanguageModel(name:"English", cultureName:"en", uploadCultureName:"en-US");
+    var currentLanguage:LanguageModel = LanguageModel(name:"English", cultureName:"en");
     var languages:[LanguageModel] = [
-        LanguageModel(name: "English", cultureName: "en", uploadCultureName: "en-US"),
+        LanguageModel(name: "English", cultureName: "en"),
         LanguageModel(name: "Czech", cultureName: "cs"),
         LanguageModel(name: "Danish", cultureName: "da"),
         LanguageModel(name: "German", cultureName: "de"),

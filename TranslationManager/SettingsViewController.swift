@@ -93,7 +93,7 @@ class SettingsViewController: UIViewController {
     
     func refreshView() {
         if let language:LanguageModel = AppManager.sharedInstance.languages.first(where: { ($0.cultureName == AppManager.sharedInstance.currentLanguage.cultureName); }) {
-            self.languageTextFieldLinked.text = "\(language.name) \(language.uploadCultureName ?? language.cultureName) (\(AppManager.sharedInstance.translations.count))";
+            self.languageTextFieldLinked.text = "\(language.name) \(language.cultureName) (\(AppManager.sharedInstance.translations.count))";
         }
         
     }

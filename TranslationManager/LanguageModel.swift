@@ -12,12 +12,10 @@ class LanguageModel: NSObject {
     
     var name:String = "";
     var cultureName:String = "";
-    var uploadCultureName:String? = nil;
     
-    init(name:String, cultureName:String, uploadCultureName:String? = nil) {
+    init(name:String, cultureName:String) {
         self.name = name;
         self.cultureName = cultureName;
-        self.uploadCultureName = uploadCultureName;
     }
     
 }

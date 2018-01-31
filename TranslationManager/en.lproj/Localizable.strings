@@ -2,10 +2,10 @@
 // * Android
 // ============================================================================
 
-"android_exitconfirm"                =    "Are you sure you want to exit?";
-"android_appnotfound"                =    "Unable to find app on the market.";
-"android_nogoogleplus"                =    "You must have Google+ installed.";
-"android_notificatonssetting"        =    "Receive Notifications";
+"android_exitconfirm"                   =    "Are you sure you want to exit?";
+"android_appnotfound"                   =    "Unable to find app on the market.";
+"android_nogoogleplus"                  =    "You must have Google+ installed.";
+"android_notificatonssetting"           =    "Receive Notifications";
 
 
 // ============================================================================
@@ -61,6 +61,8 @@
 "general_location"                  =   "Location";
 "general_info"                      =   "Info";
 "general_moreinfo"                  =   "More Info";
+"general_byemail"                   =   "By Email";
+"general_bysms"                     =   "By SMS";
 "general_showme"                    =   "Show Me";
 "general_taphere"                   =   "Tap Here";
 "general_needhelp"                  =   "Need help?";
