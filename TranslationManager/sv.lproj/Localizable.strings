@@ -76,17 +76,13 @@
 "carttype_help" = "Välj mellan att göra en försäljning med grossistproduktköp genom att välja typ a-knappen.";
 "carttype_retail" = "Detaljhandel";
 "carttype_title" = "Val av varukorg";
-"carttype_wholesale" = "JOffice Shop";
 "carttype_wholesaleunavailable" = "Vi arbetar hårt för att lägga till grossistköp i appen!";
 "customcampaign_camerarolldesc" = "Välj en bild från kamerarullen i din mobiltelefon som ska användas i kampanjen.";
 "customcampaign_camerarolltitle" = "Kamerarulle";
 "customcampaign_gallerydesc" = "Välj en bild i galleriet i mobiltelefonen som ska användas i kampanjen.";
 "customcampaign_gallerytitle" = "Galleri";
-"customcampaign_help" = "Skicka en rad anpassade kampanjer till dina grupper med presumtiva kunder.\n\nVälj alternativet Kamerarulle för att skicka en fotokampanj med foton från telefonens kamerarulle.\n\nVälj alternativet Delbart bibliotek för att skicka en fotokampanj från Delbart bibliotek\n\nVälj alternativet YouTube för att skicka ut en anpassad YouTube-kampanj.";
-"customcampaign_help_android" = "Skicka en rad anpassade kampanjer till dina grupper med presumtiva kunder.\n\nVälj alternativet Galleri för att skicka en fotokampanj med foton från telefonens Galleri.\n\nVälj alternativet Delbart bibliotek för att skicka en fotokampanj från Delbart bibliotek\n\nVälj alternativet YouTube för att skicka ut en anpassad YouTube-kampanj.";
 "customcampaign_noimageerror" = "Det uppstod ett problem när du skulle välja bild. Försök igen.";
-"customcampaign_optimismdesc" = "Välj en bild från det dagliga Delbart bibliotek för att använda den i kampanjen.";
-"customcampaign_optimismtitle" = "Delbart bibliotek";
+
 "customcampaign_title" = "Anpassad kampanj";
 "customcampaign_virtualpagedesc" = "Använd en företagsanpassad virtuell målsida i en kampanj.";
 "customcampaign_virtualpagetitle" = "Virtuell målsida";
@@ -102,14 +98,13 @@
 "customerconfirm_sameperson" = "Samma person";
 "customerconfirm_title" = "Väntande sammanslagningar";
 "dailyoptimism_autodrip" = "Inställningar för automatiska e-postutskick";
-"dailyoptimism_help" = "Visa och dela dagliga Delbara!\n\nTryck på Library för att välja någon av de tidigare Delbara att dela.";
+
 "dailyoptimism_library" = "Bibliotek";
-"dailyoptimism_share" = "Dela Dagens delbara";
-"dailyoptimism_title" = "Daglig delbar";
+
+
 "dashboard_help" = "Från instrumentpanelen kan du visa alla den senaste informationen om ditt företag.\n\nTryck på någon av flikknapparna för att växla mellan flikarna.";
-"dashboard_home" = "Företagsögonblicksbild";
-"dashboard_newsfeed" = "JNews";
-"dashboard_prospector" = "Prospektor";
+
+
 "dashboard_title" = "Kontrollpanel";
 "debugmenu_help" = "Felsökningsmenyn kan användas för att testa olika funktioner, däribland miljöändringar och API.";
 "debugmenu_notoken" = "Inget bevis tillgängligt";
@@ -424,14 +419,13 @@
 "menu_myevents" = "Mina evenemang";
 "menu_myleads" = "Mina presumtiva kunder";
 "menu_newsignup" = "Lägg till ny anmäld";
-"menu_optimism" = "Andelar";
+
 "menu_otherheader" = "ÖVRIGT";
 "menu_peoplesponsored" = "Personer jag sponsrar";
 "menu_profile" = "Profil";
 "menu_promotions" = "KAMPANJER";
 "menu_reports" = "Rapporter";
 "menu_shoppingcart" = "Varukorg";
-"menu_smartcloud" = "JCloud";
 "menu_sod" = "Framgång på begäran";
 "menu_trainingvideos" = "Utbildningsvideor";
 "menu_videocampaign" = "Videokampanj";
@@ -496,7 +490,7 @@
 "newsignup_signup" = "Registrera";
 "newsignup_sponsor" = "Sponsorns webbadress";
 "newsignup_title" = "Ny registrerad";
-"optimismlibrary_help" = "Välj någon av de Delbara från biblioteket för att fortsätta dela.";
+
 "optimismlibrary_title" = "Bibliotek";
 "peopleisponsor_help" = "Visa och kontakta personer som du sponsrar personligen. Tryck på en sponsor för att visa mer information.";
 "peopleisponsor_title" = "Personer jag sponsrar";
@@ -506,7 +500,7 @@
 "profile_autodriptitle" = "Inställningar för automatiska e-postutskick";
 "profile_editprofiledesc" = "Ändra inställningarna för din mobilprofil, inklusive namn, kontaktuppgifter och profilbild.";
 "profile_editprofiletitle" = "Redigera profil";
-"profile_help" = "Visa din mobilprofil.\n\nVälj Redigera profil för att ändra informationen i din profil.\n\nVälj alternativet Logga in på sociala medier för att logga in på dina konton för sociala medier.\n\nVälj Inställningar för automatiska e-postutskick för att redigera ditt personliga inläggsschema för Automatiska e-postutskick.";
+
 "profile_mywebsite" = "Min webbplats";
 "profile_socialmediadesc" = "Logga in på kontona för sociala medier för användning av funktioner som Automatiska e-postutskickskampanjer.";
 "profile_socialmediatitle" = "Logga in på sociala medier";
@@ -554,9 +548,9 @@
 "sendmessage_sendmessages" = "Skicka meddelande(-n)";
 "sendmessage_sendsuccess" = "Meddelande(-n) har skickats.";
 "sendmessage_title" = "Skicka meddelande";
-"shareoptimism_help" = "Visa och dela de Delbara som du har valt från biblioteket!\n\nTryck på knappen Bakåt för att återgå till biblioteket.";
-"shareoptimism_share" = "Dela denna Delbara";
-"shareoptimism_title" = "Delbar";
+
+
+
 "shoppingcart_added" = "Lagt till";
 "shoppingcart_addtocart" = "Lägg till i varukorgen";
 "shoppingcart_checkout" = "Kassa";
@@ -568,8 +562,7 @@
 "smartcloud_downloading" = "Nedladdning";
 "smartcloud_help" = "Visa alla filer och kataloger i molnet.\n\nTryck på nedladdningsknappen för en fil för att ladda ner den.\n\nOm filen redan laddats ner lokalt visas inte nedladdningsknappen. Tryck bara på filen för att öppna och visa den.\n\nRadera en lokalt nedladdad fil genom att svepa filen från höger till vänster så visas borttagningsknappen.";
 "smartcloud_removelocal" = "Ta bort lokal fil";
-"smartcloud_title" = "JCloud";
-"socialmedia_help" = "Logga in på dina sociala nätverk. Om du loggar in kan du ladda upp en profilbild för sociala medier i din mobilprofil och göra inlägg i Delbara automatiska e-postutskick.";
+
 "socialmedia_howeusetitle" = "Hur vi använder dina konton för sociala medier:";
 "socialmedia_howweusedesc" = "– Få grundläggande profilinformation (namn, skärmnamn osv.)\n– Få profilbild som visas i appen\n– Fråga om behörighet så att du kan göra inlägg";
 "socialmedia_title" = "Sociala medier";

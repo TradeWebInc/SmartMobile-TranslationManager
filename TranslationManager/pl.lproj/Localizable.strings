@@ -76,17 +76,13 @@
 "carttype_help" = "Żeby wybrać rodzaj zakupu (detaliczny lub hurtowy), kliknij przycisk.";
 "carttype_retail" = "Detaliczny";
 "carttype_title" = "Wybór koszyka";
-"carttype_wholesale" = "Sklep JOffice";
 "carttype_wholesaleunavailable" = "Nieustannie pracujemy nad rozszerzeniem funkcjonalności aplikacji o możliwość robienia zakupów hurtowych.";
 "customcampaign_camerarolldesc" = "Wykonaj zdjęcie aparatem, żeby wykorzystać je w kampanii.";
 "customcampaign_camerarolltitle" = "Z aparatu";
 "customcampaign_gallerydesc" = "Wybierz zdjęcie z galerii, żeby wykorzystać je w kampanii.";
 "customcampaign_gallerytitle" = "Galeria";
-"customcampaign_help" = "Możesz wysyłać różne niestandardowe kampanie do grup potencjalnych klientów.\n\nŻeby wysłać kampanię zdjęciową z użyciem zdjęć wykonanych telefonem, wybierz w telefonie opcję wyboru zdjęcia z aparatu.\n\nŻeby wysłać kampanię zdjęciową z użyciem zdjęć z Biblioteki otwartej, wybierz opcję wyboru zdjęcia z udostępnionej biblioteki.\n\nŻeby wysłać niestandardową kampanię YouTube, wybierz opcję YouTube.";
-"customcampaign_help_android" = "Możesz wysyłać różne niestandardowe kampanie do grup potencjalnych klientów.\n\nŻeby wysłać kampanię zdjęciową z użyciem zdjęć zapisanych w telefonie, wybierz w telefonie opcję wyboru zdjęcia z galerii.\n\nŻeby wysłać kampanię zdjęciową z użyciem zdjęć z Biblioteki otwartej, wybierz opcję wyboru zdjęcia z udostępnionej biblioteki.\n\nŻeby wysłać niestandardową kampanię YouTube, wybierz opcję YouTube.";
 "customcampaign_noimageerror" = "Podczas wybierania zdjęcia wystąpił błąd. Spróbuj ponownie.";
-"customcampaign_optimismdesc" = "Wybierz zdjęcie z codziennej Biblioteki otwartej, żeby użyć go w kampanii.";
-"customcampaign_optimismtitle" = "Biblioteka otwarta";
+
 "customcampaign_title" = "Niestandardowa kampania";
 "customcampaign_virtualpagedesc" = "Zastosuj w kampanii korporacyjną niestandardową wirtualną stronę docelową.";
 "customcampaign_virtualpagetitle" = "Wirtualna strona docelowa";
@@ -102,14 +98,13 @@
 "customerconfirm_sameperson" = "Ta sama osoba";
 "customerconfirm_title" = "Oczekujące scalania";
 "dailyoptimism_autodrip" = "Ustawienia automatycznego publikowania";
-"dailyoptimism_help" = "Wyświetl i udostępnij element z dzisiejszej Biblioteki otwartej.\n\nŻeby wybrać dowolny element możliwy do udostępnienia, dotknij przycisku Biblioteka.";
+
 "dailyoptimism_library" = "Biblioteka";
-"dailyoptimism_share" = "Udostępnij element z Biblioteki otwartej";
-"dailyoptimism_title" = "Do udostępnienia dziś";
+
+
 "dashboard_help" = "Na panelu wyświetlają się wszystkie najnowsze informacje dotyczące Twojej firmy.\n\nŻeby przejść między zakładkami, dotknij przycisków zakładek.";
-"dashboard_home" = "Zestawienie wyników dystrybutorów";
-"dashboard_newsfeed" = "JNews";
-"dashboard_prospector" = "Kampania";
+
+
 "dashboard_title" = "Pulpit";
 "debugmenu_help" = "Menu debugowania można wykorzystać do testowania różnych opcji w tym zmiany w środowiskach i API.";
 "debugmenu_notoken" = "Brak dostępnych tokenów";
@@ -424,14 +419,13 @@
 "menu_myevents" = "Moje wydarzenia";
 "menu_myleads" = "Moi potencjalni klienci";
 "menu_newsignup" = "Dodaj sponsorowanego uczestnika";
-"menu_optimism" = "Do udostępniania";
+
 "menu_otherheader" = "INNE";
 "menu_peoplesponsored" = "Osoby, które sponsoruję";
 "menu_profile" = "Profil";
 "menu_promotions" = "PROMOCJE";
 "menu_reports" = "Raporty";
 "menu_shoppingcart" = "Koszyk";
-"menu_smartcloud" = "JCloud";
 "menu_sod" = "Sukces na żądanie";
 "menu_trainingvideos" = "Nagrania szkoleniowe";
 "menu_videocampaign" = "Kampania wideo";
@@ -496,7 +490,7 @@
 "newsignup_signup" = "Zarejestruj się";
 "newsignup_sponsor" = "Adres URL sponsora";
 "newsignup_title" = "Nowy sponsorowany uczestnik";
-"optimismlibrary_help" = "Żeby kontynuować udostępnianie, wybierz jeden element z biblioteki, który można udostępnić.";
+
 "optimismlibrary_title" = "Biblioteka";
 "peopleisponsor_help" = "Wyświetl osoby, które sponsorujesz, i skontaktuj się z nimi. Żeby dowiedzieć się więcej o sponsorze, dotknij jego nazwy.";
 "peopleisponsor_title" = "Osoby, które sponsoruję";
@@ -506,7 +500,7 @@
 "profile_autodriptitle" = "Ustawienia automatycznego publikowania";
 "profile_editprofiledesc" = "Zmień ustawienia profilu na urządzenia mobilne, w tym: nazwę, dane kontaktowe i zdjęcie.";
 "profile_editprofiletitle" = "Edytuj profil";
-"profile_help" = "Wyświetl profil na urządzenia mobilne.\n\nŻeby zmienić dane profilu, wybierz opcję Edytuj profilu.\n\nŻeby zalogować się do portali społecznościowych, wybierz opcję Zaloguj się do mediów społecznościowych.\n\nŻeby edytować osobisty możliwy do udostępnienia harmonogram automatycznego publikowania, wybierz ustawienia automatycznego publikowania.";
+
 "profile_mywebsite" = "Moja witryna";
 "profile_socialmediadesc" = "Żeby korzystać z opcji takich jak automatyczne publikowanie wpisów, zaloguj się do portali społecznościowych.";
 "profile_socialmediatitle" = "Zaloguj się do portali społecznościowych";
@@ -554,9 +548,9 @@
 "sendmessage_sendmessages" = "Wyślij wiadomości";
 "sendmessage_sendsuccess" = "Wysłano wiadomości.";
 "sendmessage_title" = "Wyślij wiadomość";
-"shareoptimism_help" = "Wyświetl i udostępnij wybrane elementy z Biblioteki otwartej.\n\nŻeby wrócić do biblioteki, dotknij przycisku wstecz.";
-"shareoptimism_share" = "Udostępnij ten możliwy do udostępnienia element";
-"shareoptimism_title" = "Możliwe do udostępnienia";
+
+
+
 "shoppingcart_added" = "Dodano";
 "shoppingcart_addtocart" = "Dodaj do koszyka";
 "shoppingcart_checkout" = "Kasa";
@@ -568,8 +562,7 @@
 "smartcloud_downloading" = "Pobieranie";
 "smartcloud_help" = "Wyświetl wszystkie pliki i katalogi w chmurze.\n\nŻeby pobrać plik, dotknij przycisku pobrania.\n\nJeśli plik już został pobrany i zapisany na dysku lokalnym, przycisk pobrania nie pojawi się. Dotknij nazwę pliku, żeby go otworzyć.\n\nŻeby usunąć plik zapisany lokalnie, przeciągnij go z prawej strony na lewą, a pojawi się przycisk usuwania.";
 "smartcloud_removelocal" = "Usuń plik zapisany lokalnie";
-"smartcloud_title" = "JCloud";
-"socialmedia_help" = "Zaloguj się do portali społecznościowych. Po zalogowaniu możesz przesłać zdjęcie profilowe z portali społecznościowych na profil mobilny oraz publikować możliwe do udostępnienia wpisy w ramach funkcji automatycznego publikowania.";
+
 "socialmedia_howeusetitle" = "Jakie dane pozyskujemy z Twoich kont w mediach społecznościowych:";
 "socialmedia_howweusedesc" = "- podstawowe dane profilowe (imię i nazwisko, nazwę użytkownika itp.),\n- zdjęcie profilowe, które wyświetla się w aplikacji,\n- zgody na publikowanie wpisów.";
 "socialmedia_title" = "Portale społecznościowe";

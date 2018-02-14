@@ -76,17 +76,13 @@
 "carttype_help" = "Vyberte maloobchodní nebo velkoobchodní nákup produktu zvolením typu tlačítka.";
 "carttype_retail" = "Maloobchod";
 "carttype_title" = "Výběr košíku";
-"carttype_wholesale" = "Obchod JOffice";
 "carttype_wholesaleunavailable" = "Usilovně pracujeme na přenesení velkoobchodních nákupů do aplikace!";
 "customcampaign_camerarolldesc" = "Vyberte fotografii z vašeho archivu fotografií na vašem mobilním zařízení k použití pro vaši kampaň.";
 "customcampaign_camerarolltitle" = "Archiv fotografií";
 "customcampaign_gallerydesc" = "Vyberte fotografii z galerie na vašem mobilním zařízení k použití pro vaši kampaň.";
 "customcampaign_gallerytitle" = "Galerie";
-"customcampaign_help" = "Odešlete různé standardní kampaně do své skupiny potenciálních zákazníků.\n\nVyberte možnost archivu fotografií k odeslání foto kampaně s využitím fotografií z archivu fotografií na vašem telefonu.\n\nVyberte možnost Knihovny materiálů ke sdílení k odeslání foto kampaně z Knihovny materiálů ke sdílení\n\nZvolte možnost YouTube k odeslání vaší standardní YouTube kampaně.";
-"customcampaign_help_android" = "Odešlete různé standardní kampaně do své skupiny potenciálních zákazníků.\n\nVyberte možnost galerie k odeslání foto kampaně s využitím fotografií z galerie na vašem telefonu.\n\nVyberte možnost Knihovny materiálů ke sdílení k odeslání foto kampaně z Knihovny materiálů ke sdílení\n\nVyberte si možnost YouTube k odeslání vaší standardní YouTube kampaně.";
 "customcampaign_noimageerror" = "Vyskytl se problém s výběrem vaší fotografie. Zkuste to prosím znovu.";
-"customcampaign_optimismdesc" = "Vyberte fotografii z každodenní Knihovny materiálů ke sdílení k použití pro vaši kampaň.";
-"customcampaign_optimismtitle" = "Knihovna materiálů ke sdílení";
+
 "customcampaign_title" = "Standardní kampaň";
 "customcampaign_virtualpagedesc" = "Použijte firemní upravenou Virtuální hlavní stránku v kampani.";
 "customcampaign_virtualpagetitle" = "Virtuální hlavní stránka";
@@ -102,14 +98,13 @@
 "customerconfirm_sameperson" = "Stejná osoba";
 "customerconfirm_title" = "Čekající spojení";
 "dailyoptimism_autodrip" = "Nastavení Auto-Drip";
-"dailyoptimism_help" = "Prohlédnout a sdílet denní materiály ke sdílení!\n\nKlepněte na „Knihovna“ a vyberte kterékoliv z minulých materiálů ke sdílení. ";
+
 "dailyoptimism_library" = "Knihovna";
-"dailyoptimism_share" = "Sdílet dnešní materiál ke sdílení";
-"dailyoptimism_title" = "Denní materiál ke sdílení";
+
+
 "dashboard_help" = "Z hlavního panelu můžete sledovat všechny nejnovější informace týkající se vaší obchodní činnosti.\n\nMezi záložkami můžete přepínat klepnutím na tlačítka záložek.";
-"dashboard_home" = "Přehled obchodní činnosti";
-"dashboard_newsfeed" = "JNews";
-"dashboard_prospector" = "Budoucí akce";
+
+
 "dashboard_title" = "Hlavní panel";
 "debugmenu_help" = "Nabídku ladění lze použít k testování různých funkcí včetně změn prostředí a API.";
 "debugmenu_notoken" = "Žádný žeton není k dispozici";
@@ -424,14 +419,13 @@
 "menu_myevents" = "Moje události";
 "menu_myleads" = "Mí potenciální zákazníci";
 "menu_newsignup" = "Přidat nové přihlášení";
-"menu_optimism" = "Materiály ke sdílení";
+
 "menu_otherheader" = "JINÉ";
 "menu_peoplesponsored" = "Lidé I Sponsor";
 "menu_profile" = "Profil";
 "menu_promotions" = "PROMOČNÍ AKCE";
 "menu_reports" = "Zprávy";
 "menu_shoppingcart" = "Nákupní košík";
-"menu_smartcloud" = "JCloud";
 "menu_sod" = "Úspěch na požádání";
 "menu_trainingvideos" = "Školicí videa";
 "menu_videocampaign" = "Video kampaň";
@@ -496,7 +490,7 @@
 "newsignup_signup" = "Registrovat se";
 "newsignup_sponsor" = "URL stránky sponzora";
 "newsignup_title" = "Nové přihlášení";
-"optimismlibrary_help" = "Pro pokračování ve sdílení zvolte jeden materiál ke sdílení z knihovny.";
+
 "optimismlibrary_title" = "Knihovna";
 "peopleisponsor_help" = "Prohlédněte si a kontaktujte osoby, které osobně sponzorujete. Klepněte na sponzora k zobrazení více detailů.";
 "peopleisponsor_title" = "Lidé I Sponsor";
@@ -506,7 +500,7 @@
 "profile_autodriptitle" = "Nastavení Auto-Drip";
 "profile_editprofiledesc" = "Upravte svá nastavení mobilního profilu včetně jména, kontaktních informací a profilové fotografie.";
 "profile_editprofiletitle" = "Upravit profil";
-"profile_help" = "Zobrazit váš mobilní profil.\n\nZvolte Editovat profil k úpravě informací na vašem profilu.\n\nZvolte možnost přihlášení na Sociální média k přihlášení na vaše účty sociálních médií..\n\nZvolte nastavení Auto-Drip k editování vašeho osobního harmonogramu sdílení příspěvků z Auto-Drip.";
+
 "profile_mywebsite" = "Moje internetové stránky";
 "profile_socialmediadesc" = "Přihlášení na účty sociálních médií pro použití funkcí, jako jsou kampaně Auto-Drip.";
 "profile_socialmediatitle" = "Přihlásit se na sociální média";
@@ -554,9 +548,9 @@
 "sendmessage_sendmessages" = "Odeslat zprávy";
 "sendmessage_sendsuccess" = "Zprávy byly odeslány.";
 "sendmessage_title" = "Odeslat zprávu";
-"shareoptimism_help" = "Prohlédnout si a sdílet všechny materiály ke sdílení, které jste vybral(a) z knihovny!\n\nKlepněte na tlačítko Zpět k návratu do knihovny.";
-"shareoptimism_share" = "Sdílet tento materiál ke sdílení";
-"shareoptimism_title" = "Materiály ke sdílení";
+
+
+
 "shoppingcart_added" = "Přidáno";
 "shoppingcart_addtocart" = "Přidat do košíku";
 "shoppingcart_checkout" = "Pokladna";
@@ -568,8 +562,7 @@
 "smartcloud_downloading" = "Stahuje se";
 "smartcloud_help" = "Prohlédnout všechny soubory a adresáře v Cloudu.\n\nKe stažení souboru klepněte na tlačítko Stáhnout.\n\nPokud je již soubor lokálně stažen, tlačítko Stáhnout se neobjeví. K otevření a prohlédnutí souboru na něj jednoduše klepněte.\n\nK vymazání lokálně staženého souboru jednoduše přejeďte po souboru zprava doleva a objeví se tlačítko pro vymazání.";
 "smartcloud_removelocal" = "Odstranit lokální";
-"smartcloud_title" = "JCloud";
-"socialmedia_help" = "Přihlaste se do svých sociálních sítí. Přihlášení vám umožní nahrát profilovou fotografii na sociální média do vašeho mobilního profilu a zveřejnit materiály ke sdílení přes AutoDrip.";
+
 "socialmedia_howeusetitle" = "Jak používáme účty sociálních médií:";
 "socialmedia_howweusedesc" = "- Získání základních informací o profilu (jméno, zobrazovací jméno atd.)\n- Získání profilové fotografie k zobrazení v aplikaci\n- Žádost o povolení, abychom vám mohli umožnit zveřejňovat příspěvky";
 "socialmedia_title" = "Sociální média";

@@ -76,17 +76,13 @@
 "carttype_help" = "소매 제품의 도매 구매를 원하신다면 각 유형의 버튼을 선택합니다.";
 "carttype_retail" = "소매";
 "carttype_title" = "카트 선택";
-"carttype_wholesale" = "JOffice Shop";
 "carttype_wholesaleunavailable" = "앱에서 회원가격으로 구매가능 하도록 최선을 다하고 있습니다!";
 "customcampaign_camerarolldesc" = "내 휴대기기의 카메라 롤에서 이미지를 선택해 캠페인에 사용합니다.";
 "customcampaign_camerarolltitle" = "카메라 롤";
 "customcampaign_gallerydesc" = "내 휴대기기의 갤러리에서 이미지를 선택해 캠페인에 사용합니다.";
 "customcampaign_gallerytitle" = "갤러리";
-"customcampaign_help" = "리드 그룹에 다양한 커스텀 캠페인을 보냅니다.\n\n카메라 롤 옵션을 눌러 내 휴대폰 카메라 롤의 사진을 사용해 사진 캠페인을 보낼 수 있습니다.\n\n옵티미즘 라이브러리 옵션을 누르면 옵티미즘 라이브러리에서 사진 캠페인을 보낼 수 있습니다.\n\nYouTube 옵션을 누르면 커스텀 YouTube 캠페인을 보낼 수 있습니다.";
-"customcampaign_help_android" = "리드 그룹에 다양한 커스텀 캠페인을 보냅니다.\n\n갤러리 옵션을 눌러 내 휴대폰 갤러리의 사진을 사용해 사진 캠페인을 보낼 수 있습니다.\n\n옵티미즘 라이브러리 옵션을 누르면 옵티미즘 라이브러리에서 사진 캠페인을 보낼 수 있습니다.\n\nYouTube 옵션을 누르면 커스텀 YouTube 캠페인을 보낼 수 있습니다.";
 "customcampaign_noimageerror" = "이미지 선택 중 오류가 발생했습니다. 다시 시도하세요.";
-"customcampaign_optimismdesc" = "데일리 옵티미즘 라이브러리에서 이미지를 선택해 캠페인에 사용합니다.";
-"customcampaign_optimismtitle" = "옵티미즘 라이브러리";
+
 "customcampaign_title" = "커스텀 캠페인";
 "customcampaign_virtualpagedesc" = "맞춤 제작된 기업용 버추얼 랜딩 페이지를 캠페인에 사용합니다.";
 "customcampaign_virtualpagetitle" = "버추얼 랜딩 페이지";
@@ -102,14 +98,14 @@
 "customerconfirm_sameperson" = "같은 사람";
 "customerconfirm_title" = "보류중인 병합";
 "dailyoptimism_autodrip" = "오토 드립 설정";
-"dailyoptimism_help" = "데일리 옵티미즘을 보고 공유하세요!\n\n\'라이브러리\'를 누르고 지난 옵티미즘을 선택해 공유할 수 있습니다.";
+
 "dailyoptimism_library" = "라이브러리";
-"dailyoptimism_share" = "오늘의 옵티미즘 공유하기";
-"dailyoptimism_title" = "데일리 옵티미즘";
+
+
 "dashboard_help" = "대시보드에서는 내 비즈니스에 대한 모든 최신 정보를 확인할 수 있습니다.\n\n각각의 탭 버튼을 눌러 탭 사이를 전환할 수 있습니다.";
-"dashboard_home" = "홈";
-"dashboard_newsfeed" = "뉴스 피드";
-"dashboard_prospector" = "가망고객";
+
+
+
 "dashboard_title" = "대시보드";
 "debugmenu_help" = "디버그 메뉴란 환경변화 및 API를 비롯한 다양한 기능을 테스트하기 위해 사용합니다.";
 "debugmenu_notoken" = "사용할 수 있는 토큰이 없습니다.";
@@ -424,14 +420,14 @@
 "menu_myevents" = "내 이벤트";
 "menu_myleads" = "내 리드";
 "menu_newsignup" = "신규 회원가입 추가";
-"menu_optimism" = "옵티미즘";
+
 "menu_otherheader" = "기타";
 "menu_peoplesponsored" = "내가 후원하는 사용자";
 "menu_profile" = "프로필";
 "menu_promotions" = "프로모션";
 "menu_reports" = "보고서";
 "menu_shoppingcart" = "쇼핑 카트";
-"menu_smartcloud" = "SmartCloud";
+
 "menu_sod" = "Success On Demand";
 "menu_trainingvideos" = "트레이닝 동영상";
 "menu_videocampaign" = "동영상 캠페인";
@@ -496,7 +492,7 @@
 "newsignup_signup" = "회원 가입";
 "newsignup_sponsor" = "후원자 웹사이트 URL";
 "newsignup_title" = "새 회원가입";
-"optimismlibrary_help" = "공유를 계속하려면 라이브러리에서 옵티미즘을 선택하세요.";
+
 "optimismlibrary_title" = "라이브러리";
 "peopleisponsor_help" = "내가 후원하는 연락처 사용자를 보고 연락합니다. 후원자를 누르면 정보를 볼 수 있습니다.";
 "peopleisponsor_title" = "내가 후원하는 사용자";
@@ -506,7 +502,7 @@
 "profile_autodriptitle" = "오토 드립 설정";
 "profile_editprofiledesc" = "이름, 연락처 정보, 프로필 사진 등 내 모바일 프로필 설정을 변경할 수 있습니다.";
 "profile_editprofiletitle" = "프로필 편집";
-"profile_help" = "내 모바일 프로필을 봅니다.\n\n프로필 편집을 누르면 프로필 정보를 변경할 수 있습니다.\n\n소셜 미디어 로그인 옵션을 누르면 소셜 미디어 계정에 로그인할 수 있습니다.\n\n오토 드립 설정을 선택하면 내 옵티미즘 오토 드립 등록 일정을 변경할 수 있습니다.";
+
 "profile_mywebsite" = "내 웹사이트";
 "profile_socialmediadesc" = "오토 드립 캠페인 등을 사용하려면 소셜 미디어 계정 로그인을 사용하세요.";
 "profile_socialmediatitle" = "소셜 미디어 로그인";
@@ -554,9 +550,9 @@
 "sendmessage_sendmessages" = "메시지 전송";
 "sendmessage_sendsuccess" = "메시지를 보냈습니다.";
 "sendmessage_title" = "메시지 보내기";
-"shareoptimism_help" = "라이브러리에서 선택한 데일리 옵티미즘을 보고 공유하세요!\n\n라이브러리로 돌아가려면 뒤로 가기를 누르세요.";
-"shareoptimism_share" = "이 옵티미즘 공유하기";
-"shareoptimism_title" = "옵티미즘";
+
+
+
 "shoppingcart_added" = "추가됨";
 "shoppingcart_addtocart" = "카트에 담기";
 "shoppingcart_checkout" = "체크아웃";
@@ -568,8 +564,8 @@
 "smartcloud_downloading" = "다운로드 중";
 "smartcloud_help" = "클라우드에서 모든 파일과 디렉토리를 봅니다.\n\n다운로드 버튼을 누르면 파일을 다운로드합니다.\n\n이미 로컬 기기에 파일이 다운로드된 경우 다운로드 버튼은 표시되지 않습니다. 파일을 누르기만 하면 열립니다.\n\n로컬 기기에 다운로드한 파일을 삭제하려면 파일을 오른쪽에서 왼쪽으로 밀어 삭제 버튼을 사용하세요.";
 "smartcloud_removelocal" = "로컬 파일 삭제";
-"smartcloud_title" = "SmartCloud";
-"socialmedia_help" = "소셜 네트워크로 로그인합니다. 소셜 네트워크에 로그인하면 모바일 프로필에 소셜 미디어 프로필을 업로드하고 옵티미즘 오토 드립 게시 기능을 이용할 수 있습니다.";
+
+
 "socialmedia_howeusetitle" = "이 앱에서 귀하의 소셜 미디어 계정 용도:";
 "socialmedia_howweusedesc" = "- 기본 프로필 정보 불러오기(이름, 화면 표시명 등)\n- 앱에 사용할 프로필 사진 불러오기\n- 내 계정 대신 게시물을 등록할 수 있는 권한";
 "socialmedia_title" = "소셜 미디어";

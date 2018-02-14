@@ -76,17 +76,12 @@
 "carttype_help" = "Elige entre realizar una compra de producto minorista o mayorista, seleccionando el botón correspondiente.";
 "carttype_retail" = "Minorista";
 "carttype_title" = "Selección del carrito";
-"carttype_wholesale" = "Tienda JOffice";
 "carttype_wholesaleunavailable" = "¡Estamos trabajando mucho para traer las compras Mayoristas a la app!";
 "customcampaign_camerarolldesc" = "Seleccione una imagen del Álbum de cámara de su dispositivo móvil para usarla en la campaña.";
 "customcampaign_camerarolltitle" = "Álbum de cámara";
 "customcampaign_gallerydesc" = "Seleccione una imagen de la Galería de su dispositivo móvil para usarla en la campaña.";
 "customcampaign_gallerytitle" = "Galería ";
-"customcampaign_help" = "Envíe una serie de campañas personalizadas a sus grupos de clientes potenciales.\nElija la opción de Álbum de cámara para enviar una campaña de fotos utilizando las fotos del Álbum de cámara de su teléfono.\nElija la opción de Biblioteca de Optimismo para enviar una campaña de fotos desde la Biblioteca de Optimismo.\nElija la opción de YouTube para enviar una campaña personalizada de YouTube.";
-"customcampaign_help_android" = "Envíe una serie de campañas personalizadas a sus grupos de clientes potenciales.\nElija la opción de Galería para enviar una campaña de fotos utilizando las fotos de la Galería de su teléfono.\nElija la opción de Biblioteca de Optimismo para enviar una campaña de fotos desde la Biblioteca de Optimismo.\nElija la opción de YouTube para enviar una campaña personalizada de YouTube.";
 "customcampaign_noimageerror" = "Ha ocurrido un problema al seleccionar su imagen. Por favor, vuelva a intentarlo.";
-"customcampaign_optimismdesc" = "Seleccionar una imagen de la Biblioteca de Optimismo diario para utilizarla en la campaña.";
-"customcampaign_optimismtitle" = "Biblioteca de Optimismo";
 "customcampaign_title" = "Campaña personalizada";
 "customcampaign_virtualpagedesc" = "Utilizar una página de aterrizaje virtual corporativa y personalizada en una campaña.";
 "customcampaign_virtualpagetitle" = "Página de aterrizaje virtual";
@@ -102,14 +97,9 @@
 "customerconfirm_sameperson" = "Misma persona";
 "customerconfirm_title" = "Combinación pendiente";
 "dailyoptimism_autodrip" = "Configuración de correos automáticos";
-"dailyoptimism_help" = "Vea y comparta el Optimismo diario.\nPulse en \"Biblioteca\" para seleccionar uno de los Optimismos pasados que desee compartir.";
 "dailyoptimism_library" = "Biblioteca";
-"dailyoptimism_share" = "Compartir el Optimismo de hoy.";
-"dailyoptimism_title" = "Optimismo diario";
 "dashboard_help" = "Desde el panel de control puede ver toda la información más reciente relacionada con su negocio.  n  n Oprima en los botones de tablas para cambiar entre las pestañas.";
-"dashboard_home" = "Inicio";
-"dashboard_newsfeed" = "Hilo de noticias";
-"dashboard_prospector" = "Explorador";
+
 "dashboard_title" = "Tablero de instrumentos";
 "debugmenu_help" = "El menú de depuración se puede utilizar para evaluar varias características, como los cambios del entorno y los API.";
 "debugmenu_notoken" = "El token no está disponible";
@@ -424,14 +414,12 @@
 "menu_myevents" = "Mis eventos";
 "menu_myleads" = "Mis clientes potenciales";
 "menu_newsignup" = "Añadir nueva suscripción";
-"menu_optimism" = "Optimismo";
 "menu_otherheader" = "OTRO";
 "menu_peoplesponsored" = "Equipo | Patrocinador";
 "menu_profile" = "Perfil";
 "menu_promotions" = "PROMOCIONES";
 "menu_reports" = "Reportes";
 "menu_shoppingcart" = "Carrito de la compra";
-"menu_smartcloud" = "SmartCloud";
 "menu_sod" = "Éxito por encargo";
 "menu_trainingvideos" = "Videos de formación";
 "menu_videocampaign" = "Campaña de video";
@@ -496,7 +484,6 @@
 "newsignup_signup" = "Inscribirse";
 "newsignup_sponsor" = "Url del sitio del patrocinador";
 "newsignup_title" = "Nueva inscripción";
-"optimismlibrary_help" = "Seleccione uno de los Optimismos de la biblioteca para seguir compartiendo.";
 "optimismlibrary_title" = "Biblioteca";
 "peopleisponsor_help" = "Ver a las personas que ha patrocinado personalmente y contactar con ellas. Pulsar sobre un patrocinador para ver más detalles.";
 "peopleisponsor_title" = "Equipo | Patrocinador";
@@ -506,7 +493,6 @@
 "profile_autodriptitle" = "Configuración de correos automáticos";
 "profile_editprofiledesc" = "Modificar la configuración de su perfil de móvil, incluidos: nombre, información de contacto y foto de perfil.";
 "profile_editprofiletitle" = "Editar perfil.";
-"profile_help" = "Vea su perfil de móvil.\nSeleccione la opción de Editar perfl para modificar la información de su perfil.\nSeleccione la opción de Iniciar sesión en los medios sociales para iniciar sesión en sus cuentas de medios sociales.\nSeleccione la opción de Configurar correos automáticos para editar su calendario de publicaciones de correos automáticos de Optimismo.";
 "profile_mywebsite" = "Mi sitio web";
 "profile_socialmediadesc" = "Iniciar sesión en las cuentas de medios sociales para utilizar funciones como las Campañas de correos automáticos.";
 "profile_socialmediatitle" = "Iniciar sesión en los medios sociales.";
@@ -554,9 +540,6 @@
 "sendmessage_sendmessages" = "Enviar mensaje/s.";
 "sendmessage_sendsuccess" = "Mensaje(s) enviado.";
 "sendmessage_title" = "Enviar mensaje.";
-"shareoptimism_help" = "¡Vea y comparta el Optimismo que ha seleccionado de la biblioteca!\nPulse el botón de retroceso para volver a la Biblioteca.";
-"shareoptimism_share" = "Compartir este Optimismo.";
-"shareoptimism_title" = "Optimismo";
 "shoppingcart_added" = "Añadido";
 "shoppingcart_addtocart" = "Añadir al carrito";
 "shoppingcart_checkout" = "Confirmar la compra";
@@ -568,8 +551,6 @@
 "smartcloud_downloading" = "Descargo";
 "smartcloud_help" = "Vea los archivos y directorios de Cloud.\nPulse el botón de descarga para descargar un archivo.\nSi el archivo ya se ha descargado localmente, el botón de descarga no aparecerá. Basta con pulsar el archivo para abrirlo y verlo.\nPara eliminar un archivo descargado localmente, deslice el archivo de derecha a izquierda para que se muestre el botón de eliminación.";
 "smartcloud_removelocal" = "Quitar local";
-"smartcloud_title" = "SmartCloud";
-"socialmedia_help" = "Inicie sesión en sus redes sociales. Al hacerlo, podrá subir la foto de perfil de una red social a su perfil de móvil y publicar correos automáticos de Optimismo.";
 "socialmedia_howeusetitle" = "Cómo utilizamos sus cuentas de redes sociales:";
 "socialmedia_howweusedesc" = "- Se obtiene la información básica de un perfil (nombre, nombre de usuario, etc)\n- Se obtiene la foto de perfil para mostrar en la App.\n- Se solicita permiso para permitirle publicar.";
 "socialmedia_title" = "Medios sociales";

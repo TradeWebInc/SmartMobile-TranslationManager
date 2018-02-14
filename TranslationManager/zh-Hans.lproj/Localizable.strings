@@ -76,17 +76,13 @@
 "carttype_help" = "通过选择类型按钮来选择批发产品购买或零售。";
 "carttype_retail" = "零售";
 "carttype_title" = "购物车选择";
-"carttype_wholesale" = "Joffice订购";
 "carttype_wholesaleunavailable" = "我们正在努力将批发订购加入到应用程式中！";
 "customcampaign_camerarolldesc" = "从您移动设备的相机胶卷中选择图像以用于活动中。";
 "customcampaign_camerarolltitle" = "相机胶卷";
 "customcampaign_gallerydesc" = "从您移动设备的图库中选择图像以用于活动中。";
 "customcampaign_gallerytitle" = "图库";
-"customcampaign_help" = "发送各种自定义活动给您的商机联系人群组。\n\n选择“相机胶卷”选项，使用您手机相机胶卷中的照片，发送照片活动。\n\n选择“善论库”选项，可发送善论库中的照片活动。\n\n选择 YouTube 选项，发送自定义 YouTube 活动。";
-"customcampaign_help_android" = "发送各种自定义活动给您的商机联系人群组。\n\n选择“图库”选项，使用您手机图库中的照片，发送照片活动。\n\n选择“善论库”选项，可发送善论库中的照片活动。\n\n选择 YouTube 选项，发送自定义 YouTube 活动。";
 "customcampaign_noimageerror" = "选择图像时出错，请重试。";
-"customcampaign_optimismdesc" = "从每日善论库中选择图像以用于活动中。";
-"customcampaign_optimismtitle" = "善论库";
+
 "customcampaign_title" = "自定义活动";
 "customcampaign_virtualpagedesc" = "在活动中使用公司自定义虚拟登录页面。";
 "customcampaign_virtualpagetitle" = "虚拟登录页面";
@@ -102,14 +98,14 @@
 "customerconfirm_sameperson" = "同一个人";
 "customerconfirm_title" = "待处理合并";
 "dailyoptimism_autodrip" = "自动提醒设置";
-"dailyoptimism_help" = "查看并分享每日善论！\n\n点按“善论库”，挑选要分享的善论。";
+
 "dailyoptimism_library" = "图库";
-"dailyoptimism_share" = "分享今日善论";
-"dailyoptimism_title" = "每日善论";
+
+
 "dashboard_help" = "在控制面板中，您可以查看所有最新业务信息。\n\n点按标签按钮，可在标签之间切换。";
-"dashboard_home" = "主页";
-"dashboard_newsfeed" = "新订阅源";
-"dashboard_prospector" = "探矿人";
+
+
+
 "dashboard_title" = "控制面板";
 "debugmenu_help" = "调试菜单可用于测试各种功能，包括环境变化和API。";
 "debugmenu_notoken" = "没有可用的代币";
@@ -424,14 +420,14 @@
 "menu_myevents" = "我的活动";
 "menu_myleads" = "我的商机联系人";
 "menu_newsignup" = "添加新注册";
-"menu_optimism" = "善论";
+
 "menu_otherheader" = "其他";
 "menu_peoplesponsored" = "人员 I 赞助人";
 "menu_profile" = "个人资料";
 "menu_promotions" = "促销";
 "menu_reports" = "报告";
 "menu_shoppingcart" = "购物车";
-"menu_smartcloud" = "SmartCloud";
+
 "menu_sod" = "Success On Demand";
 "menu_trainingvideos" = "培训视频";
 "menu_videocampaign" = "视频活动";
@@ -496,7 +492,7 @@
 "newsignup_signup" = "注册";
 "newsignup_sponsor" = "赞助人网址";
 "newsignup_title" = "新注册";
-"optimismlibrary_help" = "从库中选择一个善论以分享。";
+
 "optimismlibrary_title" = "图库";
 "peopleisponsor_help" = "查看并联系您个人赞助的人。点按赞助人，查看更多信息。";
 "peopleisponsor_title" = "人员 I 赞助人";
@@ -506,7 +502,7 @@
 "profile_autodriptitle" = "自动提醒设置";
 "profile_editprofiledesc" = "修改您的移动个人信息设置，包括姓名、联系信息和个人资料照片。";
 "profile_editprofiletitle" = "编辑个人资料";
-"profile_help" = "查看您的移动个人资料。\n\n选择“编辑个人资料”可修改您的个人资料信息。\n\n选择“登录社交媒体”选项，以登录您的社交媒体账户。\n\n选择“自动提醒”设置，编辑您的个人善论自动提醒发布计划。";
+
 "profile_mywebsite" = "我的网站";
 "profile_socialmediadesc" = "登录至活动自动提醒功能使用的社交媒体账户。";
 "profile_socialmediatitle" = "登录至社交媒体";
@@ -554,9 +550,9 @@
 "sendmessage_sendmessages" = "发送消息";
 "sendmessage_sendsuccess" = "消息已发送。";
 "sendmessage_title" = "发送消息";
-"shareoptimism_help" = "查看并分享您从库中选择的善论！\n\n点按“后退”按钮，返回至库。";
-"shareoptimism_share" = "分享此善论";
-"shareoptimism_title" = "善论";
+
+
+
 "shoppingcart_added" = "添加";
 "shoppingcart_addtocart" = "添加到购物车";
 "shoppingcart_checkout" = "查看";
@@ -568,8 +564,8 @@
 "smartcloud_downloading" = "正在下载";
 "smartcloud_help" = "查看云中的所有文件和目录。\n\n对某个文件，点按下载按钮，可下载该文件。\n\n文件已下载到本地，将不会显示下载按钮。只需点按该文件，即可打开和查看它。\n\n要在本地删除已下载的文件，只需从右向左滑动该文件，即可显示出删除按钮。";
 "smartcloud_removelocal" = "删除本地";
-"smartcloud_title" = "SmartCloud";
-"socialmedia_help" = "登录您的社交网络。登录后，您可以将社交媒体个人资料照片上传至移动个人资料中，并发布善论自动提醒帖子。";
+
+
 "socialmedia_howeusetitle" = "我们如何使用您的社交媒体账户：";
 "socialmedia_howweusedesc" = "- 获取基本个人资料信息（姓名、显示名称等）\n- 获取个人资料照片，以在应用内显示\n- 请求权限，以便发布帖子。";
 "socialmedia_title" = "社交网络";

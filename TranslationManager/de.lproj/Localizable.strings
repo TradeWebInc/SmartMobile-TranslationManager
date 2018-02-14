@@ -76,17 +76,13 @@
 "carttype_help" = "Wählen Sie, ob Sie einen Einzelhandels- oder Großhandels-Produktkauf tätigen möchten, indem Sie auf eine Taste tippen.";
 "carttype_retail" = "Einzelhandel";
 "carttype_title" = "Einkaufswagen wählen";
-"carttype_wholesale" = "JOffice-Shop";
 "carttype_wholesaleunavailable" = "Wir arbeiten hart daran, Großhandels-Einkäufe in der App zu ermöglichen!";
 "customcampaign_camerarolldesc" = "Wählen Sie ein Bild von der Filmrolle Ihres Mobilgeräts, um es für die Kampagne zu nutzen.";
 "customcampaign_camerarolltitle" = "Filmrolle";
 "customcampaign_gallerydesc" = "Wählen Sie ein Bild aus der Galerie Ihres Mobilgeräts, um es für die Kampagne zu nutzen.";
 "customcampaign_gallerytitle" = "Galerie";
-"customcampaign_help" = "Senden Sie eine Vielzahl an benutzerdefinierten Kampagnen an Ihre Lead-Gruppen.\n\nWählen Sie die Option Filmrolle, um eine Fotokampagne mit den Fotos von der Filmrolle Ihres Telefons zu versenden.\n\nWählen Sie die Option Gemeinsame Bibliothek, um eine Fotokampagne aus der Gemeinsamen Bibliothek zu versenden.\n\nWählen Sie die Youtube-Option, um eine benutzerdefinierte Youtube-Kampagne zu versenden.";
-"customcampaign_help_android" = "Senden Sie eine Vielzahl an benutzerdefinierten Kampagnen an Ihre Lead-Gruppen.\n\nWählen Sie die Option Galerie, um eine Fotokampagne mit den Fotos aus der Galerie Ihres Telefons zu versenden.\n\nWählen Sie die Option Gemeinsame Bibliothek, um eine Fotokampagne aus der Gemeinsamen Bibliothek zu versenden.\n\nWählen Sie die Youtube-Option, um eine benutzerdefinierte Youtube-Kampagne zu versenden.";
 "customcampaign_noimageerror" = "Bei der Auswahl Ihres Bildes ist ein Problem aufgetreten. Bitte versuchen Sie es noch einmal.";
-"customcampaign_optimismdesc" = "Wählen Sie ein Bild aus der täglichen Gemeinsamen Bibliothek Ihres Mobilgeräts, um es für die Kampagne zu nutzen.";
-"customcampaign_optimismtitle" = "Gemeinsame Bibliothek";
+
 "customcampaign_title" = "Benutzerdefinierte Kampagne";
 "customcampaign_virtualpagedesc" = "Eine benutzerdefinierte virtuelle Startseite des Unternehmens in einer Kampagne verwenden.";
 "customcampaign_virtualpagetitle" = "Virtuelle Startseite";
@@ -102,14 +98,12 @@
 "customerconfirm_sameperson" = "Die gleiche Person";
 "customerconfirm_title" = "Ausstehende Zusammenführungen";
 "dailyoptimism_autodrip" = "Auto-Drip-Einstellungen";
-"dailyoptimism_help" = "Schauen Sie sich das gemeinsame Element von heute an und teilen Sie es!\n\nTippen Sie auf „Bibliothek“, um aus den in der Vergangenheit geteilten Elementen zu wählen.";
+
 "dailyoptimism_library" = "Bibliothek";
-"dailyoptimism_share" = "Gemeinsames Element von heute teilen";
-"dailyoptimism_title" = "Gemeinsames Element von heute";
+
+
 "dashboard_help" = "Auf dem Dashboard können Sie die aktuellsten Informationen über Ihr Geschäft sehen.\n\nTippen Sie auf die Registerkartentasten, um zwischen den Registerkarten umzuschalten.";
-"dashboard_home" = "Business-Snapshot";
-"dashboard_newsfeed" = "JNews";
-"dashboard_prospector" = "Prospektor";
+
 "dashboard_title" = "Dashboard";
 "debugmenu_help" = "Das Debug-Menü kann verwendet werden, um verschiedene Funktionen wie Umgebungsveränderungen und APIs zu testen.";
 "debugmenu_notoken" = "Kein Token verfügbar.";
@@ -424,14 +418,13 @@
 "menu_myevents" = "Meine Events";
 "menu_myleads" = "Meine Leads";
 "menu_newsignup" = "Neue Anmeldung hinzufügen";
-"menu_optimism" = "Gemeinsame Elemente";
+
 "menu_otherheader" = "SONSTIGES";
 "menu_peoplesponsored" = "Personen I Sponsor";
 "menu_profile" = "Profil";
 "menu_promotions" = "AKTIONEN";
 "menu_reports" = "Berichte";
 "menu_shoppingcart" = "Einkaufswagen";
-"menu_smartcloud" = "JCloud";
 "menu_sod" = "Success On Demand";
 "menu_trainingvideos" = "Trainingsvideos";
 "menu_videocampaign" = "Video-Kampagne";
@@ -496,7 +489,7 @@
 "newsignup_signup" = "Anmelden";
 "newsignup_sponsor" = "Siteurl Sponsor";
 "newsignup_title" = "Neue Anmeldung";
-"optimismlibrary_help" = "Wählen Sie eines der gemeinsamen Elemente aus der Bibliothek, um weiter zu teilen.";
+
 "optimismlibrary_title" = "Bibliothek";
 "peopleisponsor_help" = "Personen, die Sie persönlich sponsern, anzeigen und kontaktieren. Tippen Sie auf einen Sponsor, um weitere Details anzuzeigen.";
 "peopleisponsor_title" = "Personen I Sponsor";
@@ -506,7 +499,7 @@
 "profile_autodriptitle" = "Auto-Drip-Einstellungen";
 "profile_editprofiledesc" = "Ändern Sie die Einstellungen Ihres mobilen Profils einschließlich Name, Kontaktdaten und Profilbild.";
 "profile_editprofiletitle" = "Profil bearbeiten";
-"profile_help" = "Schauen Sie sich Ihr Mobilprofil an.\n\nWählen Sie Profil bearbeiten, um die Informationen in Ihrem Profil zu bearbeiten.\n\nWählen Sie die Option In die sozialen Medien einloggen, um sich in Ihren sozialen Medien anzumelden.\n\nWählen Sie Auto-Drip-Einstellungen, um Ihren persönlichen Gemeinsamen Auto-Drip-Posting-Plan zu bearbeiten.";
+
 "profile_mywebsite" = "Meine Website";
 "profile_socialmediadesc" = "Melden Sie sich in Ihren sozialen Medien an, um Funktionen wie Auto-Drip-Kampagnen zu nutzen.";
 "profile_socialmediatitle" = "In den sozialen Medien anmelden";
@@ -554,9 +547,9 @@
 "sendmessage_sendmessages" = "Nachricht(en) senden";
 "sendmessage_sendsuccess" = "Nachricht(en) wurde(n) gesendet.";
 "sendmessage_title" = "Nachricht senden";
-"shareoptimism_help" = "Zeigen Sie die Gemeinsamen Elemente an, die Sie aus der Bibliothek ausgewählt haben, und bearbeiten Sie sie!\n\nTippen Sie auf die Zurück-Taste, um zur Bibliothek zurückzukehren.";
-"shareoptimism_share" = "Dieses Gemeinsame Element teilen";
-"shareoptimism_title" = "Gemeinsames Element";
+
+
+
 "shoppingcart_added" = "Hinzugefügt";
 "shoppingcart_addtocart" = "Zum Einkaufswagen hinzufügen";
 "shoppingcart_checkout" = "Kasse";
@@ -568,8 +561,7 @@
 "smartcloud_downloading" = "Download läuft";
 "smartcloud_help" = "Schauen Sie sich alle Dateien und Verzeichnisse in der Cloud an.\n\nTippen Sie auf die Download-Taste für eine Datei, um sie herunterzuladen.\n\nWenn die Datei bereits lokal heruntergeladen wurde, erscheint die Download-Taste nicht. Tippen Sie einfach auf die Datei, um Sie zu öffnen und anzuzeigen.\n\nUm eine lokal heruntergeladene Datei zu löschen, wischen Sie einfach von rechts nach links über die Datei, damit die Löschen-Taste erscheint.";
 "smartcloud_removelocal" = "Lokal entfernen";
-"smartcloud_title" = "JCloud";
-"socialmedia_help" = "Anmelden in Ihren sozialen Medien. Wenn Sie sich anmelden, können Sie Ihr Profilbild aus den sozialen Medien auf Ihr Mobilprofil hochladen und Auto-Drip-Postings zum Teilen erstellen.";
+
 "socialmedia_howeusetitle" = "Wie wir Ihre Konten in den sozialen Medien verwenden:";
 "socialmedia_howweusedesc" = "- Erhalten grundlegender Profilinformationen (Name, Anzeigename etc.)\n- Erhalten des Profilbilds zur Anzeige in der App\n- Anfragen von Rechten, sodass Sie Postings erstellen können.";
 "socialmedia_title" = "Soziale Medien";

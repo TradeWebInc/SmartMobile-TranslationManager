@@ -76,17 +76,13 @@
 "carttype_help" = "Effettua la scelta tra acquisti di prodotti al dettaglio o all\'ingrosso selezionando \"tipologia\".";
 "carttype_retail" = "Dettaglio ";
 "carttype_title" = "Selezione del carrello";
-"carttype_wholesale" = "JOffice Shop";
 "carttype_wholesaleunavailable" = "Stiamo lavorando per inserire gli acquisti all\'ingrosso nell\'app!";
 "customcampaign_camerarolldesc" = "Seleziona un\'immagine dalla fotocamera del tuo cellulare da aggiungere alla tua campagna.";
 "customcampaign_camerarolltitle" = "Fotocamera";
 "customcampaign_gallerydesc" = "Selezioni un\'immagine dalla galleria del suo telefono da usare per la campagna.";
 "customcampaign_gallerytitle" = "Galleria";
-"customcampaign_help" = "Invia diverse campagne personalizzate ai gruppi delle reclute. \nSelezioni dalla Fotocamera l\'opzione invia una campagna fotografica usando la Fotocamera del telefono. \nScegli l\'opzione Libreria dell\'Ottimismo dalla libreria dell\'Ottimismo\nScegli l\'opzione Youtube per inviare una campagna personalizzata di Youtube.";
-"customcampaign_help_android" = "Invia diverse campagne personalizzate ai gruppi delle reclute. \nSelezioni dalla Fotocamera l\'opzione invia una campagna fotografica usando la Fotocamera del telefono. \nScegli l\'opzione Libreria dell\'Ottimismo dalla libreria dell\'Ottimismo\nScegli l\'opzione Youtube per inviare una campagna personalizzata di Youtube.";
 "customcampaign_noimageerror" = "C\'è stato un problema con l\'immagine selezionata. Per favori riprova.";
-"customcampaign_optimismdesc" = "Seleziona un\'immagine dalla Libreria dell\'Ottimismo da usare per la campagna.";
-"customcampaign_optimismtitle" = "Libreria dell\'Ottimismo";
+
 "customcampaign_title" = "Campagna Personalizzata";
 "customcampaign_virtualpagedesc" = "Utilizza una pagina Virtual Landing personalizzata di un\'azienda per una campagna";
 "customcampaign_virtualpagetitle" = "Pagina Virtual Lanfing";
@@ -102,14 +98,12 @@
 "customerconfirm_sameperson" = "Stessa persona";
 "customerconfirm_title" = "Unioni in sospeso";
 "dailyoptimism_autodrip" = "Impostazioni Auto-Drip";
-"dailyoptimism_help" = "Guarda e condividi l\'Ottimismo del giorno! \nPremi \"Libreria\" per selezionare uno degli Ottimismi passati per condividerlo.";
+
 "dailyoptimism_library" = "Libreria";
-"dailyoptimism_share" = "Condividere l\'Ottimismo di Oggi";
-"dailyoptimism_title" = "Ottimismo del Giorno";
+
+
 "dashboard_help" = "Attraverso il dashboard è possibile visualizzare tutte le informazioni recenti relative al business. \n\n Clicca per scorrere tra le schede.";
-"dashboard_home" = "Business Snapshot";
-"dashboard_newsfeed" = "Jnews";
-"dashboard_prospector" = "Distributori Potenziali";
+
 "dashboard_title" = "Dashboard";
 "debugmenu_help" = "Il menu debug può essere utilizzato per testare varie caratteristiche inclusi i cambiamenti ambientali e API.";
 "debugmenu_notoken" = "Nessun Token disponibile";
@@ -424,14 +418,14 @@
 "menu_myevents" = "I Miei Eventi";
 "menu_myleads" = "Le Mie Reclute";
 "menu_newsignup" = "Aggiungi Nuovo Iscritto";
-"menu_optimism" = "Ottimismo";
+
 "menu_otherheader" = "ALTRO";
 "menu_peoplesponsored" = "Persone che Sponsorizzo";
 "menu_profile" = "Profilo";
 "menu_promotions" = "PROMOZIONI";
 "menu_reports" = "Rapporti";
 "menu_shoppingcart" = "Carrello";
-"menu_smartcloud" = "SmartCloud";
+
 "menu_sod" = "Success On Demand";
 "menu_trainingvideos" = "Video di Allenamento";
 "menu_videocampaign" = "Video Campagna";
@@ -496,7 +490,7 @@
 "newsignup_signup" = "Iscrizione";
 "newsignup_sponsor" = "Sito url dello Sponsor";
 "newsignup_title" = "Nuovo Iscritto";
-"optimismlibrary_help" = "Seleziona un\'Ottimismo dalla libreria per continuare a condivere";
+
 "optimismlibrary_title" = "Libreria";
 "peopleisponsor_help" = "Guarda e contatta le persone che hai sponsorizzato. Premi uno sponsor per vedere più dettagli.";
 "peopleisponsor_title" = "Persone che Sponsorizzo";
@@ -506,7 +500,7 @@
 "profile_autodriptitle" = "Impostazioni Auto-Drip";
 "profile_editprofiledesc" = "Modifica le tue impostazioni del profilo includendo il nome, info contatti e foto del profilo.";
 "profile_editprofiletitle" = "Modifica Profilo";
-"profile_help" = "Guarda il tuo Profilo. \nSeleziona Modifica Profilo per modificare le informazioni del tuo profilo. nSeleziona l\'opzione Login ai tuoi account Social Media. \nSeleziona le impostazioni Auto-Drip per modificare il tuo Ottimismo personale per l\'Auto-Drip impostato.";
+
 "profile_mywebsite" = "Il Mio Sito Web";
 "profile_socialmediadesc" = "Accedi ai tuoi Social Media per utilizzare le opzioni con le campagne Auto-Drip.";
 "profile_socialmediatitle" = "Accedi a Social Media";
@@ -554,9 +548,9 @@
 "sendmessage_sendmessages" = "Invia Messaggio(i)";
 "sendmessage_sendsuccess" = "Messaggio(i) inviato/inviati.";
 "sendmessage_title" = "Invia Messaggio";
-"shareoptimism_help" = "Guarda e condividi l\'Ottimismo che hai selezionato dalla libreria!\nPremi il tasto indietro per ritornare alla libreria.";
-"shareoptimism_share" = "Condividi Questo Ottimismo";
-"shareoptimism_title" = "Ottimismo";
+
+
+
 "shoppingcart_added" = "Aggiunto";
 "shoppingcart_addtocart" = "Aggiungi al carrello";
 "shoppingcart_checkout" = "Checkout";
@@ -568,8 +562,8 @@
 "smartcloud_downloading" = "Downloading";
 "smartcloud_help" = "Guarda tutti i documenti e le informazioni nella Nuvola. \nPremi il tasto scarica per scaricare un documento. \nSe il documento è stato già scaricato, il tasto scarica non apparirà. Semplicemente seleziona il documento per aprirlo e vederlo. \nPer cancellare un documento scaricato, sposta il documento da destra a sinistra del tasto rimuovi.";
 "smartcloud_removelocal" = "Rimozione Locale";
-"smartcloud_title" = "SmartCloud";
-"socialmedia_help" = "Accedi ai tuoi social networks. Accedendo ti permetterà di caricare una foto profilo dal tuo social media sul Profilo Mobile e fare Auto-Drip per i post degli Ottimismi.";
+
+
 "socialmedia_howeusetitle" = "Come noi usiamo i tuoi Account dei Social Media:";
 "socialmedia_howweusedesc" = "- Ottienti le informazioni base del profile (nome, nome utente, ecc)\n- Ottieni la foto del profilo per apparire nella-app\n- Richiesta permesso per autorizzare a creare post";
 "socialmedia_title" = "Social Media";

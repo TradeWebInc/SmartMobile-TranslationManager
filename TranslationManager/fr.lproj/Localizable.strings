@@ -76,17 +76,12 @@
 "carttype_help" = "Choisir entre acheter un produit de détail ou en gros en sélectionnant le type de bouton.";
 "carttype_retail" = "Détail";
 "carttype_title" = "Sélection du panier";
-"carttype_wholesale" = "Boutique JOffice";
 "carttype_wholesaleunavailable" = "Nous travaillons dur pour ajouter les achats en gros à l\'appli !";
 "customcampaign_camerarolldesc" = "Sélectionner une image à utiliser pour la campagne à partir de l\'appareil photo de votre appareil mobile.";
 "customcampaign_camerarolltitle" = "Appareil photo";
 "customcampaign_gallerydesc" = "Sélectionner une image à utiliser pour la campagne à partir de la galerie de votre appareil mobile.";
 "customcampaign_gallerytitle" = "Galerie";
-"customcampaign_help" = "Envoyer différentes campagnes personnalisées à vos groupes de leads.\n\nChoisir l\'option Appareil Photo pour envoyer une campagne photo depuis l\'appareil photo de votre téléphone.\n\nChoisir l\'option Bibliothèque Partageable pour envoyer une campagne photo depuis celle-ci.\n\nChoisir l\'option YouTube pour envoyer une campagne YouTube personnalisée.";
-"customcampaign_help_android" = "Envoyer différentes campagnes personnalisées à vos groupes de leads.\n\nChoisir l\'option Galerie pour envoyer une campagne photo depuis la Galerie de votre téléphone.\n\nChoisir l\'option Bibliothèque Partageable pour envoyer une campagne photo depuis celle-ci.\n\nChoisir l\'option YouTube pour envoyer une campagne YouTube personnalisée.";
 "customcampaign_noimageerror" = "Un problème est survenu en sélectionnant votre image. Veuillez réessayer.";
-"customcampaign_optimismdesc" = "Sélectionner une image à utiliser pour la campagne à partir de la Bibliothèque Partageable.";
-"customcampaign_optimismtitle" = "Bibliothèque Partageable";
 "customcampaign_title" = "Campagne personnalisée";
 "customcampaign_virtualpagedesc" = "Utiliser une page de renvoi virtuelle personnalisée d\'entreprise dans une campagne.";
 "customcampaign_virtualpagetitle" = "Page d\'accueil virtuelle";
@@ -102,14 +97,13 @@
 "customerconfirm_sameperson" = "Même personne";
 "customerconfirm_title" = "Fusions en attente";
 "dailyoptimism_autodrip" = "Paramètres Auto-Drip";
-"dailyoptimism_help" = "Afficher et partager le contenu journalier partageable !\n\nToucher \"Bibliothèque\" pour choisir n\'importe quel contenu précédent partageable à partager.";
+
 "dailyoptimism_library" = "Bibliothèque";
-"dailyoptimism_share" = "Partager le contenu partageable du jour";
-"dailyoptimism_title" = "Contenu partageable du jour";
+
+
 "dashboard_help" = "Depuis le tableau de bord, vous pouvez voir toutes les dernières informations liées à votre activité.\nToucher les boutons d\'onglet pour passer d\'un onglet à l\'autre.";
-"dashboard_home" = "Aperçu de l\'activité";
-"dashboard_newsfeed" = "JNews";
-"dashboard_prospector" = "Prospector";
+
+
 "dashboard_title" = "Tableau de bord";
 "debugmenu_help" = "Le menu déboguer peut être utilisé pour tester diverses fonctionnalités, dont les changements d\'environnement et les données API.";
 "debugmenu_notoken" = "Aucun jeton disponible";
@@ -424,14 +418,13 @@
 "menu_myevents" = "Mes événements";
 "menu_myleads" = "Mes leads";
 "menu_newsignup" = "Ajouter de nouvelles inscriptions";
-"menu_optimism" = "Contenus partageables";
+
 "menu_otherheader" = "AUTRE";
 "menu_peoplesponsored" = "Personne I Sponsor";
 "menu_profile" = "Profil";
 "menu_promotions" = "PROMOTIONS";
 "menu_reports" = "Rapports";
 "menu_shoppingcart" = "Panier";
-"menu_smartcloud" = "JCloud";
 "menu_sod" = "Succès sur demande";
 "menu_trainingvideos" = "Vidéos de formation";
 "menu_videocampaign" = "Campagne vidéo";
@@ -496,7 +489,7 @@
 "newsignup_signup" = "S\'inscrire";
 "newsignup_sponsor" = "Url du site du sponsor";
 "newsignup_title" = "Nouvelle inscription";
-"optimismlibrary_help" = "Sélectionner un contenu partageable depuis la bibliothèque pour poursuivre le partage.";
+
 "optimismlibrary_title" = "Bibliothèque";
 "peopleisponsor_help" = "Voir et contacter les personnes que vous avez personnellement sponsorisées. Toucher un sponsor pour voir plus d\'informations.";
 "peopleisponsor_title" = "Personne I Sponsor";
@@ -506,7 +499,7 @@
 "profile_autodriptitle" = "Paramètres Auto-Drip";
 "profile_editprofiledesc" = "Changer les paramètres de votre profile de mobile, dont le nom, les coordonnées et la photo de profil.";
 "profile_editprofiletitle" = "Modifier le profil";
-"profile_help" = "Voir votre profile de mobile.\n\nSélectionner Modifier Profil pour modifier les informations dans votre profil\n\nSélectionner l\'option Connexion aux Médias Sociaux pour vous connecter à vos comptes de médias sociaux.\n\nSélectionner Paramètres Auto-Drip pour modifier votre planning des posts Auto-Drip partageables.";
+
 "profile_mywebsite" = "Mon site Web";
 "profile_socialmediadesc" = "Se connecter aux comptes de médias sociaux pour utiliser des fonctionnalités comme les Campagnes Auto-Drip.";
 "profile_socialmediatitle" = "Connexion aux médias sociaux";
@@ -554,9 +547,9 @@
 "sendmessage_sendmessages" = "Envoyer un (des) message(s)";
 "sendmessage_sendsuccess" = "Le(s) message(s) a (ont) été envoyé(s).";
 "sendmessage_title" = "Envoyer un message";
-"shareoptimism_help" = "Voir et partager le contenu partageable que vous avez sélectionné depuis la bibliothèque !\n\nToucher le bouton Retour pour revenir à la bibliothèque.";
-"shareoptimism_share" = "Partager ce contenu partageable";
-"shareoptimism_title" = "Partageable";
+
+
+
 "shoppingcart_added" = "Ajouté";
 "shoppingcart_addtocart" = "Ajouter au panier";
 "shoppingcart_checkout" = "Payer";
@@ -568,8 +561,7 @@
 "smartcloud_downloading" = "Téléchargement";
 "smartcloud_help" = "Voir tous les fichiers et les répertoires dans le Cloud.\n\nToucher le bouton Télécharger pour télécharger un fichier.\n\nSi le fichier est déjà téléchargé localement, le bouton Télécharger n\'apparaîtra pas. Il suffit de toucher le fichier pour l\'ouvrir et le voir.\n\nPour supprimer un fichier téléchargé localement, faites simplement glisser le fichier de la droite vers la gauche pour afficher le bouton Suppression.";
 "smartcloud_removelocal" = "Suppression local";
-"smartcloud_title" = "JCloud";
-"socialmedia_help" = "Connectez-vous à vos réseaux sociaux. En vous connectant, vous pourrez télécharger une photo de profil de média social sur votre profil de mobile et faire des posts Auto-Drip partageables.";
+
 "socialmedia_howeusetitle" = "Détails sur la façon dont nous utilisons vos comptes de médias sociaux :";
 "socialmedia_howweusedesc" = "- Avoir des infos de profil basiques (nom, pseudonyme, etc)\n- Avoir la photo de profil à afficher dans l\'appli\n- Demander les autorisation pour vous permettre de faire des posts.";
 "socialmedia_title" = "Médias sociaux";

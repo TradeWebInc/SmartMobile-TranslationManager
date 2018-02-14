@@ -84,11 +84,8 @@
 "customcampaign_camerarolltitle" = "Gulungan Kamera";
 "customcampaign_gallerydesc" = "Pilih imej daripada galeri peranti mudah alih anda untuk digunakan dalam kempen.";
 "customcampaign_gallerytitle" = "Galeri";
-"customcampaign_help" = "Hantar pelbagai kempen tersuai untuk kumpulan lead anda.\n\nPilih Gulungan Kamera untuk menghantar kempen gambar menggunakan gambar daripada Gulungan Kamera telefon anda.\n\nPilih Perpustakaan Optimism untuk menghantar gambar kempen daripada Perpustakaan Optimism\n\nPilih YouTube untuk menghantar kempen tersuai YouTube.";
-"customcampaign_help_android" = "Hantar pelbagai kempen tersuai untuk kumpulan lead anda.\n\nPilih Galeri untuk menghantar kempen gambar menggunakan gambar daripada Galeri telefon anda.\n\nPilih Perpustakaan Optimism untuk menghantar gambar kempen daripada Perpustakaan Optimism\n\nPilih YouTube untuk menghantar kempen tersuai YouTube.";
 "customcampaign_noimageerror" = "Ada masalah memilih imej anda. Sila cuba lagi.";
-"customcampaign_optimismdesc" = "Pilih imej daripada Perpustakaan Optimism Harian untuk digunakan di dalam kempen.";
-"customcampaign_optimismtitle" = "Perpustakaan Optimism";
+
 "customcampaign_title" = "Kempen Tersuai";
 "customcampaign_virtualpagedesc" = "Gunakan Laman Mendarat Maya korporat yagn disesuaikan dalam kempen.";
 "customcampaign_virtualpagetitle" = "Laman Mendarat Maya";
@@ -104,14 +101,14 @@
 "customerconfirm_sameperson" = "Orang yang sama";
 "customerconfirm_title" = "Gabungan Tergantung";
 "dailyoptimism_autodrip" = "Tetapan Auto-Drip";
-"dailyoptimism_help" = "Lihat dan kongsi Optimism harian!\n\nKetik \"Perpustakaan\" untuk memilih mana-mana Optimism lalu untuk dikongsi.";
+
 "dailyoptimism_library" = "Perpustakaan";
-"dailyoptimism_share" = "Kongsi Optimism Hari Ini";
-"dailyoptimism_title" = "Optimism Harian";
+
+
 "dashboard_help" = "Dari papan pemuka anda boleh lihat semua maklumat terkini berkenaan perniagaan anda.\n\nKetik butang tab untuk beralih kepada tab lain.";
-"dashboard_home" = "Laman Utama";
-"dashboard_newsfeed" = "Suapan Berita";
-"dashboard_prospector" = "Prospektor";
+
+
+
 "dashboard_title" = "Papan Pemuka";
 "debugmenu_beacons" = "Isyarat";
 "debugmenu_environmentrestart" = "Semua perubahan persekitaran memerlukan aplikasi dimulakan semula sepenuhnya.";
@@ -437,14 +434,14 @@
 "menu_myevents" = "Acara Saya";
 "menu_myleads" = "Lead Saya";
 "menu_newsignup" = "Tambah Ahli Baru";
-"menu_optimism" = "Optimism";
+
 "menu_otherheader" = "LAIN-LAIN";
 "menu_peoplesponsored" = "Orang Saya Taja";
 "menu_profile" = "Profil";
 "menu_promotions" = "PROMOSI";
 "menu_reports" = "Laporan";
 "menu_shoppingcart" = "Troli Membeli-belah";
-"menu_smartcloud" = "SmartCloud";
+
 "menu_sod" = "Success On Demand";
 "menu_trainingvideos" = "Video Latihan";
 "menu_videocampaign" = "Kempen Video";
@@ -511,7 +508,7 @@
 "newsignup_signup" = "Daftar";
 "newsignup_sponsor" = "Siteurl Penaja";
 "newsignup_title" = "Ahli Baru";
-"optimismlibrary_help" = "Pilih mana-mana Optimism dari perpustakaan untuk terus berkongsi.";
+
 "optimismlibrary_title" = "Perpustakaan";
 "peopleisponsor_help" = "Lihat dan hubungi orang yang anda taja secara peribadi. Ketik pada penaja untuk melihat maklumat lanjut.";
 "peopleisponsor_title" = "Orang Saya Taja";
@@ -521,7 +518,7 @@
 "profile_autodriptitle" = "Tetapan Auto-Drip";
 "profile_editprofiledesc" = "Ubah tetapan profil mudah alih anda termasuk nama, maklumat hubungan dan gambar profil.";
 "profile_editprofiletitle" = "Sunting Profil";
-"profile_help" = "Lihat Profil Mudah Alih anda.\n\nPilih Sunting Profil untuk mengubahsuai maklumat pada profil anda.\n\nPilih Log Masuk ke Media Sosial untuk log masuk ke akaun media sosial anda.\n\nPilih Tetapan Auto-Drip untuk menyunting jadual catatan Auto-Drip.";
+
 "profile_mywebsite" = "Tapak Web Saya";
 "profile_socialmediadesc" = "Log masuk ke akaun media sosial untuk menggunakan ciri-ciri seperti Kempen Auto-Drip.";
 "profile_socialmediatitle" = "Log Masuk ke Media Sosial";
@@ -569,9 +566,9 @@
 "sendmessage_sendmessages" = "Hantar Mesej";
 "sendmessage_sendsuccess" = "Mesej telah dihantar.";
 "sendmessage_title" = "Hantar Mesej";
-"shareoptimism_help" = "Lihat dan kongsi Optimism yang anda pilih daripada perpustakaan!\n\nKetik butang kembali untuk kembali ke perpustakaan.";
-"shareoptimism_share" = "Kongsi Optimism Ini";
-"shareoptimism_title" = "Optimism";
+
+
+
 "shoppingcart_added" = "Telah Ditambah";
 "shoppingcart_addtocart" = "Tambah ke troli";
 "shoppingcart_checkout" = "Daftar Keluar";
@@ -583,8 +580,8 @@
 "smartcloud_downloading" = "Memuat turun";
 "smartcloud_help" = "Lihat semua fail dan direktori di Awan.\n\nKetik butang muat turun fail untuk memuat turun.\n\nJika fail telah dimuat turun secara tempatan, butang muat turun tidak akan kelihatan. Hanya sentuh fail yang hendak dibuka dan lihat ia.\n\nUntuk menghapuskan fail yang dimuat turun secara tempatan, hanya kuis fail dari kanan ke kiri untuk mendedahkan butang penyingkiran.";
 "smartcloud_removelocal" = "Buang Tempatan";
-"smartcloud_title" = "SmartCloud";
-"socialmedia_help" = "Daftar masuk ke media sosial anda. Log masuk akan membolehkan anda memuat naik gambar profil media sosial ke Profil Mudah Alih anda dan membuat catatan AutoDrip Optimism.";
+
+
 "socialmedia_howeusetitle" = "Cara kami menggunakan Akaun Media Sosial anda:";
 "socialmedia_howweusedesc" = "- Dapatkan maklumat profil asas (nama, nama skrin, dan lain-lain)\n- Dapatkan gambar profil untuk dipaparkan di dalam app\n- Minta izin untuk membolehkan anda membuat catatan";
 "socialmedia_title" = "Media Sosial";

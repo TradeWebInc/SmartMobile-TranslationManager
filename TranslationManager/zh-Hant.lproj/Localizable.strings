@@ -84,11 +84,8 @@
 "customcampaign_camerarolltitle" = "相機膠卷";
 "customcampaign_gallerydesc" = "選取行動裝置圖庫中的圖片，以便用於行銷活動。";
 "customcampaign_gallerytitle" = "圖庫";
-"customcampaign_help" = "將多份自定行銷活動資訊傳送給潛在客戶群組。\n\n選擇「相機膠卷」選項後，您在傳送照片行銷活動資訊時即可利用手機「相機膠卷」中的照片。\n\n選擇「勵志圖資料庫」選項後，您在傳送照片行銷活動資訊時即可利用「勵志圖資料庫」\n\n選擇「YouTube」選項即可送出自定的 YouTube 行銷活動資訊。";
-"customcampaign_help_android" = "將多份自定行銷活動資訊傳送給潛在客戶群組。\n\n選擇「圖庫」選項後，您在傳送照片行銷活動資訊時即可利用手機圖庫中的照片。\n\n選擇「勵志圖資料庫」選項後，您在傳送照片行銷活動資訊時即可利用「勵志圖資料庫」\n\n選擇「YouTube」選項即可送出自定的 YouTube 行銷活動資訊。";
 "customcampaign_noimageerror" = "選取圖片時發生問題。請再試一次。";
-"customcampaign_optimismdesc" = "選取每日勵志圖資料庫中的圖片，以便用於行銷活動。";
-"customcampaign_optimismtitle" = "勵志圖資料庫";
+
 "customcampaign_title" = "自定行銷活動";
 "customcampaign_virtualpagedesc" = "將公司客製化的虛擬到達網頁用於行銷活動。";
 "customcampaign_virtualpagetitle" = "虛擬到達網頁";
@@ -104,14 +101,14 @@
 "customerconfirm_sameperson" = "同一個人";
 "customerconfirm_title" = "等待合併";
 "dailyoptimism_autodrip" = "自動發佈設定";
-"dailyoptimism_help" = "查看並分享每日勵志圖！\n\n輕點「資料庫」即可選擇您要分享的任何一張舊勵志圖。";
+
 "dailyoptimism_library" = "資料庫";
-"dailyoptimism_share" = "分享今天的勵志圖";
-"dailyoptimism_title" = "每日勵志圖";
+
+
 "dashboard_help" = "您可在控制台中看到所有最新的業務資訊。\n\n點一下標籤頁按鈕即可切換標籤頁。";
-"dashboard_home" = "主畫面";
-"dashboard_newsfeed" = "動態消息";
-"dashboard_prospector" = "Prospector";
+
+
+
 "dashboard_title" = "控制台";
 "debugmenu_beacons" = "信標";
 "debugmenu_environmentrestart" = "所有的環境變化都需要應用程式重新啟動。";
@@ -437,14 +434,14 @@
 "menu_myevents" = "我的活動";
 "menu_myleads" = "我的潛在客戶";
 "menu_newsignup" = "新註冊";
-"menu_optimism" = "勵志圖";
+
 "menu_otherheader" = "其他";
 "menu_peoplesponsored" = "使用者 I 贊助者";
 "menu_profile" = "個人檔案";
 "menu_promotions" = "促銷活動";
 "menu_reports" = "報告";
 "menu_shoppingcart" = "購物車";
-"menu_smartcloud" = "SmartCloud";
+
 "menu_sod" = "Success On Demand";
 "menu_trainingvideos" = "訓練影片";
 "menu_videocampaign" = "影片行銷活動";
@@ -511,7 +508,7 @@
 "newsignup_signup" = "註冊";
 "newsignup_sponsor" = "贊助者網站 URL";
 "newsignup_title" = "新註冊";
-"optimismlibrary_help" = "在資料庫中選擇您要繼續分享的勵志圖。";
+
 "optimismlibrary_title" = "資料庫";
 "peopleisponsor_help" = "查看並聯絡您贊助的使用者。輕點贊助者即可查看更多詳細資訊。";
 "peopleisponsor_title" = "使用者 I 贊助者";
@@ -521,7 +518,7 @@
 "profile_autodriptitle" = "自動發佈設定";
 "profile_editprofiledesc" = "修改您的行動個人檔案設定，包括姓名、聯絡資訊和個人檔案圖片。";
 "profile_editprofiletitle" = "編輯個人檔案";
-"profile_help" = "查看您的行動個人檔案。\n\n選取「編輯個人檔案」即可修改個人檔案資訊。\n\n選取「登入社交網站」選項即可登入自己的社交網站帳號。\n\n選取「自動發佈設定」即可修改個人的勵志圖自動發佈時間表。";
+
 "profile_mywebsite" = "我的網站";
 "profile_socialmediadesc" = "登入社交網站帳號，以便使用自動發佈行銷活動這類功能。";
 "profile_socialmediatitle" = "登入社交網站";
@@ -569,9 +566,9 @@
 "sendmessage_sendmessages" = "傳送訊息";
 "sendmessage_sendsuccess" = "簡訊已經發出。";
 "sendmessage_title" = "傳送訊息";
-"shareoptimism_help" = "查看並分享您在資料庫中選擇的勵志圖！\n\n輕點「返回」按鈕即可返回資料庫。";
-"shareoptimism_share" = "分享這張勵志圖";
-"shareoptimism_title" = "勵志圖";
+
+
+
 "shoppingcart_added" = "添加";
 "shoppingcart_addtocart" = "添加到購物車";
 "shoppingcart_checkout" = "結賬";
@@ -583,8 +580,8 @@
 "smartcloud_downloading" = "下載中";
 "smartcloud_help" = "查看雲端中的所有檔案與目錄。\n\n輕點檔案的下載按鈕即可下載。\n\n若檔案已下載到本機，則不會出現下載按鈕。輕點檔案即可開啟並查看內容。\n\n若要刪除下載到本機的檔案，只要在檔案上從右向左滑動，即可出現移除按鈕。";
 "smartcloud_removelocal" = "移除本機檔案";
-"smartcloud_title" = "SmartCloud";
-"socialmedia_help" = "登入您的社交網站帳號。登入帳號後即可將社交網站個人檔案圖片上傳到行動個人檔案，並發佈勵志圖自動發佈留言。";
+
+
 "socialmedia_howeusetitle" = "我們如何使用您的社交網站帳號：";
 "socialmedia_howweusedesc" = "- 取得基本個人檔案資訊（名稱、用戶名稱⋯⋯等等）\n- 取得要在 app 中顯示的個人檔案圖片\n- 要求提供讓您留言的權限";
 "socialmedia_title" = "社交網站";

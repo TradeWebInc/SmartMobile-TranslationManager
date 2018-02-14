@@ -76,17 +76,13 @@
 "carttype_help" = "Kies tussen de aankoop van een detailhandel- of een groothandelproduct door de betreffende knop te selecteren.";
 "carttype_retail" = "Detailhandel";
 "carttype_title" = "Selecteer winkelwagen";
-"carttype_wholesale" = "JOffice Winkel";
 "carttype_wholesaleunavailable" = "We zijn druk bezig om de groothandelproducten aan de app toe te voegen!";
 "customcampaign_camerarolldesc" = "Selecteer een afbeelding van de filmrol van uw mobiele telefoon, die u wilt gebruiken voor de campagne.";
 "customcampaign_camerarolltitle" = "Filmrol";
 "customcampaign_gallerydesc" = "Selecteer een afbeelding uit de galerij van uw mobiele telefoon, die u wilt gebruiken voor de campagne.";
 "customcampaign_gallerytitle" = "Galerij";
-"customcampaign_help" = "Stuur verschillende aangepaste campagnes naar uw lead-groepen.\n\nKies de optie Filmrol om een fotocampagne te verzenden met foto\'s uit de filmrol van uw telefoon.\n\nKies de optie Gedeelde Bibliotheek om een fotocampagne vanuit de Gedeelde Bibliotheek te verzenden\n\nKies de YouTube-optie om een aangepaste YouTube-campagne uit te sturen.";
-"customcampaign_help_android" = "Stuur verschillende aangepaste campagnes naar uw lead-groepen.\n\nKies de optie Galerij om een fotocampagne te verzenden met foto\'s uit de galerij van uw telefoon.\n\nKies de optie Gedeelde Bibliotheek om een fotocampagne vanuit de Gedeelde Bibliotheek te verzenden\n\nKies de YouTube-optie om een aangepaste YouTube-campagne uit te sturen.";
 "customcampaign_noimageerror" = "Er is een probleem opgetreden bij het selecteren van de afbeelding. Probeer het nog eens.";
-"customcampaign_optimismdesc" = "Selecteer een afbeelding uit de dagelijkse Gedeelde Bibliotheek, die u wilt gebruiken voor de campagne.";
-"customcampaign_optimismtitle" = "Gedeelde Bibliotheek";
+
 "customcampaign_title" = "Aangepaste campagne";
 "customcampaign_virtualpagedesc" = "Gebruik een aangepaste virtuele landingspagina van het bedrijf in uw campagne.";
 "customcampaign_virtualpagetitle" = "Virtuele landingspagina";
@@ -102,14 +98,13 @@
 "customerconfirm_sameperson" = "Dezelfde persoon";
 "customerconfirm_title" = "Openstaande samenvoegingen";
 "dailyoptimism_autodrip" = "Auto-Drip-instellingen";
-"dailyoptimism_help" = "Bekijk en deel de dagelijkse gedeelde items!\n\n Druk op de knop\"Bibliotheek\" om een eerder gedeeld items te delen.";
+
 "dailyoptimism_library" = "Bibliotheek";
-"dailyoptimism_share" = "Het gedeelde item van vandaag delen";
-"dailyoptimism_title" = "Dagelijks te delen items";
+
+
 "dashboard_help" = "In het dashboard kunt u alle actuele informatie met betrekking tot uw bedrijf inzien.\n\nDruk op het tabblad Knoppen om te wisselen tussen tabs.";
-"dashboard_home" = "Overzicht bedrijfsgegevens";
-"dashboard_newsfeed" = "JNews";
-"dashboard_prospector" = "Prospector";
+
+
 "dashboard_title" = "Dashboard";
 "debugmenu_help" = "Het debug-menu kan worden gebruikt voor het testen van verschillende functies waaronder veranderingen van omgeving en API\'s.";
 "debugmenu_notoken" = "Geen gegevens beschikbaar";
@@ -424,14 +419,13 @@
 "menu_myevents" = "Mijn evenementen";
 "menu_myleads" = "Mijn leads";
 "menu_newsignup" = "Toevoegen nieuwe inschrijving";
-"menu_optimism" = "Gedeelde items";
+
 "menu_otherheader" = "OVERIG";
 "menu_peoplesponsored" = "Personen I Sponsor";
 "menu_profile" = "Profiel";
 "menu_promotions" = "RECLAMEACTIES";
 "menu_reports" = "Rapporten";
 "menu_shoppingcart" = "Winkelwagen";
-"menu_smartcloud" = "JCloud";
 "menu_sod" = "Succes On Demand";
 "menu_trainingvideos" = "Trainingvideo\'s";
 "menu_videocampaign" = "Videocampagne";
@@ -496,7 +490,7 @@
 "newsignup_signup" = "Aanmelding";
 "newsignup_sponsor" = "Sponsor Siteurl";
 "newsignup_title" = "Nieuwe aanmelding";
-"optimismlibrary_help" = "Selecteer één van de gedeelde items uit de bibliotheek om verder te delen.";
+
 "optimismlibrary_title" = "Bibliotheek";
 "peopleisponsor_help" = "Personen bekijken en benaderen, die u persoonlijk sponsort. Druk op een sponsor voor meer informatie.";
 "peopleisponsor_title" = "Personen I Sponsor";
@@ -506,7 +500,7 @@
 "profile_autodriptitle" = "Auto-Drip-instellingen";
 "profile_editprofiledesc" = "Instellingen van uw mobiele profiel wijzigen, zoals naam, contactgegevens en profielfoto.";
 "profile_editprofiletitle" = "Profiel bewerken";
-"profile_help" = "Uw mobiele profiel bekijken.\n\nSelecteer Profiel bewerken om de gegevens te wijzigen in uw profiel.\n\nSelecteer de optie Login op Social Media om in te loggen op uw social-media-accounts.\n\nSelecteer Auto-Drip-instellingen om uw persoonlijke gedeelde schema voor Auto-Drip-berichten te bewerken.";
+
 "profile_mywebsite" = "Mijn website";
 "profile_socialmediadesc" = "Login op social-media-accounts om functies als Auto-Drip campagnes te gebruiken.";
 "profile_socialmediatitle" = "Login op Social Media";
@@ -554,9 +548,9 @@
 "sendmessage_sendmessages" = "Bericht(en) verzenden";
 "sendmessage_sendsuccess" = "Bericht(en) zijn verzonden.";
 "sendmessage_title" = "Bericht verzenden";
-"shareoptimism_help" = "Bekijken en delen van de gedeelde items die u hebt geselecteerd uit de bibliotheek!\n\nDruk op de terugkeerknop om terug te keren naar de bibliotheek.";
-"shareoptimism_share" = "Deel dit gedeelde item";
-"shareoptimism_title" = "Gedeeld item";
+
+
+
 "shoppingcart_added" = "Toegevoegd";
 "shoppingcart_addtocart" = "Toevoegen aan winkelwagen";
 "shoppingcart_checkout" = "Afrekenen";
@@ -568,8 +562,7 @@
 "smartcloud_downloading" = "Downloaden";
 "smartcloud_help" = "Bekijk alle bestanden en directories in de cloud.n\nDruk op de downloadknop om een bestand te downloaden.\n\nAls het bestand al gedownload is, wordt de downloadknop niet weergegeven. Druk op het bestand om het te openen en te bekijken.\n\nOm een gedownload bestand te verwijderen veegt u het bestand van rechts naar links, zodat de  verwijderknop verschijnt.";
 "smartcloud_removelocal" = "Lokaal verwijderen";
-"smartcloud_title" = "JCloud";
-"socialmedia_help" = "Log in bij uw sociale netwerken. Door in te loggen kunt u een profielfoto van social media uploaden naar uw Mobiele Profiel en Gedeelde AutoDrip-berichten posten.";
+
 "socialmedia_howeusetitle" = "Hoe wij uw Social-Media-accounts gebruiken:";
 "socialmedia_howweusedesc" = "- verkrijgen basisinformatie van profiel (naam, schermnaam, etc)\n- verkrijgen profielafbeelding om in-app weer te geven\n- verkrijgen toestemmingen, zodat u kunt posten";
 "socialmedia_title" = "Social Media";

@@ -76,17 +76,13 @@
 "carttype_help" = "タイプボタンで製品の価格タイプを選択します。";
 "carttype_retail" = "リテール";
 "carttype_title" = "カート セレクション";
-"carttype_wholesale" = "Joffice ショップ";
 "carttype_wholesaleunavailable" = "私たちは、卸売購入がアプリでできるようにしていきます！";
 "customcampaign_camerarolldesc" = "モバイル端末のカメラロールの画像をキャンペーンに使用します。";
 "customcampaign_camerarolltitle" = "カメラロール";
 "customcampaign_gallerydesc" = "モバイル端末のギャラリーの画像をキャンペーンに使用します。";
 "customcampaign_gallerytitle" = "ギャラリー";
-"customcampaign_help" = "様々なカスタムキャンペーンを見込顧客グループに送ります。\n\n携帯電話のカメラロールにある画像を送るには、「カメラロール」を選択します。\n\n画像キャンペーンを「ちょっといい一言」ライブラリーから送信するには、ライブラリオプションを選択します。\n\nカスタマイズされたYouTubeキャンペーンを送信するにはYouTubeオプションを選択します。";
-"customcampaign_help_android" = "様々なカスタムキャンペーンを見込顧客グループに送ります。\n\n携帯電話のギャラリーにある画像を送るには、「ギャラリー」を選択します。\n\n画像キャンペーンを「ちょっといい一言」ライブラリーから送信するには、ライブラリオプションを選択します。\n\nカスタマイズされたYouTubeキャンペーンを送信するにはYouTubeオプションを選択します。";
 "customcampaign_noimageerror" = "画像の選択中にエラーが発生しました。もう一度お試しください。";
-"customcampaign_optimismdesc" = "「ちょっといい一言」ライブラリの画像をキャンペーンに使用します。";
-"customcampaign_optimismtitle" = "「ちょっといい一言」ライブラリ";
+
 "customcampaign_title" = "カスタムキャンペーン";
 "customcampaign_virtualpagedesc" = "カスタマイズされた企業用バーチャルランディングページをキャンペーンで使用します。";
 "customcampaign_virtualpagetitle" = "バーチャルランディングページ";
@@ -102,14 +98,14 @@
 "customerconfirm_sameperson" = "同じ連絡先";
 "customerconfirm_title" = "保留統合";
 "dailyoptimism_autodrip" = "定期投稿設定";
-"dailyoptimism_help" = "「今日のちょっといい一言」をチェック＆シェアしましょう！\n\n過去のちょっといい一言をシェアするには「ライブラリ」をタップしてください。";
+
 "dailyoptimism_library" = "ライブラリ";
-"dailyoptimism_share" = "「今日のちょっといい一言」をシェア";
-"dailyoptimism_title" = "今日のちょっといい一言";
+
+
 "dashboard_help" = "ダッシュボードから、ビジネス関連の最新情報をすべて確認できます。\n\n［タブ］ボタンを押してタブを切り替えてください。";
-"dashboard_home" = "ホーム";
-"dashboard_newsfeed" = "ニュースフィード";
-"dashboard_prospector" = "Prospector";
+
+
+
 "dashboard_title" = "ダッシュボード";
 "debugmenu_help" = "デバッグメニューを使用して、システム環境やAPIなどのさまざまな機能をテストできます。";
 "debugmenu_notoken" = "トークンがありません。";
@@ -424,14 +420,14 @@
 "menu_myevents" = "マイイベント";
 "menu_myleads" = "見込顧客";
 "menu_newsignup" = "新規サインアップを追加";
-"menu_optimism" = "ちょっといい一言";
+
 "menu_otherheader" = "その他";
 "menu_peoplesponsored" = "相手 | スポンサー";
 "menu_profile" = "プロフィール";
 "menu_promotions" = "プロモーション";
 "menu_reports" = "レポート";
 "menu_shoppingcart" = "ショッピング カート";
-"menu_smartcloud" = "SmartCloud";
+
 "menu_sod" = "Success On Demand";
 "menu_trainingvideos" = "トレーニングビデオ";
 "menu_videocampaign" = "ビデオキャンペーン";
@@ -496,7 +492,7 @@
 "newsignup_signup" = "サインアップ";
 "newsignup_sponsor" = "スポンサーのウェブサイトURL";
 "newsignup_title" = "新規サインアップ";
-"optimismlibrary_help" = "ライブラリからちょっといい一言を選んでシェアしましょう。";
+
 "optimismlibrary_title" = "ライブラリ";
 "peopleisponsor_help" = "あなたがスポンサーをしている人物を確認したり連絡を取ることができます。詳細を見るには該当のスポンサーをタップします。";
 "peopleisponsor_title" = "相手 | スポンサー";
@@ -506,7 +502,7 @@
 "profile_autodriptitle" = "定期投稿設定";
 "profile_editprofiledesc" = "名前、連絡先、プロフィール写真などのユーザープロフィール設定を変更できます。";
 "profile_editprofiletitle" = "プロフィール編集";
-"profile_help" = "ユーザープロフィールを確認できます。\n\nプロフィール内の情報を編集するには「プロフィール編集」を選択します。\n\nソーシャルメディアのアカウントにログインするには「ソーシャルメディアにログイン」を選択します。\n\n「ちょっといい一言」の投稿スケジュールを編集するには、「定期投稿設定」を選択します。";
+
 "profile_mywebsite" = "マイウェブサイト";
 "profile_socialmediadesc" = "定期投稿キャンペーンのような機能を利用するには、ソーシャルメディアにログインする必要があります。";
 "profile_socialmediatitle" = "ソーシャルメディアにログイン";
@@ -554,9 +550,9 @@
 "sendmessage_sendmessages" = "メッセージ送信";
 "sendmessage_sendsuccess" = "メッセージを送信しました";
 "sendmessage_title" = "メッセージ送信";
-"shareoptimism_help" = "ライブラリから選んだ「ちょっといい一言」をチェック＆シェアしましょう！\n\nライブラリに戻るには「戻る」ボタンを押してください。";
-"shareoptimism_share" = "この「ちょっといい一言」をシェア";
-"shareoptimism_title" = "ちょっといい一言";
+
+
+
 "shoppingcart_added" = "追加";
 "shoppingcart_addtocart" = "カートに追加";
 "shoppingcart_checkout" = "決済";
@@ -568,8 +564,8 @@
 "smartcloud_downloading" = "ダウンロード中";
 "smartcloud_help" = "クラウド内のすべてのファイルとディレクトリを表示します。\n\nファイルをダウンロードするには「ダウンロード」ボタンをタップします。\n\nファイルがすでにローカル上にダウンロードされている場合は、「ダウンロード」ボタンは表示されません。ファイルをタップするだけで表示できます。\n\nローカル上にダウンロードされたファイルを削除するには、ファイルを右から左にスワイプして削除ボタンを表示させます。";
 "smartcloud_removelocal" = "ローカルファイルを削除";
-"smartcloud_title" = "SmartCloud";
-"socialmedia_help" = "ソーシャルネットワークにサインインします。サインインすると、ソーシャルメディアのプロフィール写真をユーザープロフィール用にアップロードしたり、「ちょっといい一言」の定期投稿を行うことができるようになります。";
+
+
 "socialmedia_howeusetitle" = "ユーザーのソーシャルメディアアカウントの使用目的：";
 "socialmedia_howweusedesc" = "- 名前やハンドルネームなどの基本情報を取得します。\n- アプリ内で表示するためのプロフィール写真を取得します。\n- 投稿の許可をリクエストします。";
 "socialmedia_title" = "ソーシャルメディア";

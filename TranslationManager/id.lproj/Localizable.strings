@@ -76,17 +76,13 @@
 "carttype_help" = "Pilih antara melakukan pengecekan pembelian produk grosir dengan memilih tombol jenis.";
 "carttype_retail" = "Eceran";
 "carttype_title" = "Seleksi Keranjang";
-"carttype_wholesale" = "JOffice Shop";
 "carttype_wholesaleunavailable" = "Kami bekerja keras untuk membawa pembelian Grosir ke aplikasi!";
 "customcampaign_camerarolldesc" = "Pilih gambar dari rol kamera perangkat seluler Anda untuk digunakan pada kampanye.";
 "customcampaign_camerarolltitle" = "Rol Kamera";
 "customcampaign_gallerydesc" = "Pilih gambar dari galeri perangkat seluler Anda untuk digunakan pada kampanye.";
 "customcampaign_gallerytitle" = "Galeri";
-"customcampaign_help" = "Kirim beberapa kampanye khusus ke grup prospek Anda.\n\nPilih opsi Rol Kamera untuk mengirim foto kampanye menggunakan foto dari Rol Kamera ponsel Anda.\n\nPilih opsi Pustaka Optimisme untuk mengirim foto kampanye dari Pustaka Optimisme.\n\nPilih opsi YouTube untuk mengirimkan kampanye khusus YouTube.";
-"customcampaign_help_android" = "Kirim beberapa kampanye khusus ke grup prospek Anda.\n\nPilih opsi Galeri untuk mengirim foto kampanye menggunakan foto dari Galeri ponsel Anda.\n\nPilih opsi Pustaka Optimisme untuk mengirim foto kampanye dari Pustaka Optimisme.\n\nPilih opsi Youtube untuk mengirimkan kampanye khusus YouTube.";
 "customcampaign_noimageerror" = "Terjadi masalah saat memilih gambar. Harap coba lagi.";
-"customcampaign_optimismdesc" = "Pilih gambar dari Pustaka Optimisme harian untuk digunakan pada kampanye.";
-"customcampaign_optimismtitle" = "Pustaka Optimisme";
+
 "customcampaign_title" = "Kampanye Khusus";
 "customcampaign_virtualpagedesc" = "Gunakan Halaman Landas Virtual yang disesuaikan dengan kampanye.";
 "customcampaign_virtualpagetitle" = "Halaman Landas Virtual";
@@ -102,14 +98,14 @@
 "customerconfirm_sameperson" = "Orang yang sama";
 "customerconfirm_title" = "Penggabungan Ditunda";
 "dailyoptimism_autodrip" = "Pengaturan Auto-Drip";
-"dailyoptimism_help" = "Lihat dan bagikan Optimisme harian!\n\nKetuk \"Pustaka\" untuk memilih salah satu Optimisme terakhir untuk dibagikan.";
+
 "dailyoptimism_library" = "Pustaka";
-"dailyoptimism_share" = "Bagikan Optimisme Hari ini";
-"dailyoptimism_title" = "Optimisme Harian";
+
+
 "dashboard_help" = "Dari dasbor Anda dapat melihat semua informasi terbaru yang berhubungan dengan bisnis Anda. Ketuk tombol tab untuk mengubah setiap tab.";
-"dashboard_home" = "Beranda";
-"dashboard_newsfeed" = "Kabar Berita";
-"dashboard_prospector" = "Pencari";
+
+
+
 "dashboard_title" = "Dasbor";
 "debugmenu_help" = "Menu debug dapat digunakan untuk menguji berbagai fitur termasuk perubahan lingkungan dan API.";
 "debugmenu_notoken" = "Tidak ada token yang tersedia";
@@ -424,14 +420,14 @@
 "menu_myevents" = "Acara Saya";
 "menu_myleads" = "Prospek Saya";
 "menu_newsignup" = "Tambah Pendaftaran Baru";
-"menu_optimism" = "Optimisme";
+
 "menu_otherheader" = "LAIN";
 "menu_peoplesponsored" = "Orang yang Saya beri Sponsor";
 "menu_profile" = "Profil";
 "menu_promotions" = "PROMOSI";
 "menu_reports" = "Laporan";
 "menu_shoppingcart" = "Keranjang Belanjan";
-"menu_smartcloud" = "SmartCloud";
+
 "menu_sod" = "Success On Demand";
 "menu_trainingvideos" = "Video Pelatihan";
 "menu_videocampaign" = "Video Kampanye";
@@ -496,7 +492,7 @@
 "newsignup_signup" = "Daftar";
 "newsignup_sponsor" = "Situs url Sponsor";
 "newsignup_title" = "Daftar Baru";
-"optimismlibrary_help" = "Pilih satu Optimisme dari pustaka untuk melanjutkan berbagi.";
+
 "optimismlibrary_title" = "Pustaka";
 "peopleisponsor_help" = "Lihat dan hubungi orang yang Anda berikan sponsor secara personal. Ketuk pada sponsor untuk melihat rincian selengkapnya.";
 "peopleisponsor_title" = "Orang yang Saya beri Sponsor";
@@ -506,7 +502,7 @@
 "profile_autodriptitle" = "Pengaturan Auto-Drip";
 "profile_editprofiledesc" = "Ubah pengaturan profil seluler Anda termasuk nama, informasi kontak, dan foto profil.";
 "profile_editprofiletitle" = "Edit Profil";
-"profile_help" = "Lihat Profil Seluler Anda.\n\nPilih Edit Profil untuk mengubah informasi pada profil Anda.\n\nPilih opsi Masuk ke Media Sosial untuk masuk ke akun media sosial Anda.\n\nPilih Pengaturan Auto-Drip untuk mengedit jadwal kiriman Auto-Drip Optimisme personal Anda.";
+
 "profile_mywebsite" = "Situs Web Saya";
 "profile_socialmediadesc" = "Masuk ke akun media sosial untuk menggunakan fitur seperti Kampanye Auto-Drip.";
 "profile_socialmediatitle" = "Masuk ke Media Sosial";
@@ -554,9 +550,9 @@
 "sendmessage_sendmessages" = "Kirim Pesan";
 "sendmessage_sendsuccess" = "Pesan telah dikirim.";
 "sendmessage_title" = "Kirim Pesan";
-"shareoptimism_help" = "Lihat dan bagikan Optimisme yang Anda pilih dari pustaka!\n\nKetuk tombol kembali untuk mengembalikan ke pustaka.";
-"shareoptimism_share" = "Bagikan Optimisme Ini";
-"shareoptimism_title" = "Optimisme";
+
+
+
 "shoppingcart_added" = "Ditambahkan";
 "shoppingcart_addtocart" = "Masukkan ke Keranjang";
 "shoppingcart_checkout" = "Keluar";
@@ -568,8 +564,8 @@
 "smartcloud_downloading" = "Mengunduh";
 "smartcloud_help" = "Lihat semua berkas dan petunjuk pada Cloud.\n\nKetuk tombol unduh untuk mengunduh berkas.\n\nJika berkas sudah diunduh secara lokal, tombol unduh tidak akan muncul. Ketuk berkas untuk membuka dan melihatnya.\n\nUntuk menghapus semua berkas yang diunduh secara lokal, sapu berkas dari kanan ke kiri untuk memunculkan tombol hapus.";
 "smartcloud_removelocal" = "Hapus Lokal";
-"smartcloud_title" = "SmartCloud";
-"socialmedia_help" = "Masuk ke jaringan sosial Anda. Masuk akan mengizinkan Anda untuk mengunggah foto profil sosial media ke Profil Seluler Anda dan membuat kiriman AutoDrip.";
+
+
 "socialmedia_howeusetitle" = "Cara penggunaan Akun Media Sosial:";
 "socialmedia_howweusedesc" = "- Mendapatkan informasi profil dasar (nama, nama-layar, dan lain-lain) \n- Mendapatkan foto profil untuk ditampilkan pada aplikasi \n- Meminta persetujuan untuk mengizinkan Anda membuat kiriman";
 "socialmedia_title" = "Media Sosial";

@@ -76,17 +76,13 @@
 "carttype_help" = "Valitse tyyppipainikkeella, onko kyseessä vähittäis- vai tukkutuotetilaus.";
 "carttype_retail" = "Vähittäiskauppa";
 "carttype_title" = "Ostoskorin valinta";
-"carttype_wholesale" = "JOffice Shop";
 "carttype_wholesaleunavailable" = "Teemme kovasti töitä tukkuostomahdollisuuden lisäämiseksi sovellukseen!";
 "customcampaign_camerarolldesc" = "Valitse kampanjassa käytettävä kuva mobiililaitteesi kameran rullasta.";
 "customcampaign_camerarolltitle" = "Kameran rulla";
 "customcampaign_gallerydesc" = "Valitse kampanjassa käytettävä kuva mobiililaitteesi galleriasta.";
 "customcampaign_gallerytitle" = "Galleria";
-"customcampaign_help" = "Lähetä liidiryhmillesi erilaisia mukautettuja kampanjoita.\n\nValitse Kameran rulla -vaihtoehto, jos haluat lähettää valokuvakampanjan, jossa käytetään puhelimen kameran rullan kuvia.\n\nValitse Jaettava kirjasto -vaihtoehto, jos haluat lähettää valokuvakampanjan, jossa käytetään jaettavan kirjaston kuvia.\n\nValitse YouTube-vaihtoehto, jos haluat lähettää mukautetun YouTube-kampajan.";
-"customcampaign_help_android" = "Lähetä liidiryhmillesi erilaisia mukautettuja kampanjoita.\n\nValitse Galleria-vaihtoehto, jos haluat lähettää valokuvakampanjan, jossa käytetään puhelimen gallerian kuvia.\n\nValitse Jaettava kirjasto -vaihtoehto, jos haluat lähettää valokuvakampanjan, jossa käytetään jaettavan kirjaston kuvia.\n\nValitse YouTube-vaihtoehto, jos haluat lähettää mukautetun YouTube-kampanjan.";
 "customcampaign_noimageerror" = "Kuvan valinnassa oli ongelmia. Yritä uudelleen.";
-"customcampaign_optimismdesc" = "Valitse kampanjassa käytettävä kuva päivittäisestä jaettavasta kirjastosta.";
-"customcampaign_optimismtitle" = "Jaettava kirjasto";
+
 "customcampaign_title" = "Mukautettu kampanja";
 "customcampaign_virtualpagedesc" = "Käytä kampanjassa yrityksen mukautettua virtuaalista aloitussivua.";
 "customcampaign_virtualpagetitle" = "Virtuaalinen aloitussivu";
@@ -102,14 +98,13 @@
 "customerconfirm_sameperson" = "Sama henkilö";
 "customerconfirm_title" = "Odottavia yhdistämisiä";
 "dailyoptimism_autodrip" = "Automaattisen julkaisun asetukset";
-"dailyoptimism_help" = "Katso ja jaa päivittäinen jakoehdotus!\n\nValitse aiempi Jakoehdotus jaettavaksi napauttamalla \"Kirjasto\".";
+
 "dailyoptimism_library" = "Kirjasto";
-"dailyoptimism_share" = "Jaa tämän päivän jakoehdotus";
-"dailyoptimism_title" = "Päivittäinen jakoehdotus";
+
+
 "dashboard_help" = "Näet yleisnäkymästä kaikki uusimmat liiketoimintaasi koskevat tiedot.\n\nSiirry välilehtien välillä napauttamalla välilehtipainikkeita.";
-"dashboard_home" = "Liiketoiminnan pikakuva";
-"dashboard_newsfeed" = "JNews";
-"dashboard_prospector" = "Prospektori";
+
+
 "dashboard_title" = "Yleisnäkymä";
 "debugmenu_help" = "Vianmääritysvalikon avulla voi testata toimintoja, kuten ympäristön vaihtoja ja API-toimintoja.";
 "debugmenu_notoken" = "Merkkiä ei ole käytettävissä";
@@ -424,14 +419,13 @@
 "menu_myevents" = "Omat tapahtumat";
 "menu_myleads" = "Omat liidit";
 "menu_newsignup" = "Lisää uusi ilmoittautuminen";
-"menu_optimism" = "Jaettavat";
+
 "menu_otherheader" = "MUU";
 "menu_peoplesponsored" = "Sponsoroimani ihmiset";
 "menu_profile" = "Profiili";
 "menu_promotions" = "PROMOOTIOT";
 "menu_reports" = "Raportit";
 "menu_shoppingcart" = "Ostoskori";
-"menu_smartcloud" = "JCloud";
 "menu_sod" = "Success On Demand";
 "menu_trainingvideos" = "Opetusvideot";
 "menu_videocampaign" = "Videokampanja";
@@ -496,7 +490,7 @@
 "newsignup_signup" = "Ilmoittaudu";
 "newsignup_sponsor" = "Sponsorin sivuston osoite";
 "newsignup_title" = "Uusi ilmoittautuminen";
-"optimismlibrary_help" = "Jatka jakamista valitsemalla jakoehdotus kirjastosta.";
+
 "optimismlibrary_title" = "Kirjasto";
 "peopleisponsor_help" = "Katso ihmiset, joita sponsoroit, ja ota heihin yhteyttä. Napauta sponsoria, jos haluat lisätietoja.";
 "peopleisponsor_title" = "Sponsoroimani ihmiset";
@@ -506,7 +500,7 @@
 "profile_autodriptitle" = "Automaattisen julkaisun asetukset";
 "profile_editprofiledesc" = "Muokkaa mobiiliprofiilisi asetuksia, kuten nimeä, yhteystietoja ja profiilikuvaa.";
 "profile_editprofiletitle" = "Muokkaa profiilia";
-"profile_help" = "Katso mobiiliprofiilisi.\n\nValitse Muokkaa profiilia, jos haluat muokata profiilisi tietoja.\n\nValitse Kirjaudu sosiaaliseen mediaan -vaihtoehto, jos haluat kirjautua sosiaalisen median tileillesi.\n\nValitse Automaattisen julkaisun asetukset, jos haluat muokata omaa julkaisuehdotusten automaattisen julkaisun aikatauluasi.";
+
 "profile_mywebsite" = "Oma verkkosivusto";
 "profile_socialmediadesc" = "Kirjaudu sosiaalisen median tileille ja käytä automaattisten julkaisukampanjoiden kaltaisia ominaisuuksia.";
 "profile_socialmediatitle" = "Kirjaudu sosiaaliseen mediaan";
@@ -554,9 +548,9 @@
 "sendmessage_sendmessages" = "Lähetä viesti(t)";
 "sendmessage_sendsuccess" = "Viesti(t) lähetettiin.";
 "sendmessage_title" = "Lähetä viesti";
-"shareoptimism_help" = "Katso ja jaa kirjastosta valitsemasi jakoehdotus.\n\nPalaa kirjastoon napauttamalla Takaisin-painiketta.";
-"shareoptimism_share" = "Jaa tämä jakoehdotus";
-"shareoptimism_title" = "Jakoehdotus";
+
+
+
 "shoppingcart_added" = "Lisätty";
 "shoppingcart_addtocart" = "Lisää ostoskoriin";
 "shoppingcart_checkout" = "Kassa";
@@ -568,8 +562,7 @@
 "smartcloud_downloading" = "Ladataan";
 "smartcloud_help" = "Katso pilvessä olevia tiedostoja ja hakemistoja.\n\nLataa tiedosto napauttamalla sen latauspainiketta.\n\nJos tiedosto on jo ladattu paikalliseksi, latauspainike ei ole näkyvissä. Avaa ja katso tiedosto napauttamalla sitä.\n\nPoista paikalliseksi ladattu tiedosto pyyhkäisemällä sitä oikealta vasemmalle, jolloin poistopainike tulee näkyviin.";
 "smartcloud_removelocal" = "Poista paikallinen";
-"smartcloud_title" = "JCloud";
-"socialmedia_help" = "Kirjaudu sisään sosiaalisiin verkostoihisi. Kun kirjaudut sisään, voit ladata sosiaalisen median profiilikuvan mobiiliprofiiliisi ja määrittää jaettavia automaattisia julkaisuja.";
+
 "socialmedia_howeusetitle" = "Miten käytämme sosiaalisen median tilejäsi:";
 "socialmedia_howweusedesc" = "- Profiilin perustietojen haku (nimi, näyttönimi jne.)\n- Profiilikuvan haku sovelluksessa näytettäväksi\n- Luvan pyytäminen sinun tekemiäsi julkaisuja varten";
 "socialmedia_title" = "Sosiaalinen media";

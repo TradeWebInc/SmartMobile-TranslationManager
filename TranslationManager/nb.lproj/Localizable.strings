@@ -76,17 +76,13 @@
 "carttype_help" = "Velg mellom å kjøpe til eget forbruk eller til videresalg ved å trykke på riktig knapp.";
 "carttype_retail" = "Salg";
 "carttype_title" = "Valg av handlekurv";
-"carttype_wholesale" = "JOffice-butikk";
 "carttype_wholesaleunavailable" = "Vi jobber hardt for å gjøre partikjøp tilgjengelig i appen!";
 "customcampaign_camerarolldesc" = "Velg et bilde fra kamerarullen på mobilenheten din som skal brukes i kampanjen.";
 "customcampaign_camerarolltitle" = "Kamerarull";
 "customcampaign_gallerydesc" = "Velg et bilde fra galleriet på mobilenheten din som skal brukes i kampanjen.";
 "customcampaign_gallerytitle" = "Galleri";
-"customcampaign_help" = "Send forskjellige egendefinerte kampanjer til kundeemnegruppene dine.\n\nVelg Kamerarull-alternativet for å sende en bildekampanje med bilder fra kamerarullen på telefonen din.\n\nVelg alternativet Shareable-bibliotek for å sende en bildekampanje fra Shareable-biblioteket.\n\nVelg YouTube-alternativet for å sende ut en egendefinert YouTube-kampanje.";
-"customcampaign_help_android" = "Send forskjellige egendefinerte kampanjer til kundeemnegruppene dine.\n\nVelg Galleri-alternativet for å sende en bildekampanje med bilder fra galleriet på telefonen din.\n\nVelg alternativet Shareable-bibliotek for å sende en bildekampanje fra Shareable-biblioteket.\n\nVelg YouTube-alternativet for å sende ut en egendefinert YouTube-kampanje.";
 "customcampaign_noimageerror" = "Det oppsto et problem under valg av bilde. Prøv igjen.";
-"customcampaign_optimismdesc" = "Velg et bilde fra Shareable-biblioteket som skal brukes i kampanjen.";
-"customcampaign_optimismtitle" = "Shareable-bibliotek";
+
 "customcampaign_title" = "Egendefinert kampanje";
 "customcampaign_virtualpagedesc" = "Bruk en tilpasset virtuell landingsside for bedrifter i en kampanje.";
 "customcampaign_virtualpagetitle" = "Virtuell landingsside";
@@ -102,14 +98,13 @@
 "customerconfirm_sameperson" = "Samme person";
 "customerconfirm_title" = "Ventende sammenslåinger";
 "dailyoptimism_autodrip" = "Innstillinger for auto-intervall";
-"dailyoptimism_help" = "Vis og del dagens shareable!\n\nTrykk \"Bibliotek\" for å velge en tidligere shareable du ønsker å dele.";
+
 "dailyoptimism_library" = "Bibliotek";
-"dailyoptimism_share" = "Del dagens shareable";
-"dailyoptimism_title" = "Daglig shareable";
+
+
 "dashboard_help" = "Fra instrumentpanelet kan du vise all den nyeste informasjonen om virksomheten din.\n\nTrykk på knappene for å bytte mellom kategorier.";
-"dashboard_home" = "Foretaksbilde";
-"dashboard_newsfeed" = "JNews";
-"dashboard_prospector" = "Prospekter";
+
+
 "dashboard_title" = "Dashbord";
 "debugmenu_help" = "Feilsøkingsmenyen kan brukes til å teste forskjellige funksjoner, blant annet miljøendringer og API-er.";
 "debugmenu_notoken" = "Ingen token tilgjengelig";
@@ -424,14 +419,13 @@
 "menu_myevents" = "Mine eventer";
 "menu_myleads" = "Mine kundeemner";
 "menu_newsignup" = "Legg til nytt sponset medlem";
-"menu_optimism" = "Shareables";
+
 "menu_otherheader" = "ANNET";
 "menu_peoplesponsored" = "Personer jeg sponser";
 "menu_profile" = "Profil";
 "menu_promotions" = "KAMPANJER";
 "menu_reports" = "Rapporter";
 "menu_shoppingcart" = "Handlekurv";
-"menu_smartcloud" = "JCloud";
 "menu_sod" = "Success On Demand";
 "menu_trainingvideos" = "Opplæringsvideoer";
 "menu_videocampaign" = "Videokampanje";
@@ -496,7 +490,7 @@
 "newsignup_signup" = "Registrer deg";
 "newsignup_sponsor" = "Sponsor-nettadresse";
 "newsignup_title" = "Nytt sponset medlem";
-"optimismlibrary_help" = "Velg en av våre shareables i biblioteket for å fortsette delingen.";
+
 "optimismlibrary_title" = "Bibliotek";
 "peopleisponsor_help" = "Vis og kontakt personer som du sponser personlig. Trykk på en sponsor for mer informasjon.";
 "peopleisponsor_title" = "Personer I Sponsor";
@@ -506,7 +500,7 @@
 "profile_autodriptitle" = "Innstillinger for auto-intervall";
 "profile_editprofiledesc" = "Endre innstillingene for mobilprofilen din, som f.eks. navn, kontaktinfo og profilbilde.";
 "profile_editprofiletitle" = "Rediger profil";
-"profile_help" = "Vis mobilprofilen din.\n\nVelg «Rediger profil» for å endre informasjonen i profilen.\n\nVelg «Logg på sosiale medier» for å logge på kontoene dine på sosiale medier.\n\nVelg «Innstillinger for auto-intervall» for å redigere din personlige tidsplan for auto-intervalldeling av shareables.";
+
 "profile_mywebsite" = "Mitt nettsted";
 "profile_socialmediadesc" = "Logg på kontoer på sosiale medier for å bruke funksjoner som auto-intervallkampanjer.";
 "profile_socialmediatitle" = "Logg på sosiale medier";
@@ -554,9 +548,9 @@
 "sendmessage_sendmessages" = "Send melding(er)";
 "sendmessage_sendsuccess" = "Meldingen(e) er sendt.";
 "sendmessage_title" = "Send melding";
-"shareoptimism_help" = "Vis og del shareable som du valgte i biblioteket!\n\nTrykk på tilbakeknappen for å gå tilbake til biblioteket.";
-"shareoptimism_share" = "Del shareable";
-"shareoptimism_title" = "Shareable";
+
+
+
 "shoppingcart_added" = "Lagt til";
 "shoppingcart_addtocart" = "Legg til i handlekurven";
 "shoppingcart_checkout" = "Betaling";
@@ -568,8 +562,7 @@
 "smartcloud_downloading" = "Laster ned";
 "smartcloud_help" = "Vis alle filer og kataloger i skyen.\n\nTrykk på nedlastingsknappen for å laste ned en fil.\n\nHvis filen allerede er lastet ned lokalt, vil nedlastingsknappen ikke vises Trykk på filen for å åpne den.\n\nFor å slette en lokalt nedlastet fil, sveiper du filen mot venstre for å vise sletteknappen.";
 "smartcloud_removelocal" = "Fjern lokal";
-"smartcloud_title" = "JCloud";
-"socialmedia_help" = "Logg på dine sosiale medier. Logg inn for å kunne laste opp et profilbilde fra sosiale medier til mobilprofilen din og publisere shareables med auto-intervaller.";
+
 "socialmedia_howeusetitle" = "Hvordan vi bruker dine kontoer på sosiale medier:";
 "socialmedia_howweusedesc" = "– Henter grunnleggende profilinfo (navn, visningsnavn etc.)\n– Henter profilbilde for visning i appen\n– Ber om tillatelser slik at du kan publisere innlegg";
 "socialmedia_title" = "Sosiale medier";

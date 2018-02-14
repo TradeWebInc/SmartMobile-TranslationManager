@@ -76,17 +76,13 @@
 "carttype_help" = "Vælg mellem at lave en detailhandel med køb af engrosprodukt ved at vælge en typeknap.";
 "carttype_retail" = "Detailhandel";
 "carttype_title" = "Valg af kurv";
-"carttype_wholesale" = "JOffice Shop";
 "carttype_wholesaleunavailable" = "Vi arbejder hårdt på at tilføje engroskøb til appen!";
 "customcampaign_camerarolldesc" = "Vælg et billede fra din telefons kamerarulle at bruge til kampagnen.";
 "customcampaign_camerarolltitle" = "Kamerarulle";
 "customcampaign_gallerydesc" = "Vælg et billede fra din telefons galleri at bruge til kampagnen.";
 "customcampaign_gallerytitle" = "Galleri";
-"customcampaign_help" = "Send en række brugerdefinerede kampagner til din sporgruppe.\n\nVælg kamerarullen for at sende en billedkampagne ved at bruge billeder fra din telefons kamerarulle.\n\nVælg optimisme-biblioteket for at sende en billedkampagne fra optimisme-biblioteket.\n\nVælg YouTube for at sende en brugerdefineret YouTube-kampagne.";
-"customcampaign_help_android" = "Send en række brugerdefinerede kampagner til din sporgruppe.\n\nVælg galleriet for at sende en billedkampagne ved at bruge billeder fra din telefons galleri.\n\nVælg optimisme-biblioteket for at sende en billedkampagne fra optimisme-biblioteket.\n\nVælg YouTube for at sende en brugerdefineret YouTube-kampagne.";
 "customcampaign_noimageerror" = "Der opstod et problem med at vælge dit billede. Prøv igen.";
-"customcampaign_optimismdesc" = "Vælg et billede fra det daglige optimisme-bibliotek for at bruge det i kampagnen.";
-"customcampaign_optimismtitle" = "Optimisme-bibliotek";
+
 "customcampaign_title" = "Brugerdefineret kampagne";
 "customcampaign_virtualpagedesc" = "Bruge en virksomhedsbrugertilpasset virtuelt startside i en kampagne.";
 "customcampaign_virtualpagetitle" = "Virtuel startside";
@@ -102,14 +98,14 @@
 "customerconfirm_sameperson" = "Samme person";
 "customerconfirm_title" = "Afventende sammenfletninger";
 "dailyoptimism_autodrip" = "Auto-Drip-indstillinger";
-"dailyoptimism_help" = "Se og del den daglige optimisme!\n\nTryk på \"Bibliotek\" for at vælge en tidligere optimisme at dele.";
+
 "dailyoptimism_library" = "Bibliotek";
-"dailyoptimism_share" = "Del dagens optimisme";
-"dailyoptimism_title" = "Daglig optimisme";
+
+
 "dashboard_help" = "Fra kontrolpanelet kan du se alle de seneste informationer om din forretning.\n\nTryk på tabulatorknappen for at skifte mellem fanerne.";
-"dashboard_home" = "Hjem";
-"dashboard_newsfeed" = "Nyheder";
-"dashboard_prospector" = "Prospektor";
+
+
+
 "dashboard_title" = "Kontrolpanel";
 "debugmenu_help" = "Fejlmenuen kan bruges til at teste forskellige funktioner, herunder miljøændringer og API\'er.";
 "debugmenu_notoken" = "Ingen token til rådighed";
@@ -424,14 +420,14 @@
 "menu_myevents" = "Mine begivenheder";
 "menu_myleads" = "Mine spor";
 "menu_newsignup" = "Tilføj ny tilmelding";
-"menu_optimism" = "Optimisme";
+
 "menu_otherheader" = "ANDRE";
 "menu_peoplesponsored" = "Personer I Sponsor";
 "menu_profile" = "Profil";
 "menu_promotions" = "KAMPAGNER";
 "menu_reports" = "Rapporter";
 "menu_shoppingcart" = "Indkøbskurv";
-"menu_smartcloud" = "SmartCloud";
+
 "menu_sod" = "Success On Demand";
 "menu_trainingvideos" = "Træningsvideoer";
 "menu_videocampaign" = "Videokampagne";
@@ -496,7 +492,7 @@
 "newsignup_signup" = "Tilmeld dig";
 "newsignup_sponsor" = "Sponsor sideurl";
 "newsignup_title" = "Ny tilmelding";
-"optimismlibrary_help" = "Vælg en optimisme fra biblioteket for at fortsætte med at dele.";
+
 "optimismlibrary_title" = "Bibliotek";
 "peopleisponsor_help" = "Se og kontakt folk, som du personligt sponsorerer. Tryk på en sponsor for at se flere detaljer.";
 "peopleisponsor_title" = "Personer I Sponsor";
@@ -506,7 +502,7 @@
 "profile_autodriptitle" = "Auto-Drip-indstillinger";
 "profile_editprofiledesc" = "Rediger dine mobilprofilindstillinger, deriblandt navn, kontaktinfo og profilbillede.";
 "profile_editprofiletitle" = "Rediger profil";
-"profile_help" = "Se din mobilprofil.\n\nVælg rediger profil for at redigere din profilinformation.\n\nVælg log ind på sociale medier for at logge ind på dine sociale mediekonti.\n\nVælg Auto-Drip-indstillinger for at redigere din personlige optimisme Auto-Drip opslagskalender.";
+
 "profile_mywebsite" = "Min hjemmeside";
 "profile_socialmediadesc" = "Log ind på sociale mediekonti for at bruge funktioner som Auto-Drip-kampagner.";
 "profile_socialmediatitle" = "Log ind på social medie";
@@ -554,9 +550,9 @@
 "sendmessage_sendmessages" = "Send besked(er)";
 "sendmessage_sendsuccess" = "Besked(er) er sendt.";
 "sendmessage_title" = "Send besked";
-"shareoptimism_help" = "Se og del den optimisme, du har valgt fra biblioteket!!\n\nTryk på tilbage-knappen for at vende tilbage til biblioteket.";
-"shareoptimism_share" = "Del optimismen";
-"shareoptimism_title" = "Optimisme";
+
+
+
 "shoppingcart_added" = "Tilføjet";
 "shoppingcart_addtocart" = "Tilføj til kurv";
 "shoppingcart_checkout" = "Kassen";
@@ -568,8 +564,8 @@
 "smartcloud_downloading" = "Downloader";
 "smartcloud_help" = "Se alle filer og mapper i Cloud.\n\nTryk på download-knappen for at downloade en fil.\n\nHvis filen allerede er downloadet lokalt vil download-knappen ikke blive vist. Tryk på filen for at åbne og se den.\n\nFor at slette en lokalt downloadet fil, svirp på filen fra højre mod venstre for at vise slet-knappen.";
 "smartcloud_removelocal" = "Fjern lokal";
-"smartcloud_title" = "SmartCloud";
-"socialmedia_help" = "Log ind på dine sociale netværk. Ved at logge ind kan du bruger et socale medie-profilbillede på din mobilprofil og lave optimisme Auto-Drip-opslag.";
+
+
 "socialmedia_howeusetitle" = "Hvordan vi bruger sociale medie-konti:";
 "socialmedia_howweusedesc" = "- Få adgang til basal profilinformation (navn, skærmnavn, osv)\n- Få adgang til profilbilleder at vise i app\'en\n- Anmod om tilladelse til at lade dig lave opslag";
 "socialmedia_title" = "Sociale medier";
