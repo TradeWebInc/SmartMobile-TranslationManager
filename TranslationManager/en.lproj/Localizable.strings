@@ -335,6 +335,9 @@
 // The title of the Home menu option.
 "menu_home"             =   "Home";
 
+// The title of the Dashboard menu option.
+"menu_dashboard"                =   "Dashboard";
+
 // The title of the Optimism menu option.
 "menu_optimism"         =   "Optimism";
 
@@ -401,6 +404,26 @@
 
 // The title of the menu section header for More.
 "menu_moreheader"           =     "MORE";
+
+
+// ============================================================================
+// MARK: Dashboard
+// ============================================================================
+
+// The title in the navigation bar of the Dashboard screen.
+"dashboard_title"                   =   "Dashboard";
+
+// The Help Text used by the Dashboard screen.
+"dashboard_help"                    =   "From the dashboard you can view all of the latest information relating to your business.\n\nTap on the tab buttons to switch between tabs.";
+
+// The title of the Home tab.
+"dashboard_home"                    =   "Home";
+
+// The title of the News Feed tab.
+"dashboard_newsfeed"                =   "News Feed";
+
+// The title of the Pathways tab.
+"dashboard_prospector"              =   "Pathways";
 
 
 // ============================================================================
@@ -1822,9 +1845,6 @@
 // MARK: Jeunesse Only
 // ============================================================================
 
-// The title of the Dashboard menu option.
-"menu_dashboard"                =   "Dashboard";
-
 // The title of the My Events menu option.
 "menu_myevents"                 =   "My Events";
 
@@ -1836,6 +1856,9 @@
 
 // The title of the Genealogy menu option.
 "menu_genealogy"                =   "Genealogy";
+
+// The title of the Enroller Tree menu option.
+"menu_enrollertree"             =   "Enroller Tree";
 
 // The title of the Add New Signup menu option.
 "menu_newsignup"                =   "Add New Signup";
@@ -1855,20 +1878,8 @@
 // MARK: Dashboard
 // ============================================================================
 
-// The title in the navigation bar of the Dashboard screen.
-"dashboard_title"                   =   "Dashboard";
-
-// The Help Text used by the Dashboard screen.
-"dashboard_help"                    =   "From the dashboard you can view all of the latest information relating to your business.\n\nTap on the tab buttons to switch between tabs.";
-
-// The title of the Home tab.
-"dashboard_home"                    =   "Home";
-
-// The title of the News Feed tab.
-"dashboard_newsfeed"                =   "News Feed";
-
-// The title of the Pathways tab.
-"dashboard_prospector"              =   "Pathways";
+// The title of the JNS GPS tab.
+"dashboard_gps"                     =   "GPS";
 
 
 // ============================================================================
@@ -1898,6 +1909,17 @@
 
 // The Help Text used by the Genealogy screen.
 "genealogy_help"                   =   "View your entire genealogy tree.";
+
+
+// ============================================================================
+// MARK: Enroller Tree
+// ============================================================================
+
+// The title in the navigation bar of the Enroller Tree screen.
+"enrollertree_title"                =   "Enroller Tree";
+
+// The Help Text used by the Enroller Tree screen.
+"enrollertree_help"                 =   "View your entire enroller tree.";
 
 
 // ============================================================================
