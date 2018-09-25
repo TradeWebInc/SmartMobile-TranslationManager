@@ -185,9 +185,8 @@
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProfileEditViewController.swift:                title: AppManager.translation(key: "general_ok"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/MyEventsViewController.swift
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/MyEventsViewController.swift:        self.setTitle(title: AppManager.translation(key: "myevents_title"));
-/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/MyEventsViewController.swift:        if (self.debugMode == true) { return AppManager.translation(key: "myevents_ongoingevents"); }
-/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/MyEventsViewController.swift:            if (section == 0) { return AppManager.translation(key: "myevents_tickets"); }
-/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/MyEventsViewController.swift:            else { return AppManager.translation(key: "myevents_ongoingevents"); }
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/MyEventsViewController.swift:        if (sectionKey == .eventTicketsFeature) { return AppManager.translation(key: "myevents_tickets"); }
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/MyEventsViewController.swift:        else { return AppManager.translation(key: "myevents_ongoingevents"); }
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/MyEventsViewController.swift:                cell.emptyLabelLinked.text = AppManager.translation(key: "myevents_notickets");
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/MyEventsDetailViewController.swift
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/MyEventsDetailViewController.swift:        self.setTitle(title: AppManager.translation(key: "myeventsdetail_title"));
@@ -275,12 +274,20 @@
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/EventSponsorDetailViewController.swift:        self.detailsTitleLabelLinked.text = AppManager.translation(key: "general_details");
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/EventSponsorDetailViewController.swift:        self.moreInfoButtonLinked.setTitle(AppManager.translation(key: "general_moreinfo"), for: .normal);
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AlertsViewController.swift
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AlertsViewController.swift:        FilterComponent(type: .multiSelect, sortType: nil, name: AppManager.translation(key: "general_type"), keyName: #keyPath(SMAlert.type), values: [
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AlertsViewController.swift:            FilterComponentValue(name: AppManager.translation(key: "alerttype_general"), value: SMAlertType.generalAlert, isSelected: true),
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AlertsViewController.swift:            FilterComponentValue(name: AppManager.translation(key: "alerttype_videoopened"), value: SMAlertType.videoOpened, isSelected: true, isHidden: !SMAppConfig.feature(key: .videosFeature)),
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AlertsViewController.swift:            FilterComponentValue(name: AppManager.translation(key: "alerttype_newlead"), value: SMAlertType.newLead, isSelected: true),
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AlertsViewController.swift:            FilterComponentValue(name: AppManager.translation(key: "alerttype_newbadge"), value: SMAlertType.newBadge, isSelected: true),
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AlertsViewController.swift:            FilterComponentValue(name: AppManager.translation(key: "alerttype_recommendedactions"), value: SMAlertType.recommendedActions, isSelected: true, isHidden: !SMAppConfig.feature(key: .prospectorFeature)),
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AlertsViewController.swift:            FilterComponentValue(name: AppManager.translation(key: "alerttype_supportresponse"), value: SMAlertType.supportRequestResponse, isSelected: true, isHidden: !SMAppConfig.feature(key: .supportRequestsFeature)),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AlertsViewController.swift:        self.setTitle(title: AppManager.translation(key: "alerts_title"));
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AlertsViewController.swift:        self.editButtonLinked.title = AppManager.translation(key: "general_edit");
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AlertsViewController.swift:            title: AppManager.translation(key: "general_delete"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AlertsViewController.swift:            message: AppManager.translation(key: "alerts_deletealerts"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AlertsViewController.swift:                title: AppManager.translation(key: "general_no"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AlertsViewController.swift:                title: AppManager.translation(key: "general_yes"),
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AlertsViewController.swift:        self.filterButtonLinked.setTitle("\(AppManager.translation(key: "general_filter")) (\(self.filteredData.count)) ▾", for: .normal);
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AlertsViewController.swift:            self.editButtonLinked.title = AppManager.translation(key: "general_cancel");
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AlertsViewController.swift:            self.editButtonLinked.title = AppManager.translation(key: "general_edit");
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AlertsViewController.swift:                    self.deleteButtonLinked.title = "\(AppManager.translation(key: "general_delete")) (\(selectedRows.count))";
@@ -628,6 +635,7 @@
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/GroupDetailsViewController.swift:            else { self.removeButtonLinked.title = "\(AppManager.translation(key: "general_remove")) (\(count))"; }
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/GroupDetailsViewController.swift:            title: AppManager.translation(key: "general_remove"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/LeadDetailsViewController.swift
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/LeadDetailsViewController.swift:        self.setTitle(title: AppManager.translation(key: "leaddetails_title"));
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/LeadDetailsViewController.swift:        self.editButtonLinked.setTitle(AppManager.translation(key: "general_edit"), for: .normal);
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/LeadDetailsViewController.swift:        self.callLabelLinked.text = AppManager.translation(key: "general_call");
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/LeadDetailsViewController.swift:        self.smsLabelLinked.text = AppManager.translation(key: "general_sms");
@@ -840,10 +848,12 @@
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/EmailMessagePickerViewController.swift:            controller.confirmMessage = AppManager.translation(key: "leadactions_singleemailconfirm");
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/EmailCampaignPickerViewController.swift
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/EmailCampaignPickerViewController.swift:        FilterComponent(type: .singleSelect, sortType: nil, name: AppManager.translation(key: "general_language"), keyName: #keyPath(SMEmailCampaign.cultureName), values: []),
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/EmailCampaignPickerViewController.swift:        FilterComponent(type: .multiSelect, sortType:nil, name: AppManager.translation(key: "general_category"), keyName: #keyPath(SMEmailCampaign.categories), values: []),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/EmailCampaignPickerViewController.swift:        self.setTitle(title: AppManager.translation(key: "emailcampaign_title"));
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/EmailCampaignPickerViewController.swift:        self.cancelButtonLinked.title = AppManager.translation(key: "general_cancel");
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/EmailCampaignPickerViewController.swift:        self.filterButtonLinked.setTitle("\(AppManager.translation(key: "general_filter")) (0) ▾", for: .normal);
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/EmailCampaignPickerViewController.swift:        self.filterButtonLinked.setTitle("\(AppManager.translation(key: "general_filter")) (\(self.filteredData.count)) ▾", for: .normal);
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/EmailCampaignPickerViewController.swift:                let value:FilterComponentValue = FilterComponentValue(name: AppManager.translation(key: "general_nocategory"), value: nil, isSelected: true);
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathPickerViewController.swift
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathPickerViewController.swift:        FilterComponent(type: .singleSelect, sortType: nil, name: AppManager.translation(key: "general_language"), keyName: "CultureName", values: []),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathPickerViewController.swift:        self.setTitle(title: AppManager.translation(key: "actionpathpicker_title"));
