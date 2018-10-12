@@ -146,6 +146,8 @@
 "share_noreceiversfound" = "No receivers selected. Tap the \"Add\" button to get started.";
 "share_somephonesempty" = "One or more of the selected leads does not have a phone number set.";
 "share_someemailsempty" = "One or more of the selected leads does not have an email set.";
+"share_somesmsoptedout" = "One or more of the selected leads has opted out of receiving SMS messages.";
+"share_someemailoptedout" = "One or more of the selected leads has opted out of receiving email messages.";
 "share_publishsuccessful" = "Publish was successful!";
 "share_publishfailed" = "Publish failed";
 

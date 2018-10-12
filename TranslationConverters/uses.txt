@@ -499,6 +499,10 @@
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ShareConfirmViewController.swift:        if (self.screenMode == .byEmail) { message = AppManager.translation(key: "share_someemailsempty"); }
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ShareConfirmViewController.swift:            title: AppManager.translation(key: "general_info"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ShareConfirmViewController.swift:                title: AppManager.translation(key: "general_ok"),
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ShareConfirmViewController.swift:        var message:String = AppManager.translation(key: "share_somesmsoptedout");
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ShareConfirmViewController.swift:        if (self.screenMode == .byEmail) { message = AppManager.translation(key: "share_someemailoptedout"); }
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ShareConfirmViewController.swift:            title: AppManager.translation(key: "general_info"),
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ShareConfirmViewController.swift:                title: AppManager.translation(key: "general_ok"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ShareConfirmViewController.swift:            title: AppManager.translation(key: "general_success"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ShareConfirmViewController.swift:            message: AppManager.translation(key: "sendmessage_sendsuccess"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ShareConfirmViewController.swift:                title: AppManager.translation(key: "general_ok"),
@@ -510,6 +514,8 @@
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ShareConfirmViewController.swift:                title: AppManager.translation(key: "general_ok"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ShareConfirmViewController.swift:            cell.phoneLabelLinked.text = AppManager.translation(key: "general_nophone");
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ShareConfirmViewController.swift:            cell.emailLabelLinked.text = AppManager.translation(key: "general_noemail");
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ShareConfirmViewController.swift:                cell.optOutLabelLinked.text = AppManager.translation(key: "leaddetails_emailoptedout");
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ShareConfirmViewController.swift:                cell.optOutLabelLinked.text = AppManager.translation(key: "leaddetails_smsoptedout");
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ShareConfirmViewController.swift:            title: AppManager.translation(key: "general_remove"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/FacebookPagesViewController.swift
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/FacebookPagesViewController.swift:        self.setTitle(title: AppManager.translation(key: "facebookpages_title"));
