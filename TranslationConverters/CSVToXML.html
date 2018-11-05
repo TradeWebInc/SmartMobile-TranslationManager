@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>CSV Parse Test</title>
+            
+    <script src="papaparse.min.js"></script>
+    <script src="jszip.min.js"></script>
+    <script src="FileSaver.min.js"></script>
+            
+    <style>
+        html, body {
+            font-family: sans-serif;
+        }
+            
+        table {
+            width:80%;
+            margin-left: auto;
+            margin-right:auto;
+            border: 1px solid #CCCCCC;
+            border-collapse:collapse;
+            box-sizing: border-box;
+            font-size: 0.8em;
+        }
+            
+        tr {
+            background:#FFFFFF;
+        }
+            
+        tr:nth-child(odd) {
+            background:#EEEEEE;
+        }
+            
+        th {
+            text-align: left;
+        }
+            
+        th, td {
+            padding:8px;
+            border: 1px solid #CCCCCC
+        }
+            
+        .mainContainer {
+            margin:0 auto;
+            width:100%;
+            max-width:860px;
+            border:1px solid #DDDDDD;
+            border-radius:8px;
+            overflow: hidden;
+            text-align:center;
+            box-sizing: border-box;
+        }
+            
+        .textBoxContainer {
+            margin-top: 1em;
+            width: 100%;
+            display:flex;
+            flex-wrap: wrap;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+        }
+            
+        .textBox {
+            margin-top:0.5em;
+            width:49%;
+            flex-grow:1;
+            height:400px;
+            overflow: auto;
+            border:1px solid #888888;
+            background:#F4F4F4;
+            font-size:0.6em;
+            text-align: left;
+        }
+    </style>
+            
+</head>
+    
+<body>
+        
+    <div class="mainContainer">
+        <div style="margin-bottom:1em;padding:0.5em 0.5em; background:#FF5A00; color:#FFFFFF;">Mobile App Translation CSV to XML Converter</div>
+        <input id="upload" type="file" />
+    </div>
+        
+    <script>
+            
+        var zipper = new JSZip();
+            
+        // Change listener for Uploader
+        var uploadElement = document.getElementById("upload");
+        uploadElement.addEventListener("change", function(element, event) {
+            fileChanged(uploadElement);
+        });
+                                           
+        function fileChanged(sender) {
+            if (sender) {
+                var file = sender.files[0];
+                if (file) {
+                    Papa.parse(file, {
+                        header: true,
+                        dynamicTyping: false,
+                        newline: "\r\n",
+                        complete: function(results) {
+                            var data = results;
+                            console.log(data);
+                            parseData(data);
+                                                                  
+                            zipper.generateAsync({type:"blob"}).then(function(content) {
+                                saveAs(content, "Translations.zip");
+                            });
+                        }
+                    });
+                }
+            }
+        }
+        
+        function parseData(data) {
+            if (data && data.data) {
+                if (data.data.length > 0) {
+                    var langs = Object.keys(data.data[0]).filter(function(element) { return element !== "TranslationKey" });
+                    var stringValues = {};
+                    langs.forEach(function(lang, index) { stringValues[lang] = "<?xml version=1.0 encoding=utf-8?>\n<resources>"; });
+                    
+                    data.data.forEach(function(value, index) {
+                        var transKey = value["TranslationKey"];
+				        if (!transKey) { return; }
+				        langs.forEach(function(lang, index) {
+                            var text = value[lang].replace("\n", "\\n").replace("&", "&amp;");
+                            stringValues[lang] += "\n\t<string name=" + '"' + value.TranslationKey + '"' + ">" + text + "</string>";
+                        });
+                    });
+                    
+                                      
+                    langs.forEach(function(lang, index) {
+                        stringValues[lang] += "\n</resources>"
+                        
+                        var folder = zipper.folder(`values-${lang}`);
+                        folder.file("strings.xml", stringValues[lang]);
+                    });
+                };
+            }
+        }
+        
+        
+    </script>
+    
+</body>
+    
+</html>
+
