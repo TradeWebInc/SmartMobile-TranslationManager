@@ -1,2275 +1,450 @@
-"general_deleteall" = "Delete All";
-"general_apply" = "Apply";
-"general_retry" = "Retry";
-"general_options" = "Options";
-"general_skip" = "Skip";
-"general_category" = "Category";
-"general_nocategory" = "No Category";
-"general_learnmore" = "Learn More";
-"general_viewdetails" = "View Details";
-"general_basicinfo" = "Basic Information";
-"general_companyinfo" = "Company Information";
-"general_socialinfo" = "Social Information";
-"general_contactinfo" = "Contact Information";
-"general_addressinfo" = "Address Information";
-"general_selectpicturefrom" = "Select picture from";
-"general_photolibrary" = "Photo Library";
-"general_nophotolibrarytitle" = "Photo Library Unavailable";
-"general_nophotolibrarymessage" = "The app is unable to access the Photo Library.";
-"general_takepicture" = "Take Picture";
-"general_nocameratitle" = "Camera Unavailable";
-"general_nocameramessage" = "The app is unable to access the Camera on this device.";
-"general_removeimage" = "Remove Image";
-"general_nophone" = "No phone number available";
-"general_noemail" = "No email available";
-"general_progress" = "Progress";
-"general_addfrom" = "Add From";
-"general_leads" = "Leads";
-"general_leadgroups" = "Lead Groups";
-"general_contenttype" = "Content Type";
-"general_date" = "Date";
-"general_daterange" = "Date Range";
-"general_startdate" = "Start Date";
-"general_enddate" = "End Date";
-"general_other" = "Other";
-"general_socialmedia" = "Social Media";
-"general_unknown" = "Unknown";
-"general_times" = "times";
-"general_time" = "time";
-"general_duration" = "Duration";
-"general_secs" = "secs";
-"general_sec" = "sec";
-"general_platform" = "Platform";
-"general_seeless" = "See Less";
-"general_results" = "Results";
-"general_viewdetails" = "View Details";
-"general_successful" = "Successful";
-"general_failed" = "Failed";
-"general_type" = "Type";
-"general_sortandfilter" = "Sort & Filter";
-"general_editmultiple" = "Edit Multiple";
-"general_deleteselected" = "Delete Selected";
-"general_selectall" = "Select All";
-"general_message" = "Message";
-"general_call" = "Call";
-"general_sms" = "SMS";
-"general_actions" = "Actions";
-
-"login_expiredsession" = "Your session has expired, please login again.";
-"login_myaccounts" = "My Accounts";
-"login_loginasnewuser" = "Login as a new user";
-"login_signup" = "Sign Up";
-"login_signupinstructions" = "Please enter the username of the person who referred you.";
-"login_signupinvalidmessage" = "A referral username is required.";
-
-"tabname_dashboard" = "Dashboard";
-"tabname_share" = "Share";
-"tabname_leads" = "Leads";
-"tabname_stats" = "Stats";
-"tabname_more" = "More";
-
-"myevents_title" = "My Events";
-"myevents_noevents" = "No registered events found.";
-"myevents_tickets" = "Tickets";
-"myevents_notickets" = "No tickets found.";
-"myevents_ongoingevents" = "Ongoing Events";
-
-"news_title" = "News";
-"news_nonewsfound" = "No news articles found.";
-
-"alerts_newalerts" = "New Alerts";
-
 "alerttype_general" = "General";
 "alerttype_videoopened" = "Video Opened";
 "alerttype_newlead" = "New Lead";
 "alerttype_newbadge" = "New Badge";
 "alerttype_recommendedactions" = "Recommended Actions";
 "alerttype_supportresponse" = "Support Request Response";
+"share_somesmsoptedout" = "One or more of the selected leads has opted out of receiving SMS messages.";
+"share_someemailoptedout" = "One or more of the selected leads has opted out of receiving email messages.";
+"myleads_notalldeleted" = "One or more of the selected leads was not able to be deleted.";
+"myleads_notallassignedtopath" = "One or more of the selected leads are already assigned to an action path. Any progress on existing paths will be lost if a new path is assigned.";
+"leadorders_title" = "Orders";
+"leadorders_ordernumber" = "Order #";
+"leadorders_orderdate" = "Order Date";
+"leadorders_ordertotal" = "Order Total";
+"leadorders_quantity" = "Quantity";
+"leadorderdetails_title" = "Order Details";
+"leadorderdetails_shipmentdetails" = "Shipment Details";
+"leadorderdetails_shipmentcompany" = "Company";
+"leadorderdetails_shipmentstatus" = "Status";
+"leadorderdetails_shipmenttrackingnumber" = "Tracking Number";
+"leadorderdetails_orderitems" = "Order Items";
+"appstats_nostatsfound" = "No app stats found.";
 
-"mailbox_title" = "Mailbox";
+
+
+
+
+"actionitemdetail_alreadycompleted" = "Already completed this action?";
+"actionitemdetail_meetingconfirm" = "Have you completed the meeting?";
+"actionitemdetail_pathcomplete" = "This lead has now completed their current path!";
+"actionitemdetail_splitwarning" = "This action item is part of a split in the path. Taking this action may prevent you from completing others.";
+"actionitemdetail_takeaction" = "Take Action";
+"actionpathpicker_nopathsfound" = "No action paths found.";
+"actionpathpicker_title" = "Action Paths";
+"actionpathviewer_title" = "Action Path Viewer";
+"addlead_addsuccessful" = "Lead added successfully!";
+"addlead_contactvalidation" = "You must enter at least one contact method (phone or email).";
+"addlead_namevalidation" = "You must enter a first name.";
+"addsupportrequest_instructions" = "Enter a support request message below";
+"addsupportrequest_success" = "We have received your support request!";
+"addsupportrequest_textvalidation" = "You must enter a message.";
+"addsupportrequest_title" = "Support Request";
+"admineventdetail_title" = "Event Detail";
+"admineventdetail_totalcheckins" = "Total Check Ins";
+"admineventdetail_totalregistrants" = "Total Registrants";
+"admineventslist_title" = "Admin Events";
+"alerts_deletealerts" = "Delete all Notifications?";
+"alerts_newalerts" = "New Notifications";
+"alerts_previewdetailtitle" = "Notification Details";
+"alerts_title" = "Notifications";
+"appstats_title" = "App Stats";
+"backofficeweb_title" = "BackOffice Web";
+"badgedetails_share" = "I\'ve earned a badge";
+"basicmessage_desc" = "Share a basic message and image to your leads or favorite social media app.";
+"basicmessage_title" = "Basic Message";
+"businesssnapshot_title" = "Business Snapshot";
+"byemail_desc" = "Send content directly with an email. Select from leads, device contacts, and lead groups.";
+"byemail_title" = "By Email";
+"bysms_desc" = "Send content directly with a text message. Select from leads, device contacts, and lead groups.";
+"bysms_title" = "By SMS";
+"cart_title" = "Shopping Cart";
+"debugmenu_environmentrestart" = "All environment changes require a full app restart.";
+"debugmenu_title" = "Debug Menu";
+"editlead_savesuccessful" = "Lead saved successfully!";
+"editprofile_editprofilepictitle" = "Select Profile Picture From";
+"editprofile_title" = "Edit Profile";
+"emailcampaign_desc" = "Start your leads, device contacts, and lead groups on an expertly crafted email campaign schedule.";
+"emailcampaign_startedsuccessfully" = "Email campaign started successfully!";
+"emailcampaign_title" = "Email Campaigns";
+"emailmessages_desc" = "Send corporate designed template emails to your leads, device contacts, and lead groups.";
+"emailmessages_title" = "Email Messages";
+"emailstats_dateread" = "Date Read";
+"emailstats_datesent" = "Date Sent";
+"emailstats_nostatsfound" = "No email stats found.";
+"emailstats_read" = "Read";
+"emailstats_title" = "Email Stats";
+"enrollertree_title" = "Enroller Tree";
+"event_agenda" = "Agenda";
+"event_announcements" = "Announcements";
+"event_bio" = "Biography";
+"event_castvote" = "Cast Vote";
+"event_materials" = "Materials";
+"event_myschedule" = "My Schedule";
+"event_polls" = "Polls";
+"event_sessions" = "Sessions";
+"event_speakers" = "Speakers";
+"event_sponsors" = "Sponsors";
+"event_surveys" = "Surveys";
+"event_surveysandpolls" = "Surveys & Polls";
+"event_venuemap" = "Venue Map";
+"eventagenda_title" = "Agenda";
+"eventagendaitem_title" = "Agenda Item";
+"eventannouncements_title" = "Announcements";
+"eventdashboard_happeningnow" = "Happening Now";
+"eventdashboard_nosessions" = "No sessions occurring at this time.";
+"eventmaterials_title" = "Materials";
+"eventspeakerdetail_title" = "Speaker Details";
+"eventspeakers_title" = "Speakers";
+"eventsponsordetail_title" = "Sponsor Details";
+"eventsponsorlist_title" = "Sponsors";
+"eventsurveydetail_needanswer" = "You must answer the current question before proceeding.";
+"eventsurveydetail_surveycomplete" = "Thank you for providing your input!";
+"eventsurveydetail_title" = "Survey Details";
+"eventsurveydetail_voteconfirm" = "Are you sure you want to vote for this answer?";
+"eventsurveylist_alreadycompleted" = "You have already completed this survey/poll.";
+"eventsurveylist_title" = "Surveys & Polls";
+"facebookpages_desc" = "View a list of the Pages you manage. Select one in order to share content as that Page.";
+"facebookpages_pages" = "Pages";
+"facebookpages_publishconfirm" = "Are you sure you want to post as this Facebook Page?";
+"facebookpages_title" = "Facebook Pages";
+"faqs_nofaqsfound" = "No FAQs found.";
+"faqs_title" = "FAQs";
+"genealogy_title" = "Genealogy";
+"general_accept" = "Accept";
+"general_actions" = "Actions";
+"general_add" = "Add";
+"general_addfrom" = "Add From";
+"general_address" = "Address";
+"general_addressinfo" = "Address Information";
+"general_apply" = "Apply";
+"general_appversion" = "App Version";
+"general_back" = "Back";
+"general_basicinfo" = "Basic Information";
+"general_byemail" = "By Email";
+"general_bysms" = "By SMS";
+"general_call" = "Call";
+"general_cancel" = "Cancel";
+"general_cantmakecalls" = "This device cannot make calls.";
+"general_cantsendemail" = "This device cannot send email. Please check your email configuration and try again.";
+"general_cantsendsms" = "This device cannot send SMS messages.";
+"general_categories" = "Categories";
+"general_category" = "Category";
+"general_city" = "City";
+"general_closed" = "Closed";
+"general_companyinfo" = "Company Information";
+"general_contactinfo" = "Contact Information";
+"general_contactsaccess" = "Access to contacts is restricted. Please enable access to contacts in your device settings.";
+"general_contenttype" = "Content Type";
+"general_country" = "Country";
+"general_create" = "Create";
+"general_date" = "Date";
+"general_daterange" = "Date Range";
+"general_days" = "Day(s)";
+"general_decline" = "Decline";
+"general_delete" = "Delete";
+"general_deleteall" = "Delete All";
+"general_deleteselected" = "Delete Selected";
+"general_details" = "Details";
+"general_devicelanguage" = "Device Language";
+"general_devicemodel" = "Device Model";
+"general_deviceos" = "Device OS";
+"general_done" = "Done";
+"general_duration" = "Duration";
+"general_edit" = "Edit";
+"general_editmultiple" = "Edit Multiple";
+"general_email" = "Email";
+"general_enddate" = "End Date";
+"general_error" = "Error";
+"general_failed" = "Failed";
+"general_filter" = "Filter";
+"general_firstname" = "First Name";
+"general_forward" = "Forward";
+"general_hours" = "Hour(s)";
+"general_info" = "Info";
+"general_invalid" = "Invalid";
+"general_language" = "Language";
+"general_lastname" = "Last Name";
+"general_leadgroups" = "Lead Groups";
+"general_leads" = "Leads";
+"general_learnmore" = "Learn More";
+"general_loading" = "Loading";
+"general_location" = "Location";
+"general_message" = "Message";
+"general_moreinfo" = "More Info";
+"general_next" = "Next";
+"general_no" = "No";
+"general_noadditionalinfo" = "No additional information provided.";
+"general_nocameramessage" = "The app is unable to access the Camera on this device.";
+"general_nocameratitle" = "Camera Unavailable";
+"general_nocategory" = "No Category";
+"general_nocontent" = "Content is not available in your selected language.";
+"general_noemail" = "No email available";
+"general_nophone" = "No phone number available";
+"general_nophotolibrarymessage" = "The app is unable to access the Photo Library.";
+"general_nophotolibrarytitle" = "Photo Library Unavailable";
+"general_notice" = "Notice";
+"general_ok" = "OK";
+"general_open" = "Open";
+"general_options" = "Options";
+"general_other" = "Other";
+"general_past" = "Past";
+"general_phone" = "Phone";
+"general_photolibrary" = "Photo Library";
+"general_platform" = "Platform";
+"general_postalcode" = "Postal Code";
+"general_preview" = "Preview";
+"general_previous" = "Previous";
+"general_progress" = "Progress";
+"general_province" = "Province";
+"general_question" = "Question";
+"general_remove" = "Remove";
+"general_removeall" = "Remove All";
+"general_removeimage" = "Remove Image";
+"general_reset" = "Reset";
+"general_responses" = "Responses";
+"general_results" = "Results";
+"general_retry" = "Retry";
+"general_save" = "Save";
+"general_search" = "Search";
+"general_sec" = "sec";
+"general_secondphone" = "Second Phone";
+"general_secs" = "secs";
+"general_seeless" = "See Less";
+"general_seemore" = "See More";
+"general_selectall" = "Select All";
+"general_selectpicturefrom" = "Select picture from";
+"general_send" = "Send";
+"general_settings" = "Settings";
+"general_share" = "Share";
+"general_showme" = "Show Me";
+"general_skip" = "Skip";
+"general_sms" = "SMS";
+"general_socialinfo" = "Social Information";
+"general_socialmedia" = "Social Media";
+"general_sortandfilter" = "Sort & Filter";
+"general_startdate" = "Start Date";
+"general_state" = "State";
+"general_status" = "Status";
+"general_submit" = "Submit";
+"general_success" = "Success";
+"general_successful" = "Successful";
+"general_takepicture" = "Take Picture";
+"general_taphere" = "Tap Here";
+"general_time" = "time";
+"general_times" = "times";
+"general_title" = "Title";
+"general_type" = "Type";
+"general_unknown" = "Unknown";
+"general_unknownerror" = "An unknown error has occurred. Please try again.";
+"general_unknownname" = "Unknown Name";
+"general_upcoming" = "Upcoming";
+"general_username" = "Username";
+"general_viewdetails" = "View Details";
+"general_yes" = "Yes";
+"general_zip" = "Zip";
+"gpsdashboard_title" = "GPS Dashboard";
+"groupdetails_emptygroup" = "No leads found in this group.";
+"groupdetails_removeleadsconfirm" = "Are you sure you want to remove the selected lead(s) from this group?";
+"helpcenter_requestappsupport" = "Request App Support";
+"helpcenter_title" = "Help Center";
+"language_select" = "Select Language";
+"leadactions_cancelscheduledaction" = "Are you sure you want to cancel this action?";
+"leadactions_emailcampaign" = "Email Campaign";
+"leadactions_noscheduledactions" = "No scheduled actions found.";
+"leadactions_reminder" = "Reminder";
+"leadactions_singleemailconfirm" = "Are you sure you want to send this email?";
+"leadactions_title" = "Lead Actions";
+"leaddetails_abandonpathvalidation" = "This will abandon the lead\'s current action path. Do you wish to continue?";
+"leaddetails_addtocontacts" = "Add to Contacts";
+"leaddetails_choosepath" = "Choose a Path";
+"leaddetails_couldnotbefound" = "The lead could not be found.";
+"leaddetails_deletelead" = "Delete Lead";
+"leaddetails_deleteleadmessage" = "Are you sure you want to delete this lead?";
+"leaddetails_deleteleadtitle" = "Delete Current Lead";
+"leaddetails_emailoptedin" = "Opted in to receive emails.";
+"leaddetails_emailoptedout" = "Not opted in to receive emails.";
+"leaddetails_freesample" = "Free Sample";
+"leaddetails_logtab" = "Log";
+"leaddetails_noactionpathset" = "This lead has no path set. Choose an expertly crafted path to get recommended actions.";
+"leaddetails_nocameramessage" = "The app is unable to access the Camera on this device.";
+"leaddetails_nocameratitle" = "Camera Unavailable";
+"leaddetails_nophotolibrarymessage" = "The app is unable to access the Photo Library.";
+"leaddetails_nophotolibrarytitle" = "Photo Library Unavailable";
+"leaddetails_notestab" = "Notes";
+"leaddetails_ongoingactions" = "Ongoing Actions";
+"leaddetails_orderstab" = "Orders";
+"leaddetails_pathneedscontactinfo" = "You can not assign this lead to this path. The following information is needed";
+"leaddetails_photolibrary" = "Photo Library";
+"leaddetails_scheduleareminder" = "Schedule a Reminder";
+"leaddetails_sendcorporateemail" = "Send Corporate Email";
+"leaddetails_sendfreesamplelink" = "Send Free Sample Link";
+"leaddetails_sendshoplink" = "Send Shop Link";
+"leaddetails_sendsignuplink" = "Send Signup Link";
+"leaddetails_shareavideo" = "Share a Video";
+"leaddetails_shoplink" = "Shop Link";
+"leaddetails_signuplink" = "Signup Link";
+"leaddetails_smsoptedin" = "Opted in to receive SMS messages.";
+"leaddetails_smsoptedout" = "Not opted in to receive SMS messages.";
+"leaddetails_startemailcampaign" = "Start Email Campaign";
+"leaddetails_statstab" = "Stats";
+"leaddetails_takepicture" = "Take Picture";
+"leaddetails_timetocomplete" = "Average Time to Complete";
+"leadlog_title" = "Lead Log";
+"leadnotedetail_title" = "Note Detail";
+"leadnotes_nonotesfound" = "No notes found.";
+"leadnotes_title" = "Lead Notes";
+"leadstats_title" = "Lead Stats";
+"login_expiredsession" = "Your session has expired, please login again.";
+"login_login" = "Login";
+"login_loginasnewuser" = "Login as a new user";
+"login_loginerror" = "An error occurred during the login process. Please check your username and password and try again.";
+"login_myaccounts" = "My Accounts";
+"login_password" = "Password";
+"login_signup" = "Sign Up";
+"login_signupinstructions" = "Please enter the username of the person who referred you.";
+"login_signupinvalidmessage" = "A referral username is required.";
+"login_version" = "Version";
+"logout_title" = "Logout";
 "mailbox_inbox" = "Inbox";
+"mailbox_title" = "Mailbox";
 "mailbox_trash" = "Trash";
-
+"managegroups_deletegroupsconfirm" = "Are you sure you want to delete the selected group(s)?";
+"managegroups_groupname" = "Group Name";
+"managegroups_namevalidation" = "A group must have a name.";
+"managegroups_newgroup" = "New Group";
+"managegroups_newgroupname" = "New group name:";
+"managegroups_title" = "Groups";
+"mybadges_notearned" = "You have not yet earned this badge!";
+"myevents_noevents" = "No registered events found.";
+"myevents_notickets" = "No tickets found.";
+"myevents_ongoingevents" = "Ongoing Events";
+"myevents_tickets" = "Tickets";
+"myevents_title" = "My Events";
+"myeventsdetail_downloadreminder" = "Sometimes, there is a bad and/or no internet connection at events so it is important to download this QR code by tapping the \"Save to Camera Roll\" button.";
+"myeventsdetail_qrcodesavefailure" = "QR code failed to save.";
+"myeventsdetail_qrcodesavesuccess" = "QR code saved successfully!";
+"myeventsdetail_savetocameraroll" = "Save to Camera Roll";
+"myeventsdetail_title" = "My Event QRCode";
+"myleads_actionpaths" = "Action Paths";
+"myleads_addasnewcontact" = "Add as New Contact";
+"myleads_addcontact" = "Add from Contacts";
+"myleads_addleads" = "Add Leads";
+"myleads_addnewlead" = "Add New Lead";
+"myleads_addtocontacts" = "Add to Contacts";
+"myleads_addtogroups" = "Add to Groups";
+"myleads_assigntoactionpath" = "Assign to Action Path";
+"myleads_changestatusto" = "Change status to";
+"myleads_deleteleadsconfirm" = "Are you sure you want to delete the selected leads?";
+"myleads_freesample" = "Send Free Sample Link";
+"myleads_managegroups" = "Manage Groups";
+"myleads_nocontactinfo" = "No contact info available.";
+"myleads_noleademail" = "No email set for the selected lead.";
+"myleads_noleadphone" = "No phone number set for the selected lead.";
+"myleads_noleads" = "You don't have any leads yet. Tap the settings button above to get started adding leads!";
+"myleads_nostatus" = "No Status";
+"myleads_notonpath" = "Not on Path";
+"myleads_onpath" = "On Path";
+"myleads_sendoptinout" = "Send Opt In/Out Link";
+"myleads_signuplink" = "Send Signup Link";
+"myleads_sortby" = "Sort by";
+"myleads_updatecontact" = "Update Existing Contact";
+"myteam_title" = "My Team";
+"news_nonewsfound" = "No news articles found.";
+"news_title" = "News";
+"optimisms_title" = "Mantras";
+"otherapps_copypastemessage" = "Some apps do not let us insert content text for you. Would you like to copy the share text to your clipboard so you can paste it?";
+"otherapps_desc" = "Select from a list of apps on your device to share content. Content can also be copied and pasted using this option.";
+"otherapps_title" = "Other Apps";
+"profile_title" = "Mobile Profile";
+"prospector_abandonpath" = "Abandon Path";
 "prospector_actionpath" = "Action Path";
+"prospector_changepath" = "Change Path";
+"prospector_doit" = "Do It";
 "prospector_learnmoremessage" = "You have no leads set to an action path. We can recommend actions for you with action paths.";
+"prospector_noactionsfound" = "No recommended actions found. Check back later for more recommendations.";
+"prospector_norecommendedactions" = "No recommended actions found.";
 "prospector_recommendedaction" = "Recommended Action";
 "prospector_recommendedactions" = "Recommended Actions";
 "prospector_tryagainmessage" = "An error occurred retrieving recommended actions. Please try again later.";
 "prospector_tutorialA" = "Introducing Prospector! The new way to manage your leads & make the sale!";
 "prospector_tutorialB" = "Assign a lead to an Action Path and we'll recommend industry tested actions for you to take!";
 "prospector_tutorialC" = "You can view all recommended actions in one spot right on your dashboard!\n\nWe'll send you notifications too!";
+"prospector_upcomingactionmessage" = "This upcoming action item cannot be completed before the following date";
 "prospector_viewfullpath" = "View Full Path";
-"prospector_changepath" = "Change Path";
-"prospector_abandonpath" = "Abandon Path";
-"prospector_noactionsfound" = "No recommended actions found. Check back later for more recommendations.";
-
-"optimisms_title" = "Optimisms";
-
-"helpcenter_requestappsupport" = "Request App Support";
-"trainingvideos_title" = "Training Videos";
-"faqs_title" = "FAQs";
-"faqs_nofaqsfound" = "No FAQs found.";
-
-"videos_title" = "Videos";
-"videos_novideosfound" = "No videos found";
-"emailcampaign_desc" = "Start your leads, device contacts, and lead groups on an expertly crafted email campaign schedule.";
-"emailcampaign_startedsuccessfully" = "Email campaign started successfully!";
-"emailmessages_desc" = "Send corporate designed template emails to your leads, device contacts, and lead groups.";
-"videoplaylist_desc" = "Create, organize, and share your personal playlist of videos.";
-"youtubevideos_title" = "YouTube Videos";
-"youtubevideos_desc" = "Share one of your own uploaded YouTube videos with lead capture capabilities.";
-"basicmessage_title" = "Basic Message";
-"basicmessage_desc" = "Share a basic message and image to your leads or favorite social media app.";
-
-"shareoptions_title" = "Share Options";
-"bysms_title" = "By SMS";
-"bysms_desc" = "Send content directly with a text message. Select from leads, device contacts, and lead groups.";
-"byemail_title" = "By Email";
-"byemail_desc" = "Send content directly with an email. Select from leads, device contacts, and lead groups.";
-"facebookpages_title" = "Facebook Pages";
-"facebookpages_desc" = "View a list of the Pages you manage. Select one in order to share content as that Page.";
-"facebookpages_pages" = "Pages";
-"facebookpages_publishconfirm" = "Are you sure you want to publish to the selected Page?";
-"otherapps_title" = "Other Apps";
-"otherapps_desc" = "Select from a list of apps on your device to share content. Content can also be copied and pasted using this option.";
-"otherapps_copypastemessage" = "Some apps do not let us insert content text for you. Would you like to copy the share text to your clipboard so you can paste it?";
-"sharetype_video" = "Video";
-"sharetype_optimism" = "Optimism";
-"sharetype_youtubevideo" = "YouTube Video";
-"sharetype_emailcampaign" = "Email Campaign";
-"sharetype_corporateemail" = "Corporate Email";
-"sharetype_videoplaylist" = "Video Playlist";
-"sharetype_basicmessage" = "Basic Message";
-"share_suggestedmessage" = "Suggested Message";
-"share_personalizemessage" = "Personalize Message";
-"share_receivers" = "Receivers";
-"share_noreceiversfound" = "No receivers selected. Tap the \"Add\" button to get started.";
-"share_somephonesempty" = "One or more of the selected leads does not have a phone number set.";
-"share_someemailsempty" = "One or more of the selected leads does not have an email set.";
-"share_somesmsoptedout" = "One or more of the selected leads has opted out of receiving SMS messages.";
-"share_someemailoptedout" = "One or more of the selected leads has opted out of receiving email messages.";
-"share_publishsuccessful" = "Publish was successful!";
-"share_publishfailed" = "Publish failed";
-
-"myleads_noleads" = "You don't have any leads yet. Tap the settings button above to get started adding leads!";
-"myleads_actionpaths" = "Action Paths";
-"myleads_onpath" = "On Path";
-"myleads_notonpath" = "Not on Path";
-"myleads_nostatus" = "No Status";
-"myleads_managegroups" = "Manage Groups";
-"myleads_addleads" = "Add Leads";
-"myleads_addtogroups" = "Add to Groups";
-"myleads_assigntoactionpath" = "Assign to Action Path";
-"myleads_deleteleadsconfirm" = "Are you sure you want to delete the selected leads?";
-
-"managegroups_deletegroupsconfirm" = "Are you sure you want to delete the selected group(s)?";
-
-"groupdetails_emptygroup" = "No leads found in this group.";
-"groupdetails_removeleadsconfirm" = "Are you sure you want to remove the selected lead(s) from this group?";
-
-"leaddetails_ongoingactions" = "Ongoing Actions";
-"leaddetails_shareavideo" = "Share a Video";
-"leaddetails_sendsignuplink" = "Send Signup Link";
-"leaddetails_signuplink" = "Signup Link";
-"leaddetails_startemailcampaign" = "Start Email Campaign";
-"leaddetails_sendcorporateemail" = "Send Corporate Email";
-"leaddetails_sendfreesamplelink" = "Send Free Sample Link";
-"leaddetails_freesample" = "Free Sample";
-"leaddetails_sendshoplink" = "Send Shop Link";
-"leaddetails_shoplink" = "Shop Link";
-"leaddetails_addtocontacts" = "Add to Contacts";
-"leaddetails_scheduleareminder" = "Schedule a Reminder";
-"leaddetails_noactionpathset" = "This lead has no path set. Choose an expertly crafted path to get recommended actions.";
-"leaddetails_choosepath" = "Choose a Path";
-
-"leadnotes_nonotesfound" = "No notes found.";
-
-"actionpathpicker_nopathsfound" = "No action paths found.";
-
-"businesssnapshot_title" = "Business Snapshot";
-
-"gpsdashboard_title" = "GPS Dashboard";
-
+"reminder_messageneeded" = "You must enter a message for the reminder.";
+"reminder_title" = "Create Reminder";
+"reminder_titleneeded" = "You must enter a title for the reminder.";
+"reportparams_title" = "Report Parameters";
+"reportparams_viewreports" = "View Reports";
 "reportslist_noreports" = "No reports found.";
-
-"emailstats_title" = "Email Stats";
-"emailstats_nostatsfound" = "No email stats found.";
-"emailstats_datesent" = "Date Sent";
-"emailstats_dateread" = "Date Read";
-"emailstats_read" = "Read";
-
-"videostats_title" = "Video Stats";
-"videostats_nostatsfound" = "No video stats found.";
-"videostats_nochartdata" = "No chart data available.";
-"videostats_totalviews" = "Total Views";
-"videostats_leadvssocial" = "Lead vs Social";
-"videostats_videoswatched" = "Videos Watched";
-"videostats_socialmediaviews" = "Social Media Views";
-"videostats_viewsbystate" = "Views by State";
-"videostats_videoviews" = "Video Views";
-"videostats_leadviews" = "Lead Views";
-"videostats_socialmediaviews" = "Social Media Views";
-"videostats_watched" = "Watched";
+"reportslist_title" = "Reports";
+"reportviewer_title" = "Report Viewer";
+"selectcontacts_title" = "Select Contacts";
+"sendmessage_sendsuccess" = "Message(s) have been sent.";
+"share_noreceiversfound" = "No receivers selected. Tap the \"Add\" button to get started.";
+"share_personalizemessage" = "Personalize Message";
+"share_publishfailed" = "Publish failed";
+"share_publishsuccessful" = "Publish was successful!";
+"share_receivers" = "Receivers";
+"share_someemailsempty" = "One or more of the selected leads does not have an email set.";
+"share_somephonesempty" = "One or more of the selected leads does not have a phone number set.";
+"share_suggestedmessage" = "Suggested Message";
+"shareoptions_title" = "Share Options";
+"sharetype_basicmessage" = "Basic Message";
+"sharetype_corporateemail" = "Corporate Email";
+"sharetype_emailcampaign" = "Email Campaign";
+"sharetype_optimism" = "Mantra";
+"sharetype_video" = "Video";
+"sharetype_videoplaylist" = "Video Playlist";
+"sharetype_youtubevideo" = "YouTube Video";
+"smartcloud_downloading" = "Downloading";
+"smartcloud_removelocal" = "Remove Local";
+"smartcloud_title" = "PMBCloud";
+"supportrequests_title" = "Support Requests";
+"supportresponses_title" = "Support Responses";
+"tabname_dashboard" = "Dashboard";
+"tabname_leads" = "Leads";
+"tabname_more" = "More";
+"tabname_share" = "Share";
+"tabname_stats" = "Stats";
+"tos_title" = "Terms of Service";
+"trainingvideos_title" = "Training Videos";
+"videoplaylist_desc" = "Create, organize, and share your personal playlist of videos.";
+"videoplaylist_emptyplaylist" = "You currently have no videos in your playlist. Add at least one video to view your playlist.";
+"videoplaylist_fullplaylist" = "Your playlist is full. Please remove a video before adding another.";
+"videoplaylist_languageerror" = "One or more of the videos in your playlist are not available in the currently selected language.";
+"videoplaylist_removefromplaylist" = "Remove from Playlist";
+"videoplaylist_title" = "Video Playlist";
+"videos_novideosfound" = "No videos found";
+"videos_title" = "Videos";
 "videostats_datewatched" = "Date Watched";
+"videostats_leadviews" = "Lead Views";
+"videostats_leadvssocial" = "Lead vs Social";
+"videostats_nochartdata" = "No chart data available.";
+"videostats_nostatsfound" = "No video stats found.";
+"videostats_referraltitle" = "The video was found on the website below";
+"videostats_socialmediaviews" = "Social Media Views";
+"videostats_title" = "Video Stats";
+"videostats_totalviews" = "Total Views";
+"videostats_videoswatched" = "Videos Watched";
+"videostats_videoviews" = "Video Views";
+"videostats_viewsbystate" = "Views by State";
 "videostats_watchcount" = "Watch Count";
 "videostats_watchduration" = "Watch Duration";
+"videostats_watched" = "Watched";
 "videostats_watchedondesktop" = "The video was viewed on a desktop computer.";
 "videostats_watchedonmobile" = "The video was viewed on a mobile device.";
-"videostats_referraltitle" = "The video was found on the website below";
-
-"appstats_title" = "App Stats";
-
-"myteam_title" = "My Team";
-"backofficeweb_title" = "BackOffice Web";
-"logout_title" = "Logout";
-
-"general_apply" = "Apply";
-"general_skip" = "Skip";
-"login_expiredsession" = "Your session has expired, please login again.";
-"login_myaccounts" = "My Accounts";
-"login_loginasnewuser" = "Login as a new user";
-"newsignup_signupinstructions" = "Please enter the username of the person who referred you.";
-
-
-// ============================================================================
-// MARK: Android
-// ============================================================================
-
-"android_exitconfirm"                =    "Are you sure you want to exit?";
-"android_appnotfound"                =    "Unable to find app on the market.";
-"android_nogoogleplus"                =    "You must have Google+ installed.";
-"android_notificatonssetting"        =    "Receive Notifications";
-
-
-// ============================================================================
-// MARK: General
-// ============================================================================
-
-"general_yes"               =     "Yes";
-"general_no"                =   "No";
-"general_on"                =     "ON";
-"general_off"                =    "OFF";
-"general_accept"            =   "Accept";
-"general_decline"           =   "Decline";
-"general_success"           =   "Success";
-"general_error"             =     "Error";
-"general_notice"            =     "Notice";
-"general_ok"                =   "OK";
-"general_cancel"            =     "Cancel";
-"general_loading"           =     "Loading";
-"general_none"              =     "None";
-"general_open"              =   "Open";
-"general_closed"            =   "Closed";
-"general_invalid"           =   "Invalid";
-"general_previous"          =   "Previous";
-"general_next"              =     "Next";
-"general_done"              =     "Done";
-"general_save"              =     "Save";
-"general_saveconfirm"       =   "Would you like to save changes?";
-"general_delete"            =     "Delete";
-"general_remove"            =   "Remove";
-"general_removeall"         =   "Remove All";
-"general_search"            =   "Search";
-"general_addnew"            =   "Add New +";
-"general_add"                =    "Add";
-"general_create"            =   "Create";
-"general_edit"              =   "Edit";
-"general_seemore"           =   "See More";
-"general_more"              =   "More";
-"general_reset"             =     "Reset";
-"general_post"              =     "Post";
-"general_submit"            =   "Submit";
-"general_send"              =   "Send";
-"general_share"             =   "Share";
-"general_preview"           =   "Preview";
-"general_viewmore"          =   "View More";
-"general_filter"            =     "Filter";
-"general_filterby"          =   "Filter by";
-"general_exit"              =   "Exit";
-"general_settings"          =   "Settings";
-"general_details"           =   "Details";
-"general_categories"        =   "Categories";
-"general_question"          =   "Question";
-"general_responses"         =   "Responses";
-"general_location"          =   "Location";
-"general_info"              =   "Info";
-"general_moreinfo"          =   "More Info";
-"general_byemail"           =   "By Email";
-"general_bysms"             =   "By SMS";
-"general_showme"            =   "Show Me";
-"general_taphere"           =   "Tap Here";
-"general_needhelp"          =   "Need help?";
-"general_noadditionalinfo"  =   "No additional information provided.";
-"general_unknownerror"      =   "An unknown error has occurred. Please try again.";
-"general_nointernet"        =    "Could not connect to the internet. Please check your internet settings and try again.";
-"general_cantmakecalls"     =   "This device cannot make calls.";
-"general_cantsendsms"         =   "This device cannot send SMS messages.";
-"general_cantsendemail"     =   "This device cannot send email. Please check your email configuration and try again.";
-"general_contactsaccess"    =   "Access to contacts is restricted. Please enable access to contacts in your device settings.";
-"general_nocontent"         =   "Content is not available in your selected language.";
-"general_comingsoon"        =   "Coming Soon";
-"general_upcoming"          =   "Upcoming";
-
-"general_back"              =   "Back";
-"general_forward"           =   "Forward";
-"general_webpageerror"      =   "Could not load webpage.";
-
-"general_unknownname"       =   "Unknown Name";
-"general_username"          =     "Username";
-"general_firstname"         =     "First Name";
-"general_lastname"          =     "Last Name";
-"general_name"              =   "Name";
-"general_language"          =   "Language";
-"general_address"           =   "Address";
-"general_city"              =   "City";
-"general_state"             =   "State";
-"general_zip"               =   "Zip";
-"general_province"          =   "Province";
-"general_postalcode"        =   "Postal Code";
-"general_country"           =   "Country";
-"general_phonenumber"       =     "Phone Number";
-"general_phone"             =     "Phone";
-"general_secondphone"       =   "Second Phone";
-"general_cell"              =     "Cell";
-"general_work"              =     "Work";
-"general_email"             =     "Email";
-"general_status"            =     "Status";
-"general_displayname"       =     "Display Name";
-"general_title"             =     "Title";
-"general_contact"           =   "Contact";
-"general_lead"              =   "Lead";
-"general_facebookurl"       =     "Facebook URL";
-"general_twitterhandle"     =     "Twitter Handle";
-"general_skypeusername"     =     "Skype Username";
-"general_devicemodel"       =   "Device Model";
-"general_devicelanguage"    =   "Device Language";
-"general_deviceos"          =   "Device OS";
-"general_appversion"        =   "App Version";
-
-"general_sunday"            =     "Sunday";
-"general_monday"            =   "Monday";
-"general_tuesday"           =     "Tuesday";
-"general_wednesday"         =     "Wednesday";
-"general_thursday"          =     "Thursday";
-"general_friday"            =     "Friday";
-"general_saturday"          =     "Saturday";
-
-"general_days"              =   "Day(s)";
-"general_hours"             =   "Hour(s)";
-"general_upcoming"          =   "Upcoming";
-"general_past"              =   "Past";
-
-"general_facebook"          =   "Facebook";
-"general_facebookrequired"  =   "Please install the Facebook application to use this feature.";
-"general_twitter"           =   "Twitter";
-"general_googleplus"        =   "Google+";
-
-
-// ============================================================================
-// MARK: Language Select
-// ============================================================================
-
-"language_select"           =   "Select Language";
-
-
-// ============================================================================
-// MARK: App Rating
-// ============================================================================
-
-
-// The title of the prompt for app rating.
-"rateappprompt_title"   =     "Rate App?";
-
-// The message in the prompt for app rating.
-"rateappprompt_message" =     "Like the app? Would you like to rate the current version?";
-
-// The cancel text of the prompt for app rating.
-"rateappprompt_cancel"  =     "Not Now";
-
-
-// ============================================================================
-// MARK: Login
-// ============================================================================
-
-// The title in the navigation bar of the login screen.
-"login_title"                   =    "Welcome";
-
-// The Help Text used by the login screen.
-"login_help"                    =   "Enter your username and password to login. \n\nTap the \"Keep me connected\" switch to have the app remember your username and password. When opened the app will attempt to log you in automatically!";
-
-// The placeholder text for the password text field.
-"login_password"                =     "Password";
-
-// The title of the Login Button, and any alert message box.
-"login_login"                   =     "Login";
-
-// The label for the Keep Me Connected Switch.
-"login_keepmeconnected"         =   "Keep me connected";
-
-// The Version label on indicating the app version.
-"login_version"                 =     "Version";
-
-// The text used in the loading indicator for the login screen.
-"login_loading"                 =     "Logging In";
-
-// The login error/failure message.
-"login_loginerror"              =     "An error occurred during the login process. Please check your username and password and try again.";
-
-
-// The title text of the login method prompt.
-"login_loginmethodprompt"       =   "Tell us how to keep you connected.";
-
-// The title of the Use Touch ID button.
-"login_methodtouchid"           =   "Use Touch ID";
-
-// The title of the Remember Username & Password button.
-"login_methoduserandpass"       =   "Remember Username & Password";
-
-// The title of the Remember Username only button.
-"login_methoduser"              =   "Remember Username only";
-
-
-// ============================================================================
-// MARK: Terms of Service
-// ============================================================================
-
-// The title in the navigation bar of the Terms of Service screen.
-"tos_title"             =   "Terms of Service";
-
-// The Help Text used by the login screen.
-"tos_help"              =   "Please read over the Terms of Service agreement for use with this app. Either accept or decline the agreement. Declining the agreement will prevent you from using any further features of the app.";
-
-
-// ============================================================================
-// MARK: Events Module
-// ============================================================================
-
-"event_agenda"                      =   "Agenda";
-"event_session"                     =   "Session";
-"event_sessions"                    =   "Sessions";
-"event_myschedule"                  =   "My Schedule";
-"event_speakers"                    =   "Speakers";
-"event_bio"                         =   "Biography";
-"event_venuemap"                    =   "Venue Map";
-"event_materials"                   =   "Materials";
-"event_surveys"                     =   "Surveys";
-"event_polls"                       =   "Polls";
-"event_castvote"                    =   "Cast Vote";
-"event_surveysandpolls"             =   "Surveys & Polls";
-"event_announcements"               =   "Announcements";
-"event_sponsors"                    =   "Sponsors";
-"eventdashboard_happeningnow"       =   "Happening Now";
-"eventdashboard_nosessions"         =   "No sessions occurring at this time.";
-
-
-
-// The title in the navigation bar of the Events Agenda screen.
-"eventagenda_title"                 =   "Agenda";
-
-// The Help Text used by the Events Agenda screen.
-"eventagenda_help"                  =   "View an event's agenda. Tap on an agenda item to get more details. \n\nTap on the \"Follow\" button to get alerts before an agenda item begins.";
-
-
-
-// The title in the navigation bar of the Events Agenda Item screen.
-"eventagendaitem_title"             =   "Agenda Item";
-
-// The Help Text used by the Events Agenda Item screen.
-"eventagendaitem_help"              =   "View the details of an event agenda item. Tap on the \"Follow\" button to get alerts before an agenda item begins. \n\nTap the location \"Show Me\" button to view where the agenda item takes place. \n\nTap on a download button to view materials associated with the agenda item. \n\nTap the \"Speakers\" tab to view all of the speakers involved with the agenda item.";
-
-
-
-// The title in the navigation bar of the Events Speaker screen.
-"eventspeakers_title"               =   "Speakers";
-
-// The Help Text used by the Events Speaker screen.
-"eventspeakers_help"                =   "View all of the people speaking at the event. Tap a speaker to view their bio. \n\nTap the \"Favorite\" button to get alerts when before a speaker is presenting.";
-
-
-
-// The title in the navigation bar of the Events Speaker Detail screen.
-"eventspeakerdetail_title"          =   "Speaker Details";
-
-// The Help Text used by the Events Speaker Detail screen.
-"eventspeakerdetail_help"           =   "View the details of an event speaker. Tap the \"Favorite\" button to get alerts when before a speaker is presenting. \n\nTap the \"Sessions\" tab to view all of the agenda items in which the speaker is presenting.";
-
-
-
-// The title in the navigation bar of the Events Materials screen.
-"eventmaterials_title"              =   "Materials";
-
-// The Help Text used by the Events Materials screen.
-"eventmaterials_help"               =   "View all of the materials and resources for the event. Tap the download button to download and view a material.";
-
-
-
-// The title in the navigation bar of the Events Survey and Polls screen.
-"eventsurveylist_title"             =   "Surveys & Polls";
-
-// The Help Text used by the Events Survey and Polls screen.
-"eventsurveylist_help"              =   "View all of the surveys and polls currently taking place at the event. Give us your input to help us improve your event experience!";
-
-// The message shown when a user selects an already completed survey/poll.
-"eventsurveylist_alreadycompleted"  =   "You have already completed this survey/poll.";
-
-
-
-// The title in the navigation bar of the Events Survey Detail screen.
-"eventsurveydetail_title"           =   "Survey Details";
-
-// The Help Text used by the Events Survey Detail screen.
-"eventsurveydetail_help"            =   "Select an answer for each question. Select the \"Next\" button to either complete the survey or proceed to the next question.";
-
-// The message shown when a survey answer is required.
-"eventsurveydetail_needanswer"      =   "You must answer the current question before proceeding.";
-
-// The message shown to confirm a vote in a poll.
-"eventsurveydetail_voteconfirm"     =   "Are you sure you want to vote for this answer?";
-
-// The message shown when a survey or poll ahs been completed.
-"eventsurveydetail_surveycomplete"  =   "Thank you for providing your input!";
-
-
-
-// The title in the navigation bar of the Events Announcements screen.
-"eventannouncements_title"          =   "Announcements";
-
-// The Help Text used by the Events Announcements screen.
-"eventannouncements_help"           =   "View all of the event announcements. Important information about any time and location changes can be found here.";
-
-
-
-// The title in the navigation bar of the Events Sponsors screen.
-"eventsponsorlist_title"            =   "Sponsors";
-
-// The Help Text used by the Events Sponsors screen.
-"eventsponsorlist_help"             =   "View all of our event sponsors. Tap on a sponsor to get more information.";
-
-
-
-// The title in the navigation bar of the Events Sponsor Detail screen.
-"eventsponsordetail_title"          =   "Sponsor Details";
-
-// The Help Text used by the Events Sponsor Detail screen.
-"eventsponsordetail_help"           =   "View the details of the sponsor. Tap the \"More Info\" button to get additional details on the sponsor.";
-
-
-
-// ============================================================================
-// MARK: Menu
-// ============================================================================
-
-// The title of the Home menu option.
-"menu_home"             =   "Home";
-
-// The title of the Dashboard menu option.
-"menu_dashboard"        =   "Dashboard";
-
-// The title of the Optimism menu option.
-"menu_optimism"         =   "Optimism";
-
-// The title of the My Leads menu option.
-"menu_myleads"          =     "My Leads";
-
-// The title of the Manage Groups menu option.
-"menu_managegroups"     =     "Manage Groups";
-
-// The title of the Training Videos menu option.
-"menu_trainingvideos"   =   "Training Videos";
-
-// The title of the Video Campaign menu option.
-"menu_videocampaign"    =     "Video Campaign";
-
-// The title of the Group SMS menu option.
-"menu_groupsms"         =   "Group SMS";
-
-// The title of the Custom Campaign menu option.
-"menu_customcampaign"   =   "Custom Campaign";
-
-// The title of the Campaign Stats menu option.
-"menu_campaignstats"    =     "Campaign Stats";
-
-// The title of the My Badges menu option.
-"menu_mybadges"         =   "My Badges";
-
-// The title of the Alerts menu option.
-"menu_alerts"           =   "Alerts";
-
-// The title of the Profile menu option.
-"menu_profile"          =   "Profile";
-
-// the title of the Shopping Cart menu option.
-"menu_shoppingcart"     =   "Shopping Cart";
-
-// The title of the SmartCloud menu option.
-"menu_smartcloud"           =   "SmartCloud";
-
-// The title of the Back Office menu option.
-"menu_backoffice"       =   "Backoffice Web";
-
-// The title of the Success On Demand menu option.
-"menu_sod"              =   "Success On Demand";
-
-// The title of the Help Center menu option.
-"menu_helpcenter"       =     "Help Center";
-
-// The title of the Logout menu option.
-"menu_logout"           =   "Logout";
-
-
-// The title of the menu section header for Home.
-"menu_homeheader"           =   "HOME";
-
-// The title of the menu section header for Lead Management.
-"menu_leadmanagementheader" =     "MY LEADS";
-
-// The title of the menu section header for Promotions.
-"menu_promotions"           =     "PROMOTIONS";
-
-// The title of the menu section header for Other.
-"menu_otherheader"          =     "OTHER";
-
-// The title of the menu section header for More.
-"menu_moreheader"           =     "MORE";
-
-
-// ============================================================================
-// MARK: Dashboard
-// ============================================================================
-
-// The title in the navigation bar of the Dashboard screen.
-"dashboard_title"                   =   "Dashboard";
-
-// The Help Text used by the Dashboard screen.
-"dashboard_help"                    =   "From the dashboard you can view all of the latest information relating to your business.\n\nTap on the tab buttons to switch between tabs.";
-
-// The title of the Home tab.
-"dashboard_home"                    =   "Home";
-
-// The title of the News Feed tab.
-"dashboard_newsfeed"                =   "News Feed";
-
-// The title of the Pathways tab.
-"dashboard_prospector"              =   "Pathways";
-
-
-// ============================================================================
-// MARK: Daily Optimism
-// ============================================================================
-
-// The title in the navigation bar of the daily optimism screen.
-"dailyoptimism_title"       =     "Daily Optimism";
-
-// The Help Text used by the daily optimism screen.
-"dailyoptimism_help"        =     "View and share the daily Optimism!\n\nTap \"Library\" to pick any of the past Optimisms to share.";
-
-// The title of the Share Button.
-"dailyoptimism_share"       =     "Share Today's Optimism";
-
-// The title of the Optimism Library Button.
-"dailyoptimism_library"     =     "Library";
-
-// The title of the Auto-Drip Settings Button.
-"dailyoptimism_autodrip"    =     "Auto-Drip Settings";
-
-
-// ============================================================================
-// MARK: Optimism Library
-// ============================================================================
-
-// The title in the navigation bar of the optimism library screen.
-"optimismlibrary_title"     =     "Library";
-
-// The Help Text used by the optimism library screen.
-"optimismlibrary_help"      =     "Select one of the Optimisms from the library to continue sharing.";
-
-
-// ============================================================================
-// MARK: Optimism Library
-// ============================================================================
-
-// The title in the navigation bar of the share optimism screen.
-"shareoptimism_title"   =     "Optimism";
-
-// The Help Text used by the share optimism screen.
-"shareoptimism_help"    =     "View and share the Optimism that you selected from the library!\n\nTap the back button to return to the library.";
-
-// The title of the Share This Optimism Button.
-"shareoptimism_share"   =     "Share This Optimism";
-
-
-// ============================================================================
-// MARK: My Leads
-// ============================================================================
-
-// The title in the navigation bar of the my leads screen.
-"myleads_title"             =   "My Leads";
-
-// The Help Text used by the my leads screen.
-"myleads_help"              =   "View and edit your current leads.\n\n Tap the \"Add (+)\" button to add leads from either your contacts or manual input on the fly!\n\nTap a lead to edit their details. Swipe a lead to the left to view additional options.\n\nTap the \"Sort\" button to sort your leads list. You can sort leads by both ascending and descending values.\n\nLeads can also be filtered using the \"Filter\" button and by using the search bar.";
-
-// The title of the leads tab.
-"myleads_leads"             =   "Leads";
-
-// The title of the customers tab.
-"myleads_customers"         =   "Customers";
-
-// The text shown in the no customers label.
-"myleads_nocustomersfound"  =   "No Customers Found";
-
-// The title of the Sort Button.
-"myleads_sort"              =   "Sort";
-
-// The title of the Sort Action Sheet Menu.
-"myleads_sortby"            =   "Sort by";
-
-// The title of the Ascending Segment Control Button.
-"myleads_ascending"         =   "Asc";
-
-// The title of the Descending Segment Control Button.
-"myleads_descending"        =   "Desc";
-
-// The title of the Change Status Action Menu.
-"myleads_changestatusto"    =   "Change status to";
-
-// The title of the Hot option during Filtering.
-"myleads_statushot"         =     "Hot";
-
-// The title of the Warm option during Filtering.
-"myleads_statuswarm"        =     "Warm";
-
-// The title of the Cold option during Filtering.
-"myleads_statuscold"        =     "Cold";
-
-// The title of the New option during Filtering.
-"myleads_statusnew"         =     "New";
-
-// The title of the Add Lead Action Sheet Menu.
-"myleads_addlead"           =     "Add Lead";
-
-// The title for the Add from Contacts option during Add Lead.
-"myleads_addcontact"        =     "Add from Contacts";
-
-// The title for the Add New Lead option during Add Lead.
-"myleads_addnewlead"        =     "Add New Lead";
-
-// The title of the alert message boxes for any Add Contact action.
-"myleads_contacts"          =     "Contacts";
-
-// The message displayed when a contact is added successfully.
-"myleads_addcontactsuccess" =   "Contact added successfully!";
-
-// The Add Contact error/failure message.
-"myleads_addcontacterror"   =   "An error occurred while adding a contact.";
-
-// Displayed in a My Leads table cell when no contact info is available. (phone and/or email).
-"myleads_nocontactinfo"     =     "No contact info available.";
-
-// The title of the Send Opt In/Out Link option during Leads More Options.
-"myleads_sendoptinout"      =   "Send Opt In/Out Link";
-
-// The title of the Send Signup Link option during Leads More Options.
-"myleads_signuplink"        =     "Send Signup Link";
-
-// The title of the Send Free Sample Link option during Leads More Options.
-"myleads_freesample"        =     "Send Free Sample Link";
-
-// The title of the Send My Video Player option during Leads More Options.
-"myleads_videoplayer"       =     "Send My Video Player";
-
-// The title of the Local Device View option during Leads More Options.
-"myleads_deviceview"        =     "Local Device View";
-
-// The title of the Add to Contacts option during Leads More Options.
-"myleads_addtocontacts"     =     "Add to Contacts";
-
-// The title of the Add as New Contact option during Leads Add to Contacts Options.
-"myleads_addasnewcontact"   =     "Add as New Contact";
-
-// The title of the Update Existing Contact option during Leads Add to Contacts Options.
-"myleads_updatecontact"     =     "Update Existing Contact";
-
-// Error message when a lead has no phone number.
-"myleads_noleadphone"       =   "No phone number set for the selected lead.";
-
-// Error message when a lead has no email address.
-"myleads_noleademail"       =   "No email set for the selected lead.";
-
-// The tip text for the Customer tutorial.
-"myleads_customertip1"      =   "When we detect a Lead has become a customer, you can merge the lead to a customer here.";
-
-
-// Message for sending SMS displayed in the Local Device View Screen under My Leads
-"localdevice_sendmessage"            =    "Send Message";
-
-// Message for create new device contact displayed in the Local Device View Screen under My Leads
-"localdevice_createnewcontact"        =    "Create New Contact";
-
-// Message for adding to existing contact displayed in the Local Device View Screen under My Leads
-"localdevice_addexistingcontact"    =    "Add to Existing Contact";
-
-
-// ============================================================================
-// MARK: Add Lead
-// ============================================================================
-
-// The title in the navigation bar of the add lead screen.
-"addlead_title"             =   "Add Lead";
-
-// The Help Text used by the add lead screen.
-"addlead_help"              =   "Enter the information for the new lead you would like to add.\n\nThe new lead MUST be given a first name.\n\nYou MUST also provide at least one method of contact (Phone Number or Email) for the new lead.";
-
-// The title of the Add Lead Button.
-"addlead_addlead"           =   "Add Lead";
-
-// The message of the success alert.
-"addlead_addsuccessful"     =   "Lead added successfully!";
-
-// The message of the failure alert.
-"addlead_addfailure"        =   "An error occurred while adding a lead.";
-
-// The validation message for requiring a first name.
-"addlead_namevalidation"    =   "You must enter a first name.";
-
-// The validation message for requiring at least one contact method.
-"addlead_contactvalidation" =     "You must enter at least one contact method (phone or email).";
-
-
-// ============================================================================
-// MARK: Customer Confirm
-// ============================================================================
-
-// The title in the navigation bar of the Customer Confirm screen.
-"customerconfirm_title"                 =   "Pending Merges";
-
-// The Help Text used by the Customer Confirm screen.
-"customerconfirm_help"                  =   "Help us decide if we should merge a customer entry with one of your existing leads by comparing their contact information. Tap the \"Merge All\" button to merge all customers with existing leads.";
-
-// The title of the Merge All button.
-"customerconfirm_mergeall"              =   "Merge All";
-
-// The message shown when merging all was successful.
-"customerconfirm_mergeallsuccess"       =   "All customers merged successfully!";
-
-// The message shown when a merge fails.
-"customerconfirm_mergefailed"           =   "Merge Failed";
-
-// The title of the Lead Info label.
-"customerconfirm_leadinfo"              =   "Lead Info";
-
-// The title of the Customer Info label.
-"customerconfirm_customerinfo"          =   "Customer Info";
-
-// The title of the same person button.
-"customerconfirm_sameperson"            =   "Same Person";
-
-// The title of the different person button.
-"customerconfirm_differentperson"       =   "Different Person";
-
-
-// ============================================================================
-// MARK: Lead Details
-// ============================================================================
-
-// The title in the navigation bar of the lead details screen.
-"leaddetails_title"                             =     "Lead Details";
-
-// The Help Text used by the lead details screen.
-"leaddetails_help"                              =     "View and edit a single lead. Keep track of logs, stats, and notes. Tap the \"Actions\" button to schedule email campaigns and reminders. Tap the \"Delete Lead\" button to delete the selected lead.";
-
-// The title of the change image alert.
-"leaddetails_changeimagetitle"                  =   "Change Image";
-
-// The title of the Photo Library button.
-"leaddetails_photolibrary"                      =   "Photo Library";
-
-// The title of the Take Picture button.
-"leaddetails_takepicture"                       =   "Take Picture";
-
-// The title of the Remove Current Image button.
-"leaddetails_removeimage"                       =   "Remove Current Image";
-
-// The title of the Actions tab.
-"leaddetails_actionstab"                        =   "Actions";
-
-// The title of the Log tab.
-"leaddetails_logtab"                            =   "Log";
-
-// The title of the Stats tab.
-"leaddetails_statstab"                          =   "Stats";
-
-// The title of the Orders tab.
-"leaddetails_orderstab"                         =   "Orders";
-
-// The title of the Notes tab.
-"leaddetails_notestab"                          =   "Notes";
-
-// The title of the Photo Library Unavailable alert.
-"leaddetails_nophotolibrarytitle"               =   "Photo Library Unavailable";
-
-// The message of the Photo Library Unavailable alert.
-"leaddetails_nophotolibrarymessage"             =   "The app is unable to access the Photo Library.";
-
-// The title of the Camera Unavailable alert.
-"leaddetails_nocameratitle"                     =   "Camera Unavailable";
-
-// The message of the Camera Unavailable alert.
-"leaddetails_nocameramessage"                   =   "The app is unable to access the Camera on this device.";
-
-// The message of the alert displayed when a lead can not be found.
-"leaddetails_couldnotbefound"                   =   "The lead could not be found.";
-
-// The message displayed when a lead is opted in to receive emails.
-"leaddetails_emailoptedin"                      =   "Opted in to receive emails.";
-
-// The message displayed when a lead is opted out to receive emails.
-"leaddetails_emailoptedout"                     =   "Not opted in to receive emails.";
-
-// The message displayed when a lead is opted in to receive SMS messages.
-"leaddetails_smsoptedin"                        =   "Opted in to receive SMS messages.";
-
-// The message displayed when a lead is opted out to receive SMS messages.
-"leaddetails_smsoptedout"                       =   "Not opted in to receive SMS messages.";
-
-// The message included in the Opt In request SMS message.
-"leaddetails_optinrequest"                      =   "Please click here to opt in so I may continue to share valuable information with you!";
-
-// The title of the Delete Lead button.
-"leaddetails_deletelead"                        =   "Delete Lead";
-
-// The title of the delete lead confirmation alert.
-"leaddetails_deleteleadtitle"                   =   "Delete Current Lead";
-
-// The message of the delete lead confirmation alert.
-"leaddetails_deleteleadmessage"                 =   "Are you sure you want to delete this lead?";
-
-
-// The The title of the action path bar.
-"leaddetails_actionpathtitle"                   =   "Current Action Path";
-
-// The message of the label associated with the action path completion progress.
-"leaddetails_completionprogress"                =   "Completion Progress";
-
-// The message of the label associated with average completion time of a path.
-"leaddetails_timetocomplete"                    =   "Average Time to Complete";
-
-// The title of the view full path button.
-"leaddetails_viewfullpath"                      =   "View Full Path";
-
-// The title of the change path button.
-"leaddetails_changepath"                        =   "Change Path";
-
-// The title of the abandon path button.
-"leaddetails_abandonpath"                       =   "Abandon Path";
-
-// The title of the assign new path button.
-"leaddetails_assignnewpath"                     =   "Assign New Path";
-
-// The alert message displayed when not enough contact info is provided for an action path assignment.
-"leaddetails_pathneedscontactinfo"              =   "You can not assign this lead to this path. The following information is needed";
-
-// The title of the assign new path button.
-"leaddetails_abandonpathvalidation"             =   "This will abandon the lead's current action path. Do you wish to continue?";
-
-
-// ============================================================================
-// MARK: Prospector
-// ============================================================================
-
-// A general user string for Action Path. Displayed in multiple locations.
-"prospector_actionpath"                 =   "Action Path";
-
-// The general tutorial message shown on the opened Prospector tutorial card.
-"prospector_generaltutorial"            =   "Recommended actions for all leads will appear below. Actions are recommended based on the Action Path in which you assign leads.";
-
-// The tip text for the Prospector tutorial.
-"prospector_tip1"                       =   "Tap on the \"My Leads\" menu option.";
-"prospector_tip2"                       =   "You will need to select a lead you'd like to assign to an Action Path.";
-"prospector_tip3"                       =   "Tap the \"Assign New Path\" button to assign a path to the lead.";
-"prospector_tip4"                       =   "Over time, we will recommend actions to you based on the path you chose. You can view these actions by tapping the \"ACTIONS\" button.";
-"prospector_tip5"                       =   "You can also view recommended actions by returning to the Dashboard.";
-
-// The title of the Do It Button.
-"prospector_doit"                       =   "Do It";
-
-// The text shown when no recommended actions are available.
-"prospector_norecommendedactions"       =   "No recommended actions found.";
-
-// The message shown for an action item that is upcoming.
-"prospector_upcomingactionmessage"      =   "This upcoming action item cannot be completed before the following date";
-
-
-
-// The title in the navigation bar of the Action Path Picker screen.
-"actionpathpicker_title"                =   "Action Paths";
-
-// The Help Text used by the Action Path Picker screen.
-"actionpathpicker_help"                 =   "Select an Action Path to assign to a lead. You can preview an action path by tapping the \"(i)\" button.";
-
-
-
-// The title in the navigation bar of the Action Path Viewer screen. (Overridden by Action Path name).
-"actionpathviewer_title"                =   "Action Path Viewer";
-
-// The Help Text used by the Action Path Viewer screen.
-"actionpathviewer_help"                 =   "View an action path's full structure. You can pinch to zoom in or out.";
-
-
-
-// The title in the navigation bar of the Action Path Item Detail screen.
-"actionitemdetail_title"                =   "Recommended Action";
-
-// The Help Text used by the Action Path Item Detail screen.
-"actionitemdetail_help"                 =   "View the details of a recommended action. The additional info provided can help you complete the action. If you have already completed the action and it was not registered, tap the \"Tap Here\" button to proceed.";
-
-// The text displayed in the split path warning label.
-"actionitemdetail_splitwarning"         =   "This action item is part of a split in the path. Taking this action may prevent you from completing others.";
-
-// The title of the take action button.
-"actionitemdetail_takeaction"           =   "Take Action";
-
-// The message displayed at the bottom of the Action Path Item detail screen.
-"actionitemdetail_alreadycompleted"     =   "Already completed this action?";
-
-// The message displayed when a lead has completed an action path.
-"actionitemdetail_pathcomplete"         =   "This lead has now completed their current path!";
-
-// The message displayed to confirm a meeting was completed.
-"actionitemdetail_meetingconfirm" = "Have you completed the meeting?";
-
-
-// ============================================================================
-// MARK: Edit Lead
-// ============================================================================
-
-// The title in the navigation bar of the Edit Lead screen.
-"editlead_title"                =   "Edit Lead";
-
-// The title in the navigation bar of the See More version of the Edit Lead screen.
-"editlead_titleseemore"         =   "View Lead Details";
-
-// The Help Text used by the Edit Lead screen.
-"editlead_help"                 =   "When viewing, tap on the \"Edit\" button to edit the lead information. Enter in data for the lead and tap \"Save\" to save any changes that were made.";
-
-// The title of the Basic Info section.
-"editlead_basicinfo"            =   "Basic Info";
-
-// The title of the Contact Info section.
-"editlead_contactinfo"          =   "Contact Info";
-
-// The title of the Address Info section.
-"editlead_addressinfo"          =   "Address Info";
-
-// The message of the success alert.
-"editlead_savesuccessful"       =   "Lead saved successfully!";
-
-
-// ============================================================================
-// MARK: Lead Actions
-// ============================================================================
-
-// The title in the navigation bar of the lead actions screen.
-"leadactions_title"                     =   "Lead Actions";
-
-// The Help Text used by the lead actions screen.
-"leadactions_help"                      =   "View, start, and cancel recommended and scheduled actions. Tap the \"Do It\" button to process a recommended action for the lead. To add a new scheduled action, tap the \"Add New\" button. Any scheduled action can be canceled by tapping on the \"Cancel\" button.";
-
-// The title of the recommended actions section.
-"leadactions_recommendedactions"        =   "Recommended Actions";
-
-// The title of the scheduled actions section.
-"leadactions_scheduledactions"          =   "Scheduled Actions";
-
-// The message shown when no scheduled actions exist.
-"leadactions_noscheduledactions"        =   "No scheduled actions found.";
-
-// The message of the cancel scheduled action alert.
-"leadactions_cancelscheduledaction"     =   "Are you sure you want to cancel this action?";
-
-// The title of the Do It button.
-"leadactions_doit"                      =   "Do It";
-
-// The title of the add new alert for email campaign.
-"leadactions_emailcampaign"             =   "Email Campaign";
-
-// The title of the add new alert for single email.
-"leadactions_singleemail"               =   "Single Email";
-
-// The title of the send custom email alert option.
-"leadactions_customemail"               =   "Custom Email";
-
-// The confirmation message for sending a single email.
-"leadactions_singleemailconfirm"        =   "Are you sure you want to send this email?";
-
-// The title of the add new alert for reminder.
-"leadactions_reminder"                  =   "Reminder";
-
-
-
-// The title in the navigation bar of the reminder creation screen.
-"reminder_title"                        =   "Create Reminder";
-
-// The Help Text used by the reminder creation screen.
-"reminder_help"                         =   "Create a reminder consisting of a title and brief message. Use the date picker to select a date for which to schedule the reminder.";
-
-// The label used in the title text field.
-"reminder_titlelabel"                   =   "Title";
-
-// The label used in the message text field.
-"reminder_messagelabel"                 =   "Message";
-
-// The error message shown when a user doesn't enter a title.
-"reminder_titleneeded"                  =   "You must enter a title for the reminder.";
-
-// The error message shown when a user doesn't enter a message.
-"reminder_messageneeded"                =   "You must enter a message for the reminder.";
-
-
-
-// The title in the navigation bar of the email campaign picker screen.
-"emailcampaign_title"                   =   "Email Campaigns";
-
-// The Help Text used by the email campaign picker screen.
-"emailcampaign_help"                    =   "Select a campaign to schedule for the selected lead from all available email campaigns. Tapping a campaign will start it immediately for the lead.";
-
-
-
-// The title in the navigation bar of the email messages picker screen.
-"emailmessages_title"                   =   "Email Messages";
-
-// The Help Text used by the email messages picker screen.
-"emailmessages_help"                    =   "Select an individual email message to send to the selected lead. Tap the \"Info (i)\" button to preview the message before sending.";
-
-
-// ============================================================================
-// MARK: Lead Log
-// ============================================================================
-
-// The title in the navigation bar of the lead log screen.
-"leadlog_title"             =   "Lead Log";
-
-// The Help Text used by the lead log screen.
-"leadlog_help"              =   "View any previous actions or events that have occurred with the selected lead.";
-
-
-// ============================================================================
-// MARK: Lead Stats
-// ============================================================================
-
-// The title in the navigation bar of the lead stats screen.
-"leadstats_title"               =   "Lead Stats";
-
-// The Help Text used by the lead stats screen.
-"leadstats_help"                =   "View all email and video statisitics for the selected lead.";
-
-// The title shown for the email stats section.
-"leadstats_emailstats"          =   "Email Stats";
-
-// The title shown for the video stats section.
-"leadstats_videostats"          =   "Video Stats";
-
-// The key label for emails read.
-"leadstats_emailsread"          =   "Emails Read";
-
-// The key label for emails not read.
-"leadstats_emailsnotread"       =   "Emails Not Read";
-
-// The label for how many times a video was watched.
-"leadstats_watched"             =   "Watched";
-
-// The label for how long a video was watched.
-"leadstats_duration"            =   "Duration";
-
-// The unit label for the number of times a video was watched.
-"leadstats_times"               =   "times";
-
-// The unit label for the duration time in seconds.
-"leadstats_secs"                =   "secs";
-
-
-// ============================================================================
-// MARK: Lead Orders
-// ============================================================================
-
-// The title in the navigation bar of the lead orders screen.
-"leadorders_title"              =   "Orders";
-
-// The Help Text used by the lead orders screen.
-"leadorders_help"               =   "View a list of orders by the current customer. Tap on an order to see more details.";
-
-
-// ============================================================================
-// MARK: Lead Order Details
-// ============================================================================
-
-// The title in the navigation bar of the lead order detail screen.
-"leadorderdetails_title"            =   "Order Details";
-
-// The Help Text used by the lead order detail screen.
-"leadorderdetails_help"             =   "View the details of the chosen order. Scroll to view all of the products included in the order.";
-
-// The title of the Order # label.
-"leadorderdetails_order"            =   "Order";
-
-// The title of the Order Type label.
-"leadorderdetails_ordertype"        =   "Order Type";
-
-// The title of the Payment Type label.
-"leadorderdetails_paymenttype"      =   "Payment Type";
-
-// The title of the Shipped label.
-"leadorderdetails_shipped"          =   "Shipped";
-
-// The title of the Paid label.
-"leadorderdetails_paid"             =   "Paid";
-
-// The title of the Total label.
-"leadorderdetails_total"            =   "Total";
-
-// The title of the Products label.
-"leadorderdetails_products"         =   "Products";
-
-// The title of the Price label.
-"leadorderdetails_price"            =   "Price";
-
-// The title of the Quantity label.
-"leadorderdetails_quantity"         =   "Quantity";
-
-
-// ============================================================================
-// MARK: Lead Notes
-// ============================================================================
-
-// The title in the navigation bar of the lead notes screen.
-"leadnotes_title"               =   "Lead Notes";
-
-// The Help Text used by the lead notes screen.
-"leadnotes_help"                =   "Add and view notes for the selected lead. Tap the \"Plus (+)\" button to add a new note.";
-
-
-// ============================================================================
-// MARK: Lead Note Detail
-// ============================================================================
-
-// The title in the navigation bar of the lead notes screen.
-"leadnotedetail_title"          =   "Note Detail";
-
-// The Help Text used by the lead notes screen.
-"leadnotedetail_help"           =   "Type a note you want to attach to the current lead. Tap the \"Done\" button to save the note. Tap the \"Cancel\" button to discard changes to the note.";
-
-
-// ============================================================================
-// MARK: Manage Groups
-// ============================================================================
-
-// The title in the navigation bar of the manage groups screen.
-"managegroups_title"            =     "Groups";
-
-// The Help Text used by the manage groups screen.
-"managegroups_help"             =     "View and edit Groups of leads to make sending out campaigns quick and easy!\n\nTap the \"Edit (Pencil)\" button to delete a group.\n\nTap the \"Add New +\" button to create a new group.";
-
-// Label to indicate the number of contacts in a group.
-"managegroups_contacts"         =     "Contacts";
-
-// The title used in the new group alert.
-"managegroups_newgroup"         =     "New Group";
-
-// The message used in the new group alert.
-"managegroups_newgroupname"     =     "New group name:";
-
-// The placeholder text in the group name text field.
-"managegroups_groupname"        =     "Group Name";
-
-// The validation message for requiring a group name.
-"managegroups_namevalidation"   =   "A group must have a name.";
-
-
-// ============================================================================
-// MARK: Group Details
-// ============================================================================
-
-// The title in the navigation bar of the group details screen. (Overwritten by group name).
-"groupdetails_title"    =     "Group Details";
-
-// The Help Text used by the lead details screen.
-"groupdetails_help"     =     "View the leads in the current group.\n\nTap the \"Edit (Pencil)\" button to delete a lead.\n\nTap the \"Add New +\" button to add a lead to the current group.";
-
-
-// ============================================================================
-// MARK: Multi-use Promotions
-// ============================================================================
-
-// Select Groups
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the Select Groups screen.
-"selectgroups_title"                =   "Select Group";
-
-// The Help Text used by the Select Groups screen.
-"selectgroups_help"                 =   "Select the groups of leads you would like to send campaigns to.";
-
-// The instruction text above groups table.
-"selectgroups_instructions"         =   "Select groups to send this campaign:";
-
-// The title of the New Group option in the Action Sheet menu.
-"selectgroups_newgroup"             =   "New Group";
-
-// The title of the Select from Phonebook option in the Action Sheet menu.
-"selectgroups_selectcontacts"       =     "Select from Phonebook";
-
-// The validation message for requiring at least one contact.
-"selectgroups_contactvalidation"    =     "You must select a group(s) with one or more phone numbers to send a message.";
-
-
-// Select Contacts
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the Select Contacts screen.
-"selectcontacts_title"              =     "Select Contacts";
-
-// The Help Text used by the Select Contacts screen.
-"selectcontacts_help"               =     "Select the contacts you would like to use.\n\nContacts from your mobile device will appear with a phone icon next to them. Backoffice Leads will appear with an address book icon.\n\nFilter contacts by typing in the search bar. Tap the \"Keyboard Hide\" button to hide the keyboard after searching.\n\nContacts selected from your mobile device will automatically be added to your Backoffice Leads.";
-
-// The primary phone label. (Other labels are handled by OS.)
-"selectcontacts_primary"            =   "primary";
-
-// The message of the alert displayed when a contact fails to be added as a lead or to a group.
-"selectcontacts_uploadcontacterror" =   "Error uploading contact.";
-
-// The message of the alert displayed when a lead fails to be added to a group.
-"selectcontacts_addgroupleaderror"  =   "Error adding lead to group.";
-
-
-// Edit Message
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the Edit Message screen.
-"editmessage_title"         =   "Edit Message";
-
-// The Help Text used by the Edit Message screen.
-"editmessage_help"          =   "Enter a message to send out to your groups.\n\nTap the \"X\" button to clear your typed message.\n\nTap the \"User\" button to add the leads name into the message.\n\nTap the \"Next\" button to continue.";
-
-// The instruction text above the message text field.
-"editmessage_instructions"  =   "Enter SMS message to be sent to group.";
-
-
-// Send Message
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the Send Message screen.
-"sendmessage_title"         =   "Send Message";
-
-// The Help Text used by the Send Message screen.
-"sendmessage_help"          =   "Verify the leads you would like to send your campaign to and tap the \"Send Messages\" button to send it out.\n\nTap the \"Cancel\" button to restart the campaign selection process.";
-
-// The instruction text above the contacts table.
-"sendmessage_instructions"  =     "Review to send.";
-
-// The title of the Send Messages button.
-"sendmessage_sendmessages"  =   "Send Message(s)";
-
-// The message that is displayed upon successfully sending an SMS message.
-"sendmessage_sendsuccess"   =     "Message(s) have been sent.";
-
-// Toasted when an SMS message is sent. (Android Only)
-"sendmessage_messagesent"   =    "Message Sent";
-
-
-// ============================================================================
-// MARK: Training Videos Select
-// ============================================================================
-
-// The title in the navigation bar of the training videos screen.
-"trainingvideos_title"  =   "Training Videos";
-
-// The Help Text used by the training videos screen.
-"trainingvideos_help"   =   "View Training Videos.\n\nTap the video row to view the video.";
-
-
-// ============================================================================
-// MARK: Video Campaign Select
-// ============================================================================
-
-// The title in the navigation bar of the video campaign screen.
-"videocampaign_title"                   =   "Video Campaign";
-
-// The Help Text used by the video campaign screen.
-"videocampaign_help"                    =   "Select, view, and send Video Campaigns.\n\nTap the \"Info (i)\" button on a campaign to preview it.\n\nSelect a campaign and Tap the \"Next\" button to continue. \n\nTap the \"Options\" button on the bottom bar after selecting a campaign to share it.";
-
-// The title in the navigation bar of the video campaign preview webview screen.
-"videocampaign_previewtitle"            =     "Video Campaign Preview";
-
-// The text for the no videos found label.
-"videocampaign_novideosfound"           =     "No videos found";
-
-// The text for the no categories found label.
-"videocampaign_nocategoriesfound"       =   "No categories found";
-
-
-// The title in the navigation bar of the video playlist screen.
-"videoplaylist_title"                   =   "Video Playlist";
-
-// The alert message shown when attempting to view an empty playlist.
-"videoplaylist_emptyplaylist"           =   "You currently have no videos in your playlist. Add at least one video to view your playlist.";
-
-// The alert message shown when attempting to add a video to a full playlist.
-"videoplaylist_fullplaylist"            =   "Your playlist is full. Please remove a video before adding another.";
-
-// The alert that displays when a user has an untranslated video in their playlist.
-"videoplaylist_languageerror"           =   "One or more of the videos in your playlist are not available in the currently selected language.";
-
-// The title of the All Videos button.
-"videoplaylist_allvideos"               =   "All Videos";
-
-// The title of the My Video playlist button.
-"videoplaylist_myvideoplaylist"         =   "My Video Playlist";
-
-// The title of the Add to Playlist button.
-"videoplaylist_addtoplaylist"           =   "Add to Playlist";
-
-// The title of the Remove from Playlist button.
-"videoplaylist_removefromplaylist"      =   "Remove from Playlist";
-
-// The confirmation message shown when attempting to remove all videos from a video playlist.
-"videoplaylist_removeallconfirm"        =   "Are you sure you want to remove all of the videos from your playlist?";
-
-// Video Playlist help tutorial tips.
-"videoplaylist_tip1"                    =   "Introducing the new video playlist feature! Choose up to 6 of your favorite videos to share to your leads!";
-"videoplaylist_tip2"                    =   "Tap a video's playlist button to add or remove the video from your playlist.";
-"videoplaylist_tip3"                    =   "Tap the \"My Video Playlist\" tab to view your playlist!";
-"videoplaylist_tip4"                    =   "Tap and drag your playlist videos to reorder your playlist.";
-"videoplaylist_tip5"                    =   "Tap the \"Share\" button to share your playlist to social media.";
-"videoplaylist_tip6"                    =   "Tap the \"Next\" button to share your playlist with your leads and groups.";
-"videoplaylist_tip7"                    =   "Tap the \"Remove All\" button to remove all videos from your playlist.";
-"videoplaylist_tip8"                    =   "Tap the \"All Videos\" tab to return back to the full video list and share individual videos.";
-
-
-// ============================================================================
-// MARK: Custom Campaign Select
-// ============================================================================
-
-// The title in the navigation bar of the Custom Campaign screen.
-"customcampaign_title"              =     "Custom Campaign";
-
-// The Help Text used by the Custom Campaign screen.
-"customcampaign_help"               =     "Send a variety of custom campaigns to your lead groups.\n\nChoose the Camera Roll option to send a photo campaign using photos from your phone's Camera Roll.\n\nChoose the Optimism Library option to send a photo campaign from the Optimism Library\n\nChoose the YouTube option to send out a custom YouTube campaign.";
-
-// The Help Text used by the Custom Campaign screen. (Android Only)
-"customcampaign_help_android"       =     "Send a variety of custom campaigns to your lead groups.\n\nChoose the Gallery option to send a photo campaign using photos from your phone's Gallery.\n\nChoose the Optimism Library option to send a photo campaign from the Optimism Library\n\nChoose the YouTube option to send out a custom YouTube campaign.";
-
-// The title of the Camera Roll Campaign option.
-"customcampaign_camerarolltitle"    =     "Camera Roll";
-
-// The description of the Camera Roll Campaign option.
-"customcampaign_camerarolldesc"     =     "Select an image from the camera roll of your mobile device to use for the campaign.";
-
-// The title of the Gallery Campaign option. (Android Only)
-"customcampaign_gallerytitle"       =     "Gallery";
-
-// The description of the Gallery Campaign option. (Android Only)
-"customcampaign_gallerydesc"        =     "Select an image from the gallery of your mobile device to use for the campaign.";
-
-// The title of the Optimism Library Campaign option.
-"customcampaign_optimismtitle"      =     "Optimism Library";
-
-// The description of the Optimism Library Campaign option.
-"customcampaign_optimismdesc"       =     "Select an image from the daily Optimism Library to use in the campaign.";
-
-// The title of the YouTube Campaign option.
-"customcampaign_youtubetitle"       =     "YouTube";
-
-// The description of the YouTube Campaign option.
-"customcampaign_youtubedesc"        =   "Enter a custom YouTube video to use in the campaign.";
-
-// The title of the Virtual Landing Page Campaign option.
-"customcampaign_virtualpagetitle"   =   "Virtual Landing Page";
-
-// The description of the Virtual Landing PageCampaign option.
-"customcampaign_virtualpagedesc"    =     "Use a corporate customized Virtual Landing Page in a campaign.";
-
-// The alert message displayed when an image couldn't be found to continue.
-"customcampaign_noimageerror"       =   "There was a problem selecting your image. Please try again.";
-
-
-// YouTube Select
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the YouTube Campaigns screen.
-"youtubecampaign_title"             =   "YouTube Campaigns";
-
-// The Help Text used by the YouTube Campaigns screen.
-"youtubecampaign_help"              =   "Make and select your custom YouTube campaigns to send out to your lead groups.\n\nTap the \"Add (+)\" button to create a new YouTube campaign.\n\nSwipe a campaign to the left to edit or delete the campaign.\n\nTap the \"Info (i)\" button to edit the campaign.\n\nTap a campaign and the Next button to continue.";
-
-// The message displayed when campaign downloads fail.
-"youtubecampaign_getfailure"        =   "Failed to download YouTube Campaigns. Please try again.";
-
-// The message displayed when campaign deletion fails.
-"youtubecampaign_deletefailure"     =    "Could not delete campaign.";
-
-
-// YouTube Add/Update
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the YouTube Campaign Editor screen.
-"youtubeeditor_title"               =   "Add/Edit Campaign";
-
-// The Help Text used by the YouTube Campaign Editor screen.
-"youtubeeditor_help"                =   "Enter the information for a custom YouTube campaign.\n\nYou MUST fill out ALL the fields to create a campaign.\n\n- URL Page Name (100 characters): This is what leads will see in the URL.\n- Page Title (50 characters): This will be the title displayed on the top of the video page.\n- Video Name (25 characters): This will be the name listed underneath the video player.\n- Video Description (150 characters): This will be a brief description of the video listed under the Video Name.\n- Video Link (100 characters): This is the link to the YouTube video to be displayed.\n\nAfter entering the Video Link, you can preview the embedded video player that will be used on your custom video page.\n\nTap the \"Save\" button to save your custom YouTube campaign.";
-
-// The text used to indicate where the embed preview will appear.
-"youtubeeditor_embedpreview"        =     "YouTube Embed Preview will load here. Set Video Link to preview.";
-
-// The title and placeholder text used in the URL Page Name text field.
-"youtubeeditor_pagename"            =   "URL Page Name";
-
-// The title and placeholder text used in the Page Title text field.
-"youtubeeditor_pagetitle"           =     "Page Title";
-
-// The title and placeholder text used in the Video Name text field.
-"youtubeeditor_videoname"           =     "Video Name";
-
-// The title and placeholder text used in the Video Description text field.
-"youtubeeditor_videodescription"    =     "Video Description";
-
-// The title and placeholder text used in the Video Link text field.
-"youtubeeditor_videolink"           =   "Video Link";
-
-// The message displayed when a campaign is saved successfully.
-"youtubeeditor_savesuccess"         =   "Campaign saved successfully!";
-
-// The message displayed when a campaign fails to save.
-"youtubeeditor_savefailure"         =   "Could not save campaign.";
-
-// The too many characters validation message.
-/*
- "{0} - {1}: {2}/{3}"
- Where:
- {0} = Field Name
- {1} = The Translated Text
- {2} = Current Number of Letters
- {3} = Max Limit of Letters
- */
-"youtubeeditor_manyvalidation"     =     "The text field must have fewer letters. Current number of letters";
-
-// The too few characters validation message.
-/*
- "{0} - {1}"
- Where:
- {0} = Field Name
- {1} = The Translated Text
- */
-"youtubeeditor_fewvalidation"       =   "You must enter a value.";
-
-
-// Virtual Landing Page Campaign Select
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the Virtual Landing Page Campaigns screen.
-"virtualpagecampaign_title"         =   "Landing Page Campaigns";
-
-// The Help Text used by the Virtual Landing Page Campaigns screen.
-"virtualpagecampaign_help"          =   "Select a corporate Virtual Landing Page to use in a campaign.\n\nTap the \"Info (i)\" button on a campaign to preview it.\n\nTap the Action button on the bottom toolbar to share a campaign through methods other than SMS.";
-
-// The message displayed when campaign downloads fail.
-"virtualpagecampaign_getfailure"    =   "Could not download Virtual Pages. Please try again.";
-
-// The title in the navigation bar of the Virtual Landing Pages Campaign preview webview screen.
-"virtualpagecampaign_previewtitle"  =     "Virtual Page Preview";
-
-
-// ============================================================================
-// MARK: Campaign Stats
-// ============================================================================
-
-// The title in the navigation bar of the Campaign Stats screen.
-"campaignstats_title"   =   "Campaign Stats";
-
-// The Help Text used by the Campaign Stats screen.
-"campaignstats_help"    =   "View all your mobile campaign stats!";
-
-
-// ============================================================================
-// MARK: My Badges
-// ============================================================================
-
-// The title in the navigation bar of the My Badges screen.
-"mybadges_title"            =   "My Badges";
-
-// The Help Text used by the My Badges screen.
-"mybadges_help"             =   "View all of the badges you've earned from attending events, sending out campaigns, etc. Tap a badge to see it in its' full glory!";
-
-// The points label text.
-"mybadges_points"           =   "Points";
-
-// The message displayed in the alert shown when a badge is not earned but is selected.
-"mybadges_notearned"        =   "You have not yet earned this badge!";
-
-// The message displayed when badge downloads fail.
-"mybadges_getfailure"       =   "Could not download badges. Please try again.";
-
-// The message displayed when sharing a badge. (Android Only)
-"mybadges_sharebadge"       =    "Share Badge";
-
-// The message displayed when a single badge is earned.
-/*
- "{0}: {1}"
- Where:
- {0} = The Translated Text
- {1} = Badge Name
- */
-"mybadges_singleearned"     =   "You've earned a badge";
-
-// The message displayed when multiple badges are earned.
-"mybadges_multipleearned"   =   "You've earned new badges!";
-
-
-// ============================================================================
-// MARK: Badge Details
-// ============================================================================
-
-// The title in the navigation bar of the Badge Detail screen. (Overridden by Badge name).
-"badgedetails_title"    =   "Badge Details";
-
-// The Help Text used by the Badge Detail screen.
-"badgedetails_help"     =   "Marvel at your badge! You've earned it! No, really!!";
-
-// The message to share when sharing a badge.
-/*
- "{0}: {1}"
- Where:
- {0} = The Translated Text
- {1} = Badge Name
- */
-"badgedetails_share"    =   "I've earned a badge";
-
-
-// ============================================================================
-// MARK: Alerts
-// ============================================================================
-
-// The title in the navigation bar of the Alerts screen.
-"alerts_title"              =   "Alerts";
-
-// The Help Text used by the Alerts screen.
-"alerts_help"               =   "View all the alerts associated with your account.\n\nTap the \"Trash\" button to delete all alerts.";
-
-// The message displayed when deleting all alerts.
-"alerts_deletealerts"       =   "Delete all alerts?";
-
-// The title in the navigation bar of the Alerts Preview screen.
-"alerts_previewdetailtitle" =     "Alert Details";
-
-// The Help Text used by the Alerts Preview screen.
-"alerts_previewdetailhelp"  =     "View any details associated with a particular alert.";
-
-
-// ============================================================================
-// MARK: Profile
-// ============================================================================
-
-// The title in the navigation bar of the Profile screen.
-"profile_title"     =   "Mobile Profile";
-
-// The Help Text used by the Profile screen.
-"profile_help"      =   "View your Mobile Profile.\n\nSelect Edit Profile to modify the information in your profile.\n\nSelect the Login to Social Media option to login to your social media accounts.\n\nSelect Auto-Drip Settings to edit your personal Optimism Auto-Drip posting schedule.";
-
-// Used to link to a user's profile website. (Android Only)
-"profile_mywebsite"         =   "My Website";
-
-
-// The title of the Edit Profile option.
-"profile_editprofiletitle"  =     "Edit Profile";
-
-// The description of the Edit Profile option.
-"profile_editprofiledesc"   =     "Modify your mobile profile settings including name, contact info, and profile picture.";
-
-// The title of the Login to Social Media option.
-"profile_socialmediatitle"  =     "Login to Social Media";
-
-// The description of the Login to Social Media option.
-"profile_socialmediadesc"   =     "Login to social media accounts for use of features like Auto-Drip Campaigns.";
-
-// The title of the Auto-Drip Settings option.
-"profile_autodriptitle"     =     "Auto-Drip Settings";
-
-// The description of the Auto-Drip Settings option.
-"profile_autodripdesc"      =     "Schedule and create posts to Auto-Drip to all of your social media accounts.";
-
-
-// ============================================================================
-// MARK: Edit Profile
-// ============================================================================
-
-// The title in the navigation bar of the Edit Profile screen.
-"editprofile_title"                 =   "Edit Profile";
-
-// The Help Text used by the Edit Profile screen.
-"editprofile_help"                  =   "Edit your profile information and upload a new profile picture.\n\nProfile pictures can be uploaded from your Camera Roll and Social Media accounts. You must login to your accounts before you can use their associated profile pictures.\n\nTap the \"Save\" button to save any changes you've made.";
-
-// The Help Text used by the Edit Profile screen. (Android Only)
-"editprofile_help_android"          =   "Edit your profile information and upload a new profile picture.\n\nProfile pictures can be uploaded from your Gallery and Social Media accounts. You must login to your accounts before you can use their associated profile pictures.\n\nTap the \"Save\" button to save any changes you've made.";
-
-// The title of the Edit Profile Picture Button.
-"editprofile_editprofilepic"        =   "Edit Profile Picture";
-
-// The title of the Edit Profile Picture Action Sheet menu.
-"editprofile_editprofilepictitle"   =   "Select Profile Picture From";
-
-// The title of the Camera Roll option in the edit profile Action Sheet menu.
-"editprofile_cameraroll"            =   "Camera Roll";
-
-// The title of the Gallery option in the edit profile Action Sheet menu. (Android Only)
-"editprofile_gallery"               =   "Gallery";
-
-// The title of the Save Settings Button.
-"editprofile_savesettings"          =   "Save Settings";
-
-// The validation message for requiring a first name to be entered.
-"editprofile_firstnamevalidation"   =   "You must enter a first name.";
-
-// The validation message for requiring a display name to be entered.
-"editprofile_displaynamevalidation" =   "You must enter a display name.";
-
-// The message displayed when saving a profile successfully.
-"editprofile_savesuccess"           =   "Mobile profile saved successfully!";
-
-// The message displayed when saving a profile fails.
-"editprofile_savefailure"           =     "Mobile profile could not be updated. Please try again.";
-
-
-// ============================================================================
-// MARK: Social Media Login
-// ============================================================================
-
-// The title in the navigation bar of the Social Media screen.
-"socialmedia_title"         =   "Social Media";
-
-// The Help Text used by the Social Media screen.
-"socialmedia_help"          =   "Sign in to your social networks. Signing in will allow you upload a social media profile picture to your Mobile Profile and make Optimism AutoDrip posts.";
-
-// The text for the How we use your Social Media Accounts label.
-"socialmedia_howeusetitle"  =     "How we use your Social Media Accounts:";
-
-// The text description for How we user Social Media.
-"socialmedia_howweusedesc"  =     "- Obtain basic profile info (name, screen-name, etc)\n- Obtain profile picture to display in-app\n- Request permissions to allow you to make posts";
-
-
-// ============================================================================
-// MARK: Facebook Pages
-// ============================================================================
-
-// The title in the navigation bar of the Facebook Pages screen.
-"facebookpages_title"               =   "Facebook Pages";
-
-// The Help Text used by the Facebook Pages screen.
-"facebookpages_help"                =   "Once we have your permission we can help you post content to your Facebook Pages. Select a Page to post your content. \n\nIf you don't see any Facebook Pages we may need you to give us more permissions. To do so, please log out of Facebook from the Profile screen and try to post again.";
-
-// The message shown when no Facebook Pages can be found.
-"facebookpages_nopages"             =   "No Facebook Pages Found";
-
-// The message shown to confirm a Facebook Page publish.
-"facebookpages_publishconfirm"      =   "Are you sure you want to post as this Facebook Page?";
-
-// The message shown when a Facebook Page publish was successful.
-"facebookpages_publishsuccess"      =   "A post has successfully been made as your Facebook Page!";
-
-// The message shown when a Facebook Page publish fails.
-"facebookpages_publishfailed"       =   "An error occurred while publishing as your Facebook Page. Please try again later.";
-
-
-// ============================================================================
-// MARK: Auto-Drip Schedule
-// ============================================================================
-
-// The title in the navigation bar of the Auto-Drip Schedules screen.
-"autodrip_title"        =   "Auto Drip Schedules";
-
-// The Help Text used by the Auto-Drip Schedules screen.
-"autodrip_help"         =   "Set an Auto-Drip schedule. Set a time and the weekdays you would like to be reminded to make posts.\n\nTap the \"Save\" button to save your schedule.\n\nTap the \"Make Post Now\" button to make a post now!\n\nWhen posting it is possible to choose a custom image to post, set a custom message, and pick Social Networks to post to.";
-
-// The title of the Make Post Now Button.
-"autodrip_makepostnow"  =   "Make Post Now";
-
-// The text of the schedule label.
-"autodrip_schedule"     =   "Schedule";
-
-// The message displayed in the alert when a schedule is saved successfully.
-"autodrip_savesuccess"  =   "Your schedule has been saved successfully!";
-
-// The message displayed in the alert when a schedule fails to save.
-"autodrip_savefailure"  =   "There was a problem saving your schedule. Please try again.";
-
-
-// The title to the Refresh Button.
-"autodrip_refreshoption"    =     "Refresh";
-
-// The title to the Library Button.
-"autodrip_library"          =     "Library";
-
-// The title to the Camera Roll Button.
-"autodrip_cameraroll"       =     "Camera Roll";
-
-// The title to the Gallery Button. (Android Only)
-"autodrip_gallery"          =     "Gallery";
-
-// The text of the instructions label.
-"autodrip_instructions"     =     "Enter post message above.";
-
-// The text of the Social Networks label.
-"autodrip_socialnetworks"   =     "Social Networks";
-
-// The validation message displayed to require at least one social network selected.
-"autodrip_socialvalidation" =     "You must select at least 1 social network to post to.";
-
-// The validation message to require login.
-/*
- "{0} - {1}"
- Where:
- {0} = Social Network Name
- {1} = The Translated Text
- */
-"autodrip_loginvalidation"  =     "You must be logged in to post.";
-
-// The title used in Auto-Drip push notifications. (Android Only)
-"autodrip_autodrip"         =   "Auto-Drip";
-
-// Message added to local notification for auto-dripping.
-"autodrip_timetopost"       =    "Auto-Drip - It’s time to post!";
-
-
-// ============================================================================
-// MARK: SmartCloud
-// ============================================================================
-
-// The title in the navigation bar of the SmartCloud screen.
-"smartcloud_title"                          =   "SmartCloud";
-
-// The Help Text used by the SmartCloud screen.
-"smartcloud_help"                           =   "View all files and directories in the Cloud.\n\nTap on the download button for a file to download it.\n\nIf the file is already downloaded locally, the download button will not appear. Simply tap the file to open and view it.\n\nTo delete a locally downloaded file, simply swipe the file from right to left to reveal the removal button.";
-
-// The title used in the Remove Local button.
-"smartcloud_removelocal"                    =   "Remove Local";
-
-// The title in the navigation bar of the SmartCloud screen when downloading a file.
-"smartcloud_downloading"                    =   "Downloading";
-
-
-// ============================================================================
-// MARK: Shopping Cart
-// ============================================================================
-
-// The general use price label message.
-"shoppingcart_price"                =   "Price";
-
-// The general use sale price label message.
-"shoppingcart_saleprice"            =   "Sale Price";
-
-// The general use subtotal label message.
-"shoppingcart_subtotal"             =   "Subtotal";
-
-// The general use add to cart message.
-"shoppingcart_addtocart"            =   "Add to Cart";
-
-// The general use added message.
-"shoppingcart_added"                =   "Added";
-
-// The general use checkout message.
-"shoppingcart_checkout"             =   "Checkout";
-
-// The general use clear cart message.
-"shoppingcart_clearcart"            =   "Would you like to remove all items from your cart?";
-
-// The general use remove from cart message.
-"shoppingcart_removefromcart"       =   "Are you sure you want to remove this product from your cart?";
-
-
-// The title in the navigation bar of the Cart Type screen.
-"carttype_title"                    =   "Cart Selection";
-
-// The Help Text used by the Cart Type screen.
-"carttype_help"                     =   "Choose between making a retail of wholesale product purchase by selecting the a type button.";
-
-// The title of the Retail button.
-"carttype_retail"                   =   "Retail";
-
-// The title of the Wholesale button.
-"carttype_wholesale"                =   "Wholesale";
-
-// The message displayed when the wholesale cart type is selected.
-"carttype_wholesaleunavailable"     =   "We are working hard to bring Wholesale purchases to the app!";
-
-
-// The title in the navigation bar of the Cart Category screen.
-"cartcategories_title"              =   "Categories";
-
-// The Help Text used by the Cart Category screen.
-"cartcategories_help"               =   "Select a category to view all the associated products.";
-
-
-// The title in the navigation bar of the Cart Products screen.
-"cartproducts_title"                =   "Products";
-
-// The Help Text used by the Cart Products screen.
-"cartproducts_help"                 =   "Select a product to view more details. \n\nTap the \"Add to Cart\" button to add the product to your shopping cart.";
-
-
-// The title in the navigation bar of the Cart Product Detail screen.
-"cartproductdetail_title"           =   "Product Details";
-
-// The Help Text used by the Cart Products screen.
-"cartproductdetail_help"            =   "View the details about a particular product. \n\nTap the \"Add to Cart\" button to add the product to your cart.";
-
-
-// The title in the navigation bar of the Cart screen.
-"cart_title"                        =   "Shopping Cart";
-
-// The Help Text used by the Cart screen.
-"cart_help"                         =   "Review and modify your cart. \n\nTap the \"Remove All\" button to remove all products from the cart. \n\nTap the \"Checkout\" button to complete the checkout process.";
-
-// The message used to display the number of products in a shopping cart.
-"cart_numberincart"                 =   "Products in your cart";
-
-
-// The title in the navigation bar of the Cart Checkout screen.
-"cartcheckout_title"                =   "Checkout";
-
-// The Help Text used by the Cart Checkout screen.
-"cartcheckout_help"                 =   "Review your cart and fill out all of the form inputs to complete the checkout process.";
-
-// The title message shown when a purchase is made successfully.
-"cartcheckout_ordercomplete"        =   "Order Complete";
-
-// The message shown when a purchase is made successfully.
-"cartcheckout_confirmation"         =   "Confirmation";
-
-
-// ============================================================================
-// MARK: Success On Demand
-// ============================================================================
-
-// The title in the navigation bar of the Success On Demand screen.
-"sod_title"     =   "Success On Demand";
-
-// The Help Text used by the Success On Demand screen.
-"sod_help"      =   "Access the full content of Success On Demand!";
-
-
-// ============================================================================
-// MARK: Help Center
-// ============================================================================
-
-// Help Center
-// ----------------------------------------------------------------------------
-
-// The title in the navigation bar of the Help Center screen.
-"helpcenter_title"          =   "Help Center";
-
-// The Help Text used by the Help Center screen.
-"helpcenter_help"           =   "Help is always just one tap away! Tap the Navigation Bar title on any screen.\n\nIf there is help info available, it will be displayed in a new window like this one!\n\nTry tapping the title on other screens!";
-
-// The text used to instruct users to tap the title to view help tips.
-"helpcenter_instructions"   =     "Need help? Tap on the title that says \"Help Center\" in the Navigation Bar above!\nGo ahead! Tap it!";
-
-// The title of the Request Support option.
-"helpcenter_supporttitle"   =     "Request Support";
-
-// The description of the Request Support option.
-"helpcenter_supportdesc"    =   "Ask for assistance or report a problem about the app to us.";
-
-// The title of the Training Videos option.
-"helpcenter_trainingtitle"  =     "Training Videos";
-
-// The description of the Training Videos option.
-"helpcenter_trainingdesc"   =     "Get useful training for how to use this app to it's fullest potential!";
-
-// The title of the Rate the App option.
-"helpcenter_rateapptitle"   =     "Rate the App";
-
-// The description of the Rate the App option.
-"helpcenter_rateappdesc"    =   "Love what you see? Give us a 5 star rating in the App Store!";
-
-
-// Support Request
-// ----------------------------------------------------------------------------
-
-// The title in the Navigation bar of the Support Requests screen.
-"supportrequests_title"                 =   "Support Requests";
-
-// The Help Text used by the Support Requests screen.
-"supportrequests_help"                  =   "Access any support requests that you have created. Tap a support request to view any responses made on that request.\n\nTap the Add (+) button to create a new support request.";
-
-
-// The title in the Navigation bar of the Add Support Request screen.
-"addsupportrequest_title"               =   "Support Request";
-
-// The Help Text used by the Add Support Request screen.
-"addsupportrequest_help"                =   "Send us a direct request for support. Enter your message in the text box and tap submit.";
-
-// The text used to instruct users to create a support request.
-"addsupportrequest_instructions"        =   "Enter a support request message below";
-
-// The message used when sending a support request is successful.
-"addsupportrequest_success"             =   "We have received your support request!";
-
-// The validation message for requiring a message.
-"addsupportrequest_textvalidation"      =   "You must enter a message.";
-
-
-// The title in the Navigation bar of the Support Responses screen.
-"supportresponses_title"                =   "Support Responses";
-
-// The Help Text used by the Support Responses screen.
-"supportresponses_help"                 =   "View your support request info in addition to any responses made our support teams.\n\nUse the message bar on the bottom to reply.";
-
-// The title text of the Send button.
-"supportresponses_send"                 =   "Send";
-
-// The placeholder text in the message bar text view.
-"supportresponses_placeholdertext"      =   "Message";
-
-
-// ============================================================================
-// MARK: Debug Menu
-// ============================================================================
-
-// The title in the Navigation bar of the Debug Menu screen.
-"debugmenu_title"                   =   "Debug Menu";
-
-// The Help Text used by the Debug Menu screen.
-"debugmenu_help"                    =   "The debug menu can be used to test various features including environment changes and APIs.";
-
-// The message shown when no device token can be displayed.
-"debugmenu_notoken"                 =   "No token available";
-
-// The warning message shown on the Debug Menu and the alert after an environment is changed.
-"debugmenu_environmentrestart"      =   "All environment changes require a full app restart.";
-
-
-// The title in the Navigation bar of the API Test Detail screen.
-"apitestdetail_title"               =   "API Detail";
-
-// The Help Text used by the API Test Detail screen.
-"apitestdetail_help"                =   "Preview a specific API request to see why it has failed.";
-
-
-// ============================================================================
-// MARK: Jeunesse Only
-// ============================================================================
-
-// The title of the My Events menu option.
-"menu_myevents"                 =   "My Events";
-
-// The title of the Admin Events menu option.
-"menu_adminevents"              =   "Admin Events";
-
-// The title of the People I Sponsor menu option.
-"menu_peoplesponsored"          =   "People I Sponsor";
-
-// The title of the Genealogy menu option.
-"menu_genealogy"                =   "Genealogy";
-
-// The title of the Enroller Tree menu option.
-"menu_enrollertree"             =   "Enroller Tree";
-
-// The title of the Add New Signup menu option.
-"menu_newsignup"                =   "Add New Signup";
-
-// The title of the Mailbox menu option.
-"menu_messages"                 =   "Mailbox";
-
-// The title of the Reports menu option.
-"menu_reports"                  =   "Reports";
-
-
-// The title of the menu section header for JOffice.
-"menu_jofficeheader"            =   "JOFFICE™";
-
-
-// ============================================================================
-// MARK: Dashboard
-// ============================================================================
-
-// The title of the JNS GPS tab.
-"dashboard_gps"                     =   "GPS";
-
-
-// ============================================================================
-// MARK: People I Sponsor
-// ============================================================================
-
-// The title in the navigation bar of the People I Sponsor screen.
-"peopleisponsor_title"                  =   "People I Sponsor";
-
-// The Help Text used by the People I Sponsor screen.
-"peopleisponsor_help"                   =   "View and contact people that you personally sponsor. Tap on a sponsor to view more details.";
-
-
-// The title in the navigation bar of the People I Sponsor Detail screen. (Replaced by sponsor displayname)
-"peopleisponsordetail_title"            =   "People I Sponsor";
-
-// The Help Text used by the People I Sponsor Detail screen.
-"peopleisponsordetail_help"             =   "View the contact info for the selected sponsor. Tap on any of the email or phone buttons to contact the sponsor.";
-
-
-// ============================================================================
-// MARK: Genealogy
-// ============================================================================
-
-// The title in the navigation bar of the Genealogy screen.
-"genealogy_title"                  =   "Genealogy";
-
-// The Help Text used by the Genealogy screen.
-"genealogy_help"                   =   "View your entire genealogy tree.";
-
-
-// ============================================================================
-// MARK: Enroller Tree
-// ============================================================================
-
-// The title in the navigation bar of the Enroller Tree screen.
-"enrollertree_title"                =   "Enroller Tree";
-
-// The Help Text used by the Enroller Tree screen.
-"enrollertree_help"                 =   "View your entire enroller tree.";
-
-
-// ============================================================================
-// MARK: Add New Signup
-// ============================================================================
-
-// The title in the navigation bar of the New Signup screen.
-"newsignup_title"                   =   "New Signup";
-
-// The Help Text used by the New Signup screen.
-"newsignup_help"                    =   "Add a new signup by entering your username/siteurl and tapping the \"Signup\" button. You will be prompted to fill out necessary signup information.";
-
-// The label text for the sponsor text field.
-"newsignup_sponsor"                 =   "Sponsor Siteurl";
-
-// The title text for the Signup button.
-"newsignup_signup"                  =   "Sign Up";
-
-// The warning message that appears when an invalid value is entered.
-"newsignup_invalidmessage"          =   "You must enter a valid username/siteurl.";
-
-
-// ============================================================================
-// MARK: Mailbox
-// ============================================================================
-
-// The title in the navigation bar of the Messages screen.
-"messages_title"            =   "Mailbox";
-
-// The Help Text used by the Messages screen.
-"messages_help"             =   "View your personal account messages.\n\nSwiping left on a message will allow you to delete the message.\n\nTap the \"Folder\" button on the bottom bar to switch between your Inbox and Trash folders.\n\nTap on a message to view its' contents.";
-
-
-// The title of the Inbox Message Folder.
-"messages_inbox"            =   "Inbox";
-
-// The title of the Trash Message Folder.
-"messages_trash"            =   "Trash";
-
-
-// ============================================================================
-// MARK: Reports
-// ============================================================================
-
-// The title in the navigation bar of the Reports List screen.
-"reportslist_title"            =   "Reports";
-
-// The Help Text used by the Reports List screen.
-"reportslist_help"             =   "View all your business reports right on your mobile device! Tap on a report to view it.";
-
-
-// The title in the navigation bar of the Report Parameters screen.
-"reportparams_title"            =   "Report Parameters";
-
-// The Help Text used by the Report Parameters screen.
-"reportparams_help"             =   "Enter and select the required parameters to generate the selected report.";
-
-// The title used by the View Reports button.
-"reportparams_viewreports"      =   "View Reports";
-
-
-// The title in the navigation bar of the Report Viewer screen.
-"reportviewer_title"            =   "Report Viewer";
-
-// The Help Text used by the Report Viewer screen.
-"reportviewer_help"             =   "View the report generated from the parameters selected previously.";
-
-
-// ============================================================================
-// MARK: My Events
-// ============================================================================
-
-// The title in the navigation bar of the My Events List screen.
-"myeventslist_title"                        =   "My Events";
-
-// The Help Text used by the My Events List screen.
-"myeventslist_help"                         =   "View a list of events for which you are registered. \n\nTap an event to view your access code to that event.";
-
-// The title used in the My Events table section.
-"myeventslist_myevents"                     =   "My Events";
-
-// The title used in the Upcoming Events table section.
-"myeventslist_upcomingevents"               =   "Upcoming Events";
-
-// The notice for not being registered for any events.
-"myeventslist_notregistered"                =   "You are not currently registered for any events.";
-
-
-// The title in the navigation bar of the My Events Detail screen. (Replaced by event name)
-"myeventsdetail_title"                      =   "My Event QRCode";
-
-// The Help Text used by the My Events Detail screen.
-"myeventsdetail_help"                       =   "This is your access QR code for the selected event. Show this to an event administrator to gain access.\n\nSometimes, there is a bad and/or no internet connection at events so it is important to download this QR code by tapping the \"Save to Camera Roll\" button.";
-
-// The Help Text used by the My Events Detail screen. (Android Only)
-"myeventsdetail_help_android"                       =   "This is your access QR code for the selected event. Show this to an event administrator to gain access.\n\nSometimes, there is a bad and/or no internet connection at events so it is important to download this QR code by tapping the \"Save to Gallery\" button.";
-
-// The title in the Save to Camera Roll button.
-"myeventsdetail_savetocameraroll"           =   "Save to Camera Roll";
-
-// The title in the Save to Gallery button. (Android Only)
-"myeventsdetail_savetogallery"              =   "Save to Gallery";
-
-// The alert text for reminding users to download an event QR Code.
-"myeventsdetail_downloadreminder"           =   "Sometimes, there is a bad and/or no internet connection at events so it is important to download this QR code by tapping the \"Save to Camera Roll\" button.";
-
-// The alert text for reminding users to download an event QR Code. (Android Only)
-"myeventsdetail_downloadreminder_android"   =   "Sometimes, there is a bad and/or no internet connection at events so it is important to download this QR code by tapping the \"Save to Gallery\" button.";
-
-// The alert text verifying a QR code was saved successfully.
-"myeventsdetail_qrcodesavesuccess"          =   "QR code saved successfully!";
-
-// The alert text notifying the user that a QR code failed to save.
-"myeventsdetail_qrcodesavefailure"          =   "QR code failed to save.";
-
-
-// ============================================================================
-// MARK: Admin Events
-// ============================================================================
-
-// The title in the navigation bar of the Admin Events List screen.
-"admineventslist_title"         =   "Admin Events";
-
-// The Help Text used by the Admin Events List screen.
-"admineventslist_help"          =   "View all upcoming events and the number of signups/registrants attending them.";
-
-// The text used to indicate the number of signups for an event.
-"admineventslist_signups"       =   "Signups";
-
-
-// The title in the navigation bar of the Admin Event Detail screen.
-"admineventdetail_title"                =   "Event Detail";
-
-// The Help Text used by the Admin Event Detail screen.
-"admineventdetail_help"                 =   "View the details of the selected event.";
-
-// The title of the total check ins label.
-"admineventdetail_totalcheckins"        =   "Total Check Ins";
-
-// The title of the total registrants label.
-"admineventdetail_totalregistrants"     =   "Total Registrants";
-
+"youtubeeditor_embedpreview" = "YouTube Embed Preview will load here. Set Video Link to preview.";
+"youtubeeditor_fewvalidation" = "You must enter a value.";
+"youtubeeditor_manyvalidation" = "The text field must have fewer letters. Current number of letters";
+"youtubeeditor_pagename" = "URL Page Name";
+"youtubeeditor_pagetitle" = "Page Title";
+"youtubeeditor_savefailure" = "Could not save campaign.";
+"youtubeeditor_savesuccess" = "Campaign saved successfully!";
+"youtubeeditor_title" = "Add/Edit Campaign";
+"youtubeeditor_videodescription" = "Video Description";
+"youtubeeditor_videolink" = "Video Link";
+"youtubeeditor_videoname" = "Video Name";
+"youtubevideos_desc" = "Share one of your own uploaded YouTube videos with lead capture capabilities.";
+"youtubevideos_title" = "YouTube Videos";
