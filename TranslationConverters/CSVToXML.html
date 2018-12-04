@@ -127,7 +127,7 @@
 				        if (!transKey) { return; }
 				        langs.forEach(function(lang, index) {
                             var text = value[lang].replace("\n", "\\n").replace("&", "&amp;");
-                            stringValues[lang] += "\n\t<string name=" + '"' + value.TranslationKey + '"' + ">" + text + "</string>";
+                            stringValues[lang] += "\n    <string name=" + '"' + value.TranslationKey + '"' + ">" + text + "</string>";
                         });
                     });
                     
