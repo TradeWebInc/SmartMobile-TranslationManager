@@ -120,7 +120,7 @@
                 if (data.data.length > 0) {
                     var langs = Object.keys(data.data[0]).filter(function(element) { return element !== "TranslationKey" });
                     var stringValues = {};
-                    langs.forEach(function(lang, index) { stringValues[lang] = "<?xml version=1.0 encoding=utf-8?>\n<resources>"; });
+                    langs.forEach(function(lang, index) { stringValues[lang] = `<?xml version="1.0" encoding="utf-8"?>\n<resources>`; });
                     
                     data.data.forEach(function(value, index) {
                         var transKey = value["TranslationKey"];
