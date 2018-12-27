@@ -75,8 +75,8 @@ class AppManager : NSObject {
             "PROD":"https://admin.smartmobiledirect.com/api/"
         ],
         "JM":[
-            "DEV":"https://jadmin2.jeunesseglobalbuild.com/api/",
-            "TEST":"https://jadmin2.jeunesseglobaltest.com/api/",
+            "DEV":"https://jadmin2.jeunesseglobaldev.com/api/",
+            "TEST":"https://jadmin2.jeunesseglobalqa.com/api/",
             "STG":"https://jadmin2.jeunesseglobalstage.com/api/",
             "PROD":"https://jadmin2.jeunesseglobal.com/api/"
         ],
