@@ -9,10 +9,10 @@
 "addlead_addsuccessful" = "Prospek telah berjaya ditambah!";
 "addlead_contactvalidation" = "Anda harus memasukkan sekurang-kurangnya satu cara untuk dihubungi (telefon atau e-mel).";
 "addlead_namevalidation" = "Anda harus memasukkan nama pertama.";
-"addsupportrequest_instructions" = "Masukkan mesej permintaan sokongan di bawah";
-"addsupportrequest_success" = "Kami telah menerima permintaan sokongan anda!";
+"addsupportrequest_instructions" = "Masukkan mesej permintaan bantuan di bawah";
+"addsupportrequest_success" = "Kami telah menerima permintaan bantuan anda!";
 "addsupportrequest_textvalidation" = "Anda harus memasukkan mesej.";
-"addsupportrequest_title" = "Permintaan Sokongan";
+"addsupportrequest_title" = "Permintaan Bantuan";
 "admineventdetail_title" = "Butiran Acara";
 "admineventdetail_totalcheckins" = "Jumlah Daftar Masuk";
 "admineventdetail_totalregistrants" = "Jumlah Pendaftar";
@@ -136,7 +136,7 @@
 "general_enddate" = "Tarikh tamat";
 "general_error" = "Ralat";
 "general_failed" = "Gagal";
-"general_filter" = "Saring";
+"general_filter" = "Tapis";
 "general_firstname" = "Nama Pertama";
 "general_forward" = "Teruskan";
 "general_hours" = "Jam";
@@ -190,7 +190,7 @@
 "general_secondphone" = "Telefon Kedua";
 "general_secs" = "saat";
 "general_seeless" = "Kecilkan";
-"general_seemore" = "Besarkan";
+"general_seemore" = "Lihat Lagi";
 "general_selectall" = "Pilih Semua";
 "general_selectpicturefrom" = "Pilih gambar daripada";
 "general_send" = "Hantar";
@@ -225,7 +225,7 @@
 "gpsdashboard_title" = "Papan Pemuka GPS";
 "groupdetails_emptygroup" = "Tiada prospek yang ditemui dalam kumpulan ini.";
 "groupdetails_removeleadsconfirm" = "Adakah anda pasti mahu menyingkirkan prospek yang dipilih daripada kumpulan ini?";
-"helpcenter_requestappsupport" = "Permintaan Sokongan App";
+"helpcenter_requestappsupport" = "Permintaan Bantuan App";
 "helpcenter_title" = "Pusat Bantuan";
 "language_select" = "Pilih Bahasa";
 "leadactions_cancelscheduledaction" = "Adakah anda pasti mahu membatalkan tindakan ini?";
@@ -251,7 +251,7 @@
 "leaddetails_nophotolibrarymessage" = "Aplikasi ini tidak dapat mengakses Galeri Foto.";
 "leaddetails_nophotolibrarytitle" = "Galeri Foto Tidak Tersedia";
 "leaddetails_notestab" = "Nota";
-"leaddetails_ongoingactions" = "Tindakan yang sedang berlangsung";
+"leaddetails_ongoingactions" = "Tindakan Berterusan";
 "leaddetails_orderstab" = "Arahan";
 "leaddetails_pathneedscontactinfo" = "Anda tidak boleh menetapkan prospek ini kepada laluan ini. Maklumat berikut adalah diperlukan";
 "leaddetails_photolibrary" = "Galeri Foto";
@@ -345,7 +345,7 @@
 "prospector_noactionsfound" = "Tiada tindakan yang disyorkan itemui. Sila semak kembali untuk mendapatkan lebih banyak saranan.";
 "prospector_norecommendedactions" = "Tiada tindakan yang disyorkan ditemui.";
 "prospector_recommendedaction" = "Tindakan yang disyorkan";
-"prospector_recommendedactions" = "Tindakan-tindakan yang disyorkan";
+"prospector_recommendedactions" = "Tindakan Saranan";
 "prospector_tryagainmessage" = "Ralat telah berlaku mengambil tindakan yang disyorkan. Sila cuba sebentar lagi.";
 "prospector_tutorialA" = "Memperkenalkan Prospector! Cara baharu untuk menguruskan prospek anda & membuat jualan!";
 "prospector_tutorialB" = "Tetapkan prospek kepada Laluan Tindakan dan kami akan mengesyorkan tindakan yang telah diuji secara industrial untuk anda ambil!";
@@ -383,11 +383,11 @@
 "smartcloud_downloading" = "Memuat turun";
 "smartcloud_removelocal" = "Singkirkan Tempatan";
 "smartcloud_title" = "SmartCloud";
-"supportrequests_title" = "Permintaan Sokongan";
-"supportresponses_title" = "Respons Sokongan";
+"supportrequests_title" = "Permintaan Bantuan";
+"supportresponses_title" = "Respons Bantuan";
 "tabname_dashboard" = "Papan Pemuka";
 "tabname_leads" = "Prospek";
-"tabname_more" = "Lebih banyak";
+"tabname_more" = "Lagi";
 "tabname_share" = "Kongsi";
 "tabname_stats" = "Statistik";
 "tos_title" = "Terma Perkhidmatan";
