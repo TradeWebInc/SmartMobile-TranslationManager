@@ -26,6 +26,8 @@
 "general_addfrom" = "Add From";
 "general_leads" = "Leads";
 "general_leadgroups" = "Lead Groups";
+"general_contacts" = "Contacts";
+"general_leadsfromcontacts" = "Selected contacts will be added as leads.";
 "general_contenttype" = "Content Type";
 "general_date" = "Date";
 "general_daterange" = "Date Range";
