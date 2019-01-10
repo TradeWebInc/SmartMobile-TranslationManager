@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>Regex Tester</title>
+	<title>Strings to CSV</title>
 	
 	<script src="papaparse.min.js"></script>
     <script src="jszip.min.js"></script>
@@ -63,34 +63,23 @@
 
 <body>
 	<div style="padding:0.5em; text-align: center;">
-		<div style="margin-bottom:0.5em; font-size:1.8em;">Translations Used in App</div>
+		<div style="margin-bottom:0.5em; font-size:1.8em;">Strings to CSV</div>
 		<div style="display:flex; flex-grow:1;">
-			<div style="padding:0.5em; flex-basis:100%; display:flex; flex-direction: column; align-items: center;">
-				<div>Xcode Keys <span id="xcodeCount"></span>: <pre>\.translation\(key:(.)*"(.*)"\)</pre></div>
-				<textarea id="xcodeContent" style="margin-bottom:1em;"></textarea>
-				
-				<div style="display:flex; justify-content: center; align-items: center;">
-					<div style="margin-right:1em;">Xcode Search Strings:</div>
-					<input id="xcodeUpload" type="file" />
-				</div>
-			</div>
 			<div style="padding:0.5em; flex-basis:100%;">
 				<div>Strings Values <span id="stringsCount"></span>: <pre>"([a-zA-Z_]+)"\s*=\s*"(.*)";</pre></div>
-				<textarea id="stringsContent" style="margin-bottom:1em;"></textarea>
-				
 				<div style="display:flex; justify-content: center; align-items: center;">
 					<div style="margin-right:1em;">Strings File:</div>
 					<input id="stringsUpload" type="file" />
 				</div>
+				<div style="margin:1em auto; height:600px; text-align:left; overflow-y:auto;">
+					<table id="processedResults" style="width:100%;"></table>
+				</div>
 			</div>
 		</div>
 		<div>
-			<div id="processButton" class="button" style="display:none;">Process</div>
 			<div id="downloadButton" class="button" style="display:none;">Download</div>
 		</div>
-		<div style="margin:1em auto; height:600px; text-align:left; overflow-y:auto;">
-			<table id="processedResults" style="width:100%;"></table>
-		</div>
+		
 		
 	</div>
 	
@@ -98,23 +87,11 @@
 
 		// Variables
 		// -----------------------------------------------------------------------------
-		var parsedKeys = [];
 		var parsedValues = {};
 		
 
 		// Event Listeners
 		// -----------------------------------------------------------------------------
-
-		// Change listener for Xcode Parser
-		var xcodeUploadElement = document.getElementById("xcodeUpload");
-		xcodeUploadElement.addEventListener("change", function() {
-			var reader = new FileReader();
-			reader.onload = function() {
-				var text = reader.result;
-				parseXcodeString(text);
-			}
-			reader.readAsText(xcodeUploadElement.files[0]);
-		});
 
 		// Change listener for Strings
 		var stringsUploadElement = document.getElementById("stringsUpload");
@@ -127,8 +104,6 @@
 			reader.readAsText(stringsUploadElement.files[0]);
 		});
 		
-		var processButtonElement = document.getElementById("processButton");
-		processButtonElement.addEventListener("click", function(element, event) { processButtonPressed(element, event); });
 
 		var downloadButtonElement = document.getElementById("downloadButton");
 		downloadButtonElement.addEventListener("click", function(element, event) { downloadButtonPressed(element, event) });
@@ -136,34 +111,16 @@
 
 		// Event Handlers
 		// -----------------------------------------------------------------------------
-		function processButtonPressed(sender, event) {
-			var tableElement = document.getElementById("processedResults");
-			while (tableElement.hasChildNodes()) { tableElement.removeChild(tableElement.lastChild); }
-
-			var tableHTML = "<tr><th>TranslationKey</th><th>en-US</th></tr>";
-
-			if (parsedKeys && parsedValues) {
-				parsedKeys.forEach(function(key, index) {
-					var text = parsedValues[key];
-					tableHTML += `<tr><td>${key}</td><td>${text}</td></tr>`;
-				});
-			}
-			tableElement.innerHTML = tableHTML;
-
-			showDownloadButton();
-		}
 
 		function downloadButtonPressed(sender, event) {
-			var stringsValue = '';
 			var csvData = [];
 			var csvKeys = {
 				"fields": ["TranslationKey", "en-US"],
 				"data": csvData
 			};
-			if (parsedKeys && parsedValues) {
-				parsedKeys.forEach(function(key, index) {
+			if (parsedValues) {
+				Object.keys(parsedValues).forEach(function(key, index) {
 					var text = parsedValues[key] || "";
-					stringsValue += `"${key}" = "${text}";\n`;
 					dataRow = [key, text];
 					csvData.push(dataRow);
 				});
@@ -171,7 +128,6 @@
 			var csvValue = Papa.unparse(csvKeys);
 
 			var zipper = new JSZip();
-			zipper.file("Localizable.strings", stringsValue);
 			zipper.file("Translations.csv", csvValue);
 			zipper.generateAsync({type:"blob"}).then(function(content) {
 				saveAs(content, "Translations.zip");
@@ -181,34 +137,12 @@
 
 		// Action Methods
 		// -----------------------------------------------------------------------------
-
-		function parseXcodeString(string) {
-			var regex = /translation\(key:(.)"([a-zA-Z_]+)"\)/g;
-			var results = string.match(regex);
-		
-			if (results && Array.isArray(results)) {
-				
-				// Parse & Sort
-				var parsedSet = new Set([]);
-				results.forEach(function(value) {
-					var parsedString = value.replace(`translation(key: "`, "").replace(`translation(key:"`, "").replace(`")`, "");
-					parsedSet.add(parsedString);
-				});
-				parsedKeys = Array.from(parsedSet);
-				parsedKeys.sort();
-				
-				var countElement = document.getElementById("xcodeCount");
-				countElement.textContent = `(${parsedKeys.length})`;
-				
-				var contentDiv = document.getElementById("xcodeContent");
-				contentDiv.value = parsedKeys.join(",\n");
-			}
-
-			if (parsedKeys && parsedValues) { showProcessButton(); }
-		}
 		
 		function parseStringsString(string) {
 			parsedValues = {};
+			var tableElement = document.getElementById("processedResults");
+			while (tableElement.hasChildNodes()) { tableElement.removeChild(tableElement.lastChild); }
+			var tableHTML = "<tr><th>TranslationKey</th><th>en-US</th></tr>";
 			var valueString = "";
 
 			var regex = /"([a-zA-Z_]+)"\s*=\s*"(.*)";/g;
@@ -216,23 +150,17 @@
 				var key = match[1];
 				var value = match[2];
 				parsedValues[key] = value;
-				valueString += `${key} = ${value},\n`;
+				tableHTML += `<tr><td>${key}</td><td>${value}</td></tr>`;
 			}
 			
 			var countElement = document.getElementById("stringsCount");
 			countElement.textContent = `(${Object.keys(parsedValues).length})`;
 			
-			var contentDiv = document.getElementById("stringsContent");
-			contentDiv.value = valueString;
+			tableElement.innerHTML = tableHTML;
 
-			if (parsedKeys && parsedValues) { showProcessButton(); }
+			if (parsedValues) { showDownloadButton(); }
 		}
 		
-		function showProcessButton() {
-			var processButtonElement = document.getElementById("processButton");
-			processButtonElement.style.display = null;
-		}
-
 		function showDownloadButton() {
 			var downloadButtonElement = document.getElementById("downloadButton");
 			downloadButtonElement.style.display = null;
