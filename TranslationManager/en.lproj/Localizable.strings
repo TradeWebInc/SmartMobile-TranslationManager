@@ -44,6 +44,8 @@
 "debugmenu_environmentrestart" = "All environment changes require a full app restart.";
 "debugmenu_title" = "Debug Menu";
 "editlead_savesuccessful" = "Lead saved successfully!";
+"editprofile_showemail" = "Show Email";
+"editprofile_showphone" = "Show Phone";
 "editprofile_title" = "Edit Profile";
 "emailcampaign_desc" = "Start your leads, device contacts, and lead groups on an expertly crafted email campaign schedule.";
 "emailcampaign_startedsuccessfully" = "Email campaign started successfully!";
@@ -131,6 +133,7 @@
 "general_devicelanguage" = "Device Language";
 "general_devicemodel" = "Device Model";
 "general_deviceos" = "Device OS";
+"general_displayname" = "Display Name";
 "general_done" = "Done";
 "general_duration" = "Duration";
 "general_edit" = "Edit";
@@ -173,6 +176,7 @@
 "general_other" = "Other";
 "general_past" = "Past";
 "general_phone" = "Phone";
+"general_phonenumber" = "Phone Number";
 "general_photolibrary" = "Photo Library";
 "general_platform" = "Platform";
 "general_postalcode" = "Postal Code";

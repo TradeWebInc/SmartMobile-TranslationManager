@@ -143,8 +143,16 @@
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProfileEditViewController.swift:        self.setTitle(title: AppManager.translation(key: "editprofile_title"));
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProfileEditViewController.swift:        self.saveButtonLinked.title = AppManager.translation(key: "general_save");
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProfileEditViewController.swift:        self.basicTitleLabelLinked.text = AppManager.translation(key: "general_basicinfo");
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProfileEditViewController.swift:        self.firstNameFieldLinked.placeholder = AppManager.translation(key: "general_firstname");
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProfileEditViewController.swift:        self.lastNameFieldLinked.placeholder = AppManager.translation(key: "general_lastname");
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProfileEditViewController.swift:        self.phoneFieldLinked.placeholder = AppManager.translation(key: "general_phonenumber");
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProfileEditViewController.swift:        self.emailFieldLinked.placeholder = AppManager.translation(key: "general_email");
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProfileEditViewController.swift:        self.editProfileImageButtonLinked.setTitle(AppManager.translation(key: "general_edit"), for: .normal);
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProfileEditViewController.swift:        self.showPhoneLabelLinked.text = AppManager.translation(key: "editprofile_showphone");
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProfileEditViewController.swift:        self.showEmailLabelLinked.text = AppManager.translation(key: "editprofile_showemail");
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProfileEditViewController.swift:        self.companyTitleLabelLinked.text = AppManager.translation(key: "general_companyinfo");
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProfileEditViewController.swift:        self.displayNameFieldLinked.placeholder = AppManager.translation(key: "general_displayname");
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProfileEditViewController.swift:        self.titleFieldLinked.placeholder = AppManager.translation(key: "general_title");
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProfileEditViewController.swift:            title: AppManager.translation(key: "general_selectpicturefrom"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProfileEditViewController.swift:            title: AppManager.translation(key: "general_photolibrary"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProfileEditViewController.swift:            title: AppManager.translation(key: "general_takepicture"),
@@ -532,12 +540,12 @@
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/MyLeadsViewController.swift:        FilterComponent(type: .multiSelect, sortType:nil, name: AppManager.translation(key: "myleads_actionpaths"), keyName: #keyPath(SMLead.isOnPath), values: [
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/MyLeadsViewController.swift:            FilterComponentValue(name: AppManager.translation(key: "myleads_onpath"), value: true, isSelected:true),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/MyLeadsViewController.swift:            FilterComponentValue(name: AppManager.translation(key: "myleads_notonpath"), value: false, isSelected:true),
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/MyLeadsViewController.swift:        self.searchBarLinked.placeholder = AppManager.translation(key: "general_search");
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/MyLeadsViewController.swift:        self.sortAndFilterButtonLinked.setTitle(AppManager.translation(key: "general_sortandfilter"), for: .normal);
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/MyLeadsViewController.swift:        self.doneButtonLinked.title = AppManager.translation(key: "general_done");
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/MyLeadsViewController.swift:        self.cancelButtonLinked.title = AppManager.translation(key: "general_cancel");
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/MyLeadsViewController.swift:        self.editButtonLinked.title = AppManager.translation(key: "general_edit");
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/MyLeadsViewController.swift:        self.emptyTableLabelLinked.text = AppManager.translation(key: "myleads_noleads");
-/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/MyLeadsViewController.swift:        self.searchBar.placeholder = AppManager.translation(key: "general_search");
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/MyLeadsViewController.swift:                let value:FilterComponentValue = FilterComponentValue(name: AppManager.translation(key: "myleads_nostatus"), value: 0, isSelected: true);
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/MyLeadsViewController.swift:            title: AppManager.translation(key: "general_settings"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/MyLeadsViewController.swift:                title: AppManager.translation(key: "myleads_addcontact"),
@@ -873,18 +881,18 @@
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathItemDetailViewController.swift:                    title: AppManager.translation(key: "general_error"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathItemDetailViewController.swift:                    message: AppManager.translation(key: "general_cantmakecalls"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathItemDetailViewController.swift:                    title: AppManager.translation(key: "general_ok"),
-/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathItemDetailViewController.swift:                    title: AppManager.translation(key: "general_error"),
-/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathItemDetailViewController.swift:                    message: AppManager.translation(key: "myleads_noleadphone"),
-/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathItemDetailViewController.swift:                    title: AppManager.translation(key: "general_ok"),
-/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathItemDetailViewController.swift:                title: AppManager.translation(key: "general_error"),
-/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathItemDetailViewController.swift:                message: AppManager.translation(key: "general_cantsendsms"),
-/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathItemDetailViewController.swift:                title: AppManager.translation(key: "general_ok"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathItemDetailViewController.swift:            title: AppManager.translation(key: "general_notice"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathItemDetailViewController.swift:            message: AppManager.translation(key: "actionitemdetail_meetingconfirm"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathItemDetailViewController.swift:                title: AppManager.translation(key: "general_no"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathItemDetailViewController.swift:                title: AppManager.translation(key: "general_yes"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathItemDetailViewController.swift:            title: AppManager.translation(key: "myleads_changestatusto"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathItemDetailViewController.swift:            title: AppManager.translation(key: "general_cancel"),
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathItemDetailViewController.swift:            title: AppManager.translation(key: "general_error"),
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathItemDetailViewController.swift:            message: AppManager.translation(key: "myleads_noleadphone"),
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathItemDetailViewController.swift:            title: AppManager.translation(key: "general_ok"),
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathItemDetailViewController.swift:            title: AppManager.translation(key: "general_error"),
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathItemDetailViewController.swift:            message: AppManager.translation(key: "general_cantsendsms"),
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathItemDetailViewController.swift:            title: AppManager.translation(key: "general_ok"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathItemDetailViewController.swift:            title: AppManager.translation(key: "general_error"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathItemDetailViewController.swift:            message: AppManager.translation(key: "myleads_noleademail"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ActionPathItemDetailViewController.swift:                title: AppManager.translation(key: "general_ok"),
@@ -999,7 +1007,7 @@
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AdminEventsViewController.swift:            title: AppManager.translation(key: "general_error"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AdminEventsViewController.swift:            message: AppManager.translation(key: "general_unknownerror") + " - \(statusCode)",
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AdminEventsViewController.swift:            title: AppManager.translation(key: "general_ok"),
-/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AdminEventsViewController.swift:        self.filterButtonLinked.setTitle("\(AppManager.translation(key: "general_filter")) (\(self.eventsData.count)) ▾", for: .normal);
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AdminEventsViewController.swift:        self.filterButtonLinked.setTitle("\(AppManager.translation(key: "general_filter")) (\(self.filteredData.count)) ▾", for: .normal);
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AdminEventsViewController.swift:                let value:FilterComponentValue = FilterComponentValue(name: AppManager.translation(key: "general_nocategory"), value: nil, isSelected: true);
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AdminEventDetailViewController.swift
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AdminEventDetailViewController.swift:        self.setTitle(title: AppManager.translation(key: "admineventdetail_title"));

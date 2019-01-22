@@ -70,6 +70,9 @@
 "tabname_stats" = "Stats";
 "tabname_more" = "More";
 
+"editprofile_showphone" = "Show Phone";
+"editprofile_showemail" = "Show Email";
+
 "myevents_title" = "My Events";
 "myevents_noevents" = "No registered events found.";
 "myevents_tickets" = "Tickets";
