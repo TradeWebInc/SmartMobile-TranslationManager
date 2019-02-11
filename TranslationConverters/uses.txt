@@ -288,6 +288,10 @@
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/MailboxViewController.swift:            else { self.deleteButtonLinked.title = AppManager.translation(key: "general_deleteall"); }
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/MailboxViewController.swift:            title: AppManager.translation(key: "general_delete"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProspectorViewController.swift
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProspectorViewController.swift:        FilterComponent(type: .sortSelect, sortType: .ascending, name: AppManager.translation(key: "myleads_sortby"), keyName: "", values:[
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProspectorViewController.swift:            FilterComponentValue(name: AppManager.translation(key: "general_firstname"), value:#keyPath(SMLeadActionInfo.firstName), isSelected:true),
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProspectorViewController.swift:            FilterComponentValue(name: AppManager.translation(key: "general_lastname"), value:#keyPath(SMLeadActionInfo.lastName)),
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProspectorViewController.swift:            FilterComponentValue(name: AppManager.translation(key: "prospector_actiondate"), value:#keyPath(SMPathActionItem.actionDate), sortTitleType:.newestOldest),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProspectorViewController.swift:        self.setTitle(title: AppManager.translation(key: "prospector_recommendedactions"));
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProspectorViewController.swift:        self.emptyTableLabelLinked.text = AppManager.translation(key: "prospector_norecommendedactions");
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProspectorViewController.swift:                self.displayUserMessageErrorAlert(userMessage: AppManager.translation(key: "leaddetails_pathneedscontactinfo") + ": " + AppManager.translation(key: "general_email"));
@@ -304,6 +308,7 @@
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProspectorViewController.swift:            title: AppManager.translation(key: "general_yes"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProspectorViewController.swift:            title: AppManager.translation(key: "general_error"),
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProspectorViewController.swift:                title: AppManager.translation(key: "general_ok"),
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProspectorViewController.swift:        self.sortButtonLinked.setTitle("\(AppManager.translation(key: "general_sort")) (\(count))", for: .normal);
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProspectorViewController.swift:            cell.detailLabelLinked.text = AppManager.translation(key: "general_upcoming") + ": " + AppManager.localeDateString(date: cellModel.actionDate!, dateStyle:.short, timeStyle: .short);
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProspectorViewController.swift:            cell.doItButtonLinked.setTitle(AppManager.translation(key: "prospector_doit"), for: .normal);
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ProspectorViewController.swift:            cell.doItButtonLinked.setTitle(AppManager.translation(key: "general_preview"), for: .normal);
@@ -1013,6 +1018,11 @@
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AdminEventDetailViewController.swift:        self.setTitle(title: AppManager.translation(key: "admineventdetail_title"));
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AdminEventDetailViewController.swift:        self.totalCheckinsNameLabelLinked.text = AppManager.translation(key: "admineventdetail_totalcheckins") + ": ";
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/AdminEventDetailViewController.swift:        self.totalRegistrantsNameLabelLinked.text = AppManager.translation(key: "admineventdetail_totalregistrants") + ": ";
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/FilterSingleSelectTableViewCell.swift
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/FilterSingleSelectTableViewCell.swift:            self.sortSegmentControlLinked.setTitle(AppManager.translation(key: "general_ascending"), forSegmentAt: 0);
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/FilterSingleSelectTableViewCell.swift:            self.sortSegmentControlLinked.setTitle(AppManager.translation(key: "general_descending"), forSegmentAt: 1);
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/FilterSingleSelectTableViewCell.swift:            self.sortSegmentControlLinked.setTitle(AppManager.translation(key: "general_newest"), forSegmentAt: 0);
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/FilterSingleSelectTableViewCell.swift:            self.sortSegmentControlLinked.setTitle(AppManager.translation(key: "general_oldest"), forSegmentAt: 1);
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/LeadsProcessView.swift
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/LeadsProcessView.swift:        self.titleLabelLinked.text = AppManager.translation(key: "general_progress");
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/LeadsProcessView.swift:        self.successfulTitleLabelLinked.text = AppManager.translation(key: "general_successful");

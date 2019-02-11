@@ -102,6 +102,7 @@
 "general_addressinfo" = "Address Information";
 "general_apply" = "Apply";
 "general_appversion" = "App Version";
+"general_ascending" = "Ascending";
 "general_back" = "Back";
 "general_basicinfo" = "Basic Information";
 "general_byemail" = "By Email";
@@ -129,6 +130,7 @@
 "general_delete" = "Delete";
 "general_deleteall" = "Delete All";
 "general_deleteselected" = "Delete Selected";
+"general_descending" = "Descending";
 "general_details" = "Details";
 "general_devicelanguage" = "Device Language";
 "general_devicemodel" = "Device Model";
@@ -158,6 +160,7 @@
 "general_location" = "Location";
 "general_message" = "Message";
 "general_moreinfo" = "More Info";
+"general_newest" = "Newest";
 "general_next" = "Next";
 "general_no" = "No";
 "general_noadditionalinfo" = "No additional information provided.";
@@ -171,6 +174,7 @@
 "general_nophotolibrarytitle" = "Photo Library Unavailable";
 "general_notice" = "Notice";
 "general_ok" = "OK";
+"general_oldest" = "Oldest";
 "general_open" = "Open";
 "general_options" = "Options";
 "general_other" = "Other";
@@ -208,6 +212,7 @@
 "general_skip" = "Skip";
 "general_sms" = "SMS";
 "general_socialmedia" = "Social Media";
+"general_sort" = "Sort";
 "general_sortandfilter" = "Sort & Filter";
 "general_startdate" = "Start Date";
 "general_state" = "State";
@@ -349,6 +354,7 @@
 "otherapps_title" = "Other Apps";
 "profile_title" = "Mobile Profile";
 "prospector_abandonpath" = "Abandon Path";
+"prospector_actiondate" = "Action Date";
 "prospector_actionpath" = "Action Path";
 "prospector_changepath" = "Change Path";
 "prospector_doit" = "Do It";

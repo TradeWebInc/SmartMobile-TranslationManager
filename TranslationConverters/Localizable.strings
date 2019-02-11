@@ -56,6 +56,12 @@
 "general_call" = "Call";
 "general_sms" = "SMS";
 "general_actions" = "Actions";
+"general_sort" = "Sort";
+"general_ascending" = "Ascending";
+"general_descending" = "Descending";
+"general_oldest" = "Oldest";
+"general_newest" = "Newest";
+
 
 "login_expiredsession" = "Your session has expired, please login again.";
 "login_myaccounts" = "My Accounts";
@@ -108,6 +114,7 @@
 "prospector_changepath" = "Change Path";
 "prospector_abandonpath" = "Abandon Path";
 "prospector_noactionsfound" = "No recommended actions found. Check back later for more recommendations.";
+"prospector_actiondate" = "Action Date";
 
 "optimisms_title" = "Optimisms";
 
