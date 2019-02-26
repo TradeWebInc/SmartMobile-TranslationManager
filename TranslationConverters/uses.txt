@@ -349,6 +349,7 @@
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/FaqViewController.swift:        self.noFAQLabelLinked.text = AppManager.translation(key: "faqs_nofaqsfound");
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ShareViewController.swift
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ShareViewController.swift:        FilterComponent(type: .singleSelect, sortType: nil, name: AppManager.translation(key: "general_language"), keyName: "CultureName", values: []),
+/Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ShareViewController.swift:        self.setTitle(title: AppManager.translation(key: "tabname_share"));
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ShareViewController.swift:        self.filterButtonLinked.setTitle("\(AppManager.translation(key: "general_filter")) ▾", for: .normal);
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ShareViewController.swift:        self.videosTitleLabelLinked.text = AppManager.translation(key: "videos_title");
 /Users/jnsdev/BitBucket/SmartMobile-iOS-4.0/SmartMobile/SmartMobile/ShareViewController.swift:        self.videosSeeMoreButtonLinked.setTitle(AppManager.translation(key: "general_seemore"), for: .normal);
