@@ -23,7 +23,9 @@
 "alerts_title" = "Alerts";
 "alerttype_general" = "General";
 "alerttype_newbadge" = "New Badge";
+"alerttype_newcontact" = "New Contact";
 "alerttype_newlead" = "New Lead";
+"alerttype_neworder" = "New Order";
 "alerttype_recommendedactions" = "Recommended Actions";
 "alerttype_supportresponse" = "Support Request Response";
 "alerttype_videoopened" = "Video Opened";
@@ -44,6 +46,7 @@
 "debugmenu_environmentrestart" = "All environment changes require a full app restart.";
 "debugmenu_title" = "Debug Menu";
 "editlead_savesuccessful" = "Lead saved successfully!";
+"editprofile_showcontactinfotooltip" = "Show or hide your contact info. This is info is used in your email signature and on the video share page.";
 "editprofile_showemail" = "Show Email";
 "editprofile_showphone" = "Show Phone";
 "editprofile_title" = "Edit Profile";
@@ -124,6 +127,7 @@
 "general_country" = "Country";
 "general_create" = "Create";
 "general_date" = "Date";
+"general_datecreated" = "Date Created";
 "general_daterange" = "Date Range";
 "general_days" = "Day(s)";
 "general_decline" = "Decline";
@@ -262,6 +266,7 @@
 "leaddetails_nophotolibrarytitle" = "Photo Library Unavailable";
 "leaddetails_notestab" = "Notes";
 "leaddetails_ongoingactions" = "Ongoing Actions";
+"leaddetails_ordernotfound" = "The order could not be found";
 "leaddetails_orderstab" = "Orders";
 "leaddetails_pathneedscontactinfo" = "You can not assign this lead to this path. The following information is needed";
 "leaddetails_photolibrary" = "Photo Library";
@@ -332,6 +337,7 @@
 "myleads_assigntoactionpath" = "Assign to Action Path";
 "myleads_changestatusto" = "Change status to";
 "myleads_deleteleadsconfirm" = "Are you sure you want to delete the selected leads?";
+"myleads_managegroups" = "Manage Groups";
 "myleads_nocontactinfo" = "No contact info available.";
 "myleads_noleademail" = "No email set for the selected lead.";
 "myleads_noleadphone" = "No phone number set for the selected lead.";
@@ -440,7 +446,6 @@
 "youtubeeditor_pagename" = "URL Page Name";
 "youtubeeditor_pagetitle" = "Page Title";
 "youtubeeditor_savefailure" = "Could not save campaign.";
-"youtubeeditor_savesuccess" = "Campaign saved successfully!";
 "youtubeeditor_title" = "Add/Edit Campaign";
 "youtubeeditor_videodescription" = "Video Description";
 "youtubeeditor_videolink" = "Video Link";

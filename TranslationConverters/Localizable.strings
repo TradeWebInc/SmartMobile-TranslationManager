@@ -33,6 +33,7 @@
 "general_daterange" = "Date Range";
 "general_startdate" = "Start Date";
 "general_enddate" = "End Date";
+"general_datecreated" = "Date Created";
 "general_other" = "Other";
 "general_socialmedia" = "Social Media";
 "general_unknown" = "Unknown";
@@ -76,6 +77,7 @@
 "tabname_stats" = "Stats";
 "tabname_more" = "More";
 
+"editprofile_showcontactinfotooltip" = "Show or hide your contact info. This is info is used in your email signature and on the video share page.";
 "editprofile_showphone" = "Show Phone";
 "editprofile_showemail" = "Show Email";
 
@@ -96,6 +98,8 @@
 "alerttype_newbadge" = "New Badge";
 "alerttype_recommendedactions" = "Recommended Actions";
 "alerttype_supportresponse" = "Support Request Response";
+"alerttype_neworder" = "New Order";
+"alerttype_newcontact" = "New Contact";
 
 
 "mailbox_title" = "Mailbox";
@@ -940,6 +944,9 @@
 
 // The message of the alert displayed when a lead can not be found.
 "leaddetails_couldnotbefound"                   =   "The lead could not be found.";
+
+// The message of the alert displayed when a lead order can not be found.
+"leaddetails_ordernotfound"                     =   "The order could not be found";
 
 // The message displayed when a lead is opted in to receive emails.
 "leaddetails_emailoptedin"                      =   "Opted in to receive emails.";
