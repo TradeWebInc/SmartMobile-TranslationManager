@@ -61,6 +61,7 @@ class AppManager : NSObject {
         ClientModel(name: "Avon Spark", tag: "AS", isActive: true),
         ClientModel(name: "PMB Pulse", tag: "PMBP", isActive: true),
         ClientModel(name: "My pawTree", tag: "MPT", isActive: true),
+        ClientModel(name: "R3Global", tag: "R3G", isActive: true),
     ];
     var environments:[EnvironmentModel] = [
         EnvironmentModel(name: "Development", tag: "DEV", isActive: false),
@@ -95,6 +96,10 @@ class AppManager : NSObject {
         "MPT":[
             "DEV":"https://pawtree.smartmobiledirectdev.com/api/",
             "PROD":"https://pawtree.smartmobiledirect.com/api/"
+        ],
+        "R3G":[
+            "DEV":"https://admin.r3globalsharedev.com/api",
+            "PROD":"https://admin.r3globalshare.com/api"
         ],
     ];
     
