@@ -94,6 +94,7 @@
 
 "alerttype_general" = "General";
 "alerttype_videoopened" = "Video Opened";
+"alerttype_emailread" = "Email Read";
 "alerttype_newlead" = "New Lead";
 "alerttype_newbadge" = "New Badge";
 "alerttype_recommendedactions" = "Recommended Actions";

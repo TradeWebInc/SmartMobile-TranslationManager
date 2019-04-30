@@ -21,6 +21,7 @@
 "alerts_newalerts" = "New Alerts";
 "alerts_previewdetailtitle" = "Alert Details";
 "alerts_title" = "Alerts";
+"alerttype_emailread" = "Email Read";
 "alerttype_general" = "General";
 "alerttype_newbadge" = "New Badge";
 "alerttype_newcontact" = "New Contact";
