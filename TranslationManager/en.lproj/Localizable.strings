@@ -148,6 +148,7 @@
 "general_email" = "Email";
 "general_enddate" = "End Date";
 "general_error" = "Error";
+"general_expiredsession" = "Your session has expired, please login again.";
 "general_failed" = "Failed";
 "general_filter" = "Filter";
 "general_firstname" = "First Name";
