@@ -3,6 +3,7 @@
 "general_retry" = "Retry";
 "general_options" = "Options";
 "general_skip" = "Skip";
+"general_alwayscopy" = "Always Copy";
 "general_category" = "Category";
 "general_nocategory" = "No Category";
 "general_learnmore" = "Learn More";
@@ -53,6 +54,7 @@
 "general_editmultiple" = "Edit Multiple";
 "general_deleteselected" = "Delete Selected";
 "general_selectall" = "Select All";
+"general_deselectall" = "Deselect All";
 "general_message" = "Message";
 "general_call" = "Call";
 "general_sms" = "SMS";
@@ -62,6 +64,10 @@
 "general_descending" = "Descending";
 "general_oldest" = "Oldest";
 "general_newest" = "Newest";
+"general_expiredsession" = "Your session has expired, please login again.";
+"general_invite" = "Invite";
+"general_pending" = "Pending";
+"general_showmemore" = "Show Me More";
 
 
 "login_expiredsession" = "Your session has expired, please login again.";
@@ -86,6 +92,22 @@
 "myevents_tickets" = "Tickets";
 "myevents_notickets" = "No tickets found.";
 "myevents_ongoingevents" = "Ongoing Events";
+
+"matrix_title" = "2x2 Matrix";
+"matrix_learnmoremessage" = "Your 2x2 matrix is looking a little empty. Start inviting leads to fill it up.";
+"matrix_tryagainmessage" = "An error occurred retrieving your 2x2 matrix. Please try again later.";
+"matrix_signedup" = "Signed Up";
+"matrix_havingissues" = "Having Issues";
+"matrix_tutorial1" = "Build a strong foundation for your business by filling out your 2x2 Matrix.";
+"matrix_tutorial2" = "Select leads and invite them to signup and join your business.";
+"matrix_tutorial3" = "You have 42 hours to sign up 2 people. Be sure to invite your best business builders. They will also have 42 hours to sign up 2 people.";
+"matrix_tutorial4" = "Once one of your leads signs up, they will fill up a circle and your matrix will grow.";
+"matrix_tutorial5" = "If for any reason you do not sign up 2 people in 42 hours, welcome to the Affiliate program.";
+"matrix_tutorial6" = "Keep track of your matrix at each level and help out where people may be having issues.";
+"matrix_tutorial7" = "This is where your 2x2 Matrix will appear. It will build and grow alongside your business!";
+"matrix_tutorial8" = "This row indicates your remaining time and direct enrollees!";
+"matrix_tutorial9" = "The Invite button will allow you to select leads and invite them to signup.";
+"matrix_tutorial10" = "If you want to see your entire 2x2 matrix, tap the See More button.";
 
 "news_title" = "News";
 "news_nonewsfound" = "No news articles found.";
@@ -201,6 +223,7 @@
 "leaddetails_scheduleareminder" = "Schedule a Reminder";
 "leaddetails_noactionpathset" = "This lead has no path set. Choose an expertly crafted path to get recommended actions.";
 "leaddetails_choosepath" = "Choose a Path";
+"leaddetails_selectphone" = "Select Phone";
 
 "leadnotes_nonotesfound" = "No notes found.";
 

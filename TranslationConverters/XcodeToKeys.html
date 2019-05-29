@@ -183,7 +183,7 @@
 		// -----------------------------------------------------------------------------
 
 		function parseXcodeString(string) {
-			var regex = /translation\(key:(.)"([a-zA-Z_]+)"\)/g;
+			var regex = /translation\(key:(.)"([a-zA-Z_0-9]+)"\)/g;
 			var results = string.match(regex);
 		
 			if (results && Array.isArray(results)) {
@@ -211,7 +211,7 @@
 			parsedValues = {};
 			var valueString = "";
 
-			var regex = /"([a-zA-Z_]+)"\s*=\s*"(.*)";/g;
+			var regex = /"([a-zA-Z_0-9]+)"\s*=\s*"(.*)";/g;
 			while (match = regex.exec(string)) {
 				var key = match[1];
 				var value = match[2];

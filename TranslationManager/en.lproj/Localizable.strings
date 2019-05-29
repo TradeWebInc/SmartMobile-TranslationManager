@@ -104,6 +104,7 @@
 "general_addfrom" = "Add From";
 "general_address" = "Address";
 "general_addressinfo" = "Address Information";
+"general_alwayscopy" = "Always Copy";
 "general_apply" = "Apply";
 "general_appversion" = "App Version";
 "general_ascending" = "Ascending";
@@ -136,6 +137,7 @@
 "general_deleteall" = "Delete All";
 "general_deleteselected" = "Delete Selected";
 "general_descending" = "Descending";
+"general_deselectall" = "Deselect All";
 "general_details" = "Details";
 "general_devicelanguage" = "Device Language";
 "general_devicemodel" = "Device Model";
@@ -156,6 +158,7 @@
 "general_hours" = "Hour(s)";
 "general_info" = "Info";
 "general_invalid" = "Invalid";
+"general_invite" = "Invite";
 "general_language" = "Language";
 "general_lastname" = "Last Name";
 "general_leadgroups" = "Lead Groups";
@@ -185,6 +188,7 @@
 "general_options" = "Options";
 "general_other" = "Other";
 "general_past" = "Past";
+"general_pending" = "Pending";
 "general_phone" = "Phone";
 "general_phonenumber" = "Phone Number";
 "general_photolibrary" = "Photo Library";
@@ -215,6 +219,7 @@
 "general_settings" = "Settings";
 "general_share" = "Share";
 "general_showme" = "Show Me";
+"general_showmemore" = "Show Me More";
 "general_skip" = "Skip";
 "general_sms" = "SMS";
 "general_socialmedia" = "Social Media";
@@ -318,6 +323,21 @@
 "managegroups_newgroup" = "New Group";
 "managegroups_newgroupname" = "New group name:";
 "managegroups_title" = "Groups";
+"matrix_havingissues" = "Having Issues";
+"matrix_learnmoremessage" = "Your 2x2 matrix is looking a little empty. Start inviting leads to fill it up.";
+"matrix_signedup" = "Signed Up";
+"matrix_title" = "2x2 Matrix";
+"matrix_tryagainmessage" = "An error occurred retrieving your 2x2 matrix. Please try again later.";
+"matrix_tutorial1" = "Build a strong foundation for your business by filling out your 2x2 Matrix.";
+"matrix_tutorial10" = "If you want to see your entire 2x2 matrix, tap the See More button.";
+"matrix_tutorial2" = "Select leads and invite them to signup and join your business.";
+"matrix_tutorial3" = "You have 42 hours to sign up 2 people. Be sure to invite your best business builders. They will also have 42 hours to sign up 2 people.";
+"matrix_tutorial4" = "Once one of your leads signs up, they will fill up a circle and your matrix will grow.";
+"matrix_tutorial5" = "If for any reason you do not sign up 2 people in 42 hours, welcome to the Affiliate program.";
+"matrix_tutorial6" = "Keep track of your matrix at each level and help out where people may be having issues.";
+"matrix_tutorial7" = "This is where your 2x2 Matrix will appear. It will build and grow alongside your business!";
+"matrix_tutorial8" = "This row indicates your remaining time and direct enrollees!";
+"matrix_tutorial9" = "The Invite button will allow you to select leads and invite them to signup.";
 "mybadges_notearned" = "You have not yet earned this badge!";
 "myevents_noevents" = "No registered events found.";
 "myevents_notickets" = "No tickets found.";
