@@ -98,8 +98,8 @@ class AppManager : NSObject {
             "PROD":"https://pawtree.smartmobiledirect.com/api/"
         ],
         "R3G":[
-            "DEV":"https://admin.r3globalsharedev.com/api",
-            "PROD":"https://admin.r3globalshare.com/api"
+            "DEV":"https://admin.r3globalsharedev.com/api/",
+            "PROD":"https://admin.r3globalshare.com/api/"
         ],
     ];
     

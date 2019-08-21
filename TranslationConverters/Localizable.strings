@@ -3,7 +3,9 @@
 "general_retry" = "Retry";
 "general_options" = "Options";
 "general_skip" = "Skip";
+"general_copy" = "Copy";
 "general_alwayscopy" = "Always Copy";
+"general_copied" = "Copied";
 "general_category" = "Category";
 "general_nocategory" = "No Category";
 "general_learnmore" = "Learn More";
@@ -53,6 +55,7 @@
 "general_sortandfilter" = "Sort & Filter";
 "general_editmultiple" = "Edit Multiple";
 "general_deleteselected" = "Delete Selected";
+"general_select" = "Select";
 "general_selectall" = "Select All";
 "general_deselectall" = "Deselect All";
 "general_message" = "Message";
@@ -68,6 +71,7 @@
 "general_invite" = "Invite";
 "general_pending" = "Pending";
 "general_showmemore" = "Show Me More";
+"general_viewprofile" = "View Profile";
 
 
 "login_expiredsession" = "Your session has expired, please login again.";
@@ -98,16 +102,38 @@
 "matrix_tryagainmessage" = "An error occurred retrieving your 2x2 matrix. Please try again later.";
 "matrix_signedup" = "Signed Up";
 "matrix_havingissues" = "Having Issues";
+"matrix_resettimer" = "Reset Timer";
+"matrix_2x2status" = "2x2 Status";
+"matrix_active" = "Active";
+"matrix_cvrequirement" = "Have 150 CV / month.";
+"matrix_autoshiprequirement" = "Have an active Autoship set up.";
+"matrix_qualified" = "Qualified";
+"matrix_qualifiedrequirement" = "Sponsor 2 Builders that are Active.";
 "matrix_tutorial1" = "Build a strong foundation for your business by filling out your 2x2 Matrix.";
 "matrix_tutorial2" = "Select leads and invite them to signup and join your business.";
 "matrix_tutorial3" = "You have 42 hours to sign up 2 people. Be sure to invite your best business builders. They will also have 42 hours to sign up 2 people.";
 "matrix_tutorial4" = "Once one of your leads signs up, they will fill up a circle and your matrix will grow.";
+"matrix_tutorial5a" = "Your circle will turn green when you become Active and Qualified.\n\nActive:\nHave 150+ CV / month and have an active Autoship set up.\n\nQualified:\nSponsor 2 Builders that are also Active.";
+"matrix_tutorial5b" = "Go Green! Your main goal is to fill your 2x2 matrix with green circles.\n\nA full green 2x2 is called a Brick. Go green 10 levels deep and you'll have a serious Block of business!";
 "matrix_tutorial5" = "If for any reason you do not sign up 2 people in 42 hours, welcome to the Affiliate program.";
 "matrix_tutorial6" = "Keep track of your matrix at each level and help out where people may be having issues.";
 "matrix_tutorial7" = "This is where your 2x2 Matrix will appear. It will build and grow alongside your business!";
 "matrix_tutorial8" = "This row indicates your remaining time and direct enrollees!";
 "matrix_tutorial9" = "The Invite button will allow you to select leads and invite them to signup.";
 "matrix_tutorial10" = "If you want to see your entire 2x2 matrix, tap the See More button.";
+
+"userstatus_status" = "User Status";
+"userstatus_highestlevel" = "Highest Level";
+"userstatus_isqualified" = "Is Qualified?";
+"userstatus_sponsorside" = "Sponsor Side";
+"userstatus_onautoship" = "On Autoship?";
+"userstatus_leftpoints" = "Left Points";
+"userstatus_rightpoints" = "Right Points";
+"userstatus_numsponsoredleft" = "# Sponsored Left";
+"userstatus_numsponsoredright" = "# Sponsored Right";
+"userstatus_numqualifiedleft" = "# Qualified Left";
+"userstatus_numqualifiedright" = "# Qualified Right";
+
 
 "news_title" = "News";
 "news_nonewsfound" = "No news articles found.";
@@ -137,6 +163,15 @@
 "prospector_tutorialA" = "Introducing Prospector! The new way to manage your leads & make the sale!";
 "prospector_tutorialB" = "Assign a lead to an Action Path and we'll recommend industry tested actions for you to take!";
 "prospector_tutorialC" = "You can view all recommended actions in one spot right on your dashboard!\n\nWe'll send you notifications too!";
+"prospector_tutorialD" = "Tap the \"Leads\" tab on the bottom bar.";
+"prospector_tutorialE" = "Tap the \"+\" button to add new leads or sync from your contacts.";
+"prospector_tutorialF" = "Tap on a lead that you'd like to assign to an Action Path";
+"prospector_tutorialG" = "Tap the \"Choose a Path\" button to assign a path to the lead. You will want to pick a path based on the lead's interests.";
+"prospector_tutorialH" = "Over time, we will recommend actions to you based on the path you chose. Recommended actions will show up here.";
+"prospector_tutorialI" = "You can take action by tapping the \"Do It\" button";
+"prospector_tutorialJ" = "Once you have leads on Action Paths, you can also view recommended actions by returning to the Dashboard. The recommended actions will be shown here.";
+"prospector_tutorialsamplepathname" = "Tutorial Action Path";
+"prospector_tutorialsampleactionname" = "Send digital pamphlet";
 "prospector_viewfullpath" = "View Full Path";
 "prospector_changepath" = "Change Path";
 "prospector_abandonpath" = "Abandon Path";
@@ -253,6 +288,11 @@
 "emailstats_datesent" = "Date Sent";
 "emailstats_dateread" = "Date Read";
 "emailstats_read" = "Read";
+"emailstats_unread" = "Unread";
+"emailstats_totalemailsread" = "Total Emails Read";
+"emailstats_emailsread" = "Emails Read";
+"emailstats_readvsunread" = "Read vs Unread";
+"emailstats_emailsbylanguage" = "Emails by Language";
 
 "videostats_title" = "Video Stats";
 "videostats_nostatsfound" = "No video stats found.";
@@ -272,6 +312,8 @@
 "videostats_watchedondesktop" = "The video was viewed on a desktop computer.";
 "videostats_watchedonmobile" = "The video was viewed on a mobile device.";
 "videostats_referraltitle" = "The video was found on the website below";
+
+"sponsorship_title" = "Sponsorship";
 
 "appstats_title" = "App Stats";
 "appstats_nostatsfound" = "No app stats found.";
@@ -798,10 +840,10 @@
 "myleads_addlead"           =     "Add Lead";
 
 // The title for the Add from Contacts option during Add Lead.
-"myleads_addcontact"        =     "Add from Contacts";
+"myleads_addcontact"        =     "From Contacts";
 
 // The title for the Add New Lead option during Add Lead.
-"myleads_addnewlead"        =     "Add New Lead";
+"myleads_addnewlead"        =     "New Lead";
 
 // The title of the alert message boxes for any Add Contact action.
 "myleads_contacts"          =     "Contacts";
