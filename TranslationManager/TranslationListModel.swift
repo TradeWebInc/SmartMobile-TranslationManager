@@ -13,7 +13,8 @@ class TranslationListModel: NSObject {
     var translations:[TranslationModel] = [];
     
     var indexLetter:String {
-        if (self.sectionName.characters.count > 0) { return String(self.sectionName.uppercased().trimmingCharacters(in: .whitespacesAndNewlines).characters.first!); }
+        let name:String = self.sectionName.trimmingCharacters(in: .whitespacesAndNewlines).uppercased();
+        if (name.isEmpty == false) { return String(name.first!); }
         return "";
     }
     

@@ -31,7 +31,7 @@ class TranslationsViewController: UIViewController {
         
         self.navigationItem.title = "Translations (\(AppManager.sharedInstance.translations.count))";
         
-        self.tableViewLinked.rowHeight = UITableViewAutomaticDimension;
+        self.tableViewLinked.rowHeight = UITableView.automaticDimension;
         self.tableViewLinked.estimatedRowHeight = 50;
         self.tableViewLinked.sectionIndexColor = UIColor(red: 1.0, green: 0.35, blue: 0, alpha: 1.0);
         

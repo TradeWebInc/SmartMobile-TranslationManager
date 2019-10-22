@@ -222,14 +222,14 @@
 					0B5E2DB81E64B11B006629C2 = {
 						CreatedOnToolsVersion = 8.2;
 						DevelopmentTeam = UL3RBMBKF2;
-						LastSwiftMigration = 0900;
+						LastSwiftMigration = 1110;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
 			buildConfigurationList = 0B5E2DB41E64B11B006629C2 /* Build configuration list for PBXProject "TranslationManager" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
@@ -263,6 +263,7 @@
 				tr,
 				uk,
 				vi,
+				Base,
 			);
 			mainGroup = 0B5E2DB01E64B11B006629C2;
 			productRefGroup = 0B5E2DBA1E64B11B006629C2 /* Products */;
@@ -475,7 +476,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.test.TranslationManager;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -489,7 +490,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.test.TranslationManager;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};

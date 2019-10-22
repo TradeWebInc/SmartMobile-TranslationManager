@@ -45,8 +45,8 @@ class ReviewViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         self.languageValuesLabelLinked.text = AppManager.sharedInstance.currentLanguage.cultureName;
-        self.clientValuesLabelLinked.text = AppManager.sharedInstance.clients.filter{$0.isActive == true}.flatMap({$0.tag}).joined(separator: ", ");
-        self.environmentValuesLabelLinked.text = AppManager.sharedInstance.environments.filter({ $0.isActive == true }).flatMap({$0.tag}).joined(separator: ", ");
+        self.clientValuesLabelLinked.text = AppManager.sharedInstance.clients.filter{$0.isActive == true}.compactMap({$0.tag}).joined(separator: ", ");
+        self.environmentValuesLabelLinked.text = AppManager.sharedInstance.environments.filter({ $0.isActive == true }).compactMap({$0.tag}).joined(separator: ", ");
         self.translationsValueLabelLinked.text = "\(AppManager.sharedInstance.translations.count)";
         
     }

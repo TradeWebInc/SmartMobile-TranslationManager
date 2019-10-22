@@ -114,7 +114,7 @@ class SettingsViewController: UIViewController {
         
         textField.placeholder = string;
         textField.leftView = view;
-        textField.leftViewMode = UITextFieldViewMode.always;
+        textField.leftViewMode = UITextField.ViewMode.always;
     }
     
 }

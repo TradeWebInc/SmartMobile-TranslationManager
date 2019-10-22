@@ -13,7 +13,8 @@ class TranslationModel: NSObject {
     var text:String = "";
     
     var indexLetter:String {
-        if (self.key.characters.count > 0) { return String(self.key.uppercased().trimmingCharacters(in: .whitespacesAndNewlines).characters.first!); }
+        let keyName:String = self.key.trimmingCharacters(in: .whitespacesAndNewlines).uppercased();
+        if (keyName.isEmpty == false) { return String(keyName.first!); }
         return "";
     }
     
