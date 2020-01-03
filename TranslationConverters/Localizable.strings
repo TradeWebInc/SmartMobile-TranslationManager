@@ -3,9 +3,12 @@
 "general_retry" = "Retry";
 "general_options" = "Options";
 "general_skip" = "Skip";
+"general_continuetodashboard" = "Continue to Dashboard";
 "general_copy" = "Copy";
 "general_alwayscopy" = "Always Copy";
 "general_copied" = "Copied";
+"general_rename" = "Rename";
+"general_clear" = "Clear";
 "general_category" = "Category";
 "general_nocategory" = "No Category";
 "general_learnmore" = "Learn More";
@@ -36,6 +39,9 @@
 "general_daterange" = "Date Range";
 "general_startdate" = "Start Date";
 "general_enddate" = "End Date";
+"general_createdafterdate" = "Created After Date";
+"general_createdbeforedate" = "Created Before Date";
+"general_selectdate" = "Select Date";
 "general_datecreated" = "Date Created";
 "general_other" = "Other";
 "general_socialmedia" = "Social Media";
@@ -149,6 +155,9 @@
 "alerttype_supportresponse" = "Support Request Response";
 "alerttype_neworder" = "New Order";
 "alerttype_newcontact" = "New Contact";
+"alerttype_leadreminder" = "Lead Reminder";
+"alerttype_corporatesample" = "Corporate Sample Ordered";
+"alerttype_personalsample" = "Personal Sample Requested";
 
 
 "mailbox_title" = "Mailbox";
@@ -177,6 +186,29 @@
 "prospector_abandonpath" = "Abandon Path";
 "prospector_noactionsfound" = "No recommended actions found. Check back later for more recommendations.";
 "prospector_actiondate" = "Action Date";
+
+
+"samplepages_samplepages" = "Sample Pages";
+"samplepages_samplepage" = "Sample Page";
+"samplepages_nosamplepagesfound" = "No sample pages found.";
+"samplepages_corporatefulfilledtitle" = "Corporate Fulfilled Samples";
+"samplepages_corporatefulfilleddesc" = "By selecting this option, sample requests generated will be fulfilled by corporate.";
+"samplepages_personallyfulfilledtitle" = "Personally Fulfilled Samples";
+"samplepages_personallyfulfilleddesc" = "By selecting this option, you will be expected to provide leads with samples from your personal inventory.";
+"samplepages_samplerequests" = "Sample Requests";
+"samplepages_samplerequest" = "Sample Request";
+"samplepages_couldnotfindsamplerequest" = "The sample request could not be found.";
+"samplepages_nonewrequests" = "You have no new sample requests";
+"samplepages_nounfulfilledrequests" = "No unfulfilled sample requests found";
+"samplepages_nofulfilledrequests" = "No fulfilled sample requests found";
+"samplepages_hasrequestedsample" = "has requested a sample";
+"samplepages_requestedon" = "Requested on";
+"samplepages_fulfilledon" = "Fulfilled on";
+"samplepages_markfulfilled" = "Mark Fulfilled";
+"samplepages_msrp" = "MSRP";
+"samplepages_unfulfilled" = "Unfulfilled";
+"samplepages_fulfilled" = "Fulfilled";
+
 
 "optimisms_title" = "Optimisms";
 
@@ -214,6 +246,7 @@
 "sharetype_emailcampaign" = "Email Campaign";
 "sharetype_corporateemail" = "Corporate Email";
 "sharetype_videoplaylist" = "Video Playlist";
+"sharetype_samplepage" = "Sample Page";
 "sharetype_basicmessage" = "Basic Message";
 "share_suggestedmessage" = "Suggested Message";
 "share_personalizemessage" = "Personalize Message";
@@ -225,6 +258,8 @@
 "share_someemailoptedout" = "One or more of the selected leads has opted out of receiving email messages.";
 "share_publishsuccessful" = "Publish was successful!";
 "share_publishfailed" = "Publish failed";
+"share_noimagesdownloaded" = "No images have been downloaded. Please try once again later.";
+"share_incompletesharecontent" = "Not all the selected content is ready to share. Do you want to share only what is ready?";
 
 "myleads_noleads" = "You don't have any leads yet. Tap the settings button above to get started adding leads!";
 "myleads_actionpaths" = "Action Paths";
@@ -318,6 +353,8 @@
 "appstats_title" = "App Stats";
 "appstats_nostatsfound" = "No app stats found.";
 
+
+"gettingstarted_title" = "Getting Started";
 "myteam_title" = "My Team";
 "backofficeweb_title" = "BackOffice Web";
 "logout_title" = "Logout";
@@ -2367,4 +2404,3 @@
 
 // The title of the total registrants label.
 "admineventdetail_totalregistrants"     =   "Total Registrants";
-
