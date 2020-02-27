@@ -228,6 +228,16 @@
 "basicmessage_title" = "Basic Message";
 "basicmessage_desc" = "Share a basic message and image to your leads or favorite social media app.";
 
+
+"videoplaylist_newplaylist" = "New Video Playlist";
+"videoplaylist_newplaylistname" = "New Video Playlist Name";
+"videoplaylist_videocount" = "videos";
+"videoplaylist_addvideos" = "Tap the \"+\" button to add videos to your playlist.";
+"videoplaylist_noplaylists" = "You have no video playlists. Tap the \"+\" button to create a playlist.";
+"videoplaylist_title" = "Video Playlists";
+"videoplaylist_emptyplaylist" = "You currently have no videos in your playlist. Add at least one video to share your playlist.";
+
+
 "shareoptions_title" = "Share Options";
 "bysms_title" = "By SMS";
 "bysms_desc" = "Send content directly with a text message. Select from leads, device contacts, and lead groups.";
@@ -1539,10 +1549,10 @@
 
 
 // The title in the navigation bar of the video playlist screen.
-"videoplaylist_title"                   =   "Video Playlist";
+"videoplaylist_title"                   =   "Video Playlists";
 
 // The alert message shown when attempting to view an empty playlist.
-"videoplaylist_emptyplaylist"           =   "You currently have no videos in your playlist. Add at least one video to view your playlist.";
+"videoplaylist_emptyplaylist"           =   "You currently have no videos in your playlist. Add at least one video to share your playlist.";
 
 // The alert message shown when attempting to add a video to a full playlist.
 "videoplaylist_fullplaylist"            =   "Your playlist is full. Please remove a video before adding another.";
