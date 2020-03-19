@@ -37,6 +37,7 @@
 "general_contenttype" = "Content Type";
 "general_date" = "Date";
 "general_daterange" = "Date Range";
+"general_dateofbirth" = "Date of Birth";
 "general_startdate" = "Start Date";
 "general_enddate" = "End Date";
 "general_createdafterdate" = "Created After Date";
@@ -78,6 +79,7 @@
 "general_pending" = "Pending";
 "general_showmemore" = "Show Me More";
 "general_viewprofile" = "View Profile";
+"general_notavailable" = "Not available";
 
 
 "login_expiredsession" = "Your session has expired, please login again.";
@@ -236,6 +238,7 @@
 "videoplaylist_noplaylists" = "You have no video playlists. Tap the \"+\" button to create a playlist.";
 "videoplaylist_title" = "Video Playlists";
 "videoplaylist_emptyplaylist" = "You currently have no videos in your playlist. Add at least one video to share your playlist.";
+"videoplaylist_videonotavailable" = "This video is not available in the current language. It will not be shown when sharing.";
 
 
 "shareoptions_title" = "Share Options";
@@ -285,6 +288,7 @@
 "myleads_notallassignedtopath" = "One or more of the selected leads are already assigned to an action path. Any progress on existing paths will be lost if a new path is assigned.";
 
 "managegroups_deletegroupsconfirm" = "Are you sure you want to delete the selected group(s)?";
+"managegroups_nogroups" = "No groups found.";
 
 "groupdetails_emptygroup" = "No leads found in this group.";
 "groupdetails_removeleadsconfirm" = "Are you sure you want to remove the selected lead(s) from this group?";

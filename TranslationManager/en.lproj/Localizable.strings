@@ -143,6 +143,7 @@
 "general_createdbeforedate" = "Created Before Date";
 "general_date" = "Date";
 "general_datecreated" = "Date Created";
+"general_dateofbirth" = "Date of Birth";
 "general_daterange" = "Date Range";
 "general_days" = "Day(s)";
 "general_decline" = "Decline";
@@ -193,6 +194,7 @@
 "general_nophone" = "No phone number available";
 "general_nophotolibrarymessage" = "The app is unable to access the Photo Library.";
 "general_nophotolibrarytitle" = "Photo Library Unavailable";
+"general_notavailable" = "Not available";
 "general_notice" = "Notice";
 "general_ok" = "OK";
 "general_oldest" = "Oldest";
@@ -338,6 +340,7 @@
 "managegroups_namevalidation" = "A group must have a name.";
 "managegroups_newgroup" = "New Group";
 "managegroups_newgroupname" = "New group name:";
+"managegroups_nogroups" = "No groups found.";
 "managegroups_title" = "Groups";
 "matrix_2x2status" = "2x2 Status";
 "matrix_active" = "Active";
@@ -443,7 +446,6 @@
 "samplepages_corporatefulfilleddesc" = "By selecting this option, sample requests generated will be fulfilled by corporate.";
 "samplepages_corporatefulfilledtitle" = "Corporate Fulfilled Samples";
 "samplepages_couldnotfindsamplerequest" = "The sample request could not be found.";
-"samplepages_fulfilled" = "Fulfilled";
 "samplepages_fulfilledon" = "Fulfilled on";
 "samplepages_hasrequestedsample" = "has requested a sample";
 "samplepages_markfulfilled" = "Mark Fulfilled";
@@ -515,6 +517,7 @@
 "videoplaylist_removefromplaylist" = "Remove from Playlist";
 "videoplaylist_title" = "Video Playlists";
 "videoplaylist_videocount" = "videos";
+"videoplaylist_videonotavailable" = "This video is not available in the current language. It will not be shown when sharing.";
 "videos_novideosfound" = "No videos found";
 "videos_title" = "Videos";
 "videostats_datewatched" = "Date Watched";
