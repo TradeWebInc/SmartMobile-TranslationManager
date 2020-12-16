@@ -1,3 +1,116 @@
+// ============================================================================
+// MARK: New CRM Translation Keys
+// ============================================================================
+
+"general_emails" = "Emails";
+"leadsandcontacts_title" = "Leads and Contacts";
+"sales_title" = "Sales";
+"orderhistory_title" = "Order History";
+"parties_title" = "Parties";
+"marketingassets_title" = "Marketing Assets";
+
+"general_description" = "Description";
+"general_enddatebeforestartdate" = "End date cannot be before start date.";
+"general_maximumdaterange" = "Maximum date range";
+"general_overview" = "Overview";
+"general_contact" = "Contact";
+"general_name" = "Name";
+"general_subject" = "Subject";
+"general_action" = "Action";
+"general_findmorefor" = "Find more for";
+"general_itemsperpage" = "Items per page";
+"general_of" = "of";
+"general_firstpage" = "First Page";
+"general_lastpage" = "Last Page";
+"general_view" = "View";
+"general_id" = "ID";
+"general_summary" = "Summary";
+"general_hi" = "Hi";
+"general_thismonth" = "This Month";
+"general_uploadphoto" = "Upload Photo";
+"general_nodatafound" = "No data found.";
+"general_zoomin" = "Zoom In";
+"general_zoomout" = "Zoom Out";
+"general_from" = "From";
+"general_to" = "To";
+"general_tier" = "Tier";
+
+
+"general_sentafterdate" = "Sent After Date";
+"general_sentbeforedate" = "Sent Before Date";
+"general_readafterdate" = "Read After Date";
+"general_readbeforedate" = "Read Before Date";
+
+
+"general_platform" = "Platform";
+"general_mobile" = "Mobile";
+"general_desktop" = "Desktop";
+
+
+"alerts_noalertsfound" = "No alerts found.";
+
+
+"reminder_reminders" = "Reminders";
+"reminder_noremindersfound" = "No reminders found.";
+
+
+"share_addleads" = "Add Leads";
+"share_addgroups" = "Add Groups";
+
+
+"emailcampaign_scheduledate" = "Schedule Date";
+"emailcampaign_startcampaign" = "Start Email Campaign";
+
+
+"emailmessages_sentsuccessfully" = "Email sent successfully!";
+
+
+"videoplaylist_totalplaytime" = "Total Playtime";
+
+
+"leaddetails_notingroup" = "This contact is not part of any groups.";
+
+
+"leadlog_nologs" = "No logs found.";
+
+
+"leadorders_ordertype" = "Order Type";
+"leadorders_source" = "Source";
+"leadorders_noordersfound" = "No orders found.";
+"leadorders_invoice" = "Invoice";
+"leadorders_recentorders" = "Recent Orders";
+"leadorders_viewallorders" = "View All Orders";
+"leadorderdetails_paymentmethods" = "Payment Methods";
+"leadorderdetails_price" = "Price";
+"leadorderdetails_shipmentnumber" = "Shipment #";
+"leadorderdetails_dateshipped" = "Date Shipped";
+"leadorderdetails_estimateddeliverydate" = "Estimated Delivery Date";
+"leadorderdetails_subtotal" = "Subtotal";
+"leadorderdetails_shippingandhandling" = "Shipping & Handling";
+"leadorderdetails_taxes" = "Taxes";
+"leadorderdetails_discount" = "Discount";
+"leadorderdetails_refund" = "Refund";
+"leadorderdetails_total" = "Total";
+
+
+"stats_totalsales" = "Total Sales";
+"stats_sales" = "Sales";
+"stats_autoshipsales" = "Autoship Sales";
+"stats_autoshipsalesabbr"= "AS Sales";
+"stats_maxorder" = "Max Order";
+"stats_abandoned" = "Abandoned";
+"stats_newleads" = "New Leads";
+"stats_newcustomers" = "New Customers";
+"stats_newdistributors" = "New Distributors";
+"stats_commissions" = "Commissions";
+"stats_topcustomer" = "Top Customer";
+"stats_salesandorders" = "Sales & Orders";
+"stats_products" = "Products";
+"stats_totalproducts" = "Total Products";
+
+
+
+
 "actionitemdetail_alreadycompleted" = "Already completed this action?";
 "actionitemdetail_meetingconfirm" = "Have you completed the meeting?";
 "actionitemdetail_pathcomplete" = "This lead has now completed their current path!";
